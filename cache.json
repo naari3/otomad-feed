@@ -1,0 +1,543 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "author": null,
+          "description": "New: When one of the sources download fails, fall back to cache and continue rest of the build.\nChore: Dependency updates\nAdded docs for Netlify deployment\nFixed #71 #69 #65\nThank you: @sokomin, @molakirlee, @philippnagel, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "publishedOn": "2022-01-10T05:25:18.000Z",
+          "wordCount": 310,
+          "title": "v1.12.0"
+        }
+      ]
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=362799",
+          "author": "Ganesh Dahal",
+          "description": "The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …\nA Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/",
+          "publishedOn": "2022-02-04T15:07:04.000Z",
+          "wordCount": 6063,
+          "title": "A Deep Introduction to WordPress Block Themes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362884",
+          "author": "Chris Coyier",
+          "description": "Pedro Santos suggests:\nUsing naming conventions such that you can learn them once and apply them everywhere\nUnidirectional data flows. Make it easy to follow the app flow.\nNo magic numbers. I’d add they are even worse in CSS\n…\nBuilding a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/building-a-newbie-friendly-codebase/",
+          "publishedOn": "2022-02-03T22:32:58.000Z",
+          "wordCount": 396,
+          "title": "Building a newbie-friendly codebase"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362578",
+          "author": "Pankaj Parashar",
+          "description": "I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …\nThe Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/thierry-koblentz-atomic-css/",
+          "publishedOn": "2022-02-03T15:24:01.000Z",
+          "wordCount": 3549,
+          "title": "The Making of Atomic CSS: An Interview With Thierry Koblentz"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362893",
+          "author": "Chris Coyier",
+          "description": "Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …\nBuilding a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/",
+          "publishedOn": "2022-02-02T21:11:55.000Z",
+          "wordCount": 381,
+          "title": "Building a Scrollable and Draggable Timeline with GSAP"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362521",
+          "author": "Taminoturoko Briggs",
+          "description": "The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an …\nUser Registration and Auth Using Firebase and React originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/user-registration-authentication-firebase-react/",
+          "publishedOn": "2022-02-02T15:42:43.000Z",
+          "wordCount": 4836,
+          "title": "User Registration and Auth Using Firebase and React"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362890",
+          "author": "Chris Coyier",
+          "description": "Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:\n“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! \n…\nThe Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/",
+          "publishedOn": "2022-02-02T01:14:18.000Z",
+          "wordCount": 982,
+          "title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362169",
+          "author": "Eric Bailey",
+          "description": "I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.\nWhen they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …\n“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/evergreen-does-not-mean-immediately-available/",
+          "publishedOn": "2022-02-01T15:38:41.000Z",
+          "wordCount": 2346,
+          "title": "“Evergreen” Does Not Mean Immediately Available"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362886",
+          "author": "Chris Coyier",
+          "description": "Maggie Appleton gets into what is perhaps the foremost metaphor the web is founded on: paper. \nPaper documents were the original metaphor for the web. […]\nThe page you’re reading this on still mimics paper. We still call it \n…\nMetaphors We Web By originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/metaphors-we-web-by/",
+          "publishedOn": "2022-02-01T00:03:57.000Z",
+          "wordCount": 692,
+          "title": "Metaphors We Web By"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362730",
+          "author": "Chris Coyier",
+          "description": "Lemme do this one quick-hits style:\nMary Lou published a quintessentially-Codrops-y demo called Alternate Column Scroll.\nThe scrolling effect is powered by Locomotive Scroll, which we’ve coincidentally covered before.\nBramus has been exploring native CSS scrolling effects \n…\nNotes on Reverse-Scrolling Columns With CSS Scroll-Timeline originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/",
+          "publishedOn": "2022-01-31T21:02:06.000Z",
+          "wordCount": 848,
+          "title": "Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362478",
+          "author": "Mamta Dalal",
+          "description": "It’s 2022. And the current relevance of TypeScript is undisputed. TypeScript has dominated the front-end developer experience by many, many accounts. By now you likely already know that TypeScript is a superset of JavaScript, building on JavaScript by adding …\nThe Relevance of TypeScript in 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/the-relevance-of-typescript-in-2022/",
+          "publishedOn": "2022-01-31T15:16:01.000Z",
+          "wordCount": 2844,
+          "title": "The Relevance of TypeScript in 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362382",
+          "author": "Silvestar Bistrović",
+          "description": "I was doing my Advent of UI Components, and I stumbled upon the from-font value for the text-decoration-thickness CSS property. I was curious about it, so I did a little research and I think what I found (and learned) …\nThe CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/from-font-value-text-decoration-thickness/",
+          "publishedOn": "2022-01-28T18:37:52.000Z",
+          "wordCount": 1068,
+          "title": "The CSS from-font Value Explained in 4 Demos"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360998",
+          "author": "Chris Coyier",
+          "description": "I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …\nGit: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/",
+          "publishedOn": "2022-01-27T23:49:45.000Z",
+          "wordCount": 1074,
+          "title": "Git: Switching Unstaged Changes to a New Branch",
+          "enclosure": {
+            "url": "https://videos.files.wordpress.com/14x0n7Mo/cli-1.mp4",
+            "length": "5992445",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "https://css-tricks.com/?p=362091",
+          "author": "Adam Rackis",
+          "description": "TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …\nDemystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/typescript-discriminated-unions/",
+          "publishedOn": "2022-01-27T15:20:57.000Z",
+          "wordCount": 2175,
+          "title": "Demystifying TypeScript Discriminated Unions"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361971",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nDesign systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …\nBuild, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/design-systems-with-backlight/",
+          "publishedOn": "2022-01-27T15:18:25.000Z",
+          "wordCount": 1287,
+          "title": "Build, Ship, & Maintain Design Systems with Backlight",
+          "enclosure": {
+            "url": "https://videos.files.wordpress.com/FY9pOfpy/cleanshot-2022-01-21-at-13.58.34-1.mp4",
+            "length": "16025569",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "https://css-tricks.com/?p=361200",
+          "author": "Chris Coyier",
+          "description": "Say you have three HTML classes, and a DOM element should only have one of them at a time:\n<div class=\"state-1\"</div<div class=\"state-2\"</div<div class=\"state-3\"</div\nNow your job is to rotate them. That is, cycle through classes …\nHow to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/cycle-through-classes-html-element/",
+          "publishedOn": "2022-01-26T19:48:49.000Z",
+          "wordCount": 1797,
+          "title": "How to Cycle Through Classes on an HTML Element"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
+          "author": "hello@smashingmagazine.com (Noam Rosenthal)",
+          "description": "In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.",
+          "link": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
+          "publishedOn": "2022-02-04T13:30:00.000Z",
+          "wordCount": 3779,
+          "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
+          "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
+          "publishedOn": "2022-02-03T12:00:00.000Z",
+          "wordCount": 2555,
+          "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
+          "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
+          "publishedOn": "2022-02-02T10:30:00.000Z",
+          "wordCount": 4508,
+          "title": "Improving JavaScript Bundle Performance With Code-Splitting",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/02/touch-design-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.",
+          "link": "https://smashingmagazine.com/2022/02/touch-design-release/",
+          "publishedOn": "2022-02-01T13:00:00.000Z",
+          "wordCount": 2331,
+          "title": "Meet “Touch Design For Mobile Interfaces”, A New Smashing Book",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9bd7979-279d-4547-8540-cb1e344cbf19/newsletter-header-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.",
+          "link": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
+          "publishedOn": "2022-01-31T09:00:00.000Z",
+          "wordCount": 2268,
+          "title": "28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
+          "author": "hello@smashingmagazine.com (Noam Rosenthal)",
+          "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
+          "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
+          "publishedOn": "2022-01-28T14:00:00.000Z",
+          "wordCount": 2156,
+          "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/software-administration-ux/",
+          "author": "hello@smashingmagazine.com (Shell Zhu & Adrian Jones)",
+          "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
+          "link": "https://smashingmagazine.com/2022/01/software-administration-ux/",
+          "publishedOn": "2022-01-26T12:00:00.000Z",
+          "wordCount": 2586,
+          "title": "Don’t Underestimate The Software Administration UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
+          "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
+          "publishedOn": "2022-01-25T13:00:00.000Z",
+          "wordCount": 2519,
+          "title": "What’s New In DevTools?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
+          "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
+          "publishedOn": "2022-01-24T11:00:00.000Z",
+          "wordCount": 4758,
+          "title": "Getting Started With CSS Cascade Layers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
+          "author": "hello@smashingmagazine.com (Javier Cuello)",
+          "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
+          "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
+          "publishedOn": "2022-01-21T14:30:00.000Z",
+          "wordCount": 5323,
+          "title": "From Chaos To System In Design Teams",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
+          "author": "hello@smashingmagazine.com (Georgii Perepecho)",
+          "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
+          "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
+          "publishedOn": "2022-01-20T14:30:00.000Z",
+          "wordCount": 5246,
+          "title": "Building The Real App With React Query",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).",
+          "link": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
+          "publishedOn": "2022-01-19T11:00:00.000Z",
+          "wordCount": 814,
+          "title": "Upcoming Online Workshops: January &ndash; May 2022",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
+          "author": "hello@smashingmagazine.com (Anton Tyschenko)",
+          "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
+          "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
+          "publishedOn": "2022-01-18T12:00:00.000Z",
+          "wordCount": 819,
+          "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
+          "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "publishedOn": "2022-01-17T13:00:00.000Z",
+          "wordCount": 4022,
+          "title": "Modern Fluid Typography Using CSS Clamp",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
+          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "publishedOn": "2022-01-14T15:00:00.000Z",
+          "wordCount": 3577,
+          "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
+          "author": "hello@smashingmagazine.com (Daniel Don)",
+          "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
+          "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
+          "publishedOn": "2022-01-13T11:30:00.000Z",
+          "wordCount": 5057,
+          "title": "Building A Web Code Editor",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
+          "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "publishedOn": "2022-01-12T10:30:00.000Z",
+          "wordCount": 3869,
+          "title": "How To Hire For Digital Accessibility Roles",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
+          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
+          "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
+          "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
+          "publishedOn": "2022-01-10T12:30:00.000Z",
+          "wordCount": 2307,
+          "title": "A Deep CSS Dive Into Radial And Conic Gradients",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
+          "author": "hello@smashingmagazine.com (Scott Himmer)",
+          "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
+          "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
+          "publishedOn": "2022-01-07T16:00:00.000Z",
+          "wordCount": 4006,
+          "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
+      "articles": [
+        {
+          "id": "61f8eea6f2ed6b06db5a9fd6",
+          "author": "Nuno Bispo",
+          "description": "Heroku is a well-known PaaS widely used by developers. And as a fun and useful project, you can easily make your own Heroku-like PaaS with Dokku. What is Heroku? Heroku is a platform as a service (PaaS) company founded in 2007. The platform runs on AWS, and its ephemeral storage",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-on-heroku-with-dokku/",
+          "publishedOn": "2022-02-04T19:01:06.000Z",
+          "wordCount": 4308,
+          "title": "How to Build Your Own Heroku with Dokku"
+        },
+        {
+          "id": "61fc2f52f2ed6b06db5ac1b7",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we will talk about arrays in Java. We will go over some examples to help you understand what an array is, how to declare them, and how to use them in your Java code. What is an array? In Java, you use an array to store multiple",
+          "link": "https://www.freecodecamp.org/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/",
+          "publishedOn": "2022-02-04T16:42:44.000Z",
+          "wordCount": 758,
+          "title": "Java Array – How to Declare and Initialize an Array in Java Example"
+        },
+        {
+          "id": "61f66e8bf2ed6b06db5a880a",
+          "author": "Sampurna Chapagain",
+          "description": "If you are a Google Chrome user, you've probably used some extensions in the browser.  Have you ever wondered how to build one yourself? In this article, I will show you how you can create a Chrome extension from scratch. Table Of Contents  * What is a Chrome",
+          "link": "https://www.freecodecamp.org/news/building-chrome-extension/",
+          "publishedOn": "2022-02-03T19:42:43.000Z",
+          "wordCount": 1219,
+          "title": "How to Create Your Own Google Chrome Extension"
+        },
+        {
+          "id": "61fc2478f2ed6b06db5ac159",
+          "author": "Beau Carnes",
+          "description": "You are just about to learn about 20 great examples of code from 20 insanely talented developers. Js13kGames is a JavaScript coding competition open to everyone and anyone wanting to try out Game Development. The 2021 winners have been announced, and you can play the games for free. As the",
+          "link": "https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/",
+          "publishedOn": "2022-02-03T19:01:19.000Z",
+          "wordCount": 550,
+          "title": "20 Award-Winning JavaScript Games – js13kGames 2021 Winners"
+        },
+        {
+          "id": "61fc1f32f2ed6b06db5ac129",
+          "author": "Beau Carnes",
+          "description": "Unreal Engine is one of the most popular game engines in use today. It can be helpful to learn if you are interested in 3D or 2D game development. We just published an Unreal Engine 5 crash course on the freeCodeCamp.org YouTube channel. Varnos Games created this course. You will",
+          "link": "https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/",
+          "publishedOn": "2022-02-03T18:38:19.000Z",
+          "wordCount": 18347,
+          "title": "Unreal Engine 5 Crash Course with Blueprint"
+        },
+        {
+          "id": "61f19aaff2ed6b06db5a5c9f",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this tutorial, we will go over commonly used HTML tags, elements, and attributes. We'll also see examples of how these tags, elements, and attributes work. You can use this article as a reference guide whether you're a beginner or experienced developer. What Makes Up an HTML Document? The following",
+          "link": "https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/",
+          "publishedOn": "2022-02-03T17:00:24.000Z",
+          "wordCount": 1675,
+          "title": "HTML Cheat Sheet – HTML Elements List Reference"
+        },
+        {
+          "id": "61fbafd8f2ed6b06db5abd39",
+          "author": "Kolade Chris",
+          "description": "If you're working on a web development project, setting a nice background color can give the website a more enticing look. To set a background color for a div or related element in CSS, you use the  background-color property. While setting this background color, your creativity is your limit",
+          "link": "https://www.freecodecamp.org/news/div-background-color-how-to-change-background-color-in-css/",
+          "publishedOn": "2022-02-03T16:50:46.000Z",
+          "wordCount": 1028,
+          "title": "Div Background Color – How to Change Background Color in CSS"
+        },
+        {
+          "id": "61ebc3d6011f893303470420",
+          "author": "Jean-Marc Möckel",
+          "description": "Two years ago, I started to learn and use React. And today I'm still using it at my day job as a Software Developer and in my own side projects. During that time I've come across a lot of \"typical\" issues. So I searched around and found some best practices",
+          "link": "https://www.freecodecamp.org/news/best-practices-for-react/",
+          "publishedOn": "2022-02-03T16:41:47.000Z",
+          "wordCount": 8167,
+          "title": "React Best Practices – Tips for Writing Better React Code in 2022"
+        },
+        {
+          "id": "61fa3eb0f2ed6b06db5aac87",
+          "author": "Kolade Chris",
+          "description": "You use the HTML <label> tag to caption form controls. <label> is an inline element – meaning it doesn't take up an entire line unless you put a break tag before it. By definition, form controls refer to the elements inside a form element. Examples of form controls include <input",
+          "link": "https://www.freecodecamp.org/news/html-label-label-tag-example/",
+          "publishedOn": "2022-02-03T16:37:47.000Z",
+          "wordCount": 709,
+          "title": "HTML Label – Label Tag Example"
+        },
+        {
+          "id": "61fa254ff2ed6b06db5aab3f",
+          "author": "Njoku Samson Ebere",
+          "description": "If you are just starting out in tech but do not know which path to take, then this article is for you. If you've started learning, but you're still confused on which programming language or tools to choose, don't worry – we'll discuss that here. And if you've ever wondered",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-in-tech/",
+          "publishedOn": "2022-02-03T16:31:30.000Z",
+          "wordCount": 2104,
+          "title": "How to Get Started in Tech"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.12.0"
+}

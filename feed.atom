@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2022-02-05T20:55:36.887Z</id>
+    <title>osmos::feed</title>
+    <updated>2022-02-05T20:55:36.887Z</updated>
+    <generator>osmosfeed 1.12.0</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Heroku with Dokku]]></title>
+        <id>61f8eea6f2ed6b06db5a9fd6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-on-heroku-with-dokku/"/>
+        <updated>2022-02-04T19:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Heroku is a well-known PaaS widely used by developers. And as a fun and useful project, you can easily make your own Heroku-like PaaS with Dokku. What is Heroku? Heroku is a platform as a service (PaaS) company founded in 2007. The platform runs on AWS, and its ephemeral storage]]></summary>
+        <author>
+            <name>Nuno Bispo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Array – How to Declare and Initialize an Array in Java Example]]></title>
+        <id>61fc2f52f2ed6b06db5ac1b7</id>
+        <link href="https://www.freecodecamp.org/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/"/>
+        <updated>2022-02-04T16:42:44.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will talk about arrays in Java. We will go over some examples to help you understand what an array is, how to declare them, and how to use them in your Java code. What is an array? In Java, you use an array to store multiple]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Introduction to WordPress Block Themes]]></title>
+        <id>https://css-tricks.com/?p=362799</id>
+        <link href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/"/>
+        <updated>2022-02-04T15:07:04.000Z</updated>
+        <summary type="html"><![CDATA[The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
+A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Web Frameworks Solve: The Vanilla Alternative (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/</id>
+        <link href="https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/"/>
+        <updated>2022-02-04T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
+        <id>https://css-tricks.com/?p=362884</id>
+        <link href="https://css-tricks.com/building-a-newbie-friendly-codebase/"/>
+        <updated>2022-02-03T22:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Santos suggests:
+Using naming conventions such that you can learn them once and apply them everywhere
+Unidirectional data flows. Make it easy to follow the app flow.
+No magic numbers. I’d add they are even worse in CSS
+…
+Building a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Your Own Google Chrome Extension]]></title>
+        <id>61f66e8bf2ed6b06db5a880a</id>
+        <link href="https://www.freecodecamp.org/news/building-chrome-extension/"/>
+        <updated>2022-02-03T19:42:43.000Z</updated>
+        <summary type="html"><![CDATA[If you are a Google Chrome user, you've probably used some extensions in the browser.  Have you ever wondered how to build one yourself? In this article, I will show you how you can create a Chrome extension from scratch. Table Of Contents  * What is a Chrome]]></summary>
+        <author>
+            <name>Sampurna Chapagain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Award-Winning JavaScript Games – js13kGames 2021 Winners]]></title>
+        <id>61fc2478f2ed6b06db5ac159</id>
+        <link href="https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/"/>
+        <updated>2022-02-03T19:01:19.000Z</updated>
+        <summary type="html"><![CDATA[You are just about to learn about 20 great examples of code from 20 insanely talented developers. Js13kGames is a JavaScript coding competition open to everyone and anyone wanting to try out Game Development. The 2021 winners have been announced, and you can play the games for free. As the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5 Crash Course with Blueprint]]></title>
+        <id>61fc1f32f2ed6b06db5ac129</id>
+        <link href="https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/"/>
+        <updated>2022-02-03T18:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine is one of the most popular game engines in use today. It can be helpful to learn if you are interested in 3D or 2D game development. We just published an Unreal Engine 5 crash course on the freeCodeCamp.org YouTube channel. Varnos Games created this course. You will]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Cheat Sheet – HTML Elements List Reference]]></title>
+        <id>61f19aaff2ed6b06db5a5c9f</id>
+        <link href="https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/"/>
+        <updated>2022-02-03T17:00:24.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will go over commonly used HTML tags, elements, and attributes. We'll also see examples of how these tags, elements, and attributes work. You can use this article as a reference guide whether you're a beginner or experienced developer. What Makes Up an HTML Document? The following]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Div Background Color – How to Change Background Color in CSS]]></title>
+        <id>61fbafd8f2ed6b06db5abd39</id>
+        <link href="https://www.freecodecamp.org/news/div-background-color-how-to-change-background-color-in-css/"/>
+        <updated>2022-02-03T16:50:46.000Z</updated>
+        <summary type="html"><![CDATA[If you're working on a web development project, setting a nice background color can give the website a more enticing look. To set a background color for a div or related element in CSS, you use the  background-color property. While setting this background color, your creativity is your limit]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Best Practices – Tips for Writing Better React Code in 2022]]></title>
+        <id>61ebc3d6011f893303470420</id>
+        <link href="https://www.freecodecamp.org/news/best-practices-for-react/"/>
+        <updated>2022-02-03T16:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago, I started to learn and use React. And today I'm still using it at my day job as a Software Developer and in my own side projects. During that time I've come across a lot of "typical" issues. So I searched around and found some best practices]]></summary>
+        <author>
+            <name>Jean-Marc Möckel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Label – Label Tag Example]]></title>
+        <id>61fa3eb0f2ed6b06db5aac87</id>
+        <link href="https://www.freecodecamp.org/news/html-label-label-tag-example/"/>
+        <updated>2022-02-03T16:37:47.000Z</updated>
+        <summary type="html"><![CDATA[You use the HTML <label> tag to caption form controls. <label> is an inline element – meaning it doesn't take up an entire line unless you put a break tag before it. By definition, form controls refer to the elements inside a form element. Examples of form controls include <input]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started in Tech]]></title>
+        <id>61fa254ff2ed6b06db5aab3f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-in-tech/"/>
+        <updated>2022-02-03T16:31:30.000Z</updated>
+        <summary type="html"><![CDATA[If you are just starting out in tech but do not know which path to take, then this article is for you. If you've started learning, but you're still confused on which programming language or tools to choose, don't worry – we'll discuss that here. And if you've ever wondered]]></summary>
+        <author>
+            <name>Njoku Samson Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Making of Atomic CSS: An Interview With Thierry Koblentz]]></title>
+        <id>https://css-tricks.com/?p=362578</id>
+        <link href="https://css-tricks.com/thierry-koblentz-atomic-css/"/>
+        <updated>2022-02-03T15:24:01.000Z</updated>
+        <summary type="html"><![CDATA[I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …
+The Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Pankaj Parashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds]]></title>
+        <id>https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/</id>
+        <link href="https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/"/>
+        <updated>2022-02-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Scrollable and Draggable Timeline with GSAP]]></title>
+        <id>https://css-tricks.com/?p=362893</id>
+        <link href="https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/"/>
+        <updated>2022-02-02T21:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …
+Building a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Registration and Auth Using Firebase and React]]></title>
+        <id>https://css-tricks.com/?p=362521</id>
+        <link href="https://css-tricks.com/user-registration-authentication-firebase-react/"/>
+        <updated>2022-02-02T15:42:43.000Z</updated>
+        <summary type="html"><![CDATA[The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an …
+User Registration and Auth Using Firebase and React originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Taminoturoko Briggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
+        <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
+        <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
+        <updated>2022-02-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Optional Chaining Operator, “Modern” Browsers, and My Mom]]></title>
+        <id>https://css-tricks.com/?p=362890</id>
+        <link href="https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/"/>
+        <updated>2022-02-02T01:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:
+“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! 
+…
+The Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Evergreen” Does Not Mean Immediately Available]]></title>
+        <id>https://css-tricks.com/?p=362169</id>
+        <link href="https://css-tricks.com/evergreen-does-not-mean-immediately-available/"/>
+        <updated>2022-02-01T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.
+When they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …
+“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Eric Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet “Touch Design For Mobile Interfaces”, A New Smashing Book]]></title>
+        <id>https://smashingmagazine.com/2022/02/touch-design-release/</id>
+        <link href="https://smashingmagazine.com/2022/02/touch-design-release/"/>
+        <updated>2022-02-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaphors We Web By]]></title>
+        <id>https://css-tricks.com/?p=362886</id>
+        <link href="https://css-tricks.com/metaphors-we-web-by/"/>
+        <updated>2022-02-01T00:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Maggie Appleton gets into what is perhaps the foremost metaphor the web is founded on: paper. 
+Paper documents were the original metaphor for the web. […]
+The page you’re reading this on still mimics paper. We still call it 
+…
+Metaphors We Web By originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline]]></title>
+        <id>https://css-tricks.com/?p=362730</id>
+        <link href="https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/"/>
+        <updated>2022-01-31T21:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Lemme do this one quick-hits style:
+Mary Lou published a quintessentially-Codrops-y demo called Alternate Column Scroll.
+The scrolling effect is powered by Locomotive Scroll, which we’ve coincidentally covered before.
+Bramus has been exploring native CSS scrolling effects 
+…
+Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Relevance of TypeScript in 2022]]></title>
+        <id>https://css-tricks.com/?p=362478</id>
+        <link href="https://css-tricks.com/the-relevance-of-typescript-in-2022/"/>
+        <updated>2022-01-31T15:16:01.000Z</updated>
+        <summary type="html"><![CDATA[It’s 2022. And the current relevance of TypeScript is undisputed. TypeScript has dominated the front-end developer experience by many, many accounts. By now you likely already know that TypeScript is a superset of JavaScript, building on JavaScript by adding …
+The Relevance of TypeScript in 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Mamta Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/</id>
+        <link href="https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/"/>
+        <updated>2022-01-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CSS from-font Value Explained in 4 Demos]]></title>
+        <id>https://css-tricks.com/?p=362382</id>
+        <link href="https://css-tricks.com/from-font-value-text-decoration-thickness/"/>
+        <updated>2022-01-28T18:37:52.000Z</updated>
+        <summary type="html"><![CDATA[I was doing my Advent of UI Components, and I stumbled upon the from-font value for the text-decoration-thickness CSS property. I was curious about it, so I did a little research and I think what I found (and learned) …
+The CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Web Frameworks Solve And How To Do Without Them (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/</id>
+        <link href="https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/"/>
+        <updated>2022-01-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git: Switching Unstaged Changes to a New Branch]]></title>
+        <id>https://css-tricks.com/?p=360998</id>
+        <link href="https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/"/>
+        <updated>2022-01-27T23:49:45.000Z</updated>
+        <summary type="html"><![CDATA[I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …
+Git: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying TypeScript Discriminated Unions]]></title>
+        <id>https://css-tricks.com/?p=362091</id>
+        <link href="https://css-tricks.com/typescript-discriminated-unions/"/>
+        <updated>2022-01-27T15:20:57.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …
+Demystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build, Ship, & Maintain Design Systems with Backlight]]></title>
+        <id>https://css-tricks.com/?p=361971</id>
+        <link href="https://css-tricks.com/design-systems-with-backlight/"/>
+        <updated>2022-01-27T15:18:25.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Design systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …
+Build, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cycle Through Classes on an HTML Element]]></title>
+        <id>https://css-tricks.com/?p=361200</id>
+        <link href="https://css-tricks.com/cycle-through-classes-html-element/"/>
+        <updated>2022-01-26T19:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Say you have three HTML classes, and a DOM element should only have one of them at a time:
+<div class="state-1"</div<div class="state-2"</div<div class="state-3"</div
+Now your job is to rotate them. That is, cycle through classes …
+How to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Underestimate The Software Administration UX]]></title>
+        <id>https://smashingmagazine.com/2022/01/software-administration-ux/</id>
+        <link href="https://smashingmagazine.com/2022/01/software-administration-ux/"/>
+        <updated>2022-01-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shell Zhu &amp; Adrian Jones)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New In DevTools?]]></title>
+        <id>https://smashingmagazine.com/2022/01/devtools-updates-2022/</id>
+        <link href="https://smashingmagazine.com/2022/01/devtools-updates-2022/"/>
+        <updated>2022-01-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With CSS Cascade Layers]]></title>
+        <id>https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/</id>
+        <link href="https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/"/>
+        <updated>2022-01-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Chaos To System In Design Teams]]></title>
+        <id>https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/</id>
+        <link href="https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/"/>
+        <updated>2022-01-21T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Javier Cuello)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building The Real App With React Query]]></title>
+        <id>https://smashingmagazine.com/2022/01/building-real-app-react-query/</id>
+        <link href="https://smashingmagazine.com/2022/01/building-real-app-react-query/"/>
+        <updated>2022-01-20T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Georgii Perepecho)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Online Workshops: January &ndash; May 2022]]></title>
+        <id>https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/</id>
+        <link href="https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/"/>
+        <updated>2022-01-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)]]></title>
+        <id>https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/</id>
+        <link href="https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/"/>
+        <updated>2022-01-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Anton Tyschenko)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Fluid Typography Using CSS Clamp]]></title>
+        <id>https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/</id>
+        <link href="https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/"/>
+        <updated>2022-01-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/</id>
+        <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/"/>
+        <updated>2022-01-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Web Code Editor]]></title>
+        <id>https://smashingmagazine.com/2022/01/building-web-code-editor/</id>
+        <link href="https://smashingmagazine.com/2022/01/building-web-code-editor/"/>
+        <updated>2022-01-13T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Don)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Hire For Digital Accessibility Roles]]></title>
+        <id>https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/</id>
+        <link href="https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/"/>
+        <updated>2022-01-12T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep CSS Dive Into Radial And Conic Gradients]]></title>
+        <id>https://smashingmagazine.com/2022/01/css-radial-conic-gradient/</id>
+        <link href="https://smashingmagazine.com/2022/01/css-radial-conic-gradient/"/>
+        <updated>2022-01-10T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.12.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0"/>
+        <updated>2022-01-10T05:25:18.000Z</updated>
+        <summary type="html"><![CDATA[New: When one of the sources download fails, fall back to cache and continue rest of the build.
+Chore: Dependency updates
+Added docs for Netlify deployment
+Fixed #71 #69 #65
+Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)]]></title>
+        <id>https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/</id>
+        <link href="https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/"/>
+        <updated>2022-01-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Scott Himmer)</name>
+        </author>
+    </entry>
+</feed>
