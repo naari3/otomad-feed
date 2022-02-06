@@ -23,12 +23,10 @@ body:
   attributes:
     label: "Blog feed URL (if possible)"
     placeholder: https://blog.example.com/feed
-  validations:
-    required: true
 - type: checkboxes
-  id: checkboxes-1
+  id: confirm
   attributes:
-    label: Checkboxes
+    label: Make sure there are no duplicates [here](https://github.com/naari3/otomad-feed/blob/main/osmosfeed.yaml)
     options:
-      - label: I've confirmed that there are no duplicates here.
+      - label: I've confirmed that there are no duplicates [here](https://github.com/naari3/otomad-feed/blob/main/osmosfeed.yaml).
         required: true
