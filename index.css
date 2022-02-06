@@ -84,6 +84,12 @@ body {
   display: grid;
 }
 
+@media all and (max-width: 480px) {
+  body {
+    padding: 0px;
+  }
+}
+
 :not(:focus-visible) {
   outline: none;
 }
@@ -177,6 +183,12 @@ body {
   border-left: 1px solid var(--accordion-content-rail-color);
 }
 
+@media all and (max-width: 480px) {
+  .article-summary-box-inner {
+    font-size: var(--font-size-s);
+  }
+}
+
 .article-reading-time {
   font-weight: 600;
 }
@@ -186,6 +198,13 @@ body {
   height: 120px;
   margin: 0 0 0 16px;
   object-fit: cover;
+}
+
+@media all and (max-width: 480px) {
+  .article-thumbnail {
+    width: 120px;
+    height: 110px;
+  }
 }
 
 footer {
