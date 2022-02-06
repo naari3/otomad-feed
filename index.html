@@ -175,6 +175,53 @@ XY以降のポケモン本編が3Dになってしまったことやジオシテ�
     </ul>
   </section>
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-02-01">2022-02-01</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">Getting Over It with Bennett Foddyの字幕をすべて記載したサイトを作った</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/02/01/184330">
+                  <div class="article-summary-box-inner">
+                    <span>Getting Over Itの字幕をすべて(全言語、全場面のものを)記載したサイトを作った。完全にネタバレありなので、未クリアの人は踏まないほうが良い。
+Getting Over It Subtitles
+↑これ。
+機能として、各Termを言語別で表示/非表示を切り替えられる。また、Termに対して雑なジャンル分けしたので表示するものを絞ることができる。
+動機としては3種類あって、以下のような感じ。
+日本語の字幕と英語で言っていることがズレているように感じることがあり、でも聞き取れるわけもないから文字起こしを頂いた上で意訳が適切なのかどうかを確かめたい
+考察のための足掛かりにしたい
+これらの文言をいつでも引用することができる状態にしたい
+日本語と英語のズレについては、おそらくプレイしたことのある人で、かつ字幕を見たことがある人なら少し感じるところがあると思う。そもそも日本語としての完成度もちょっと低いし、気になる部分は多かった。例えば、
+Maybe this is what this digital culture is.
+A monstrous mountain of trash,
+the ash-heap of creativity&#x27;s fountain.
+A landfill with everything we ever thought of in it
+Grand, infinite, and unsorted.
+
+
+が
+多分これは、このデジタル文化があるものです。
+ゴミの巨大な山、
+創造性の噴水の灰ヒープ。
+私たちが今までそれで考えるすべてのものとの埋立
+グランド無限、およびソートされていません。
+
+
+になるのは、なんというかもうちょっとうまい選択肢はあったんじゃないかと思う。みたいな、そういうもの。揚げ足取り。
+考察については単純で、ただただ列挙されているた…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-01-31">2022-01-31</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -259,6 +306,34 @@ The post クリップボードからURLを取得しyt-dlpを起動するVBScript
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">RTX 3060tiを装備したらWindowsの起動の具合が悪くなる事象が治った</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/29/184115">
+                  <div class="article-summary-box-inner">
+                    <span>1ヶ月くらい前からWindowsの調子が悪くなっていた。再起動をする度、ドットでできたサークルが永遠にループする減少に見舞われるタイプのやつ。事象的にはカーネル起動に失敗している、と見受けられるが、詳細はなにもわからん。Windowsは難しいので。自分はパソコンは基本立ち上げっぱなしの状態で過ごしているので、たまにあるWindows Updateの度に困っている、というくらいで放置し続けていた。今回、RTX 3060tiが届いたわけだけれど、こんな状態でパーツを取り替えたら何かがあった時に問題の切り分けが難しくなるだろうと思い、今日は今回その解決を試みていた。身内のSlackで修正の様子を実況していて、こんな感じだった。
+事象共有
+これに対し、@zzufが以下のように言い出した。
+エスパー
+エスパー2
+これが実際当たっていた。RTX 3060tiに置換したらふつうに再起動できるようになった。
+やったか！？
+一件が落着する様子
+心当たりはある。昨日までは750tiを使っていたのだけれど、急にディスプレイが真っ暗になる、画面がリフレッシュされなくなる、みたいな事象に何度か見舞われることがあったり、他にもグラボからカリカリと音が聞こえてきたり、主にハード面で結構な心配事があった。だけど、まさかドライバがエラーを吐いてカーネルが巻き添えを食らっていたなんて…LinuxディストロのOSを運用している人からよく聞くような挙動に見えたのでちょっとびっくりした。まあ実際にハードが悪かったのか、それともドライバを作ってる人たちがなにかをサボったのかは分からないのですが。
+ただ、最初の事象報告で挙げていたUSBあたりの問題はまだ治っていない。再起動したら毎回キーボードを抜き差ししているし、Bluetoothのマウスも4,5分待たないと使えるようにならないまま。これに関してはWindowsのイベントビューアーを確認することで具体的な原因を掴むことができるんじゃないか？ということを教えてもらった。実際にそちらを確認すると、様々なエラーが吐かれ続けていて、うわぁという気持ち。こんな感じでたくさん出ていた。
+
+まあでも新しいグラボを付けてちゃんと起動できたし、対処法になりうる何かも受け取れたし、これは一旦後回しでもいいかなあ。めでたしめでたし。</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220129/20220129175357.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/seirontea">セイロンティー</a></h3>
           <section class="articles-per-source">
             <article>
@@ -282,6 +357,28 @@ The post クリップボードからURLを取得しyt-dlpを起動するVBScript
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">オーディオインターフェースの調子が悪い</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/29/035044">
+                  <div class="article-summary-box-inner">
+                    <span>前回AIFについて記事を書いた時はFocusrite Scarlett 2i2 3rd genを使っていたが、これはルーティングの機能を持っていないため、友人に売り払った。今はそのひとつ上のグレードであり、ルーティングの機能も備えているFocusrite Scarlett 4i4 3rd genを使っている。ただ、これがちょっと曲者っぽくて、様々な問題に当たっている。
+1つ目の事象は、入力から0dbを超えた音を入れた際、AIFに再起動が走るというもの。Discordのサーバーでゲームをやっている時、リアクションで大きな声を出す場合があるが、その際によくこれに当たってしまう。事象としてはデバイスの再接続みたいになって、各所出力先を再設定する手間が増える。さらに、極稀にAIFが入出力を全く受け付けなくなることがあって、その場合はサービスマネージャーから Windows Audio Endpoint Builder を再起動してからマシン自体も再起動しなければならない。以下が検索して見つかるredditのpostだが、特に解決には至っていない様子。
+https://www.reddit.com/r/Focusrite/comments/ftj60r/4i4_gen_3_crashesrestarts_on_high_input_volume/
+https://www.reddit.com/r/Focusrite/comments/ir8wo6/scarlett_4i4_gen_3_crashes_upon_loud_volume/
+2つ目の事象は、問題の切り分けが済んでいないのだけれど、Discordで他人の画面共有を閲覧中にのみ自分の音声がクライアントに掴まれなくなるというもの。どうやらエコー除去的な挙動が間に挟まっている？らしく、redditなどでは「エコー除去をオフにしたら喋れるようになった」「ノイズ抑制(Krisp)をオンにしたら喋れるようになった」など、色々な言説がある。自分の場合は後者でどうにか喋れるようになったが、Krispがオンの状態だと笑い声が掻き消されてコミュニケーションが難しくなってしまう。USBマイクの時はこの事象にあたらなかったので、恐らくこのAIFが悪いのだろう。
+ので、買い換える必要があるのだが、これもグラボ同様あまり気にしたことのないデバイスなので乗り換え先が見つからない。DTMをやっている関係上、入出力がそれぞれ4以上あり、デバイス内でループバックの機能を持っており、そのルーティングはソフトからできればそれで充分なのだが、その上でかなりの数があるのでどれを選べばよいのかわからない。某定番機材を検討していたが、知り合いが「DirectXがデバイスを掴んでいる時でないとマイクの入力が受け付けられなくなった」と言っており、悩んでしまっている。もしかしたらAIFのドライバを書くのって難しい？おすすめがあったらおしえてください。</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/emplor_j">エンプラーJ</a></h3>
           <section class="articles-per-source">
             <article>
@@ -293,6 +390,68 @@ The post クリップボードからURLを取得しyt-dlpを起動するVBScript
 皆さん
 続きをみる</span>
                   </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-01-27">2022-01-27</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">久々に壺をやった/ナレーターについて</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/27/134226">
+                  <div class="article-summary-box-inner">
+                    <span>周りで Getting Over It with Bennett Foddy をプレイする人が出てきたので久しぶりに自分もやった。が、マウスの不調と思わしき挙動にぶち当たってしまい、良いタイムを出すことができなかった。このマウスの不調をどうにかするべきだ、と試行錯誤していたら、マウスパッドがクソほど汚くなっているせいでうまく動かなくなっていたことが判明。マウスのセンサー部分がちょうど汚れにさしかかるとカーソルの動きがガクガクになる。さっき洗濯機につっこんだので、これでうまくいけばきっと解決できる。
+Getting Over Itは製作者であるBennett Foddy自らがナレーターを勤め、プレイヤーと対話する形式のゲームなんだけど、身の回りには割とこのナレーターを切ってしまう人が多く居るらしい。僕はこれは本当に本当にもったいないことだと思っている。
+現在においてインターネット上のコンテンツはとてつもない数になっている。製作者は熾烈な競争を勝ち抜くために、既に咀嚼済みかのようなやわらかいコンテンツを生産するようになる。これにより、我々は雛鳥のように口を上に向けているだけでコンテンツの大量消費ができるようになった。どんなコンテンツも一瞬でポイできるようになってしまった。このゲームは、どうやらこのようにして産まれた弱々しいプレイヤーこと我々を苦しめるために作られたものらしい。このゲームは他のゲームとは違い、ただただ苦しく、かなり険しい。それでも挑戦するプレイヤーは存在する。有象無象のアセット群が雑に積み重なったようなステージだが、プレイヤーは挑戦していくにつれてそれに意味を付け出し、ついには険しさの伴う本物の山だと錯覚し、何度も下落しながらも、登頂のために挑戦し続ける。最後に登頂した時、それは本当に素晴らしい体験だったと錯覚するほどに。
+というようなことを、ナレーターが教えてくれる。珍しくも、自身についての解釈を自ら伝えてくれる。このゲームに対する反骨精神だけを装備してこの山を登りきるのは恐らく更なる苦痛を伴うだけだ。
+自分はこのナレーターこそがこのゲームの趣旨を決定した最も重要な要素だと思っている。単なるクソゲー/苦痛ゲーとは違うと思わせてくれたのはかなり大きい。恐らくなんだけれど、一時期この傾向のゲームが増えたのも上述したBennett Foddyに対する敬意なんじゃないかと思う。良い循環っぽい。
+というわけで、ナレーターと共に登らない選択をたいへんにもったいなく思うのだけれど、これを強要するのもなんかアレだしなぁ〜〜むずかしい。作品を押し付けたらよくないし。むずかしい。</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-01-25">2022-01-25</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">グラボを買いたい(未遂)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/25/145640">
+                  <div class="article-summary-box-inner">
+                    <span>購入した
+naari.hatenablog.com
+
+2016年頃に知り合いから3000円で譲ってもらった中古のGTX 750tiをずっと使い続けていたけど、最近それが限界に近いっぽい。最近の自分は750tiでは割にあわない計算資源の使い方をしているっぽい。かっこつけずに言うと、ゲームができない、配信もできない。
+自分はあまり3Dのアクションゲームへのプレイングスキルが高くなく、選り好みをして2Dのゲームばかりしてしまう。ゲームの性質上、2Dゲームは3Dゲームよりもグラ要求が低いことが多く、よってGTX 750tiでも充分であることが多かった。が、最近はそうもいかなくなってきており、例えば「Getting Over It」は画質「素晴らしい」だと動作が不安になってくるし、「スーパーボンバーマンRオンライン」はキャラセレ*1を筆頭にゲーム中もかなりリソースを食べる。これらのゲームをやりながらOBSで配信をするのはもはや不可能。2Dゲームもリッチに3Dモデルを動かしたりしているのでとても大変。
+このあたりの要求が常々上がっていくのはとても仕方のないことだと思っている。自分はその立場に立ったことがないので妄想の域を脱出しないけど→各プロジェクトの要求としては少しでも多くの人に遊んでもらうために、そのプロジェクトが使っても良いリソース量の上限は厳しく管理されている。常にリソースを節約することを考えながら設計/実装しているため、「本来やりたかったこと」を存分に実装することができない。コード的にも厳しいことになっていく。「日を追うごとに世間の持つリソースも少しずつ強くなっているだろう」と仮定し、年々少しずつ要求スペックも少しずつ上げることで、開発側ができることも広がっていく。←恐らくこんな感じだと思う。
+そういった現実と照らし合わせると、GTX 750tiはもう限界だと思う。新しいグラボ購入を検討する必要がある。ただ、あまりにも古いグラボから新しいグラボに乗り換える必要があるため、感覚としてどのくらいのレベルのものが必要なのかが分からない。CPUやメモリは様子を常に見ている*2ので、今後を見据えてこのくらいのものを買っとくかな〜という勘が働く。グラボについては本当にサボりすぎた。
+他にもNVENCやCUDAあたりの概念との互換性を気にしないといけなかったり、NVIDIAのグラボのみに向けられたソフトの存在だったり、気にかけなければならない部分も多い。実はかなり大変なパーツであることがよく分かる。
+まあでも結局は予算と照らし合わせるのが妥当かな、という気持ちのもと、雑にRTX 3060tiに決定しようとしている。「今後一生上がり続けるのではないか」みたいな話を聞いた後にこんな情報↓も見たし、近日購入予定。
+gigazine.net
+いろいろ書いたけど、最近はふつうに新しめの3Dのゲームもやりたい。モンハンとかいろいろ。配信もしたい。
+これ買ったらあと何年使い続けるんだろう。多分だけど買い替えはしないだろうから骨の髄までの勢いで行きたい。
+*1:おそらくキャラの切り替えをスムーズに行うために全キャラのモデルを読み込んでいるのではないかと思う　どうにかしてくれ
+*2:prometheusとgrafanaでちゃんとメトリクスを見れる状態にある</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
                 </a>
               </details>
             </article>
@@ -426,6 +585,50 @@ Amazonの役割は注文だけ
 まだ最新刊を読めていないけど、自分は有馬かな…</span>
                   </div>
                     <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaikityou/20220123/20220123232529.jpg" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">日記ってすごいかもしれん</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/23/232457">
+                  <div class="article-summary-box-inner">
+                    <span>最近はとある人のとあるブログの記事をずっと読んでいる。記事数がかなり膨大で、11年くらい前からずっと定期的な投稿が出来ているように見える。意識的なアウトプットというやつなのかな？その人はWeb系のエンジニアで、所属を意識できるような記事がたくさんあった。へー、ここにインターンに行ってる人なのか、とか、ここで働いてたんだ、とか。その所属での出来事も書いてくれていて、社員との交流だったり、登壇のことだったり、その支援だったり。今はフリーランスになって、週休3日?4日?でゆっくり暮らしているらしい。バリバリな技術記事と共に存在する個人的な記事たちをざっと追うだけでその人の10年間を追体験しているような気持ちになった。
+最近自分がブログに熱を入れているのはこの間記事にしたような言語化についての練習が主だけど、側面としては上に書いた人たちへの憧れみたいなところもあったりする*1。僕もアウトプットの方法としてのブログを大事にしていきたい。今はとても楽しいというだけで記事を書いている、もしこれが上手いこと積もっていくのなら、そのうち大きな証跡みたいになるのだろうか。そうなるといいですね。
+上に挙げた人のブログとか、そうでなくとも今からは離れた時代に書かれたような文章をインターネット上で見つけるとかなり嬉しくなるよね。その記事が残っていたというアーカイブ的な素晴らしさ、アップデートが不要なプリミティブな考え方、など。小さな身内での事件を記してくれた記事とかは傍から見る分には純粋な読み物として面白く、かつ学びがあることも多い。また、そういう人が未だに文章を書き続けているとなおさら嬉しくなる。「古から今までインターネットのおもしろを支えていたのはこの人だ」みたいな。生き証人みたいでかっこいい。もちろん「自分が深くに潜って文章を発掘したのだ！見つけた！」というdig的な気持ちもあるけど、まぁどうであれ、文章などのコンテンツは基本残ってくれているだけでとても嬉しい気がする。
+界隈の人間がなにか行動をした際に「またそういうことをしているのか、一体何度同じ問題を繰り返すのか」と後ろ指を指されている場面を見たのだけれど、そういうのって過去起きた事象を記して後世に伝えなかったその界隈にも多少の問題があるのではないかと思っている*2。そういった当事者意識を持ちたいよね～、という大きな話ではないが、記事を書くことによる副次的な部分としての、もしかしたら何かの肥やしになるのではないか？という小さな意義をほんのちょっとでも良いから感じていきたい。
+*1:さらに別の側面として、僕はみんなの文章が読みたくて、であれば表立ってまず自分が文章を書いていったほうが良いよね、という気持ちでやっている。僕よりも文章を書いている友人と話していた時にそういう感じになった。もしみんなが文章をたくさん書くようになったら嬉しいな～
+*2:もちろんこの問題は難しい前提で、そういう面もあるよね～くらいで捉えてほしいです</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">Cart Racerを2回クリアした</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/23/204039">
+                  <div class="article-summary-box-inner">
+                    <span>1回目
+友人の家でレヴュースタァライトの映画を見させていただいたあと、いろいろあってCart Racerをやることになった。僕は代わりにGetting Over Itを勧めた。
+
+あああああああ pic.twitter.com/vyedJjwuvx
+— なあり (@_naari_) 2022年1月8日
+  
+おじさんを操作して買い物の時に使うようなカートに乗り込み、設定されているゴールに向かう、というゲーム。1ステージに3つゴールが指定されていて、4ステージあった。
+この操作感がかなり独特でやばかった。だからこそのB級ゲーム*1なのだとは思うが、あまりにも大変だった。
+先程書いた「カートに乗る」がまず大変で、WASDとジャンプボタンを駆使してかごを乗っける部分にがんばって乗らないといけない。「乗る」という操作があるわけではなく、「結果として乗ってしまった」というのが正しそう。
+基本カートは坂の上に設置されており、おじさんが乗ると同時にストッパーが外れて進み始める。カートが進んでいる間はAとDで左右のハンドリングを効かせられる。が、これもまた難しく、左右にハンドルを切る度にカート自体も左右に揺れ、軸がブレる。これによってカートの滑り具合が増してしまい、とても曲がりづらくなる。さらに大きくブレると普通に横転する。
+そんな状況の中、床に設置された矢印(踏むと加速する)を経由してジャンプ台を踏み、空を飛んでゴールに到達しなければならない。勿論空中での操作は効かないので、ジャンプ台に入るまでの行動調整でこれを達成する必要がある。本当に大変だった。
+最後のステージの最後のゴールが最も大変だった。そのゴールに挑戦するまでのattempt数より、最後のゴールに費やしたattempt数の方が多かった。このステージは実際に難しいらしく、Cart Racerに慣れたプレイヤー達も声を揃えて「ここ…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
                 </a>
               </details>
             </article>
@@ -578,6 +781,101 @@ NHK主催「ベストアニメ100」にて38位になった幻の謎アニメ『
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">マクドナルドのホットチョコレートを飲んだ</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/22/000258">
+                  <div class="article-summary-box-inner">
+                    <span>一人暮らしをしてからずっとマクドナルドにお世話になっていて、公式Twitterをよく見ている。これ故、新しいメニューとかは結構すぐ気になってしまって優先的に買ったりしている。
+最近ゴディバとのコラボメニューとして、期間限定でホットチョコレートが登場した。
+www.mcdonalds.co.jp
+くっそうまそ～～～～のみて～～～～～～～～～～～～　甘い系のコラボメニューでマックカフェ専用でないもの久々に見たな、こんなのは頼むしかない、、、
+自分はフルリモートで働いているので、外に出たくないという気持ちが加速してUberEatsで頼むようにしている。が、なんとこのメニューはUberEatsでは頼むことができなかった。マックデリバリーのアプリでも注文することができなかった。どちらも、そもそもメニューの一覧に存在しない。
+
+マックのチョコのヤツまだウーバーイーツやっとらんのだが
+— なあり (@_naari_) 2022年1月19日
+  
+
+【衝撃】チョコのやつウバイツやらんらしい
+— なあり (@_naari_) 2022年1月19日
+  
+↑これはTLで聞きかじった情報
+
+なんでうーばーいーつではホットチョコやらないの
+— なあり (@_naari_) 2022年1月20日
+  
+↑悲しんでいる…
+
+マクドナルドに怒ってこようかな！
+— なあり (@_naari_) 2022年1月20日
+  
+なぜこのメニューはデリバリーの対象にならないんだ……期間限定のバーガーとかナゲット、デザートは普通に一覧に載るし、運びにくさという点を考えてもホットコーヒーが注文できる時点で問題から外しても良さそうだよな……
+そしたら商売的な方法なのだろうか、店舗に出向くしかないのか、ぐぬぬ悔しい……
+というわけで1/20の夜にマクドナルドの実店舗に向かった。しかし
+
+せっかく外に出たのに最寄りのマックきたらホットチョコ売り切れだった！！！！！！！！
+— なあり (@_naari_) 2022年1月20日
+  
+なかった…メニューには「ご好評につき終了しました」って書いてある…
+これ、そもそもお店で取り扱われていない可能性があるな、だからUberEatsでも一覧になかったのだろうか？とか思っていたけど、翌日の昼になって直接電話をしたら全くそんなことはなかった。おやつ時くらいに遅めの昼飯としてマックに向かった。
+
+うおおおおおおおおおおおおお pic.twitter.com/cDgpiV8k09
+— なあり (@_naari_) 2022年1月21日
+  
+こうして無事飲むことができました。おめでとう、よかったね
+評価
+これ、まあおいしいけど、ちょっと高くない？Sで300円、Mで400円はちょっと…
+追記
+昼に電話をするのは本当に良くないらしいです。ツイッターで怒られた。申し訳ない。</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">AGDQ2022を見た</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/21/225357">
+                  <div class="article-summary-box-inner">
+                    <span>AGDQ2022を見た。
+AGDQ2022についてのかるーい説明をする→　海外で毎年初めに行われているゲームのRTA系イベントで、1/10～1/16のあいだ、ほぼノンストップでゲームのRTAが繰り広げられる。このあいだ書いたRiJの元ネタとなったイベント。
+Japanese Restreamという公式ミラーが存在し、こちらでは日本語で解説を行ってくれる。ただ、元配信に音声を乗っける都合上、元配信側の音声はとても小さくなる。コンプレッサーの外部ソースとして日本語の音声が入っている感じ。
+解説終わり、ここからは感想
+三連休はやることがあって見れなかった。ほとんど1/11から見始めた。
+Japanese Restreamで見たり、そうでなかったりの五分五分だった。さっき書いたとおり、元ストリームのほうが音がよく聞こえるため。
+アーカイブはYouTubeチャンネルにある。日本語解説のアーカイブはこちらから
+見たかったけど見逃したやつ
+DKC2
+Megaman 2
+kirby 3
+supermonkeyball
+Crash Team Racing
+パズルボブル4
+実家にこのシリーズのゲームが複数本存在するので見てみるか～程度の気持ちで見た
+うますぎワロタ
+
+
+このゲームは壊れがなく、純粋にうまさを見ることが出来た
+
+
+このゲームは本当に難しい
+僕は難しすぎるステージについては自滅して点線のガイドを得ていたが、このレベルだと既に心眼で見えているらしくて点線があってもなくてもあまり関係ないらしい
+マップ理解やルート構築の点のうまさももちろんあるが、それよりも純粋なパズルボブルのうまさが光っていた
+WRおめでとうございます
+お誕生日もおめでとうございます
+www.youtube.com
+https://www.twitch.tv/videos/1260950431?collection&#x3D;k…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/readybug_">れでぃば</a></h3>
           <section class="articles-per-source">
             <article>
@@ -675,6 +973,23 @@ NHK主催「ベストアニメ100」にて38位になった幻の謎アニメ『
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">「コーヒー」を打ち間違えて「コーホー」になった</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/20/111807">
+                  <div class="article-summary-box-inner">
+                    <span>おもしろい</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/aun6june">aun6june</a></h3>
           <section class="articles-per-source">
             <article>
@@ -729,6 +1044,50 @@ The post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER�
   <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-01-19">2022-01-19</time></h2>
     <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">アヒルのおもちゃとかテディーベアとかと話して解決するやつ</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/20/035959">
+                  <div class="article-summary-box-inner">
+                    <span>ラバーダッグ・デバッグやテディーベア・デバッグと名付けられているコードのデバッグの手法がある。
+ja.wikipedia.org
+プログラマーがラバー・ダック（アヒルちゃん）を持ち歩きアヒルちゃんに向かってコードを1行ずつ説明することによりデバッグを行うという話が由来である。
+
+
+一見精神的にヤバいやつのように見られるが、Wikipediaには続けてこう書いてある。
+プログラマーの多くは誰かに問題を説明した経験があり、その相手はプログラミングの知識が全くないこともあり得るが、問題を説明している過程で解決策を思いつくことがある。
+目的とするコードと、実際のコードの挙動を観察して、説明することにより、その違いが明白になるのだ。
+
+
+プログラミングの未経験者に対してプログラミング特有の問題を説明する行為はあまりにもプログラマー的な傲慢さの悪いところのように思うが、それはそれとして、この行為は問題解決に対して有用になることがある。
+とある問題を他人に説明するには、様々な部分の言語化を行う必要がある。例えば、行動の目的、環境、それに対するアプローチ、実際に発生した事象、など、、、
+さらに、これらの言語化のためにはまず今の状態を客観的に捉える必要がある。主に情報収集や、なにかの物差しと比べるような行動になる気がする。
+このような段取りを踏んでいる間に自ずと問題がよく整理され、より深い理解へと繋がることで、問題が解決する事がある。「あれ？この環境に対してこのアプローチを取るには〇〇が足りてないんじゃないか？」といった具合で。
+ここまでの例ではプログラマーは人間を説明の相手に使うが、Wikipediaにもあるように↓
+無生物を用いることにより、プログラマーは、他人を煩わせることなく目的を達成できる。
+
+
+というわけでラバー製のアヒルのおもちゃやテディーベアといったものも相談相手として使用する。合理的だ、、、さすがプログラマー。
+これはなにもプログラミングに限った話ではなく、この世の問題全てにおいて適用可能なデバッグ方法だと思っている。特に、ある程度までの大きさの心の問題についてはそこそこ有効だとも思っている*1。ふわふわと頭に浮かんでいる悩み事は、その問題に対する考えの整理がうまく行っていない事が間接的な原因の場合もあり、であればその整理を行うことで解決の糸口を掴める場合がある。例えば、雑談相手に愚痴をぶつけるだけで案外気が晴れたりするものだろう。それは意図しない形で無意識的に解決している場合なのかもしれない。
+個人的な経験としても結構役立っている。バグを潰している時に作業通話の相手になっていた人に説明を試むことで明確な問題点を発見できたり*2、ツイキャスでさいきんの悩みを喋っていたら実は簡単な解決方法があることに気づいたり*3、ブログの記事として数ヶ月間くらい問題になっていたことをそのまま書いていたら実は解決可能であることが分かったり*4……そういえば、一時期カウンセリングに通っていたときもよくこういう体験あったなあ
+これは他人の例だが、よくお世話になっているDiscordサーバー内の通話チャンネルで、「最近どのサーバーでもほとんど喋ろうとしてなかった」と言う人が珍しく参加しており、さらに他の参加者に対して相談事をしていた。実際に「相談をした」というだけで本人の負担が少なくなったらしい(程度はわからんけど)。
+本人はドツボにはまっているが、他の人から見たら解決方法が明確だった、という場合はそこそこあると思うが、その理由はきっとこのようなものなんだと思う。また、そのような説明を受けた時、相談した側も既に解決しているかもしれない。
+言語化は案外めんどくさいことで、頭の中のコストをそれなりに消費する。その理由の大きな部分が上述してきた問題の整理にあると思う。話し相手というのは、この良いとっかかりとなってくれるのだと思う。多分、仲の良い人とはそこそこ積極的に雑談をしたほうが良いのだろう。
+*1:一応断っておくと、もちろんこんなことでは解決できない問題というのもある。それは多分大きな問題なので、もうちょっと大枠から考慮したほうが良いと思う。
+*2:よくある話
+*3:このあいだのアニメの話
+*4:このあいだのMODの話</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/hacocone">はここれ</a></h3>
@@ -1697,6 +2056,58 @@ note.com
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">公開できるmodを初めて作ったので大変だったところを書いておく</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/15/015043">
+                  <div class="article-summary-box-inner">
+                    <span>昨日、自作のmodについてのうすい記事を書いた。
+naari.hatenablog.com
+このmodを公開するに至って大変だったことをつらつらとかきます
+fabricのMixinやInjectsの概念についてのドキュメントが少なすぎる
+検索して出る情報が少なすぎる
+村人のgetOffers()を叩くだけだとダメ
+用語: MerchantEntity について
+通信の流れ
+擬似的に右クリックする
+画面上になにかを描画するのが難しい
+1.18になって何故か引数の順番が変わっててワロタ
+modをCurseForgeにpublishする方法
+CurseForge上にプロジェクトを作成する必要があった
+GitHub Actions を利用して公開する
+これも人様の実装を参考にする
+itsmeow/curseforge-upload を使用してCurseForgeに生成物をアップロードする
+game_version がすごく難しい
+人のmodがオープンソースじゃなくて悲しい
+Configを実装しなければならない
+まとめ
+fabricのMixinやInjectsの概念についてのドキュメントが少なすぎる
+fabricにはMixinや、Injectsという概念がある。これは元々のMinecraftのコードに自分の好きな挙動を差し込むことができる。
+たとえば以下のようなコードがあった場合、
+class Example {
+  void blah() {
+    System.out.println(&quot;hogefuga&quot;);
+  }
+}
+
+
+
+以下のようなコードを書くことができる。
+@Mixin(Example.class)
+abstract class ExampleMixin {
+  @Inject(at &#x3D; @At(&quot;HEAD&quot;), method &#x3D; &quot;blah&quot;)
+  void yo(…</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220115/20220115003628.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/ebideath">えびです</a></h3>
           <section class="articles-per-source">
             <article>
@@ -1921,6 +2332,96 @@ drive.google.com
     </ul>
   </section>
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-01-13">2022-01-13</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">村人の取引内容をHUDで表示できるmodを作った OffersHUD</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/14/055947">
+                  <div class="article-summary-box-inner">
+                    <span>OffersHUD
+最初と最後にダウンロードリンクを貼っておきます。
+CurseForge か GitHub からダウンロード出来ます。ぜひ
+https://www.curseforge.com/minecraft/mc-mods/offershud
+github.com
+つくったよ
+村人(など)にフォーカスを当てるだけで何を取り引きできるのか左上に出てくるようになるmodをつくった。
+
+動機としては司書の厳選が主で、狙いのエンチャが出るまでやらなければならないこの作業をかなり簡略化出来るのではないかと思って作り始めた。
+これは便利
+まだexperimental版ということもあって、機能の切り替えとかGUIの位置調整とかそういう設定機能はひとつもない。僕の今後に期待。
+今の所はfabricの 1.17.1, 1.18.1 に対してjarファイルをビルドしていて、つまり 1.17.1, 1.18, 1.18.1 がこのmodを使えることになるはず。
+もし気になったら使ってみてください。バグがあったら必ず僕に教えて下さい。最悪条件とかが分からなくても良いので。お願いします。
+既知の問題
+GitHubのissues が最新の状況。今のところは
+英雄とかいろいろで価格の変動があった時、その価格がうまいこと反映されない
+メニューがない　設定が弄れない
+InventoryHUD+ のポーション表示モードとバッティングしてこのmodのそれが表示されない
+
+
+まあ仕方ない節はあるけど
+大変だった
+「ほんのちょっとだけどmoddingやったことあるし、開発のための環境構築が出来たんだから余裕で作れるでしょ。たぶんVillagerEntityに取引一覧を取得するためのメソッドも生えてるだろうし。」と思って取り組んだが、実はそんなに簡単じゃなかった。
+村人に対して右クリックをすると、サーバーに対して「私はこのエンティティに右クリックをした」という趣旨を伝えるリクエストが流れるが、それに対するレスポンスこそが信頼できる取引一覧であって、それを上手く掴む必要があった。
+↑この一文だけで詳しい人なら「あーパケットを掴まないといけないのね」みたいな勘が働いて理解できるだろうし、開発→公開までの苦労についてはまた別の記事にしようかな。→した。
+naari.hatenablog.com
+きになったらこちらから
+CurseForge か GitHub からダウンロード出来ます。ぜひ
+https://www.curseforge.com/minecraft/mc-mods/offershud
+github.com</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220114/20220114053941.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">きゅうりが本当にうまい</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/14/045619">
+                  <div class="article-summary-box-inner">
+                    <span>きゅうりまとめ
+昨日きゅうりをたべた
+
+
+洗って
+上下のヘタを切って
+まるかじり
+九州のおじいちゃんが母親への仕送りとしてくれることが多々あり、その中に入っているきゅうりが大好きだった
+
+
+おじいちゃんは農家でスーパーを介さずに仕入れられたきゅうりをもらってた
+形は不揃いだが、スーパーで買うものよりもうまかった記憶がある
+このまえ見つけた近所の肉の直売所に立ち寄った際、ついでに野菜を買った
+
+
+この野菜が東北の農家さんが直接持ってきたくれた野菜だった
+つまりこれもスーパーを介さずに仕入れられたきゅうり
+おじいちゃんの作ったきゅうりと同じような味でとてもよかった
+
+
+これがオーガニックの味…
+やっぱりスーパーに並ぶやつは農薬とかそういう味になるのだろうか
+マヨネーズとか塩とかをかけてもいいけど、そのままもうまいのだ
+なので、ヘタの部分だけ切り落としてしまえばいつでも食える
+
+
+最強の料理
+最高～
+以上です。</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-01-12">2022-01-12</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -1965,6 +2466,63 @@ drive.google.com
   <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-01-11">2022-01-11</time></h2>
     <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">GitHubで &#x60;git://&#x60; が使えなくなったので &#x60;https://&#x60; などに置き換える必要があった</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/11/140137">
+                  <div class="article-summary-box-inner">
+                    <span>tl;dr
+git:// がGitHubで使えなくなった
+git:// の変わりに https:// を使うようにした
+パブリックなリポジトリ以外に対しての変更の可能性もある
+The unauthenticated git protocol on port 9418 is no longer supported.
+今朝からRubyのアプリをビルドするジョブが以下のようなエラーを吐くようになった。
+Fetching git://github.com/sinatra/sinatra.git
+fatal: remote error: 
+  The unauthenticated git protocol on port 9418 is no longer supported.
+Please see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.
+既に趣旨を伝えるエラーの文言が見えるが、念の為に手元のマシンでも試してみる。
+$ git clone git://github.com/sinatra/sinatra.git
+Cloning into &#x27;sinatra&#x27;...
+fatal: remote error:
+  The unauthenticated git protocol on port 9418 is no longer supported.
+Please see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.
+同じ結果だった。
+原因としては GitHub が git プロトコルを明示的に使えないようにしたため。
+github.blog
+No more unauthenticated Git
+On the Git protocol side, unencrypted git:// offers no integrity or authentication, making it subject to tampering. We expect very few people are still using this protocol, especially given that you can’t push (it’s read-only on GitHub). We’ll be disabling support for this protocol.
+
+
+まだ使っていてすまん…使うのやめます…
+ということで、置き換えることにした。
+https:// に置き換える
+まず、現状の手順で最小の変更手数になりそうな「ジョブランナー側を変更する」を検討した。unencrypted な git プロトコルと記述があったので、もしかして暗号化される git プロトコルも存在するのでは？と軽く調査したが、見る限りでは見当たらなかった。そのため、各個別の git:// を使用している箇所について対応をする方針で進める。
+今回はpublicなリポジトリに対してのcloneの操作だったので、特に考えることもなく https:// に置き換えることで対応完了とした。
+今回の場合、gitプロトコル経由でリポジトリを取得しているのはGemfile経由のbundle installだったので、Gemfileの先頭あたりに以下の行を追加した。
+git_source(:github) { |repo| &quot;https://github.com/#{repo}.git&quot; }
+
+
+
+その他にも
+先程のgithubのblog曰く、sshのプロトコルかつ鍵経由でやり取りをしている場合であっても古いタイプの鍵を使っている場合は影響を受けるらしい。
+今回の削除方向の変更は具体的には以下の通り。
+DSA keyの対応をすべて削除
+-RSA keys)を使っている場合、SHA-2の署名を使う必要があるように変更
+SSHのアルゴリズムでHMAC-SHA-1と全てのCBCの対応を削除
+もし上記に当てはまる場合は以下の項目を参考にしたほうが良さそう。
+https://github.blog/2021-09-01-improving-git-protocol-security-github/#how-do-i-prepare</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/sehatakuro">瀬畑 黒</a></h3>
@@ -2060,6 +2618,30 @@ drive.google.com
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">【ネタバレなし】レヴュースタァライトのアニメと総集編と映画を見た</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/10/060940">
+                  <div class="article-summary-box-inner">
+                    <span>やべ～～～～～～～～すげ～～～～～～～～
+全部がメタファーすぎ
+自分ごとになってしまいすぎ
+曲すご 曲凄すぎ
+恐ろしい
+すげー綺麗に締まったな
+超良かった～
+これは余談で、モニタースピーカーのある知り合い宅で画面を暗くしてそれなりに大きな音を出して見たんですけど、音の大きさとか画面の感じとか、かなり良かったです。今できる個人規模として最も良かったかも。スピーカーほしすぎ。</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/ssaymds">ておつく</a></h3>
           <section class="articles-per-source">
             <article>
@@ -2099,6 +2681,36 @@ The post ffmpegを用いた動画の音声差し替え first appeared on YTPMV.i
                     <span>みなさん御機嫌よう。まいまいです。今回は個人的に動画のコーデックについて調べまくってたのでその情報の備忘録がてら音MAD制作におけるコーデックについてまとめていきます。内容間違ってたら指摘してください。 基本的に「なるべ […]
 The post 音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。 first appeared on YTPMV.info.</span>
                   </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-01-08">2022-01-08</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">アニメを見るのって難しくないですか？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/08/122306">
+                  <div class="article-summary-box-inner">
+                    <span>自分の周りの人のアニメを見ている率って結構高くて、特定のアニメの話で盛り上がっているのを見る度に自分からも興味が湧いてくる。
+が、しかしどうしても腰が重くて、見るまでに莫大な時間を要してしまう。去年見たアニメは1, 2本くらいしかなかった。
+むかし実家に居た頃は弟が地上波で流れるアニメを録画しており、それが流れているので一緒に見る、続きが気になるので時間を合わせて一緒に見る、みたいなことをしていて、局所的にアニメをたくさん見ている時期があった(2016年くらい？)。その頃は凄く楽しく見ていたし、別にアニメが嫌いなわけではないはず。むしろ見てしまえば何でも好きになれるし*1、体験としても良かったと思う。
+一人暮らしをしていると自分以外の生活は垂れ流しにならないので、巻き添えを食らうことがほとんどない状況にある。そうすると、自ずとアニメを見る必要があり、これが大変に大変だと思っている。
+アニメを見るための術や環境は(今となっては)とても整備されるようになったはずで、dアニメストアなりに加入しておけばおおよそ見れると聞いているし、そうでなくてもニコニコチャンネルだとかアマプラだとかたくさんの手段が用意されているように見える。
+そういう問題がクリアになった昨今、単にアニメを見るために「目と耳と頭をすべて使う」ことが大変なのだと思っていた。思っていたが、そうすると普段自分がYouTubeなどで見ているMinecraftの実況動画とか、DTMのチュートリアルとかはすごく気軽に見ているので、これだけだと説明がつかない。
+それでさっきツイキャスをして言葉に出しながら考えていたら、一旦次のような結論に落ち着いた。
+自分がこの状況下に陥った前提で、他の人達が高い解像度を持ってアニメを見て、アニメの考察をし、それを共有する様子をリスペクトしすぎているのではないか？
+こういったコンテンツって本来ど…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
                 </a>
               </details>
             </article>
@@ -2256,6 +2868,56 @@ The post 音MAD制作とコーデック ～場面に応じて最適なコーデ�
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">2021年の振り返り テクい編</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/02/225301">
+                  <div class="article-summary-box-inner">
+                    <span>naari.hatenablog.com
+やったるぞ
+
+つくったもの/やったこと (wip含む)
+ppt-undo
+GitHub - naari3/ppt-undo
+個人的にやってるぷよテトで練習をしている時に「今パフェあったよね？」とか言われても時既に遅しでミノを置いてしまったりするんだけど、それを1手戻す(undoする)ためのツールを作ろうとしていた。
+このために以下のことをやる必要があった。
+7bagの生成ロジックの特定
+
+
+シードの特定
+シードの使われ方を調べる
+すべての生成ロジックの再実装
+以て「ひとつ戻る」を実装する
+この再実装あたりについては、元々のゲームがあまり素晴らしい管理方法をしていない&amp;自分が上書きしきる方法を思いつけなかったのでネクストミノの置き換えをはじめすべてをこちらの匙加減で書き換える方針で進めたためそうなった。全部の処理を追って実装するのが大変で、結局最後まで実装しきれなかった。一応戻るが、どこかのタイミングで壊れる、みたいな感じ。今だったら作り直せるかも。
+これに使った要素はこんな感じ。
+Windows API
+
+
+きらい
+Rust
+
+
+すき
+CheatEngine
+
+
+ロジックを追うためデバッガーとして使った
+かなりすき
+skyish
+GitHub - naari3/skyish
+Minecraftのpluginで、生成されたチャンクのうち99%を削除してスカイブロックっぽく遊ぶために作ったもの。思いつきで作った。
+最初はチャンク生成時のなにかに合わせて生成を阻害すれば良いかなと思ったんだけど、文献としてあまり妥当なものが見つからなかったのが大変だった気がする。特にpluginだとサーバー側のバニラの生成処理を上書きするのは大変そうだった。わざと同梱しないようにしているらしい。逆にそれも同梱しているものをnms（net.minecraft…</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220102/20220102224744.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/aun6june">aun6june</a></h3>
           <section class="articles-per-source">
             <article>
@@ -2327,6 +2989,37 @@ The post 音MAD制作とコーデック ～場面に応じて最適なコーデ�
   <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-01-01">2022-01-01</time></h2>
     <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">2021年末にRiJを見た</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/02/030122">
+                  <div class="article-summary-box-inner">
+                    <span>あけおめ～年末はゲーム系のストリーム配信をたくさん見た。
+自分は昔からRTA系の大きなイベントをよく見るが、その流れがずっと続いていたため例に漏れず今年もRiJを見た。
+その期間中に行われた獣道4も見た。このイベントに常々追ってるテトリス勢のkazuとあめみやたいようのビッグマッチが組み込まれており、このために見る必要があった。これはこれで本当に凄かったから別で書こうかな
+RTA in Japan Winter 2021
+さっき書いたとおり、昔からよくRTAのイベントを見ていた（具体的にはAGDQ2015あたりから）。好きなゲームのRTAが英語圏で流行っていたのもあり、自分の習慣として根強い。今年も例に漏れずRTA in Japan Winter 2021を見た。
+基本的な姿勢として、気になるタイトルは事前に自分のカレンダーに挿し込んでいて、そうでないタイトルの場合はバックグラウンドだったりサブモニターに置いたりして基本ずっと視聴者数のカウンターを温め続けていた。そのため、全く知らないタイトルも結構見ている。
+以下、見て印象に残っているものをスケジュール順に感想と共に挙げる。今後アーカイブを見直す度にちょっとずつ追記されるかも
+クロノトリガー
+自分の思い出のゲームが壊される様は見ていて本当に気持ちが良い。LSSを一発で決める、乱数調整、からのグランとリオン戦の行動予測が本当に痺れた。最高。
+www.youtube.com
+ルートとか各技とかすごくわかりやすくまとめられているWikiがあり、かなり丁寧だった
+chrono.wikidot.com
+Trials Rising
+迫真バイク部でしか見たことのないゲームで、該当動画では大変に苦労している様をよく見ていた。それだけあって超絶技巧とも捉えられるスタイリッシュなプレイングは大変素晴らしかった。
+www.youtube.com…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://nkaoobt.hatenablog.com/">音MADとポケモンと私</a></h3>
@@ -2862,8 +3555,118 @@ YOASOBI「大正浪漫」Official Music Video
     </ul>
   </section>
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-12-29">2021-12-29</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">2022年の目標</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/12/29/191726">
+                  <div class="article-summary-box-inner">
+                    <span>昨日振り返ったので、今日は雑に目標を立てる。
+↓去年立てた、今年の目標
+naari.hatenablog.com
+PCの環境をもうちょっとよくする
+録画鯖を作る
+音MADを作る
+
+
+去年1つしか作らなかったので
+YTPMV
+セリフ合わせ
+誘われの音源をちゃんと作る
+
+
+素振りとかもして多少くらいは満足したい
+レーベルとか何かのDIscordサーバーに音源を投げてみる
+なにかのイベントに出たい
+
+
+ちゃんとmix作ったりね
+このブログをちゃんとやる
+
+
+下書きを消費する
+本棚を完成させる
+そして荷解きを完遂する
+継続して生活にちょっと気をつける
+継続して食事に気をつける
+貯金のことを考えてみる
+転職のことを考えてみる
+趣味のプログラミングのプロダクトをもうちょっと真面目にすすめる
+SRE頑張る
+
+
+クラスタ引っ越し
+会社のほうでひとつ技術記事を書く</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-12-28">2021-12-28</time></h2>
     <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">2021年の振り返り</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/12/29/002237">
+                  <div class="article-summary-box-inner">
+                    <span>naari.hatenablog.com
+目標は振り返ることに意味があるのだ
+項目を振り返る
+今年やった技術的なことについては別記事にまとめる予定
+(追記↓)
+naari.hatenablog.com
+音MADの映像を作る
+そろそろ川谷絵音と決別する
+183を消費する
+
+
+とあったけど、ニコニコに投稿出来た音MADはこれしかなかった。一応動く画は乗っているが…
+www.nicovideo.jp
+183もひとつも進むことなく、残念ながら失敗です…
+DTMでトーナルやコード進行から逃げない
+これは去年よりは出来た
+秋のM3(以下埋め込み)ではボキャ貧ながらもコードとかメロディっぽいものについて考えることが出来たし、通話相手の言っていることがなんとな～くでもわかるようになったのは良い傾向と言えよう。
+emotive.bandcamp.com
+レーベルにトラックを投げてみる
+やらなかった
+何度か考えてみたものの、まだその時期じゃない…実力が追いついていない…
+mixを3ヶ月に1つは作る
+雑にひとりでrekordboxを触ることはしていたが、ちゃんと組んだmixはひとつしかなかった
+www.nicovideo.jp
+保険証を再発行する・マイナンバーカードを再発行する
+どちらも達成した！！
+ちゃんと計算してないけどたぶん10ヶ月くらいは不所持の状態だった。ようやく病院に行けるようになったし、夜イベントで自分の年齢を証明できる術を取り戻せた、、、、
+引っ越しをする
+した！！！
+詳しくは書かないが、近くに新築のマンションが出来たのでそちらに移動した。
+引っ越しという最難関の行いもなんとかこなすことが出来た。ただ、まだ荷解きが終わっていない、、、
+部屋の不満は多少あれど、今もまだ満足しています。
+このブログをちゃんとやる
+溜まっている下書きを消費する
+
+
+下書きの消費はほとんどやらなかったが…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/ebideath">えびです</a></h3>
@@ -3633,6 +4436,50 @@ adventar.org
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">Rustのゲーム用ライブラリpistonがWindowsの上だと60fps出なかったのを直した</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/12/20/072028">
+                  <div class="article-summary-box-inner">
+                    <span>github.com
+tl;dr
+pistonで60fps出なかった
+Windowsの Sleep はデフォルトだと精度が悪い
+sleepを呼ぶ前に timeBeginPeriod を呼んで精度を良くしたら60fps出るようになった
+pistonで60fps出なかった
+趣味でNESのエミュレーターを作っていた時に発生した事象として、pistonというライブラリを使うと60fpsを出せないというものがあった。
+60fpsという要件を達成するには、1回の更新毎に約16.6msずつ待ち合わせる必要がある。考えられる実現方法としては、ゲームのロジックを実行する際にその処理が何ms掛かったのかを記録しておき、16.6msからその時間を引いた時間だけ処理を停止する、というものがシンプルで良さそうだ。
+use std::time;
+
+fn main() {
+  let frame_rate &#x3D; 60;
+  let sleep_ms &#x3D; time::Duration::from_secs(1) / frame_rate;
+
+  loop {
+    let start &#x3D; time::Instant::now();
+    game_logic(); // ちょっと時間がかかる
+    let elapsed &#x3D; time::Instant::now() - start;
+    if sleep_ms &lt; elapsed { // 経過時間より1fの規定時間のほうが長かったらスキップ
+        break;
+    }
+    time::thread::sleep(sleep_ms - elapsed); // 16.6ms - Nms 分だけ停止する
+  }
+}
+
+
+
+この基本方針はRustのゲーム用ライブラリであるpistonも同じだった。同じようにフレーム毎の待ち合いに s…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/nanana555">ふーふー</a></h3>
           <section class="articles-per-source">
             <article>
@@ -3655,6 +4502,130 @@ adventar.org
   <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-12-18">2021-12-18</time></h2>
     <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">音TIP</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/12/18/222700">
+                  <div class="article-summary-box-inner">
+                    <span>この記事は音MAD Advent Calendar 2021の18日目の記事です。
+adventar.org
+
+
+
+概要
+最近は音MADにあまり手がつかず、どちらかといえばDTMのような事ばかりやっているんですが*1、今回せっかくこの企画に誘われたので音MADにも手軽に活かせられそうな知見を雑に列挙したいと思います。
+原曲に寄り添う形でサンプルを配置することが基本となっている音MADの技法に対し、直接使えるのか怪しいものもありますが、皆様の目に触れることで有効活用されることを期待しています。
+尚、ページ内に音声ファイルの埋め込みが多数存在します。それぞれ音量が大きめですので、再生前にご自身のスピーカーの出力を小さめにしておいてください🙏🙏🙏
+以下、目安です。
+
+概要
+オーディオエフェクトとミックスに寄ったような話
+エフェクトをチェーンにする
+組み合わせ例: ディストーション と EQ
+組み合わせ例: ディストーション と リバーブ
+コンプレッサーのサイドチェインについて
+音MAD制作での使用例
+音MAD制作でさらに手を抜くために使う
+参考
+帯域ごとの聞こえ方の表
+個別のオーディオエフェクトとか音作り関連の話
+LRチャンネルどちらか片方の位相を反転させることによる音声のステレオ化
+Convolution ReverbとIRの話
+色々な音をIRとして使ってみる
+それ以外のエフェクトについて自分で試すときに心がけると良さそうなこと
+やってみる
+ドキュメントも読んでみる(蛇足)
+WAVESの高いバンドルを積極的に買う理由はあんまりない気がしている事とその理由
+Melda Production MFreeFXBundle
+KiloHearts Toolbox
+Soundtoys
+ReaPack JSFXたち
+さいごに
+ふろく
+オーディオエフェクトとミックスに寄ったような話
+エフ…</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20211124/20211124014248.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">Ableton Liveを使っていて分かった、音MAD制作においてREAPERを使うことのメリット</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/12/18/222611">
+                  <div class="article-summary-box-inner">
+                    <span>概要
+最近の自分は音MADを含め音源制作にAbleton LiveというDAWを使っているのですが、音MADを作る点ではREAPERを使用したほうが良いのではないか？と常々思っているので、その理由を複数連ねてみます。
+あくまで自分の考える音MAD制作過程に軸を置いた時の個人的な考えであり、それがDAWの絶対的な優劣ではないということを念頭に置いてから見ていただきたいです 🙏
+この記事は音MAD Advent Calendar 2021で自分が書いた記事の付録記事です。
+naari.hatenablog.com
+ショートカットキーによるピッチ変更
+個人的にはこの存在が音MADの制作工程に最も大きく作用しているのではないかと思っています。もはや音MADの基本アプローチと言っても過言ではなさそう。
+普段からREAPERを使っている方々はあまり意識したこと無いかもしれませんが、これが音MADの出来具合いにも関わってくるものだと思っています。
+例えばREAPERで音合わせをする場合、アプローチとしては例として以下のようなものが考えられます。
+ショートカットキーによるオーディオアイテムのピッチ変更
+サンプラーとMIDIアイテムによるピッチ変更
+単純に音合わせに焦点を合わせた場合、後者の方が大変にお手軽ではあると思うのですが、手軽さ故に細かい部分の対応がなおざりになってしまう場合があると思っています。例えば主旋律に対して素材を当てはめている時、以下のような…
+ここの部分だけもう少し素材の頭出しを変えたいが、わざわざサンプラーの画面を開くのが面倒
+面倒臭いので同じ音ばかり使ってしまう
+結果として単調な結果になってしまう！！！
+対比として、直接オーディオアイテムのピッチを変える場合、アイテム単体のスタート位置の変更は造作もないことだと思います。
+ここで、ピッチ変更の手段としてのショートカッ…</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20211124/20211124044752.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">REAPERのグリッド線をショートカットキーで変更できるようにする</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/12/14/040731">
+                  <div class="article-summary-box-inner">
+                    <span>概要
+REAPER のグリッド線の幅は GUI 左上ツールバーのマグネットマークを右クリック、または Alt+L を押すことで開かれる「スナップ/グリッド設定」で変更が出来るのですが、変更の度にわざわざこの設定を開くのはなかなか骨が折れる手順なのではないかと思っています。
+自分は主に Ableton Live を使用して DTM の作業を行っているのですが、こちらはショートカットキーを押すことでグリッド幅を広げることが出来ます。
+今回はこれと似たような設定を REAPER でも実現できるように設定してみようと思います。
+この記事は音MAD Advent Calendar 2021で自分が書いた記事の付録記事です。
+今回のゴール
+もう少し具体的には以下の 3 つをショートカットキーによって実現できるように設定したいと思います。
+グリッド幅を 1/2 にし、狭める
+グリッド幅を 2 倍にし、広げる
+三連符幅の切り替えを行う
+グリッド幅を 1/2 にし、狭める
+こんな感じ
+狭くなっていく
+グリッド幅を 2 倍にし、広げる
+こんな感じ
+広くなっていく
+三連符幅の切り替えを行う
+こんな感じ
+三連符幅との切り替えが出来る
+手順
+途中で ReaPack を使用する手順と、そうでない手順に分かれるので、どちらか該当する方だけ読んでください。
+独自のスクリプト
+1. 既存のアクションをショートカットキーに割り当てる
+まず、?キーを押すか、 アクション &gt; アクションリストを開く からアクションリストを開きます。
+次に、絞込 に Grid: Adjust と入力し、以下の 2 つのアクションを見つけます。
+Grid: Adjust by 1/2
+
+
+グリッド幅を 1/2 にする
+Grid: Adjust by 2
+
+
+グリッド幅を 2 倍にする
+それぞれのアクションをシングルクリックした後に左…</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20211214/20211214035953.gif" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/howtopourbeer">8bit</a></h3>
@@ -12403,6 +13374,148 @@ CS255 暗号入門 (2018Q1)
     </ul>
   </section>
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-04-23">2021-04-23</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">Minecraft 1.16 RSG WR 9:38(とDivine Travel)についてのメモ</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/04/24/013616">
+                  <div class="article-summary-box-inner">
+                    <span>www.youtube.com
+https://www.youtube.com/watch?v&#x3D;iv5uKxCMEkM
+今回の記録の特筆すべきところ
+世界初の10分切り
+
+
+9:38
+前回のWRが11:01
+初のsub10
+悲願とも言える大記録
+最初の1.16の記録から比べて半分ほどの時間で終了している
+Divine Travel
+流れ
+村スタート
+
+
+ベッド
+アイアンゴーレム -&gt; バケツ1つ
+村のリソースを大活用、という感じではない
+IGT 2:51 ネザーin
+
+
+はやい
+チャンク(0, 0)に化石があった
+
+
+Divine Travelに使用できる
+詳しくは後述
+速攻で砦とネザー要塞を発見
+
+
+ネザーinとほぼ同タイミング
+かなり早い段階で (IGT 5:30) 必要資材 (エンパ, 黒曜石) が集まる
+スポナー以前の自然湧きで充分量のブレイズ
+
+
+IGT 7:00 で収集完了
+ネザー -&gt; 現世 で要塞に到着
+
+
+IGT 8:06
+Divine Travelによる恩恵もでかいが、それでも超豪運
+詳しくは後述
+隣にポータル部屋
+ベッド5個で終了
+IGT 9:38
+Divine Travel
+以下はほとんどこの動画の要約 https://www.youtube.com/watch?v&#x3D;IKo-jrZSgWU
+チャンク(0, 0) の生成物より、要塞の座標を推測する技
+今年の2月末、3月はじめ頃に実用化された
+
+
+実用されたrunとしては今回が初の記録更新 たぶん
+要塞の生成方法
+初期スポーンより 半径 1280 - 2816 の輪に、 特定の角度 から120°ごとに1つずつ生成される
+
+
+つまり3つ生成される
+この時、 特定の角度 はシード値を元にした乱数生成器によって生成された最初の乱数を使用して決定される
+また、それぞれの要塞の初期スポーンからの 特定の距離 も乱数によって決定される
+
+
+1つ目の要塞であれば、乱数生成器の三番目の乱数が 特定の距離 になる
+乱数生成器と乱数について
+シード値を元にした乱数生成器は複数存在し、乱数生成器ごとに生成される乱数の順番は同じ
+
+
+どの乱数生成器であっても同じシード値を使用していれば、
+
+
+最初に生成される乱数は同じ
+二番目に生成される乱数は同じ
+三番目に生成される乱数は同じ
+・・・
+ｎ番目に生成される乱数は同じ
+アイデア
+別用途で使用される乱数を確認し、 角度 や 距離 を特定する
+化石を利用した乱数特定
+生成される化石の座標は以下のような関数によって決定される
+Fossil Coord &#x3D; ( f(rng1) * Chunk X ^ g(rng1) * Chunk Z ) ^ rng1
+
+
+^ は XOR
+rng1 は乱数生成器によって生成される一番目の乱数
+Chunk X &#x3D; 0 かつ Chunk Z &#x3D; 0 のとき、以下のようになる
+
+
+Fossil Coord &#x3D; ( f(rng1) * 0 ^ g(rng1) * 0 ) ^ rng1
+Fossil Coord &#x3D; ( 0 ^ 0 ) ^ rng1
+Fossil Coord &#x3D; 0 ^ rng1
+Fossil Coord &#x3D; rng1
+→ チャンク 0 0 に化石が生成された場合、この座標を確かめることで 遺跡の角度 が特定できる！！！！
+その他の特定方法など
+https://cdn.discordapp.com/attachments/405839885509984256/817167014484901908/pngdivinetravelmdpi.png
+洞窟
+
+
+ravine
+air cave
+water cave
+nether cave
+ツンドラにいる動物
+ツンドラにいない動物
+特定の動物
+
+
+strider, rabbit, bear, panda, parrot
+turtle
+big ruined portal
+ツンドラ かつ
+
+
+rabbit bears
+https://docs.google.com/presentation/d/1mm1YGcUCrrW4s7KIBn9v89MhHUMrtqSPeOuu0dy62NQ/edit#slide&#x3D;id.gd438437599_0_70
+Minecraft Java Edition SpeedrunningにてDivine Travelで検索するとよさそう
+今回の場合
+ネザーin時に見つかった化石がチャンク(0, 0)でfossil_8だった
+
+
+(0, 0) から (-251, -50) の方向
+これを決定する際に30秒ほど一時停止しており、これによって物議を醸しているらしい</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-04-19">2021-04-19</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -13231,6 +14344,55 @@ The post アニメのスクショからタイトルと話数、時間を特定�
     </ul>
   </section>
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-02-21">2021-02-21</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">6502のエミュを実装した</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/02/22/012505">
+                  <div class="article-summary-box-inner">
+                    <span>GitHub - naari3/emu6502: Implementation 6502 emulator in Rust for hobby
+
+6502のエミュ実装したhttps://t.co/NvQYHK8lgm
+ちゃんとフィボナッチ数を計算してくれてよかった pic.twitter.com/wp1Y02cUNA
+— 名有り (@naari_) 2021年2月21日
+  
+完全な状態かというと全くそうではなく、ただ単にここに書いてある情報を実装した*1。
+ファミコンのエミュというわけでもないので達成しなければならない要件はとてもシンプルで、そのため難易度は全然高くなく、全体を通してとてもすんなりと通った。
+言うことのないレベルでシンプルだったが、現状使ったことのなかった割り込み処理の鱗片*2が見れたこと、各PSの正しい使われ方、ほか詳細な動きを知ることができたところだった。
+今回は実装のための言語としてなんとなくRustを使用したが、
+パターンマッチがかなりおいしかった(コンパイルエラーになってくれるのは精神衛生上良かった)
+静的コンパイラの推論がすごくよかった
+再束縛が良かった
+くらいの恩恵を受けられた。あまりRustらしい使い方が出来たかというと正直微妙なところがある。
+CPUみたいな名前のtraitを用意すれば、各所でimplを作ることで「コントローラーを受け付けるような特殊IOを用意したCPUを実装」、みたいなのもやりやすくなるんだろうなと妄想した。
+実装として、
+あまり処理の棲み分けが出来ていない
+
+
+CPU structとInstructionの実装を行き来しているなど
+共通化がちょっと微妙っぽい
+&amp;mut selfが多すぎる
+
+
+そんなものなんでしょうか
+などが上げられる気がする　もっと綺麗にできそう
+*1:BRKとResetの情報は他のサイトを確認したがどこだったかわすれました
+*2:BRK, RTI</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-02-18">2021-02-18</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -13441,9 +14603,115 @@ Unicode未登録のラテン文字、絵文字などをいくつか追加。（�
       </li>
     </ul>
   </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-02-08">2021-02-08</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">winapi-rsでCONTEXTを扱うと結構な確率で998(3E6)で落ちる</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/02/09/021625">
+                  <div class="article-summary-box-inner">
+                    <span>この記事ではCONTEXTとは (winapi::um::winnt::CONTEXT)https://docs.rs/winapi/0.3.9/winapi/um/winnt/struct.CONTEXT.html のことを指す
+tl;dr
+alignを気にする必要があった
+#[derive(Default)]
+#[repr(align(16))]
+struct Context(CONTEXT);
+
+
+
+または winapi の v0.4 がリリースされるのを待つ必要がある
+いきさつ
+最近ぷよぷよテトリスというゲームに悪さをしていて*1、特定のbreakpointに対して 0xCC を貼ったりしてプログラムの動きをこちらの都合の良いものに変える等のことをしている
+今回の要件としてはbreakpointを貼った地点でのレジスタの値を取る必要があった
+ぷよぷよテトリスのSteam版はWindowsで動くのだが、Windows上でこれを満たすためには通常 GetThreadContext を用いる
+rustの winapi-rs での使い方を例に上げると、
+use winapi::um::processthreadsapi::GetThreadContext;
+use winapi::um::winnt::*;
+
+// 0xCCやSuspendThreadでスレッドを停止させたあとに
+let mut regs &#x3D; CONTEXT::default();
+regs.ContextFlags &#x3D; CONTEXT_ALL;
+GetThreadContext(thread, &amp;mut regs)
+
+
+
+こんな感じで各種レジスタが取得できる
+また、任意の値をレジスタに格納するのも容易で、同じ雰囲気で SetThreadContext を用いることで解決する
+998メモリ ロケーションへの…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">ループバック機能のないAIFでは愚直にOBSで音声キャプチャできない</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/02/08/141329">
+                  <div class="article-summary-box-inner">
+                    <span>趣味でDTMをやっており、Twitterに共有したりDiscordに乗せる目的でDAWのキャプチャがしたくなる
+だが、普通の作業風景のキャプチャと違って音声あたりで厳しさを感じたりする
+例えばDiscordでゲームを配信するんだったらGo Liveボタンを押して今起動しているゲームを選択するだけでよいが、DAWの場合はうまくいかないことが多い
+何故かと言うと(原因はたくさんあるように見えるが頻出なものとして)ASIO経由で音声を出力している所にあるらしい
+ASIO経由で音声を出さなければ普通にキャプチャできるのだが、その場合の音声遅延はほんとうにひどいものになってしまう
+指ドラムとかしたいときは本当にお粗末な結果になってしまうだろう
+そこでobs-asioなどのプラグインを使ってASIO入力を取得できるようにするのが定石らしい
+しかし、僕の環境ではうまく動かなかった
+これはループバックの機能を使用することで成り立っているらしいのだが、僕が使用しているFORCSUITE Scarlett 2i2のようなAIFはループバックの機能を有していなかった
+これは言わずもがな当たり前で、オーディオアウトプットが2ch(ステレオ)分しかないのだからルーティングもくそもないのだ
+仕方がないのでOUTからINに直接線をつなぐことで解決させたのだが、これはこれで本当にお粗末だと思う
+あと2つoutputがあるAIFを買いたいけど、お値段もちゃんと2倍なのでなかなか………
+また、この場合の解決策としてVoicemeeter Bananaが使われることも多いが、これは遅延がひどかったりノイズが乗ったりでなかなか厳しいものがある
+なにより元々ASIOを使用することでハードウェア完結だったところにソフトウェアが入り込むのだからいい結果が生まれるわけがない</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">テト譜を反転させる拡張機能を作った</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/02/08/135932">
+                  <div class="article-summary-box-inner">
+                    <span>これ
+
+テト譜を反転させるchrome拡張を作りました pic.twitter.com/UfsalegxNO
+— なあり (@_naari_) 2021年2月5日
+  
+github.com
+個人的に必要に迫られたので作った　テンプレの練習する時に使ってる
+あまりテト譜に詳しいわけじゃないので壊れてるかもしれない　あと単にデバッグ不足によって
+(TDDができればよかったけど気力が出なかった)
+chrome extensionのはなし
+発案から3時間強で作れたのだが、やはり環境を簡単に作れるのがとてもよかった
+いいかんじボイラープレートがなかったのでコピペで土台を作ったが、その際にwebpackのconfigをtsで書けるという知見を獲得できた
+いいかんじに型つく
+機能のはなし
+テト譜を読み込んで反転するためのボタンを追加する、がやっていることのすべて
+しかもテト譜の読み込みはknewjade大先生のライブラリがあったので一瞬で終わった
+github.com
+いい感じに書かれていてよかった
+実際に反転させる機能は実装できたのだが、あまりキレイには書けなかった
+https://github.com/naari3/tetofu-flip/blob/main/src/content_scripts.ts
+見てもらうと分かる通り条件分岐ばかりになってしまった
+まあ仕方ないと思える範囲ではある　ステージ全体が反転することを考えた時、ミノの種類によって状態がばらばらになるのでifも多くなるであろう
+もっと数学力(行列とか、考え方とか、あと(数学ではないけど)テトリスの地力とか)が備わってれば(もしかしたら)きれいに書けたのだろうが、今の自分の限界ということでひとつ。</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20210208/20210208134847.png" class="card article-thumbnail"/>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-02-06T04:55:41.300Z">2022-02-06T04:55:41.300Z</time>
+    <time id="build-timestamp" datetime="2022-02-06T04:57:49.405Z">2022-02-06T04:57:49.405Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.12.0</a></span>
   </footer>
   <script src="./index.js"></script>
