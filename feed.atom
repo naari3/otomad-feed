@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-06T04:51:00.391Z</updated>
+    <updated>2022-02-06T04:52:05.341Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -167,18 +167,6 @@ The post クリップボードからURLを取得しyt-dlpを起動するVBScript
 続きをみる]]></summary>
         <author>
             <name>Garech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タグや数式に対応するなど]]></title>
-        <id>https://5h4ru.com/blog/support-mathjax-and-taxonomies/</id>
-        <link href="https://5h4ru.com/blog/support-mathjax-and-taxonomies/"/>
-        <updated>2022-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[概要
-MathJax を導入した
-Taxonomies に対応した]]></summary>
-        <author>
-            <name>5h4ru.com</name>
         </author>
     </entry>
     <entry>
@@ -513,18 +501,6 @@ The post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER�
         <summary type="html"><![CDATA[衝撃のラストが待ち受ける。サウンドをひらく]]></summary>
         <author>
             <name>aun6june</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zolaについてメモ]]></title>
-        <id>https://5h4ru.com/blog/note-about-zola/</id>
-        <link href="https://5h4ru.com/blog/note-about-zola/"/>
-        <updated>2022-01-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[index.html にもあるように当ブログでは Zola という SSG を用いている。ここでは備忘録として当ブログで用いた機能などについて記しておく。
-公式ドキュメントを見れば大抵は解決する（見づらいけど……）。
-以下プロジェクトディレクトリをルートとする。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
         </author>
     </entry>
     <entry>
@@ -927,16 +903,6 @@ www.nicovideo.jp
 セリフ合わせMADがメチャ好きだったので…]]></summary>
         <author>
             <name>竹達アーカイブ通信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もう2022年の4%が終わったようですが]]></title>
-        <id>https://5h4ru.com/blog/202201/</id>
-        <link href="https://5h4ru.com/blog/202201/"/>
-        <updated>2022-01-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[明けましておめでたいと思ったことがない。1年が経つということは、歳を取るということです。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
         </author>
     </entry>
     <entry>
@@ -1758,17 +1724,6 @@ The post 音MAD制作とコーデック ～場面に応じて最適なコーデ�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好みの俺ガイル二次創作を挙げる記事]]></title>
-        <id>https://5h4ru.com/blog/my-favorite-fanfictions-of-oregairu/</id>
-        <link href="https://5h4ru.com/blog/my-favorite-fanfictions-of-oregairu/"/>
-        <updated>2022-01-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ハーメルンで連載されている俺ガイル二次創作で完結しているものは殆ど1読んでしまった。ここでは私の記憶に残ったものを記す。備忘録であり、雑記である。
-なお、記事中にネタバレが記載されていたとしても私は何ら責任を負わない。俺に怒るより読んだほうがいいマジで。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ネタバレ全開】アサツグトリ 感想]]></title>
         <id>hatenablog://entry/13574176438049848674</id>
         <link href="https://kaikityou.hatenablog.com/entry/2022/01/06/040345"/>
@@ -2307,18 +2262,6 @@ YOASOBI「大正浪漫」Official Music Video
 ・投稿作業(投稿説明文、参加者マイリストの作成など)…]]></summary>
         <author>
             <name>メモタルト</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年を振り返るやつ]]></title>
-        <id>https://5h4ru.com/blog/looking-back-on-2021/</id>
-        <link href="https://5h4ru.com/blog/looking-back-on-2021/"/>
-        <updated>2021-12-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[これは何？
-総括することもない一年を総括する試み
-何もしてないのに 2021 年壊れた！　反省記事というわけでもないが、節目なので何かを記しておこうと思う。端的に言えば自分語りというやつである。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
         </author>
     </entry>
     <entry>
@@ -4032,18 +3975,6 @@ ShiMa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021年11月]]></title>
-        <id>https://5h4ru.com/blog/202111/</id>
-        <link href="https://5h4ru.com/blog/202111/"/>
-        <updated>2021-12-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[これは何？
-日記のようなもの
-月に1回何かを書く、という程度であれば習慣化できることが分かったため、絶賛継続中である。先日キーボードを破壊してしまい（キーが折れてしまった）今は家にあった古いキーボードでタイピングをしている。キーの配置こそ変わらないものの、10年以上前の代物であるからかなり汚い。そのうえスペースキーが短く、主に親指周りでのミスタイプが多い。私の心が折れた。これを期にメカニカルキーボードの購入を検討しているが、如何せん高額なのでなかなか手を出しにくい。サンタクロースよ、俺にキーボードをプレゼントしてくれ！　今回はサンタではなくサタンの話をする。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【メモ】つばきちセリフ書き起こし]]></title>
         <id>https://note.com/yabaiwayo/n/n1ca361ffac86</id>
         <link href="https://note.com/yabaiwayo/n/n1ca361ffac86"/>
@@ -4942,18 +4873,6 @@ Amazon
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021年10月]]></title>
-        <id>https://5h4ru.com/blog/202110/</id>
-        <link href="https://5h4ru.com/blog/202110/"/>
-        <updated>2021-11-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[これは何？
-日記のようなもの
-ブログに書くネタはこうして作り出すことができると気付いてしまってから、毎月このような記事を書く羽目になった。反省することは大切であるが、特に反省することもなく毎日チコちゃんに叱られながら生きているようなものなので、結局の所全てが無意味だ。ちなみに「チコちゃんに叱られる」という番組はあまり観たことがない。個人的には叱られたくないから放ってくれという感じである。クソガキが代。というわけでこれは無意味な日記である。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[12年間を音MAD制作と共に過ごした男の日記]]></title>
         <id>hatenablog://entry/13574176438024933733</id>
         <link href="https://kaikityou.hatenablog.com/entry/2021/10/29/011854"/>
@@ -5395,17 +5314,6 @@ www.youtube.com
 続きをみる]]></summary>
         <author>
             <name>オンモコスブ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年9月周辺]]></title>
-        <id>https://5h4ru.com/blog/202109/</id>
-        <link href="https://5h4ru.com/blog/202109/"/>
-        <updated>2021-10-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[これは何？
-日記のようなもの]]></summary>
-        <author>
-            <name>5h4ru.com</name>
         </author>
     </entry>
     <entry>
@@ -7444,16 +7352,6 @@ Nietzsche パートです！！！！！！！！
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[短文SNSに慣れ親しんだ我々は二度と長文を書けない]]></title>
-        <id>https://5h4ru.com/blog/cannot-write/</id>
-        <link href="https://5h4ru.com/blog/cannot-write/"/>
-        <updated>2021-08-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[というのは大げさで過激だけども、やはり長文を書く機会というものは減っていると感じる。何かを述べるにあたって、Twitter の 140 字では不足が過ぎる。もちろん言語によっては 140 字でも最大限の情報量を持たせることが可能なのかも知れないが、少なくとも日本語では難しいような気がしている。迂遠な表現が可能であることは一種のメリットでもあるものの、一方ではデメリットもある。言語特性について書きたかった訳ではない。書くことがないということを書く。これは体験がない日記のようなものである。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[20210818:ステルス誕生日]]></title>
         <id>hatenablog://entry/26006613798735695</id>
         <link href="https://aun6june.hatenablog.com/entry/2021/08/18/212250"/>
@@ -7594,16 +7492,6 @@ The post Twitterに投げるための動画のエンコード用Bat（ドラッ�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[zola が生成したファイルを自動でアップロードするスクリプト]]></title>
-        <id>https://5h4ru.com/blog/automatically-upload/</id>
-        <link href="https://5h4ru.com/blog/automatically-upload/"/>
-        <updated>2021-08-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[public/* をルートにアップロードする Python スクリプト]]></summary>
-        <author>
-            <name>5h4ru.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[だから僕は男優を辞めた]]></title>
         <id>https://ss-sahara.work/?p=778</id>
         <link href="https://ss-sahara.work/dannyu/"/>
@@ -7664,17 +7552,6 @@ Meily かさ かぶる傘 頭 便利 庭 農作業 釣り 帽子型 日傘 レ�
 続きをみる]]></summary>
         <author>
             <name>Lixy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VSCodeとPython]]></title>
-        <id>https://5h4ru.com/blog/python-in-vscode/</id>
-        <link href="https://5h4ru.com/blog/python-in-vscode/"/>
-        <updated>2021-08-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Format On Save が遅い
-VSCode の Fortmat On Save を有効にし、Ctrl+S を押すたびに Python のフォーマッタである black が仕事をしてくれるようにしている。ところが最近は Ctrl+S を押しても即座にフォーマットがなされず、5 秒程度待たねば保存ができないという事態に直面していた。この度やっと解決を見たのでここに記す。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
         </author>
     </entry>
     <entry>
@@ -8107,19 +7984,6 @@ Amazon
 続きをみる]]></summary>
         <author>
             <name>Lixy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHPにさわれないのでZolaに乗り換えた]]></title>
-        <id>https://5h4ru.com/blog/changed-to-zola/</id>
-        <link href="https://5h4ru.com/blog/changed-to-zola/"/>
-        <updated>2021-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[タイトルのとおり。
-経緯
-スタードメインでドメインを買うと無料サーバが付いてくるというので、ノコノコ釣られて買ったのが 3 月の話。このサーバでは PHP が動くので、主に WordPress の使用に向いている仕様らしい（激寒）。
-というわけで今まで WordPress を使い、独自に CSS も書き運用していたけれども、どうしても PHP を触ることに抵抗があった。特に WordPress に嫌悪感を抱いていた。以下に理由を記す。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
         </author>
     </entry>
     <entry>
@@ -8939,21 +8803,6 @@ seiga.nicovideo.jp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK Hardcore が好きです]]></title>
-        <id>https://5h4ru.com/blog/favorite-uk-hardcore/</id>
-        <link href="https://5h4ru.com/blog/favorite-uk-hardcore/"/>
-        <updated>2021-05-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[なんか更新しないといけない気がしてきたけど書くことないので音楽の事書きます
-UK Hardcore とは
-いろいろあるけど共通項は
-4 つ打ち
-170BPM
-であることなんじゃないかと思います。最近は Hardstyle(150BPM)に寄る動きがでてきてて、160BPM のものもリリースされています。幅としては 160-170BPM だと認識しています。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021/5/17日記]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n632efc84bed7</id>
         <link href="https://note.com/ecolidelvsvc11/n/n632efc84bed7"/>
@@ -9550,19 +9399,6 @@ The post 自動で音合わせ動画を生成するソフト　RPPtoAEP【REAPER
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[お散歩カメラ -木漏れ日の下 Remix-]]></title>
-        <id>https://5h4ru.com/blog/dere-remix/</id>
-        <link href="https://5h4ru.com/blog/dere-remix/"/>
-        <updated>2021-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【アイマスRemix】お散歩カメラ -木漏れ日の下 Remix-
-デレマス Remix コンピレーション（sm38398344）の単品です
-制作背景
-当時Moombahtonというジャンルを知る。K-POP なんかがこのジャンルを取り入れていて、ゆったりとしたノリのサウンドに惹かれた。しかし結論から言うと Moombahton を作るのは諦め、米津玄師 - パプリカ を パクって 参考にして作ることにした。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xim Sans 手書き風　Ver1.31　配布]]></title>
         <id>hatenablog://entry/26006613707859610</id>
         <link href="https://ximco.hatenablog.com/entry/2021/03/28/144227"/>
@@ -9667,23 +9503,6 @@ Unicode14.0に準拠して一部文字のコード位置を移動
 続きをみる]]></summary>
         <author>
             <name>かっぱ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[spleeterでボーカル分離をするメモ]]></title>
-        <id>https://5h4ru.com/blog/vocal-separation-using-spleeter/</id>
-        <link href="https://5h4ru.com/blog/vocal-separation-using-spleeter/"/>
-        <updated>2021-03-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[v2.1.0 リリースに伴い-iオプションは非推奨になったので要注意。
-以下、Windows 環境での話。
-ボーカルを分離する
-基本的な使い方はspleeter separate [OPTIONS] FILES...
-2stems（伴奏とボーカル）に分離したい時
-spleeter separate -o audio_output audio_example.wav
--oは出力パスを指定するオプションである。正しく実行されれば、audio_output/audio_example以下にaccompaniment.wavとvocal.wavが生成される。
-なお、-oを指定しなかったときはC:\Users\[user]\AppData\Local\Temp\separated_audio以下に生成された。]]></summary>
-        <author>
-            <name>5h4ru.com</name>
         </author>
     </entry>
     <entry>
