@@ -1,6 +1,6 @@
 siteTitle: otomad-feed
 cacheUrl: https://naari3.github.io/otomad-feed/cache.json
-cacheMaxDays: 120
+cacheMaxDays: 365
 sources:
   # hatenablog
   - href: https://49six.hatenablog.jp/rss
@@ -26,6 +26,7 @@ sources:
   - href: https://onmokosub.hatenablog.com/rss
   - href: https://otomattosaikyo.hatenablog.com/rss
   - href: https://owatax00.hatenablog.com/rss
+  - href: https://rokkan2235500.hatenablog.com/rss
   - href: https://ruiji.hatenablog.jp/rss
   - href: https://sevensheets.hatenablog.com/rss
   - href: https://shima1296.hatenablog.com/rss
@@ -36,6 +37,7 @@ sources:
   - href: https://tsukiri.hateblo.jp/rss
   - href: https://walkingsushibox.hatenablog.com/rss
   - href: https://ximco.hatenablog.com/rss
+  - href: https://zeromission.hatenablog.com/rss
   # note
   - href: https://note.com/108_9/rss
   - href: https://note.com/1oclock/rss
