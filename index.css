@@ -162,17 +162,30 @@ body {
 }
 
 .article-summary-box-outer {
-  display: block;
+  display: flex;
   padding: 4px 8px 8px 4px;
 }
 
 .article-summary-box-inner {
+  flex: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 6;
+  word-break: break-word;
   padding-left: 8px;
   border-left: 1px solid var(--accordion-content-rail-color);
 }
 
 .article-reading-time {
   font-weight: 600;
+}
+
+.article-thumbnail {
+  width: 200px;
+  height: 120px;
+  margin: 0 0 0 16px;
+  object-fit: cover;
 }
 
 footer {
