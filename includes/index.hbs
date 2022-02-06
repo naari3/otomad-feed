@@ -22,13 +22,13 @@
       {{#each sources}}
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="{{siteUrl}}">{{title}}</a></h3>
+          <h3 class="source-name"><a class="source-name__link" href="{{siteUrl}}" target="_blank" rel="noopener">{{title}}</a></h3>
           <section class="articles-per-source">
             {{#each articles}}
             <article>
               <details class="article-expander" open>
                 <summary class="article-expander__title">{{title}}</summary>
-                <a class="article-summary-link article-summary-box-outer" href="{{link}}">
+                <a class="article-summary-link article-summary-box-outer" href="{{link}}" target="_blank" rel="noopener">
                   <div class="article-summary-box-inner">
                     <span>{{description}}</span>
                   </div>
