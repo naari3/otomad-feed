@@ -45,7 +45,7 @@
           "description": "I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …\nThe Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/thierry-koblentz-atomic-css/",
           "publishedOn": "2022-02-03T15:24:01.000Z",
-          "wordCount": 3549,
+          "wordCount": 3512,
           "title": "The Making of Atomic CSS: An Interview With Thierry Koblentz"
         },
         {
@@ -140,7 +140,7 @@
           "description": "TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …\nDemystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/typescript-discriminated-unions/",
           "publishedOn": "2022-01-27T15:20:57.000Z",
-          "wordCount": 2175,
+          "wordCount": 2161,
           "title": "Demystifying TypeScript Discriminated Unions"
         },
         {
@@ -193,7 +193,7 @@
           "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
           "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
           "publishedOn": "2022-02-03T12:00:00.000Z",
-          "wordCount": 2555,
+          "wordCount": 2575,
           "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
@@ -207,7 +207,7 @@
           "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
           "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
           "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4508,
+          "wordCount": 4502,
           "title": "Improving JavaScript Bundle Performance With Code-Splitting",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
@@ -235,7 +235,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.",
           "link": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
           "publishedOn": "2022-01-31T09:00:00.000Z",
-          "wordCount": 2268,
+          "wordCount": 2262,
           "title": "28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png",
@@ -249,7 +249,7 @@
           "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
           "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
           "publishedOn": "2022-01-28T14:00:00.000Z",
-          "wordCount": 2156,
+          "wordCount": 2158,
           "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
@@ -277,7 +277,7 @@
           "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
           "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
           "publishedOn": "2022-01-25T13:00:00.000Z",
-          "wordCount": 2519,
+          "wordCount": 2518,
           "title": "What’s New In DevTools?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
@@ -291,7 +291,7 @@
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
           "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4758,
+          "wordCount": 4755,
           "title": "Getting Started With CSS Cascade Layers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
@@ -305,7 +305,7 @@
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
           "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "publishedOn": "2022-01-21T14:30:00.000Z",
-          "wordCount": 5323,
+          "wordCount": 5321,
           "title": "From Chaos To System In Design Teams",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
@@ -319,7 +319,7 @@
           "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
           "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
           "publishedOn": "2022-01-20T14:30:00.000Z",
-          "wordCount": 5246,
+          "wordCount": 5254,
           "title": "Building The Real App With React Query",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
@@ -347,7 +347,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 819,
+          "wordCount": 825,
           "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
@@ -361,7 +361,7 @@
           "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
           "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
           "publishedOn": "2022-01-17T13:00:00.000Z",
-          "wordCount": 4022,
+          "wordCount": 4024,
           "title": "Modern Fluid Typography Using CSS Clamp",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
@@ -375,7 +375,7 @@
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3577,
+          "wordCount": 3571,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
@@ -389,7 +389,7 @@
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
           "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "publishedOn": "2022-01-13T11:30:00.000Z",
-          "wordCount": 5057,
+          "wordCount": 5050,
           "title": "Building A Web Code Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
@@ -403,7 +403,7 @@
           "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
           "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
           "publishedOn": "2022-01-12T10:30:00.000Z",
-          "wordCount": 3869,
+          "wordCount": 3855,
           "title": "How To Hire For Digital Accessibility Roles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
