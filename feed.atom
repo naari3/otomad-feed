@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-06T04:41:02.845Z</updated>
+    <updated>2022-02-06T04:45:57.775Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -144,6 +144,17 @@ TVアニメ「その着せ替え人形は恋をする」公式サイト
 © PROFESSOR LYNDA GRATTON 2017 ® SLIDE 7, …]]></summary>
         <author>
             <name>本しゃぶり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリップボードからURLを取得しyt-dlpを起動するVBScript]]></title>
+        <id>https://ytpmv.info/?p=1242</id>
+        <link href="https://ytpmv.info/?p=1242&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2582%25af%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2597%25e3%2583%259c%25e3%2583%25bc%25e3%2583%2589%25e3%2581%258b%25e3%2582%2589url%25e3%2582%2592%25e5%258f%2596%25e5%25be%2597%25e3%2581%2597yt-dlp%25e3%2582%2592%25e8%25b5%25b7%25e5%258b%2595%25e3%2581%2599%25e3%2582%258bvbscript"/>
+        <updated>2022-01-30T05:31:38.000Z</updated>
+        <summary type="html"><![CDATA[みなさんごきげんよう。まいまいです。 Youtubedl使う時って、コマンドいちいち選択して高画質になるようにするの、面倒ですよね。 なのでサイトごとにそれなりに最適化した設定でDLできるように、ワンクリックでDLできる […]
+The post クリップボードからURLを取得しyt-dlpを起動するVBScript first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>
@@ -417,6 +428,17 @@ NHK主催「ベストアニメ100」にて38位になった幻の謎アニメ『
 続きをみる]]></summary>
         <author>
             <name>はここれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl)]]></title>
+        <id>https://ytpmv.info/?p=1225</id>
+        <link href="https://ytpmv.info/rpptoexo-lyric?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2597%25e3%2582%25b7%25e3%2583%25b3%25e3%2582%25af%25e6%2594%25af%25e6%258f%25b4python%25e3%2582%25b9%25e3%2582%25af%25e3%2583%25aa%25e3%2583%2597%25e3%2583%2588-rpptoexolyric-reaper%25e2%2586%2592aviutl"/>
+        <updated>2022-01-20T17:28:12.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう。まいまいです。 今回は、人力系音MADで多用する表現のリップシンク（歌声に合わせて口の形を変える表現)を一部自動化するPythonスクリプトを作ったので公開します。 今回作ったスクリプトは、Pytho […]
+The post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl) first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>
@@ -1629,6 +1651,17 @@ omocoro.jp
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ffmpegを用いた動画の音声差し替え]]></title>
+        <id>https://ytpmv.info/?p=1220</id>
+        <link href="https://ytpmv.info/?p=1220&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ffmpeg%25e3%2582%2592%25e7%2594%25a8%25e3%2581%2584%25e3%2581%259f%25e9%259f%25b3%25e5%25a3%25b0%25e5%25b7%25ae%25e3%2581%2597%25e6%259b%25bf%25e3%2581%2588"/>
+        <updated>2022-01-09T13:00:21.000Z</updated>
+        <summary type="html"><![CDATA[ffmpegを用いた動画の音声差し替えの方法のメモ
+The post ffmpegを用いた動画の音声差し替え first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[個人日報　2022.01.03～2022.01.08]]></title>
         <id>hatenablog://entry/13574176438049125161</id>
         <link href="https://erutufnab.hatenablog.com/entry/2022/01/09/184151"/>
@@ -1667,6 +1700,17 @@ omocoro.jp
 　書いてたら死ぬほど眠くなってきたので寝ます。]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。]]></title>
+        <id>https://ytpmv.info/?p=1131</id>
+        <link href="https://ytpmv.info/encode-and-codec/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e9%259f%25b3mad%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%25a8%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2587%25e3%2583%2583%25e3%2582%25af-%25ef%25bd%259e%25e5%25a0%25b4%25e9%259d%25a2%25e3%2581%25ab%25e5%25bf%259c%25e3%2581%2598%25e3%2581%25a6%25e6%259c%2580%25e9%2581%25a9%25e3%2581%25aa%25e3%2582%25b3%25e3%2583%25bc"/>
+        <updated>2022-01-09T08:37:17.000Z</updated>
+        <summary type="html"><![CDATA[みなさん御機嫌よう。まいまいです。今回は個人的に動画のコーデックについて調べまくってたのでその情報の備忘録がてら音MAD制作におけるコーデックについてまとめていきます。内容間違ってたら指摘してください。 基本的に「なるべ […]
+The post 音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>
@@ -7539,6 +7583,17 @@ Amazon
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行)]]></title>
+        <id>https://ytpmv.info/?p=1201</id>
+        <link href="https://ytpmv.info/?p=1201&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=twitter%25e3%2581%25ab%25e6%258a%2595%25e3%2581%2592%25e3%2582%258b%25e3%2581%259f%25e3%2582%2581%25e3%2581%25ae%25e5%258b%2595%25e7%2594%25bb%25e3%2581%25ae%25e3%2582%25a8%25e3%2583%25b3%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2589%25e7%2594%25a8bat%25ef%25bc%2588%25e3%2583%2589%25e3%2583%25a9%25e3%2583%2583%25e3%2582%25b0"/>
+        <updated>2021-08-12T14:58:59.000Z</updated>
+        <summary type="html"><![CDATA[ffmpegへのパスが通っていない場合はffmpeg.exeへのパスに書き換えて下さい。 書き出しサイズも1920×1080以下の適当な値に設定するといいです。 参考：https://qiita.com/73_ […]
+The post Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行) first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[zola が生成したファイルを自動でアップロードするスクリプト]]></title>
         <id>https://5h4ru.com/blog/automatically-upload/</id>
         <link href="https://5h4ru.com/blog/automatically-upload/"/>
@@ -7926,6 +7981,17 @@ Koi先生描き下ろしのチノたちがラビットハウスでお待ちし�
 『ご注文はうさぎですか？』第…]]></summary>
         <author>
             <name>本しゃぶり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する]]></title>
+        <id>https://ytpmv.info/?p=1150</id>
+        <link href="https://ytpmv.info/?p=1150&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reaper%25e3%2582%2592%25e7%25b5%2582%25e4%25ba%2586%25e3%2581%2595%25e3%2581%259b%25e3%2581%25a6%25e3%2582%2582%25e3%2582%25bf%25e3%2582%25b9%25e3%2582%25af%25e3%2581%25ab%25e6%25ae%258b%25e3%2582%258breaper_host32-exe%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e3%2581%25a7%25e7%25b5%2582%25e4%25ba%2586"/>
+        <updated>2021-07-23T15:09:45.000Z</updated>
+        <summary type="html"><![CDATA[皆さん御機嫌よう。まいまいです。 備忘録的記事です。 何が起きていたのか REAPERで作業し、REAPERを閉じたあとで、関連プロセスのreaper_host32.exeがキルされずに残り、結構な割合のCPUを使い続け […]
+The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>
@@ -9473,6 +9539,17 @@ Léon Belly, Public domain, via Wikimedia Commons, Link
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[自動で音合わせ動画を生成するソフト　RPPtoAEP【REAPER+AfterEffects】]]></title>
+        <id>https://ytpmv.info/?p=1114</id>
+        <link href="https://ytpmv.info/rpptoaep/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e8%2587%25aa%25e5%258b%2595%25e3%2581%25a7%25e9%259f%25b3%25e5%2590%2588%25e3%2582%258f%25e3%2581%259b%25e5%258b%2595%25e7%2594%25bb%25e3%2582%2592%25e7%2594%259f%25e6%2588%2590%25e3%2581%2599%25e3%2582%258b%25e3%2582%25bd%25e3%2583%2595%25e3%2583%2588%25e3%2580%2580rpptoaep%25e3%2580%2590reaperaftereffects"/>
+        <updated>2021-04-01T14:04:43.000Z</updated>
+        <summary type="html"><![CDATA[皆さん御機嫌よう。まいまいです。 今回はREAPERのプロジェクトファイル上のメディアオブジェクトの位置をもとに、AfterEffects上にアイテムを配置するスクリプトを作成しました。 こんな感じのREAPERのプロジ […]
+The post 自動で音合わせ動画を生成するソフト　RPPtoAEP【REAPER+AfterEffects】 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[お散歩カメラ -木漏れ日の下 Remix-]]></title>
         <id>https://5h4ru.com/blog/dere-remix/</id>
         <link href="https://5h4ru.com/blog/dere-remix/"/>
@@ -9662,6 +9739,17 @@ spleeter separate -o audio_output audio_example.wav
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【メモ】ffmpegでファイルの一括エンコード]]></title>
+        <id>https://ytpmv.info/?p=1110</id>
+        <link href="https://ytpmv.info/?p=1110&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590%25e3%2583%25a1%25e3%2583%25a2%25e3%2580%2591ffmpeg%25e3%2581%25a7%25e3%2583%2595%25e3%2582%25a1%25e3%2582%25a4%25e3%2583%25ab%25e3%2581%25ae%25e4%25b8%2580%25e6%258b%25ac%25e3%2582%25a8%25e3%2583%25b3%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2589"/>
+        <updated>2021-03-13T09:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Windowsでmkvを纏めてmp4にしたいことが多々あるのでメモ。 作業したいフォルダにBatを作成してPowerShellで実行。 ffmpegへのパスは通ってる前提です。
+The post 【メモ】ffmpegでファイルの一括エンコード first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[匿名合作2の雨天雨衣]]></title>
         <id>https://note.com/rainy_raincoat/n/n97d4ebddf2ed</id>
         <link href="https://note.com/rainy_raincoat/n/n97d4ebddf2ed"/>
@@ -9803,6 +9891,17 @@ twitter.com
 続きをみる]]></summary>
         <author>
             <name>れでぃば</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメのスクショからタイトルと話数、時間を特定するWebサービス「Trace.moe」紹介]]></title>
+        <id>https://ytpmv.info/?p=1101</id>
+        <link href="https://ytpmv.info/tracemoe?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2582%25a2%25e3%2583%258b%25e3%2583%25a1%25e3%2581%25ae%25e3%2582%25b9%25e3%2582%25af%25e3%2582%25b7%25e3%2583%25a7%25e3%2581%258b%25e3%2582%2589%25e3%2582%25bf%25e3%2582%25a4%25e3%2583%2588%25e3%2583%25ab%25e3%2581%25a8%25e8%25a9%25b1%25e6%2595%25b0%25e3%2580%2581%25e6%2599%2582%25e9%2596%2593%25e3%2582%2592%25e7%2589%25b9"/>
+        <updated>2021-02-22T15:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Trace.moeについて みなさん御機嫌よう。まいまいです。今回の記事では音MAD制作やオタクライフにおいて便利なWebサービスを紹介していきます。 Anime Scene Search Engine –  […]
+The post アニメのスクショからタイトルと話数、時間を特定するWebサービス「Trace.moe」紹介 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>
