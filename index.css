@@ -178,6 +178,13 @@ body {
   padding: 4px 8px 8px 4px;
 }
 
+@media all and (max-width: 480px) {
+  .article-summary-box-outer {
+    font-size: var(--font-size-s);
+    flex-direction: column;
+  }
+}
+
 .article-summary-box-inner {
   flex: 1;
   overflow: hidden;
@@ -187,12 +194,6 @@ body {
   word-break: break-word;
   padding-left: 8px;
   border-left: 1px solid var(--accordion-content-rail-color);
-}
-
-@media all and (max-width: 480px) {
-  .article-summary-box-outer {
-    font-size: var(--font-size-s);
-  }
 }
 
 .article-reading-time {
@@ -208,8 +209,9 @@ body {
 
 @media all and (max-width: 480px) {
   .article-thumbnail {
-    width: 120px;
-    height: 12em;
+    width: 100%;
+    height: 160px;
+    margin: 16px 0 0 0;
   }
 }
 
