@@ -1,6 +1,6 @@
 name: Request for Additional blog
 description: "Create a request to add a blog to the feed."
-title: "[Add]: "
+title: "[Add]: <blog title>"
 labels: ["add request"]
 
 body:
@@ -23,10 +23,15 @@ body:
   attributes:
     label: "Blog feed URL (if possible)"
     placeholder: https://blog.example.com/feed
+- type: markdown
+  attributes:
+    value: |
+      ## Please Confirm
+      Thanks for the additional request! Finally, please check again to make sure there are no duplicates [here](https://github.com/naari3/otomad-feed/blob/main/osmosfeed.yaml).
 - type: checkboxes
   id: confirm
   attributes:
-    label: Make sure there are no duplicates [here](https://github.com/naari3/otomad-feed/blob/main/osmosfeed.yaml)
+    label: Make sure there are no duplicates
     options:
       - label: I've confirmed that there are no duplicates [here](https://github.com/naari3/otomad-feed/blob/main/osmosfeed.yaml).
         required: true
