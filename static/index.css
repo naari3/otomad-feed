@@ -101,7 +101,7 @@ body {
 }
 
 @media all and (max-width: 480px) {
-  .card .sources {
+  .card.sources {
     border-radius: 0;
   }
 }
