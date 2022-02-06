@@ -209,7 +209,7 @@ body {
 @media all and (max-width: 480px) {
   .article-thumbnail {
     width: 120px;
-    height: 12ex;
+    height: 12em;
   }
 }
 
