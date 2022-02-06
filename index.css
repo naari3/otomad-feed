@@ -181,6 +181,7 @@ body {
 @media all and (max-width: 480px) {
   .article-summary-box-outer {
     font-size: var(--font-size-s);
+    padding: 4px;
     flex-direction: column;
   }
 }
