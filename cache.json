@@ -3165,6 +3165,22 @@
       "articles": []
     },
     {
+      "title": "こちらカスタマーセンター",
+      "feedUrl": "https://note.com/customer_center/rss",
+      "siteUrl": "https://note.com/customer_center",
+      "articles": [
+        {
+          "id": "https://note.com/customer_center/n/na4beb4563061",
+          "author": null,
+          "description": "はじめまして、音MAD作者です\n( \"音MAD作者\" という概念を示しています)\n続きをみる",
+          "link": "https://note.com/customer_center/n/na4beb4563061",
+          "publishedOn": "2022-02-06T15:00:35.000Z",
+          "wordCount": 79,
+          "title": "爆音エフェクト王者決定戦"
+        }
+      ]
+    },
+    {
       "title": "だがしやだがしや",
       "feedUrl": "https://note.com/dadadadagashiya/rss",
       "siteUrl": "https://note.com/dadadadagashiya",
