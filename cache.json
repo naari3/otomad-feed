@@ -4676,7 +4676,26 @@
       "title": "KZ",
       "feedUrl": "https://note.com/majirishigeri/rss",
       "siteUrl": "https://note.com/majirishigeri",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/majirishigeri/n/n7a2ef6fbe9e1",
+          "author": null,
+          "description": "読み始める前に、こちらをBGMにしてこのnoteをご覧ください。\n各画像にもリンクが埋め込まれている場合があるので\n続きをみる",
+          "link": "https://note.com/majirishigeri/n/n7a2ef6fbe9e1",
+          "publishedOn": "2022-02-08T15:00:07.000Z",
+          "wordCount": 108,
+          "title": "(音MAD作者向け)誰でも合法的にAfter Effectsを無料で使えるようになれる方法"
+        },
+        {
+          "id": "https://note.com/majirishigeri/n/nf8ca46c42098",
+          "author": null,
+          "description": "読み始める前に、こちらをBGMにしてこのnoteをご覧ください。\n各画像にもリンクが埋め込まれている場合があるので\n続きをみる",
+          "link": "https://note.com/majirishigeri/n/nf8ca46c42098",
+          "publishedOn": "2022-01-22T13:47:52.000Z",
+          "wordCount": 57,
+          "title": "現代のオフ会について考える"
+        }
+      ]
     },
     {
       "title": "sigloxx",

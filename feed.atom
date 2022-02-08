@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-08T14:18:59.380Z</updated>
+    <updated>2022-02-08T15:18:57.895Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(音MAD作者向け)誰でも合法的にAfter Effectsを無料で使えるようになれる方法]]></title>
+        <id>https://note.com/majirishigeri/n/n7a2ef6fbe9e1</id>
+        <link href="https://note.com/majirishigeri/n/n7a2ef6fbe9e1"/>
+        <updated>2022-02-08T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[読み始める前に、こちらをBGMにしてこのnoteをご覧ください。
+各画像にもリンクが埋め込まれている場合があるので
+続きをみる]]></summary>
+        <author>
+            <name>KZ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スコウルの雨天雨衣]]></title>
         <id>https://note.com/rainy_raincoat/n/nb2298390923b</id>
@@ -645,6 +657,18 @@ Amazonの役割は注文だけ
 またこういう機会あったら出たいな～。]]></summary>
         <author>
             <name>kaikityouの日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現代のオフ会について考える]]></title>
+        <id>https://note.com/majirishigeri/n/nf8ca46c42098</id>
+        <link href="https://note.com/majirishigeri/n/nf8ca46c42098"/>
+        <updated>2022-01-22T13:47:52.000Z</updated>
+        <summary type="html"><![CDATA[読み始める前に、こちらをBGMにしてこのnoteをご覧ください。
+各画像にもリンクが埋め込まれている場合があるので
+続きをみる]]></summary>
+        <author>
+            <name>KZ</name>
         </author>
     </entry>
     <entry>
