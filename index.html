@@ -16658,58 +16658,9 @@ Unicode未登録のラテン文字、絵文字などをいくつか追加。（�
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-02-08">2021-02-08</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">winapi-rsでCONTEXTを扱うと結構な確率で998(3E6)で落ちる</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/02/09/021625" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>この記事ではCONTEXTとは (winapi::um::winnt::CONTEXT)https://docs.rs/winapi/0.3.9/winapi/um/winnt/struct.CONTEXT.html のことを指す
-tl;dr
-alignを気にする必要があった
-#[derive(Default)]
-#[repr(align(16))]
-struct Context(CONTEXT);
-
-
-
-または winapi の v0.4 がリリースされるのを待つ必要がある
-いきさつ
-最近ぷよぷよテトリスというゲームに悪さをしていて*1、特定のbreakpointに対して 0xCC を貼ったりしてプログラムの動きをこちらの都合の良いものに変える等のことをしている
-今回の要件としてはbreakpointを貼った地点でのレジスタの値を取る必要があった
-ぷよぷよテトリスのSteam版はWindowsで動くのだが、Windows上でこれを満たすためには通常 GetThreadContext を用いる
-rustの winapi-rs での使い方を例に上げると、
-use winapi::um::processthreadsapi::GetThreadContext;
-use winapi::um::winnt::*;
-
-// 0xCCやSuspendThreadでスレッドを停止させたあとに
-let mut regs &#x3D; CONTEXT::default();
-regs.ContextFlags &#x3D; CONTEXT_ALL;
-GetThreadContext(thread, &amp;mut regs)
-
-
-
-こんな感じで各種レジスタが取得できる
-また、任意の値をレジスタに格納するのも容易で、同じ雰囲気で SetThreadContext を用いることで解決する
-998メモリ ロケーションへの…</span>
-                  </div>
-                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail"/>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-02-08T05:12:41.366Z">2022-02-08T05:12:41.366Z</time>
+    <time id="build-timestamp" datetime="2022-02-08T06:17:41.513Z">2022-02-08T06:17:41.513Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.12.0</a></span>
   </footer>
   <script src="./index.js"></script>

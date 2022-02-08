@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-08T05:12:41.405Z</updated>
+    <updated>2022-02-08T06:17:41.552Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -12272,43 +12272,6 @@ Unicode未登録のラテン文字、絵文字などをいくつか追加。（�
 　目指せ世界一収録文字数の多いフォント！]]></summary>
         <author>
             <name>ximcoの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[winapi-rsでCONTEXTを扱うと結構な確率で998(3E6)で落ちる]]></title>
-        <id>hatenablog://entry/26006613689163041</id>
-        <link href="https://naari.hatenablog.com/entry/2021/02/09/021625"/>
-        <updated>2021-02-08T17:16:25.000Z</updated>
-        <summary type="html"><![CDATA[この記事ではCONTEXTとは (winapi::um::winnt::CONTEXT)https://docs.rs/winapi/0.3.9/winapi/um/winnt/struct.CONTEXT.html のことを指す
-tl;dr
-alignを気にする必要があった
-#[derive(Default)]
-#[repr(align(16))]
-struct Context(CONTEXT);
-
-
-
-または winapi の v0.4 がリリースされるのを待つ必要がある
-いきさつ
-最近ぷよぷよテトリスというゲームに悪さをしていて*1、特定のbreakpointに対して 0xCC を貼ったりしてプログラムの動きをこちらの都合の良いものに変える等のことをしている
-今回の要件としてはbreakpointを貼った地点でのレジスタの値を取る必要があった
-ぷよぷよテトリスのSteam版はWindowsで動くのだが、Windows上でこれを満たすためには通常 GetThreadContext を用いる
-rustの winapi-rs での使い方を例に上げると、
-use winapi::um::processthreadsapi::GetThreadContext;
-use winapi::um::winnt::*;
-
-// 0xCCやSuspendThreadでスレッドを停止させたあとに
-let mut regs = CONTEXT::default();
-regs.ContextFlags = CONTEXT_ALL;
-GetThreadContext(thread, &mut regs)
-
-
-
-こんな感じで各種レジスタが取得できる
-また、任意の値をレジスタに格納するのも容易で、同じ雰囲気で SetThreadContext を用いることで解決する
-998メモリ ロケーションへの…]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
 </feed>
