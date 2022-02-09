@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-09T21:12:17.710Z</updated>
+    <updated>2022-02-09T22:13:25.813Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -12289,18 +12289,6 @@ calpiscoと申します。
 続きをみる]]></summary>
         <author>
             <name>わっつー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【音楽制作】Q-Rabbitがヤバイ！本名は？彼氏は？彼女は？どんな音楽やってるの？年齢や活動まとめ！]]></title>
-        <id>https://note.com/kyugata/n/n87affe9c27ed</id>
-        <link href="https://note.com/kyugata/n/n87affe9c27ed"/>
-        <updated>2021-02-10T09:29:20.000Z</updated>
-        <summary type="html"><![CDATA[はい。どうも改めまして"きゅう"こと"Q-Rabbit"です。
-タイトル詐欺ですごめん。自己紹介です。
-続きをみる]]></summary>
-        <author>
-            <name>きゅう / Q-Rabbit</name>
         </author>
     </entry>
 </feed>
