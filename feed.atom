@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-09T14:18:29.665Z</updated>
+    <updated>2022-02-09T15:19:06.060Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[合作の主催をする方々へ　もう遅刻させないために]]></title>
+        <id>https://note.com/tough_mad/n/na0adbb23dc25</id>
+        <link href="https://note.com/tough_mad/n/na0adbb23dc25"/>
+        <updated>2022-02-09T15:01:32.000Z</updated>
+        <summary type="html"><![CDATA[合作の主催をしたことがある皆さんは、やっぱり期限を守らないバカタレ野郎にはらわた煮えくりかえることがありますよね。僕は優しいのでそんなこと思いませんけど。
+そして期限守らない人って遅刻の常習犯ってことがよくあるんじゃないですか？多分
+続きをみる]]></summary>
+        <author>
+            <name>タフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヌー]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1160.html</id>
