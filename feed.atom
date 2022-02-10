@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-10T11:13:34.310Z</updated>
+    <updated>2022-02-10T12:21:58.094Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[そもそも論はそろそろやめるべきなんじゃないか]]></title>
+        <id>https://note.com/nano_87g/n/n6fdb9f6ad3e1</id>
+        <link href="https://note.com/nano_87g/n/n6fdb9f6ad3e1"/>
+        <updated>2022-02-10T11:24:34.000Z</updated>
+        <summary type="html"><![CDATA[「そもそも論」、ご存知でしょうか。口に出した時に犬歯あたりがくすぐられるくらいの語感をもってるアレですね
+でもですよ？僕はこう思うんです
+続きをみる]]></summary>
+        <author>
+            <name>なのはなぐらむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋、暖かい？]]></title>
         <id>https://note.com/aun6june/n/nd47c5e4754cc</id>
