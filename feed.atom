@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-11T15:18:46.334Z</updated>
+    <updated>2022-02-11T16:23:50.179Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金曜日のツイッター雑感]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n706589ab9361</id>
+        <link href="https://note.com/dou_akagane_cu/n/n706589ab9361"/>
+        <updated>2022-02-11T15:57:00.000Z</updated>
+        <summary type="html"><![CDATA[サイゼリヤの件は私よりもっとツイッター歴が長い人が解説してくれてるのでいいや。そもそも私の住む四国にサイゼリヤはないわけだし。
+まふまふとるしあの件、どうも荒れてるけど、ガチ恋勢を除けば「荒れている」というより「荒されている」ように感じた。この記事もか。
+続きをみる]]></summary>
+        <author>
+            <name>梅晞あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Googleドキュメント合作】神MAD作者が選ぶ！  遊戯王最強カードランキング]]></title>
         <id>hatenablog://entry/13574176438054861040</id>
