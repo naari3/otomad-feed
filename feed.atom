@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-12T14:12:19.711Z</updated>
+    <updated>2022-02-12T15:13:19.213Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【検証】色調補正を掛ければ掛けるほどいい！その噂って本当？]]></title>
+        <id>https://note.com/customer_center/n/n97036d6ade0a</id>
+        <link href="https://note.com/customer_center/n/n97036d6ade0a"/>
+        <updated>2022-02-12T15:00:14.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！音MAD作者です！
+今回は、音MAD作者はみんな使っている、「AviUtl」について、ある噂が最近話題になっています。それは…
+続きをみる]]></summary>
+        <author>
+            <name>こちらカスタマーセンター</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sm39770648　プリンを、二つも食べちゃいます！　感想]]></title>
         <id>https://note.com/futon_is_god/n/nbca27f2c8bd3</id>
