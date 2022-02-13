@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-13T21:11:48.745Z</updated>
+    <updated>2022-02-13T21:57:48.368Z</updated>
     <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -13394,26 +13394,6 @@ YATTA! × 安達としまむら
         <summary type="html"><![CDATA[およそ3年ぶりにメイン垢で投稿しました　とりあえず投稿できてよかった…… 動画ではSE入れたりぶった切ったりしてるので、それ無しのwavです(音量注意)]]></summary>
         <author>
             <name>ss-sahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バレンタインにコンビニで買ったチョコは旨いか？]]></title>
-        <id>https://note.com/calpisco/n/ndc589b51a715</id>
-        <link href="https://note.com/calpisco/n/ndc589b51a715"/>
-        <updated>2021-02-14T09:42:01.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。
-calpiscoと申します。
-このnoteを書いている日はバレンタインなんですが、
-僕はコロナの影響のせいで今年はチョコをもらえませんでした。
-バレンタインの日に自分でチョコを買うのは嫌だという思いがあるのですが、
-たまたま今日は具合が悪く頭痛が酷い中で糖分が欲しくなり、
-「チョコを食べたいな」と思ったので、
-やむを得ず近くのセブンイレブンに足を運ぶと、
-バレンタイン限定のチョコが売ってたのでそれを買いました。
-
-続きをみる]]></summary>
-        <author>
-            <name>calpisco</name>
         </author>
     </entry>
 </feed>
