@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-13T04:57:34.444Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2022-02-13T05:12:00.980Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
     <entry>
