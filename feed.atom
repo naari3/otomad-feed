@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-13T13:14:29.622Z</updated>
+    <updated>2022-02-13T13:53:56.827Z</updated>
     <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[早く寝るために自分自身をハックする]]></title>
+        <id>hatenablog://entry/13574176438063014994</id>
+        <link href="https://honeshabri.hatenablog.com/entry/get_to_bed_early"/>
+        <updated>2022-02-13T13:24:32.000Z</updated>
+        <summary type="html"><![CDATA[ねないこおれだ。
+この問題に「QC的考え方」で立ち向かう。
+睡眠の危機
+寝るのが遅い。
+AutoSleepに記録されたログを見てそう思った。
+2022年1月の就寝時刻
+
+AutoSleep Watchを使って睡眠を自動で追跡します
+
+Tantsissa
+ヘルスケア／フィットネス
+¥610
+
+
+
+俺の起床時刻は平日が5:30で、休日が6:00である。対して寝る時刻は明らかに遅い。上記の期間における平均就寝時刻は23:48であった。単純に考えると睡眠時間は平日なら5:42、休日でも6:12しかないことになる*1。これは由々しき事態だ。
+ペンシルベニア大学のデーヴィッド・ディンゲスの「画面が光ったらボタンを押す」という集中力を測定する実験によれば*2、6時間睡眠を10日間続けると、パフォーマンスは24時間起き続けた場合と同じくらいに低下した。これは正常な場合と比較して、失敗が400%も多い。しかも実験期間中はパフォーマンスの低下が止まらなかったという。
+世の中には短い睡眠時間でパフォーマンスを発揮できる人もいるらしいが*3、少なくとも俺は違うという実感がある。ディンゲスもこれまでの被験者の中で、短い睡眠時間でパフォーマンスを維持していた人は1人もいないと述べている。つまり1月に入ってからの俺は、徹夜明けみたいなパフォーマンスしか発揮できていなかったのだろう。
+睡眠時間と集中力
+睡眠不足によって低下するのは集中力だけではない。記憶力、代謝、テストステロンの分泌量までが低下するという。逆に食欲は増え、特に高カロリーな食事を好むようになるというから厄介だ。カルフォルニア打開学バークレー校教授のマシュー・ウォーカー曰く、「食事、運動、睡眠のうち、健康のためにもっとも大切なのは、睡眠である」*4。
+丁寧な暮らしを送るため、俺はこの「寝るのが遅い問題」を解決することにした。
+生活的品質管理
+…]]></summary>
+        <author>
+            <name>本しゃぶり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QVC福島ガバシーン集８中身一覧]]></title>
         <id>https://note.com/furadiru_99/n/nee506c24330d</id>
