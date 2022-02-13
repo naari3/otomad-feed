@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "osmosfeed",
-    "lint": "ts-node check-osmosfeed.ts --lint",
-    "fix": "ts-node check-osmosfeed.ts --fix"
+    "lint": "myfeed-linter --lint",
+    "fix": "myfeed-linter --fix"
   },
   "repository": {
     "type": "git",
@@ -23,14 +23,6 @@
     "@osmoscraft/osmosfeed": "^1.13.0"
   },
   "devDependencies": {
-    "@types/command-line-args": "^5.2.0",
-    "@types/diff": "^5.0.2",
-    "@types/node": "^17.0.17",
-    "command-line-args": "^5.2.1",
-    "diff": "^5.0.0",
-    "js-yaml": "^4.1.0",
-    "ts-node": "^10.5.0",
-    "tslib": "^2.3.1",
-    "typescript": "^4.5.5"
+    "@naari3/myfeed-linter": "^1.0.0"
   }
 }
