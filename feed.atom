@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-13T22:14:09.934Z</updated>
+    <updated>2022-02-13T23:13:58.942Z</updated>
     <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -12419,16 +12419,6 @@ YATTA! × 安達としまむら
 今回はここまでです。次は4月ぐらいまでに書けたらいいなぁ…]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テレキャスターゲイボーイ]]></title>
-        <id>https://ss-sahara.work/?p=627</id>
-        <link href="https://ss-sahara.work/telecaster-gay-boy/"/>
-        <updated>2021-02-14T10:52:50.000Z</updated>
-        <summary type="html"><![CDATA[およそ3年ぶりにメイン垢で投稿しました　とりあえず投稿できてよかった…… 動画ではSE入れたりぶった切ったりしてるので、それ無しのwavです(音量注意)]]></summary>
-        <author>
-            <name>ss-sahara</name>
         </author>
     </entry>
 </feed>
