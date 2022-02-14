@@ -500,6 +500,12 @@
       ]
     },
     {
+      "title": "とっくりメモ",
+      "feedUrl": "https://hty.hateblo.jp/rss",
+      "siteUrl": "https://hty.hateblo.jp/",
+      "articles": []
+    },
+    {
       "title": "メモタルト",
       "feedUrl": "https://immortalt.hatenablog.com/rss",
       "siteUrl": "https://immortalt.hatenablog.com/",
@@ -7220,5 +7226,5 @@
       ]
     }
   ],
-  "cliVersion": "1.13.0"
+  "cliVersion": "1.14.1"
 }
