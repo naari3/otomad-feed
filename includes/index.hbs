@@ -32,8 +32,10 @@
                   <div class="article-summary-box-inner">
                     <span>{{description}}</span>
                   </div>
-                  {{#if enclosure}}
-                    <img src="{{enclosure.url}}" class="card article-thumbnail"/>
+                  {{#if imageUrl}}
+                    <img src="{{imageUrl}}" class="card article-thumbnail" data-image />
+                  {{else if enclosure}}
+                    <img src="{{enclosure.url}}" class="card article-thumbnail" data-enclosure />
                   {{/if}}
                 </a>
               </details>
