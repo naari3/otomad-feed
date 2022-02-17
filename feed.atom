@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-17T21:14:14.465Z</updated>
+    <updated>2022-02-17T22:14:13.532Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「秘伝化したJenkinsと共に動いているレガシーなDockerをバージョンアップする」をやった]]></title>
+        <id>hatenablog://entry/13574176438064605106</id>
+        <link href="https://naari.hatenablog.com/entry/2022/02/18/070442"/>
+        <updated>2022-02-17T22:04:42.000Z</updated>
+        <summary type="html"><![CDATA[仕事でレガシーなEC2インスタンス上にあるレガシーなJenkinsと共に動いているDockerエンジンをアップデートする対応を行った。その際の備忘録を書いておく。
+tl;dr
+状況としては以下の通り
+Jenkinsでのデプロイに使用しているDockerのバージョンが古すぎる
+
+
+17.04
+JenkinsとDockerはEC2インスタンス上で一緒に動いている
+Jenkinsが動いているEC2インスタンスを複製してJenkins Agentとして起動した
+master側のDockerをアップデートし、古いDockerと新しいDockerそれぞれを好きに使い分けられる状態にした
+くわしく
+Jenkinsの上で動いているDockerのバージョンが古すぎるため、新し目のalpineを使用したイメージを扱えない問題が発生していた。詳細は以下を参照してほしいが、ようは musl が扱う新しい命令を runc が対応しきれていない、という問題だった。
+It's time to update Docker Engine | GitLab
+Release Notes for Alpine 3.14.0 - Alpine Linux
+インターフェイスが大きく変わるわけでもないし、エイヤでDockerをアップデートしてしまっても良い気がしたが、このJenkinsが場当たり的に管理されてきた経緯もあり、自分自身が全てのJobについて「責任を持って管理できている」と言えるではなかった。そのため、もし問題が発生しても良いようにする方法を考える必要があった。以下のようなものが浮かび、以下のような懸念が浮かんだ。
+AMIのバックアップを取ってからDockerをバージョンアップして、問題があったらバックアップからリストアする
+
+
+別の対応でJobを新しく定義などしており、巻き戻すと新たなコストが発生しかねない
+別インスタンスでDockerを起動して、 DOCKER_HOST をそちらに向け変えることでいつでも切り替えられるようにする
+
+
+たしか別ホスト上のDockerにボリュームってマウントできないよね、既存のJobの要件によっては動かない
+AMIのバックアップ経由でEC2インスタンスを複製し、Jenkins Agentを起動できる環境を用意した上でそちらだけDockerをバージョンアップする
+
+
+これまでのJobがこれまで通りに動くことが期待できる
+Job単位でmaster/Agentを切り替えることも可能
+というわけで新たにJenkins Agentを建てることになった。といってもとても簡単で、masterのJenkinsからAgentの環境にSSHできるようにするだけで良い。一点、ログイン対象のユーザーのログインシェルが指定されていることが必要なので、 jenkins ユーザーを使いまわしたい場合はこれに気をつける必要がある。 $ chsh jenkins -s /bin/bash
+その上で、Job実行時のパラメーターとして実行対象のAgentを切り替える対応も行いたい。Pipelineで作成されていればJenkinsfileに手を入れてもらうだけで良いが、そうでない場合についてはJobの設定でどうにかする必要がある。単一のAgentに縛ることは素のJenkinsで既に達成可能だが、切り替えられるようにする場合は以下のプラグインを使用する。
+Node and Label parameter | Jenkins plugin
+このパラメーターを各Jobに仕込むことで、新しいDockerではJobが失敗してしまった場合に古いDockerが存在するAgentに切り替えて実行する、という対応が可能になる。
+あとは経過観察。すべてが新しいDockerでも問題なく動作して「ほら、エイヤで上げてもよかったじゃん」と笑いながら言えるようになることを期待している。
+本当はこのあたりの杜撰とも言えるJenkinsの状態を見直したいが、それにしてはあまりにも巨大なので、CasCプラグインなどを使ったコード化が充分に行われているJenkinsの作成を進めている。job-dslやDocker下での管理はまずますうまくいきそうなので、個人的にも期待している。]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界を救う男のショー]]></title>
         <id>https://note.com/customer_center/n/nf21099ad2c54</id>
