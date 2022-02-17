@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-17T14:17:54.553Z</updated>
+    <updated>2022-02-17T15:20:03.930Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界を救う男のショー]]></title>
+        <id>https://note.com/customer_center/n/nf21099ad2c54</id>
+        <link href="https://note.com/customer_center/n/nf21099ad2c54"/>
+        <updated>2022-02-17T15:00:05.000Z</updated>
+        <summary type="html"><![CDATA[某日、日本武道館＿＿＿＿
+
+続きをみる]]></summary>
+        <author>
+            <name>こちらカスタマーセンター</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Collabの使い方]]></title>
         <id>https://ytpmv.info/?p=1249</id>
