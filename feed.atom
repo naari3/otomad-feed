@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-17T23:14:16.502Z</updated>
+    <updated>2022-02-18T00:58:27.030Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MCUおもろ]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n8a770c7a4330</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n8a770c7a4330"/>
+        <updated>2022-02-17T23:23:46.000Z</updated>
+        <summary type="html"><![CDATA[最近、マーベルシネマティックユニバース(以下MCU)の映画を追ってます。追うのめっちゃ大変だけど面白いです。今ウィンターソルジャーまで見ました。
+個人的にはキャプテンアメリカが好きです。
+プロパガンダ臭の強いデザインと性格を上手く時代錯誤な頑固者として落とし込みながら、それでいてカッコよく活躍するんだから面白い。俳優の細かい演技も好きです。余談ですけどあのガリガリのロジャースがCGで作られてるのを知って驚愕しました。
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[壺5分切り達成、仕事、などがありました]]></title>
         <id>hatenablog://entry/13574176438064606573</id>
