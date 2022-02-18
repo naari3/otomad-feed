@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-18T02:06:47.893Z</updated>
+    <updated>2022-02-18T03:15:23.251Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -12660,18 +12660,6 @@ CPU structとInstructionの実装を行き来しているなど
 *2:BRK, RTI]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Futurefunk好きなオタクがガチで選ぶFuturefunk10選]]></title>
-        <id>https://note.com/kyugata/n/n5d89a98f67b2</id>
-        <link href="https://note.com/kyugata/n/n5d89a98f67b2"/>
-        <updated>2021-02-18T15:02:01.000Z</updated>
-        <summary type="html"><![CDATA[皆さ～ん！ダッキングしてますか～？
-……。
-続きをみる]]></summary>
-        <author>
-            <name>きゅう / Q-Rabbit</name>
         </author>
     </entry>
 </feed>
