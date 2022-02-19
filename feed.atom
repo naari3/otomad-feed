@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-19T10:24:02.998Z</updated>
+    <updated>2022-02-19T11:12:28.922Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[６分Ⅲ]]></title>
+        <id>https://note.com/klunakapa/n/n9d4718fa698d</id>
+        <link href="https://note.com/klunakapa/n/n9d4718fa698d"/>
+        <updated>2022-02-19T10:48:34.000Z</updated>
+        <summary type="html"><![CDATA[お題箱：https://odaibako.net/u/Klunakapa
+
+続きをみる]]></summary>
+        <author>
+            <name>かっぱ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やんごてえ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1164.html</id>
