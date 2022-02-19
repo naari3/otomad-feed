@@ -3,6 +3,7 @@ cacheUrl: https://naari3.github.io/otomad-feed/cache.json
 cacheMaxDays: 365
 sources:
   # hatenablog
+  - href: https://287mia.hateblo.jp/rss
   - href: https://49six.hatenablog.jp/rss
   - href: https://8181chttest.hatenablog.com/rss
   - href: https://atarabi.hateblo.jp/rss
