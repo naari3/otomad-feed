@@ -1202,6 +1202,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/13574176438065434984",
+          "author": null,
+          "description": "昨日、こんな記事を書いた→ 「僕の心のヤバいやつ」用のRSSフィードを作成した - 名有りさんの日記 が、実はマンガクロスでも連載中*1の潮が舞い子が舞いも見たいことがわかった。ので、やはり実装を適切に抽象化し、複数作品に対して対応できるようにした。\nmangacross-rss\nhttps://naari3.github.io/mangacross-rss/yabai/feed.xml\nhttps://naari3.github.io/mangacross-rss/shiomai/feed.xml\nおそらく事実上は全ての漫画クロス作品に対応できたので、このリポジトリで全部をクロールできるようにする選択肢もあったが、しないようにした。もし他のマンガクロス作品が見たかったらご自分でフォークしてもらうと良さそう。src/main.rs の TARGETS を好きに変えることで達成できると思う。\n*1:本流は別冊少年チャンピオンで連載中",
+          "link": "https://naari.hatenablog.com/entry/2022/02/20/181337",
+          "publishedOn": "2022-02-20T09:13:37.000Z",
+          "wordCount": 109,
+          "title": "マンガクロスの作品のRSSフィードを作成できるようになった",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/13574176438065232165",
           "author": null,
           "description": "https://naari3.github.io/bokuyaba-rss/feed.xml\nGitHub - naari3/bokuyaba-rss\nosmosfeedを使って自分のためのアンテナ(RSSリーダー)を作成する - 名有りさんの日記 でいろいろなRSSフィードを漁るようになったんだけれど、webで読めるタイプのマンガにRSSフィードはあまり無かったりするっぽいかった。ので、それこそosmosfeedよろしくでGitHub Actionsを使用して定期的に僕ヤバを見に行き、記事一覧をRSSフィードにするやつを作った。↑のリンクからどうぞ。\nマンガクロスはSPAっぽくなっていて、アクセスした時にマンガの情報APIを叩く。これに各話、巻についての情報が付いてくるので、これをRSSのフィードにした。アクセスしてjsonをRustっぽく扱うのはふつうにserde, serde_jsonで、RSSフィードを作るためには GitHub - rust-syndication/rss: Library for serializing the RSS web content syndication format を使用した。\nあとはふつうに .github/workflows を設置した。r7kamuraさんの r7k をそのまま持ってきたようなものにした。動きとしては、\nまず tag.yml でmainブランチを監視、Cargo.toml の version が新しくなっていたら新しいタグを作る。\n次に、release.yml で新しいタグの作成を検知して新しいリリースを切る。\n最後に、build-rs.yml で新しいリリースの作成を検知して各OS向けのバイナリを作る。\n追加で1時間に1回バイナリをダウンロードして実行、gh-pagesに公開するやつを仕込んだ。\nのだけれど、GitHub Actionsのタグ/リリース生成に対して、GitHub Actionsが発火してくれなかった。僕のアカウントからのタグ/リリース作成には反応するのに。これが今解決できないのでタグが作成された後にのリリース作成は手動でやっている。これを解決したい。ので、もし知っていたらなにか教えて下しあ。\n(追記)どうやらGitHub Actionsに自動的に付与されるGITHUB_TOKENには特別な制約があるとのことだった。発火したActionからさらに別のActionが発火できないようになっているらしい。\nAutomatic token authentication - GitHub Docs\nWhen you use the repository's GITHUB_TOKEN to perform tasks, events triggered by the GITHUB_TOKEN will not create a new workflow run. This prevents you from accidentally creating recursive workflow runs. For example, if a workflow run pushes code using the repository's GITHUB_TOKEN, a new workflow will not run even when the repository contains a workflow configured to run when push events occur.\n\n\nまあそれはそうかも、よく見るとr7kamuraさんのymlも PERSONAL_ACCESS_TOKEN を指定していたので、そうするようにしたら動くようになった。めでたし。",
