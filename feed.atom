@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-20T18:16:35.750Z</updated>
+    <updated>2022-02-20T19:12:45.976Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[adobe製品のインストールで「必要なアップデート」というエラーが出る]]></title>
+        <id>https://note.com/aun6june/n/nb30794868370</id>
+        <link href="https://note.com/aun6june/n/nb30794868370"/>
+        <updated>2022-02-20T18:58:30.000Z</updated>
+        <summary type="html"><![CDATA[先日仕事でAfter Effectsのバージョンを2018(15.0.0)に下げる必要があり、インストーラーを起動しようとしたところ「必要なアップデート」と表示されインストールができない状況になった。
+こんなウィンドウが出て先に進めない
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[画面をにぎやかに♪ニコニコモンズのオススメ動画素材]]></title>
         <id>hatenablog://entry/13574176438065405051</id>
