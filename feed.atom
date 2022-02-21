@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-21T15:16:28.512Z</updated>
+    <updated>2022-02-21T16:20:22.709Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岸だけが寝ちゃう街１選　結果発表]]></title>
+        <id>https://note.com/tough_mad/n/nfa365bef3d09</id>
+        <link href="https://note.com/tough_mad/n/nfa365bef3d09"/>
+        <updated>2022-02-21T15:21:14.000Z</updated>
+        <summary type="html"><![CDATA[第一位　岸だけが寝ちゃう街
+  
+続きをみる]]></summary>
+        <author>
+            <name>タフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#リプで来た単語でロゴを作って動かす「ムネオハウス」]]></title>
         <id>hatenablog://entry/13574176438065840868</id>
