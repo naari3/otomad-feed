@@ -1681,20 +1681,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613694738317",
-          "author": null,
-          "description": "GitHub - naari3/emu6502: Implementation 6502 emulator in Rust for hobby\n\n6502のエミュ実装したhttps://t.co/NvQYHK8lgm\nちゃんとフィボナッチ数を計算してくれてよかった pic.twitter.com/wp1Y02cUNA\n— 名有り (@naari_) 2021年2月21日\n  \n完全な状態かというと全くそうではなく、ただ単にここに書いてある情報を実装した*1。\nファミコンのエミュというわけでもないので達成しなければならない要件はとてもシンプルで、そのため難易度は全然高くなく、全体を通してとてもすんなりと通った。\n言うことのないレベルでシンプルだったが、現状使ったことのなかった割り込み処理の鱗片*2が見れたこと、各PSの正しい使われ方、ほか詳細な動きを知ることができたところだった。\n今回は実装のための言語としてなんとなくRustを使用したが、\nパターンマッチがかなりおいしかった(コンパイルエラーになってくれるのは精神衛生上良かった)\n静的コンパイラの推論がすごくよかった\n再束縛が良かった\nくらいの恩恵を受けられた。あまりRustらしい使い方が出来たかというと正直微妙なところがある。\nCPUみたいな名前のtraitを用意すれば、各所でimplを作ることで「コントローラーを受け付けるような特殊IOを用意したCPUを実装」、みたいなのもやりやすくなるんだろうなと妄想した。\n実装として、\nあまり処理の棲み分けが出来ていない\n\n\nCPU structとInstructionの実装を行き来しているなど\n共通化がちょっと微妙っぽい\n&mut selfが多すぎる\n\n\nそんなものなんでしょうか\nなどが上げられる気がする　もっと綺麗にできそう\n*1:BRKとResetの情報は他のサイトを確認したがどこだったかわすれました\n*2:BRK, RTI",
-          "link": "https://naari.hatenablog.com/entry/2021/02/22/012505",
-          "publishedOn": "2021-02-21T16:25:05.000Z",
-          "wordCount": 121,
-          "title": "6502のエミュを実装した",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },

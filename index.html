@@ -18213,58 +18213,9 @@ The post アニメのスクショからタイトルと話数、時間を特定�
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-02-21">2021-02-21</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">6502のエミュを実装した</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/02/22/012505" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>GitHub - naari3/emu6502: Implementation 6502 emulator in Rust for hobby
-
-6502のエミュ実装したhttps://t.co/NvQYHK8lgm
-ちゃんとフィボナッチ数を計算してくれてよかった pic.twitter.com/wp1Y02cUNA
-— 名有り (@naari_) 2021年2月21日
-  
-完全な状態かというと全くそうではなく、ただ単にここに書いてある情報を実装した*1。
-ファミコンのエミュというわけでもないので達成しなければならない要件はとてもシンプルで、そのため難易度は全然高くなく、全体を通してとてもすんなりと通った。
-言うことのないレベルでシンプルだったが、現状使ったことのなかった割り込み処理の鱗片*2が見れたこと、各PSの正しい使われ方、ほか詳細な動きを知ることができたところだった。
-今回は実装のための言語としてなんとなくRustを使用したが、
-パターンマッチがかなりおいしかった(コンパイルエラーになってくれるのは精神衛生上良かった)
-静的コンパイラの推論がすごくよかった
-再束縛が良かった
-くらいの恩恵を受けられた。あまりRustらしい使い方が出来たかというと正直微妙なところがある。
-CPUみたいな名前のtraitを用意すれば、各所でimplを作ることで「コントローラーを受け付けるような特殊IOを用意したCPUを実装」、みたいなのもやりやすくなるんだろうなと妄想した。
-実装として、
-あまり処理の棲み分けが出来ていない
-
-
-CPU structとInstructionの実装を行き来しているなど
-共通化がちょっと微妙っぽい
-&amp;mut selfが多すぎる
-
-
-そんなものなんでしょうか
-などが上げられる気がする　もっと綺麗にできそう
-*1:BRKとResetの情報は他のサイトを確認したがどこだったかわすれました
-*2:BRK, RTI</span>
-                  </div>
-                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-enclosure />
-                                  </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-02-21T04:19:11.074Z">2022-02-21T04:19:11.074Z</time>
+    <time id="build-timestamp" datetime="2022-02-21T05:13:38.878Z">2022-02-21T05:13:38.878Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a></span>
   </footer>
   <script src="./index.js"></script>
