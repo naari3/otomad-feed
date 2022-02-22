@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-22T00:53:41.760Z</updated>
+    <updated>2022-02-22T01:59:25.850Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -14654,35 +14654,6 @@ The post アニメのスクショからタイトルと話数、時間を特定�
 続きをみる]]></summary>
         <author>
             <name>埜村武</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[222 日記#1]]></title>
-        <id>https://note.com/nejimakimia/n/nc15f3f9fbdd9</id>
-        <link href="https://note.com/nejimakimia/n/nc15f3f9fbdd9"/>
-        <updated>2021-02-22T13:16:15.000Z</updated>
-        <summary type="html"><![CDATA[生活の為に。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>ネジマキ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OTOMAD TRIBUTEに参加しました]]></title>
-        <id>https://note.com/nanana555/n/n12b81239600a</id>
-        <link href="https://note.com/nanana555/n/n12b81239600a"/>
-        <updated>2021-02-22T13:09:21.000Z</updated>
-        <summary type="html"><![CDATA[先日投稿されたOTOMAD TRIBUTEという合作に参加しました。担当したパートは「味仙+KAMAITACHI」のパートです。
-好きなMADで作っていいとのことだったので選曲時点で推してなんとか通ったので良かったです。ありがとう運営の皆さんと郭明優さん(味仙の創業者)
-【制作後記】
-前半パートはできるだけ構成として再現することを意識しました。素材配置からセリフ合わせまでかなり再現度に重きを置いて作りました。
-ただ、リメイクする上で高画質化をした部分も多いのでフォトショにかなり助けられました。
-
-続きをみる]]></summary>
-        <author>
-            <name>ふーふー</name>
         </author>
     </entry>
 </feed>
