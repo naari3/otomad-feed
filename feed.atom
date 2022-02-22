@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-22T15:16:05.232Z</updated>
+    <updated>2022-02-22T16:21:05.652Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[合作の進捗確認について]]></title>
+        <id>https://note.com/26435/n/n3980f918dd45</id>
+        <link href="https://note.com/26435/n/n3980f918dd45"/>
+        <updated>2022-02-22T15:37:11.000Z</updated>
+        <summary type="html"><![CDATA[合作に参加すると定期的に進捗を確認するが通例になっているのだが最近はあれに意味があるのかどうか考えている。
+確かに進捗を確認する事は大事だ。
+だがそれで進捗が出なかった場合でも、特に何も起こらない。
+続きをみる]]></summary>
+        <author>
+            <name>Theas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深夜に音MAD作者達が人狼やった話]]></title>
         <id>https://note.com/customer_center/n/n0dafe263252d</id>
