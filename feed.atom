@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-23T03:15:22.951Z</updated>
+    <updated>2022-02-23T04:18:23.181Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -14590,26 +14590,6 @@ twitter.com
 ここを見てる方が居たら参考にしてください。]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OTOMAD TRIBUTEについて]]></title>
-        <id>https://note.com/youtt6/n/n51dd741e0576</id>
-        <link href="https://note.com/youtt6/n/n51dd741e0576"/>
-        <updated>2021-02-23T15:40:16.000Z</updated>
-        <summary type="html"><![CDATA[初めましての方は初めまして。youtt6です。
-最近色々な方がnoteを活用しているので私も始めて見ました。
-ただそんなに書くこともないので先日投稿された合作の自分のパートのお話をしようかと思います。
-
-
-
-
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>youtt6</name>
         </author>
     </entry>
 </feed>
