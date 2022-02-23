@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-23T02:11:00.120Z</updated>
+    <updated>2022-02-23T03:15:22.951Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -14610,19 +14610,6 @@ twitter.com
 続きをみる]]></summary>
         <author>
             <name>youtt6</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[徹底追及！なぜシコ狼サはできなくなったのか？]]></title>
-        <id>https://note.com/somethingofmok/n/n7931e10233bc</id>
-        <link href="https://note.com/somethingofmok/n/n7931e10233bc"/>
-        <updated>2021-02-23T15:10:48.000Z</updated>
-        <summary type="html"><![CDATA[※なんか晒上げみたいなの出てくるけどそういう意図はないです。文脈見たらどう見ても言いがかりなの分かると思うけど。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>かっぱずしのnote</name>
         </author>
     </entry>
 </feed>
