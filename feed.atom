@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-24T15:20:04.018Z</updated>
+    <updated>2022-02-24T16:20:54.704Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[南原]]></title>
+        <id>https://note.com/tough_mad/n/n7fa12a4a8251</id>
+        <link href="https://note.com/tough_mad/n/n7fa12a4a8251"/>
+        <updated>2022-02-24T15:29:56.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>タフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220224「元気はないけど」]]></title>
         <id>hatenablog://entry/13574176438066848258</id>
