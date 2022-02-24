@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-23T23:15:24.294Z</updated>
+    <updated>2022-02-24T00:57:43.170Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD素材スターターキットについて]]></title>
+        <id>https://note.com/26435/n/n454e5bce8eff</id>
+        <link href="https://note.com/26435/n/n454e5bce8eff"/>
+        <updated>2022-02-24T00:25:21.000Z</updated>
+        <summary type="html"><![CDATA[メモ帳代わりに使ってるので乱雑にまとめます
+欲しい
+続きをみる]]></summary>
+        <author>
+            <name>Theas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[制作後記]]></title>
         <id>https://note.com/customer_center/n/n3ff9fa104c06</id>
