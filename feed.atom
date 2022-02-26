@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-26T00:52:42.327Z</updated>
+    <updated>2022-02-26T01:57:35.996Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[攻守兼備]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1165.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1165.html"/>
+        <updated>2022-02-26T00:52:47.000Z</updated>
+        <summary type="html"><![CDATA[ずっぽりやりました  荒波です稲妻まで来た  稲妻があまり好きではないモンドや璃月のゆったりとした雰囲気のほうが性に合っているな出会う人々にもあまり興味がわかないので一回テキトーにキャラ任務でも挟むか……という気分ただ野伏の居合斬りを北斗でカウンターするのはクソ楽しいくそみたいなスクショが大量にあるメシの画像ばっかりだった夜中原変なイスカぐっでい]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ヒョンニム】ニコニコからの削除理由を考察、そこには意外な真相が【サランヘヨ】]]></title>
         <id>https://note.com/ssaymds/n/n236cb20ace17</id>
