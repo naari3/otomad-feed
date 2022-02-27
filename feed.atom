@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-27T14:13:41.411Z</updated>
+    <updated>2022-02-27T15:14:48.337Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ご報告】いつも応援して下さっているファンの皆様へ]]></title>
+        <id>https://note.com/tough_mad/n/n67733153dd53</id>
+        <link href="https://note.com/tough_mad/n/n67733153dd53"/>
+        <updated>2022-02-27T15:08:14.000Z</updated>
+        <summary type="html"><![CDATA[この度私タフは、かねてよりお付き合いさせていただいていた餡砂糖さんと結婚いたしましたことをご報告します。これからは二人で力を合わせ、幸せな家庭を築いていきながら、芸能活動の方もより一層頑張っていきます。これからも応援よろしくお願いします。
+まん　餡砂糖
+続きをみる]]></summary>
+        <author>
+            <name>タフ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[心療内科]]></title>
         <id>https://note.com/ebideath/n/n008bceb36111</id>
