@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-28T15:15:53.778Z</updated>
+    <updated>2022-02-28T16:23:53.913Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【音MAD】ガチの初心者必見！伸びる動画の作り方！]]></title>
+        <id>https://note.com/kari_yadokari/n/n2517e77d1cc0</id>
+        <link href="https://note.com/kari_yadokari/n/n2517e77d1cc0"/>
+        <updated>2022-02-28T15:43:11.000Z</updated>
+        <summary type="html"><![CDATA[結論：本当の初心者が伸びるには運が必要としか言いようがないです
+
+
+続きをみる]]></summary>
+        <author>
+            <name>yadokari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[色全部Hello Colorに決めてもらったらいい感じの配色なる説]]></title>
         <id>hatenablog://entry/13574176438064464768</id>
