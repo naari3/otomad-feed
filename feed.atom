@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-02-28T23:15:31.135Z</updated>
+    <updated>2022-03-01T01:03:53.508Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -15186,27 +15186,6 @@ The post 【メモ】ffmpegでファイルの一括エンコード first appeare
 続きをみる]]></summary>
         <author>
             <name>きゅう / Q-Rabbit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4月から活動縮小します（引退はしません）]]></title>
-        <id>hatenablog://entry/26006613698006391</id>
-        <link href="https://shima1296.hatenablog.com/entry/2021/03/01/205254"/>
-        <updated>2021-03-01T11:52:54.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、ShiMaです。
-突然ですが、2021年4月2日以降、活動を縮小することになりました。
-理由は、リアルの都合とだけ言わせてください。
- 
-今後の活動指針についてもお伝えしておきます。
-今使っているtwitterアカウント（@ShiMa1296 ）は、非公開アカウントとさせていただきます。用途としては今までに引き続き、日常的なことやくだらないことをつぶやいていきます。
-今後作品を発表したりするときには、@ShiMa2401 を使っていきます。
-順次動かしていきますので、フォローよろしくお願いします。
-twitter.com
-まだ引退はしませんが、投稿頻度は落ちると思います。
- 
-4月以降もどうかよろしくお願いいたします。]]></summary>
-        <author>
-            <name>ShiMaのブログ</name>
         </author>
     </entry>
 </feed>
