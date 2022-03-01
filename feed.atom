@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-01T21:14:05.181Z</updated>
+    <updated>2022-03-01T22:14:23.630Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -15201,30 +15201,6 @@ The post 【メモ】ffmpegでファイルの一括エンコード first appeare
 続きをみる]]></summary>
         <author>
             <name>雨天雨衣</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぼくの音楽のモチベーション]]></title>
-        <id>https://note.com/kyugata/n/nc8c9b5078f16</id>
-        <link href="https://note.com/kyugata/n/nc8c9b5078f16"/>
-        <updated>2021-03-02T09:33:15.000Z</updated>
-        <summary type="html"><![CDATA[どうも、燃費悪いトラックメーカーのきゅうです。
-いきなりですが、ぼくの音楽のモチベは何だと思いますか？
-続きをみる]]></summary>
-        <author>
-            <name>きゅう / Q-Rabbit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[約一年近くnoteをやりはじめて思ったこと]]></title>
-        <id>https://note.com/kyugata/n/nc666522faba2</id>
-        <link href="https://note.com/kyugata/n/nc666522faba2"/>
-        <updated>2021-03-02T09:21:13.000Z</updated>
-        <summary type="html"><![CDATA[どうも、中堅noterになりたいきゅうです。
-まあいうてぼくも初心者noterなんですけど。
-続きをみる]]></summary>
-        <author>
-            <name>きゅう / Q-Rabbit</name>
         </author>
     </entry>
 </feed>
