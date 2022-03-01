@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-01T14:14:30.483Z</updated>
+    <updated>2022-03-01T15:20:12.190Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[真・カスMAD Advent Calendar開会式]]></title>
+        <id>https://note.com/customer_center/n/ncb3112d7c3a8</id>
+        <link href="https://note.com/customer_center/n/ncb3112d7c3a8"/>
+        <updated>2022-03-01T15:00:11.000Z</updated>
+        <summary type="html"><![CDATA[この度はカスMAD Advent Calendarをご愛読頂きありがとうございます。
+
+本日、皆様に大切なお知らせがございます。
+
+続きをみる]]></summary>
+        <author>
+            <name>こちらカスタマーセンター</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【音MAD】ガチの初心者必見！伸びる動画の作り方！]]></title>
         <id>https://note.com/kari_yadokari/n/n2517e77d1cc0</id>
