@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-04T13:20:24.038Z</updated>
+    <updated>2022-03-04T14:18:49.019Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[空いた時間を使ってExcelでVBAを使わずにWordleを作ってみた]]></title>
+        <id>https://note.com/calpisco/n/ncf2c86e450a0</id>
+        <link href="https://note.com/calpisco/n/ncf2c86e450a0"/>
+        <updated>2022-03-04T13:56:42.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+一昔前に『ExcelでVBAを使わずにドラクエを作ってみた』というのが流行ってたのを覚えている人はいますか？（調べたら２年前でそんな昔じゃなかった）
+最近仕事中Excelを使う機会が多くなったので、Excelを触っていたらふとそれを思い出し、
+Wordleぐらいなら自分でも関数だけで作れるのでは？
+と思い立ったので、作ってみました。
+
+続きをみる]]></summary>
+        <author>
+            <name>calpisco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220303「才能とトレードオフ」]]></title>
         <id>hatenablog://entry/13574176438069212054</id>
