@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-04T15:18:41.817Z</updated>
+    <updated>2022-03-04T16:24:59.524Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『劇場版 少女☆歌劇 レヴュースタァライト』を観たよ～]]></title>
+        <id>https://note.com/readybug_/n/ne7e00f379255</id>
+        <link href="https://note.com/readybug_/n/ne7e00f379255"/>
+        <updated>2022-03-04T16:19:29.000Z</updated>
+        <summary type="html"><![CDATA[『少女☆歌劇 レヴュースタァライト』。
+初めてタイトルを聞いた時から、その妙な響きが忘れられない。
+何人もの友人から「劇場のスクリーンで見るべきだ」という話を聞いていた。しかしながら、流行り物に背を向ける天邪鬼は今日に至るまで劇場に足を運ぶことが無かった。
+続きをみる]]></summary>
+        <author>
+            <name>れでぃば</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[空いた時間を使ってExcelでVBAを使わずにWordleを作ってみた]]></title>
         <id>https://note.com/calpisco/n/ncf2c86e450a0</id>
