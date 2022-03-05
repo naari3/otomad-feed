@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-05T07:14:24.964Z</updated>
+    <updated>2022-03-05T08:17:08.758Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おい引きこもり]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1166.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1166.html"/>
+        <updated>2022-03-05T07:41:30.000Z</updated>
+        <summary type="html"><![CDATA[何もしていない……なにも起きてはらがみして寝る生活です  たのし～それしか書くことがないのでそれを書く稲妻のメインクエストが一応？ 終わりました社奉行と協力して倒幕するのかと思いきや抵抗軍のメカジキ二番隊隊長になり、幕府軍との戦争が楽しめるのかと思いきやいきなり神子さんの命で城へカチコミする事になり、これまた唐突に淑女をシバいて終わりというスピード感あふれるストーリーだった登場人物のほとんどが無能で泣]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220304「Q&A」]]></title>
         <id>hatenablog://entry/13574176438069542318</id>
