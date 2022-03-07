@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-07T18:18:36.908Z</updated>
+    <updated>2022-03-07T19:13:03.844Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -16211,24 +16211,6 @@ Unicode14.0に準拠して一部文字のコード位置を移動
 The post 【メモ】ffmpegでファイルの一括エンコード first appeared on YTPMV.info.]]></summary>
         <author>
             <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日記をサボりすぎました。]]></title>
-        <id>https://note.com/nejimakimia/n/n74f94085a418</id>
-        <link href="https://note.com/nejimakimia/n/n74f94085a418"/>
-        <updated>2021-03-08T06:37:26.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。ネジマキです。
-日記、完全にサボってました。すみませんでした。
-何も長続きしないです。理由としては、
-・日記は日の終わりに書くべきだが、その時間にはもう眠くなってたりで結局書かずに寝ちゃうのがオチ。
-・作編曲作業で何かと忙しかった
-・スマブラが楽しすぎる
-って感じですね。最悪、最低。醜悪、険悪。
-とくに「日記は日の終わりに書くべき」という固定概念が邪魔してきていたような気がするので、これからはモノがひと段落したら書くようにしようかと思います。それでいいのか？
-続きをみる]]></summary>
-        <author>
-            <name>ネジマキ</name>
         </author>
     </entry>
 </feed>
