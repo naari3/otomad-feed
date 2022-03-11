@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-11T11:12:47.906Z</updated>
+    <updated>2022-03-11T12:25:07.507Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[かいけつゾロリ　食べるぜ！昆虫のおやつ]]></title>
+        <id>https://note.com/ssaymds/n/n089af46c9982</id>
+        <link href="https://note.com/ssaymds/n/n089af46c9982"/>
+        <updated>2022-03-11T11:26:07.000Z</updated>
+        <summary type="html"><![CDATA[どうせ死ぬのにSNSで女フォローしてるみなさん、こんにちは
+今度こそ音マッソ投稿しました
+この前運営にいたずらされてマジ無期懲役だったのでモチベーションだだ下がりかと思いきや意外とすぐ新しい動画作れましたね
+今年初音MADですね、見たい人はどうぞ↓
+続きをみる]]></summary>
+        <author>
+            <name>ておつく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[風邪引くなよ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1167.html</id>
