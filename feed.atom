@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-11T03:16:35.376Z</updated>
+    <updated>2022-03-11T04:20:06.703Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[風邪引くなよ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1167.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1167.html"/>
+        <updated>2022-03-11T03:51:01.000Z</updated>
+        <summary type="html"><![CDATA[ようやく暖房がいらない季節になってきました  荒波ですクレカのポイントが4000円分くらい貯まっていたのですが、確認したその日に半分失効しました残り2000円チョイで怒りのミラV購入ええ、相変わらず終わり続けていますはらがみしかやってないのではらがみの話聖遺物周回という名の血晶石マラソンがはじまりつつある良い血晶石を求めて地底へ潜り続けたあの日々を思い出しますソシャゲらしくスタミナを消費するので好きなだけ周]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ゾロリRTA]たからさがしバンジー研究]]></title>
         <id>https://note.com/howtopourbeer/n/n51c6dab2d915</id>
