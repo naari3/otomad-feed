@@ -9309,15 +9309,6 @@
           "publishedOn": "2021-04-01T14:04:43.000Z",
           "wordCount": 390,
           "title": "自動で音合わせ動画を生成するソフト　RPPtoAEP【REAPER+AfterEffects】"
-        },
-        {
-          "id": "https://ytpmv.info/?p=1110",
-          "author": "maimai",
-          "description": "Windowsでmkvを纏めてmp4にしたいことが多々あるのでメモ。 作業したいフォルダにBatを作成してPowerShellで実行。 ffmpegへのパスは通ってる前提です。\nThe post 【メモ】ffmpegでファイルの一括エンコード first appeared on YTPMV.info.",
-          "link": "https://ytpmv.info/?p=1110&utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590%25e3%2583%25a1%25e3%2583%25a2%25e3%2580%2591ffmpeg%25e3%2581%25a7%25e3%2583%2595%25e3%2582%25a1%25e3%2582%25a4%25e3%2583%25ab%25e3%2581%25ae%25e4%25b8%2580%25e6%258b%25ac%25e3%2582%25a8%25e3%2583%25b3%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2589",
-          "publishedOn": "2021-03-13T09:27:49.000Z",
-          "wordCount": 317,
-          "title": "【メモ】ffmpegでファイルの一括エンコード"
         }
       ]
     }

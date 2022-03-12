@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-12T21:05:54.626Z</updated>
+    <updated>2022-03-12T22:04:03.690Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -16662,17 +16662,6 @@ Unicode14.0に準拠して一部文字のコード位置を移動
 私自身は鶴見線合作には全く関係がありません。]]></summary>
         <author>
             <name>若宮イヴだいすきクラブ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メモ】ffmpegでファイルの一括エンコード]]></title>
-        <id>https://ytpmv.info/?p=1110</id>
-        <link href="https://ytpmv.info/?p=1110&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590%25e3%2583%25a1%25e3%2583%25a2%25e3%2580%2591ffmpeg%25e3%2581%25a7%25e3%2583%2595%25e3%2582%25a1%25e3%2582%25a4%25e3%2583%25ab%25e3%2581%25ae%25e4%25b8%2580%25e6%258b%25ac%25e3%2582%25a8%25e3%2583%25b3%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2589"/>
-        <updated>2021-03-13T09:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Windowsでmkvを纏めてmp4にしたいことが多々あるのでメモ。 作業したいフォルダにBatを作成してPowerShellで実行。 ffmpegへのパスは通ってる前提です。
-The post 【メモ】ffmpegでファイルの一括エンコード first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
 </feed>
