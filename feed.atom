@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-13T16:04:23.807Z</updated>
+    <updated>2022-03-13T17:05:00.406Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[界隈ZONEみたいな動画がみたいし...]]></title>
+        <id>https://note.com/ikamod/n/nbcc309668806</id>
+        <link href="https://note.com/ikamod/n/nbcc309668806"/>
+        <updated>2022-03-13T16:07:56.000Z</updated>
+        <summary type="html"><![CDATA[界隈ZONEみたいな動画がみたいし作りたい。 続きをみる]]></summary>
+        <author>
+            <name>🈂行</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漢検1級R4-1で初合格へ　残り98日]]></title>
         <id>https://note.com/dokozonosyake/n/n282a4e6171e9</id>
