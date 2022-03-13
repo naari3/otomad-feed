@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-13T07:04:07.011Z</updated>
+    <updated>2022-03-13T08:06:29.707Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[就活日記3「うんこ」]]></title>
+        <id>https://note.com/tekkin2note/n/nf9ae4fb3f3bc</id>
+        <link href="https://note.com/tekkin2note/n/nf9ae4fb3f3bc"/>
+        <updated>2022-03-13T07:20:40.000Z</updated>
+        <summary type="html"><![CDATA[他のやつが次々と内定を得ていく中、応募した会社を見事に全て落とされてオワタ状態になってしまうのではないかと危惧している。
+その恐怖からとりあえず応募企業の数だけ増やそうとしている。
+もう正直言うわ…こんなん人事が見たら100%落とされるだろうけど…
+業界とか職種とかどうでもいいから年収と労働条件がそこそこいい会社の内定くれ。それだけ。
+マジでどうでもいい。全然向いてない仕事でもいいわ。
+こう思うのは結局、俺が仕事のリターンは金以外に何もないと考えているからだろうな。あとは仕事に関する苦痛をどれだけ減らせるか、それが残業時間とか有休消化率。それ以外はもうなんでもいい。
+就活をしないといけない時点で「うんこ味のカレー」か「カレー味のうんこ」のどっちを食うか迫られてる状況みたいなもんなんだよな。結局うんこじゃんっていう。
+もしも3兆円貰ったら、大抵の人が今の職を辞めるはずだもんな。3兆円の暴力は全ての真実を暴く。
+
+SPIの勉強したくね〜
+試験監視型のSPIがあるらしい。なに？学生のWEBテストをずっと見てるだけで金貰ってる奴がいるってこと？IT企業ならまずそこを省力化せんかい
+続きをみる]]></summary>
+        <author>
+            <name>鉄筋</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220312「リポグラ日記　その１」]]></title>
         <id>hatenablog://entry/13574176438072464101</id>
