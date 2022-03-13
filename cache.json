@@ -4943,6 +4943,16 @@
       "siteUrl": "https://note.com/dokozonosyake",
       "articles": [
         {
+          "id": "https://note.com/dokozonosyake/n/n282a4e6171e9",
+          "author": null,
+          "description": "一気に暖かくなってきましたね。今年の春は春寒料峭という言葉を知らないようです。まぁ僕の住んでいるところだけかもしれませんが。\n自己採95点という無残な結果となった初挑戦、R3-3の試験からおよそ1ヶ月が経過しました。この1ヶ月間は割と忙しく、漢字学習は1級四字熟語をまとめたり配当漢字表を眺めたりということしかできませんでしたが、学校の定期考査や模試ラッシュが一段落したため、ここから次回R4-1の試験に向けてギアを上げていこうと思います。\n続きをみる",
+          "link": "https://note.com/dokozonosyake/n/n282a4e6171e9",
+          "publishedOn": "2022-03-13T13:09:53.000Z",
+          "wordCount": 52,
+          "title": "漢検1級R4-1で初合格へ　残り98日",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/7cec58ad5eda860981d11a4cf113f18e542cf2ca.jpg"
+        },
+        {
           "id": "https://note.com/dokozonosyake/n/n4b1a833e3432",
           "author": null,
           "description": "企画「実例に学ぶ音MAD映像の要素」の図形編シーズン1が終了しました。\n長かったですね〜（サボっていたので2ヶ月以上かかってしまいました…）\n全10回をここで振り返っておきましょう。\n\n図形編テーマカラー: #BF3F6C - moderate pink\n続きをみる",
@@ -6995,6 +7005,23 @@
       ]
     },
     {
+      "title": "Near",
+      "feedUrl": "https://note.com/near_rhythm/rss",
+      "siteUrl": "https://note.com/near_rhythm",
+      "articles": [
+        {
+          "id": "https://note.com/near_rhythm/n/ndb8215a67337",
+          "author": null,
+          "description": "こんにちは。Nearと申します。\n私は今YouTubeとニコニコ動画で「リズム天国MAD」を中心に動画投稿をしています(まだまだ編集技術はアレですが…)。\n続きをみる",
+          "link": "https://note.com/near_rhythm/n/ndb8215a67337",
+          "publishedOn": "2022-03-06T11:21:21.000Z",
+          "wordCount": 125,
+          "title": "リズム天国オリジナルリミックス(MAD)のつくり方(準備編)",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/3a174f48ea22c90a78c821a397256816f7e5b66a.jpg"
+        }
+      ]
+    },
+    {
       "title": "ネジマキ",
       "feedUrl": "https://note.com/nejimakimia/rss",
       "siteUrl": "https://note.com/nejimakimia",
@@ -8313,6 +8340,23 @@
           "publishedOn": "2021-12-05T15:37:51.000Z",
           "wordCount": 37,
           "title": "テスト"
+        }
+      ]
+    },
+    {
+      "title": "たこーちき",
+      "feedUrl": "https://note.com/takoo/rss",
+      "siteUrl": "https://note.com/takoo",
+      "articles": [
+        {
+          "id": "https://note.com/takoo/n/nedaacfa3c90c",
+          "author": null,
+          "description": "REAPER+Nameryを使用した音声切り分け - ユッ記REAPERとNameryを使用した音声切り分けを解説します 従来の音声切り分けはsound engine freeを使用taiuo443.hatenablog.com \nこの記事をベースに、自分なりの音声切り分けについて書こうと思います。\n続きをみる",
+          "link": "https://note.com/takoo/n/nedaacfa3c90c",
+          "publishedOn": "2022-03-13T12:22:58.000Z",
+          "wordCount": 146,
+          "title": "REAPER+Pythonを使用した音声切り分け(たいうおさんの記事を受けて)",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9f7db2d041515a242c5dec0707ecbd250249b3a7.jpg"
         }
       ]
     },

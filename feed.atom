@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-13T13:07:07.136Z</updated>
+    <updated>2022-03-13T13:34:18.002Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[漢検1級R4-1で初合格へ　残り98日]]></title>
+        <id>https://note.com/dokozonosyake/n/n282a4e6171e9</id>
+        <link href="https://note.com/dokozonosyake/n/n282a4e6171e9"/>
+        <updated>2022-03-13T13:09:53.000Z</updated>
+        <summary type="html"><![CDATA[一気に暖かくなってきましたね。今年の春は春寒料峭という言葉を知らないようです。まぁ僕の住んでいるところだけかもしれませんが。
+自己採95点という無残な結果となった初挑戦、R3-3の試験からおよそ1ヶ月が経過しました。この1ヶ月間は割と忙しく、漢字学習は1級四字熟語をまとめたり配当漢字表を眺めたりということしかできませんでしたが、学校の定期考査や模試ラッシュが一段落したため、ここから次回R4-1の試験に向けてギアを上げていこうと思います。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REAPER+Pythonを使用した音声切り分け(たいうおさんの記事を受けて)]]></title>
+        <id>https://note.com/takoo/n/nedaacfa3c90c</id>
+        <link href="https://note.com/takoo/n/nedaacfa3c90c"/>
+        <updated>2022-03-13T12:22:58.000Z</updated>
+        <summary type="html"><![CDATA[REAPER+Nameryを使用した音声切り分け - ユッ記REAPERとNameryを使用した音声切り分けを解説します 従来の音声切り分けはsound engine freeを使用taiuo443.hatenablog.com 
+この記事をベースに、自分なりの音声切り分けについて書こうと思います。
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[就活日記3「うんこ」]]></title>
         <id>https://note.com/tekkin2note/n/nf9ae4fb3f3bc</id>
@@ -688,6 +712,18 @@ www.inside-games.jp
 オタク君さぁ…]]></summary>
         <author>
             <name>kaikityouの日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リズム天国オリジナルリミックス(MAD)のつくり方(準備編)]]></title>
+        <id>https://note.com/near_rhythm/n/ndb8215a67337</id>
+        <link href="https://note.com/near_rhythm/n/ndb8215a67337"/>
+        <updated>2022-03-06T11:21:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。Nearと申します。
+私は今YouTubeとニコニコ動画で「リズム天国MAD」を中心に動画投稿をしています(まだまだ編集技術はアレですが…)。
+続きをみる]]></summary>
+        <author>
+            <name>Near</name>
         </author>
     </entry>
     <entry>
