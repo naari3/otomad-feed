@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-15T12:10:04.979Z</updated>
+    <updated>2022-03-15T13:13:05.789Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近観て良かった短編アニメ（Naraka Bladepoint: Crimson & Winter Animated Short）]]></title>
+        <id>hatenablog://entry/13574176438073060575</id>
+        <link href="https://kasutera2nd.hatenablog.com/entry/2022/03/15/211719"/>
+        <updated>2022-03-15T12:17:19.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com
+
+『NARAKA:BLADEPOINT』というバトルロイヤルゲームのプロモアニメ。
+ Final FrontierとLe Cube studiosという海外のスタジオが制作。監督はRalph Karam。
+海外アニメですが、アクションのタメツメはかなり日本っぽい印象です。
+www.finalfrontier.tv
+www.lecube.tv
+1:15辺りからのカットが好き。ショックコマをはさみ、雪山から黒っぽい空間への場面転換。
+空間を縦横無尽に動き回り、ドラゴン（？）にメタモルしたりと、外連味あふれる表現が観ていて楽しい。
+トランジションが滑らかでかっこよくて、特に1:33辺りの目へのズームインからの回想への転換が良い。
+www.youtube.coｍ
+
+日本語吹き替えもある。直訳感あるタイトルがキュート。]]></summary>
+        <author>
+            <name>茶箪笥の奥</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お茶お稽古記録1]]></title>
         <id>https://note.com/zejin/n/n3c02d4fbb91d</id>
