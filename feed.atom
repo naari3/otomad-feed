@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-18T14:08:51.244Z</updated>
+    <updated>2022-03-18T15:04:10.548Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -18,6 +18,17 @@
 続きをみる]]></summary>
         <author>
             <name>Near</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇和島でソメイヨシノが開花]]></title>
+        <id>hatenablog://entry/13574176438074328663</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220317/Someiyoshino"/>
+        <updated>2022-03-17T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[宇和島市がソメイヨシノの開花を宣言 (愛媛新聞ONLINE)
+同じく独自で開花を発表している宿毛市の16日に続いて全国で二番目の開花でした。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
