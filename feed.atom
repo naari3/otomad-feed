@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-21T01:32:01.414Z</updated>
+    <updated>2022-03-21T02:31:10.406Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17357,30 +17357,6 @@ Unicode14.0に準拠して一部文字のコード位置を移動
 続きをみる]]></summary>
         <author>
             <name>エルミナス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャニマス2nd Day2 感想]]></title>
-        <id>https://note.com/ikuiku195/n/n4547e52b8dfd</id>
-        <link href="https://note.com/ikuiku195/n/n4547e52b8dfd"/>
-        <updated>2021-03-21T14:01:01.000Z</updated>
-        <summary type="html"><![CDATA[とりあえず下手なりに適当に感想書き連ねてみます。
-北海道住みで現地行くのは距離的にも金銭的にも余裕がないのでオンライン視聴。配信始まる2時間くらい前からメチャクチャ緊張してたな、現地行ったらどうなるんだろ
-続きをみる]]></summary>
-        <author>
-            <name>魔導音主</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2ndのday１の殴り書きじゃ！]]></title>
-        <id>https://note.com/klunakapa/n/n102f28b6011c</id>
-        <link href="https://note.com/klunakapa/n/n102f28b6011c"/>
-        <updated>2021-03-21T13:34:15.000Z</updated>
-        <summary type="html"><![CDATA[いきなりシャイノグラフィーで泣かせてきたのでセトリを組んだ人は多分人を泣かせるのが趣味です。
-だまゆがひおりのところを寄せて歌ってるの、本当になんでそんなに俺を泣かせたいんだ
-続きをみる]]></summary>
-        <author>
-            <name>かっぱ</name>
         </author>
     </entry>
 </feed>
