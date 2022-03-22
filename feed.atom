@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-22T19:06:20.920Z</updated>
+    <updated>2022-03-22T20:04:28.116Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17605,24 +17605,6 @@ Unicode14.0に準拠して一部文字のコード位置を移動
 　それでは！]]></summary>
         <author>
             <name>ximcoの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[otoMRN-BirthFes.kiss☆　詳細]]></title>
-        <id>https://note.com/elminus/n/n33139b8b40c8</id>
-        <link href="https://note.com/elminus/n/n33139b8b40c8"/>
-        <updated>2021-03-23T07:12:44.000Z</updated>
-        <summary type="html"><![CDATA[○動画
-
-
-
-
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>エルミナス</name>
         </author>
     </entry>
 </feed>
