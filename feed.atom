@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-22T20:04:28.116Z</updated>
+    <updated>2022-03-22T21:05:39.210Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17585,26 +17585,6 @@ Unicode14.0に準拠して一部文字のコード位置を移動
 続きをみる]]></summary>
         <author>
             <name>aun6june</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォント配布場所の移設]]></title>
-        <id>hatenablog://entry/26006613707534043</id>
-        <link href="https://ximco.hatenablog.com/entry/2021/03/23/180022"/>
-        <updated>2021-03-23T09:00:22.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、Ximcoです。僕を知らない人のために自己紹介をしておくと、普段はニコニコ動画というサイトでくだらない動画を投稿したり、Twitterでしょうもない愚痴を吐いたり、フォントを作ったりしています。
- 
-　今までニコニコのブロマガを使ってフォントの配布をおこなっておりましたが、ニコニコのユーザーブロマガがサービス終了を発表したことに際してフォントの配布場所を移設することにしました。
- 
-　色々なブログサイトやHP作成サイトを見てみたんですが多分はてブが一番使いやすそうなので、とりあえずはここを拠点にしたいと思います。（はてブまでサービス終了してしまったらまた拠点探しの旅に出かけることになりそうですが……笑）
- 
-　正直ニコニコのブロマガだとニコニコのフォロワーに通知が行くのでニコニコを拠点に活動していた僕としてはちょっと悲しいところはありますね。ただ決まってしまったものはしょうがないので、新たな拠点を求めてここに来たというわけです。昨今は色々なインターネットサービスが終了していく流れもあり、ネット上のコンテンツも不滅というわけにはいかないんだなあというのを実感しております。
- 
-　これから基本的にはフォントのバージョン更新ごとにここでフォントのDLリンク（今のところGoogle Driveで管理しています）を貼っていく形になると思います。フォント紹介用の画像とかも貼って紹介していければなと思います。正直僕はあまり文章力がある方ではないと思うので読みづらい部分等色々あるかとは思いますが、フォント公開時には見ていただければなと思います。
- 
-　それでは！]]></summary>
-        <author>
-            <name>ximcoの部屋</name>
         </author>
     </entry>
 </feed>
