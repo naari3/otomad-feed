@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-22T12:09:59.653Z</updated>
+    <updated>2022-03-22T13:13:56.864Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシア 日本との平和条約交渉を中断]]></title>
+        <id>hatenablog://entry/13574176438075636278</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220322/News"/>
+        <updated>2022-03-22T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[日本と平和条約交渉を中断　ウクライナ侵攻の制裁に対抗―関係一段と冷却化へ・ロシア (時事ドットコム)
+ロシア外務省は２１日、北方領土問題を含む日本との平和条約締結交渉を現状では継続するつもりはないと表明した。
+(中略)
+同省は声明で「ウクライナ情勢に関連して日本がロシアに対し行った一方的な規制が、明らかに非友好的であることを考慮し、措置を講じた」と強調。平和条約交渉に関し「公然と非友好的な立場を取り、わが国の利益を損なおうとする国と２国間関係の基本文書の調印を協議することは不可能だ」と主張した。
+北方四島のビザなし交流や９９年に始まった自由訪問の枠組みでのビザなし渡航の停止、２０１６年の日ロ首脳会談で合意した北方四島での共同経済活動をめぐる協議からの離脱も発表。２国間協力や日本の国益に与える損害の全ての責任は「互恵的協力や善隣関係の発展よりも、意図的に反ロ的路線を選んだ日本側にある」と非難した。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REAPERでMIDIファイルを読み込む方法]]></title>
+        <id>https://note.com/furadiru_99/n/n60365861b72d</id>
+        <link href="https://note.com/furadiru_99/n/n60365861b72d"/>
+        <updated>2022-03-22T12:55:26.000Z</updated>
+        <summary type="html"><![CDATA[MIDIファイルに連動してピッチが変わるらしい。
+￥REAPERの画面に.midファイルをD＆Dする。
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220321「たんぽるぽる　など」]]></title>
         <id>hatenablog://entry/13574176438075385540</id>
@@ -398,6 +424,24 @@ youtu.be
 続きをみる]]></summary>
         <author>
             <name>Near</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 「北方領土は『不法占拠』」と明言 / メドベージェフ元大統領 対日平和条約交渉は「儀式」だった]]></title>
+        <id>hatenablog://entry/13574176438075637527</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220317/News"/>
+        <updated>2022-03-17T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[首相、北方領土は「不法占拠」と明言  (産経ニュース)
+岸田文雄首相は１７日午前の参院予算委員会で、北方領土について「ロシアにより不法占拠されているという立場だ」と明言した。政府はロシアによるウクライナ侵攻を受け「法的根拠のない占拠」、「法的根拠を何ら有していないという意味で不法」などと表現していたが、自民党から「４文字で『不法占拠』と明言すべきだ」（佐藤正久外交部会長）との意見が出ていた。
+北方領土の表現をめぐり、政府は日露平和条約交渉を前進させる狙いから「日本固有の領土」や「不法占拠」といった表現を控えてきた。露軍によるウクライナ侵攻後は、首相が「固有の領土」との表現を復活させた。
+(後略)
+北方領土巡る対日協議、常に「単なる儀式」 (Bloomberg)
+ロシアのメドベージェフ前首相は自身の「テレグラム」チャンネルに、ロシアと日本が北方領土問題に関してコンセンサスを見つけることは決してなかっただろうと投稿した。
+現在はロシア安全保障会議の副議長を務めるメドベージェフ氏は両国がこれを理解していたとし、交渉は「常に儀式的な性質」を帯びていたと主張。ロシア憲法改正でいかなる領土の割譲も禁じられており、今では協議が全ての意味を失ったと説明した。
+Russia Ends Japan Peace Talks ‘Ritual’ After Ukraine Sanctions (Bloomberg)
+元の英語版記事。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
@@ -1101,6 +1145,17 @@ kai-you.net
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ロシア 北方領土を特区指定]]></title>
+        <id>hatenablog://entry/13574176438075634574</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220309/News"/>
+        <updated>2022-03-09T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[露、北方領土を「特区」指定　日露関係、さらに悪化へ  (産経ニュース)
+ロシアのプーチン大統領は９日、ロシアが不法占拠する北方領土を含むクリール諸島（北方領土と千島列島の露側呼称）に進出する国内外の企業を対象に、所得税などの各種税を原則的に２０年間免除する法案に署名し、発効させた。ロシアは北方領土を事実上の「経済特区」として企業を誘致し、実効支配を強める思惑だ。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[マジカルミライ2021楽曲コンテスト楽曲感想—「First Note」「密かなる交信曲」について―]]></title>
         <id>hatenablog://entry/13574176438071291733</id>
         <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/03/09/223934"/>
@@ -1216,6 +1271,21 @@ First Note…音楽について
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ロシア政府 日本を「非友好国」指定 / 日本政府「北方領土は『不法占拠』」の表現 復活]]></title>
+        <id>hatenablog://entry/13574176438075634116</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220308/News"/>
+        <updated>2022-03-08T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[ロシア、日本などを非友好国に指定「ルーブルで債務返済可能」 (毎日新聞)
+ウクライナへの侵攻を続けるロシア政府は7日、日本や欧米諸国など48の国・地域を「ロシアに対する非友好的な活動をする国・地域」に指定した。タス通信が伝えた。ウクライナ侵攻を受けた対露制裁への対抗措置で、非友好国への対外債務の返済をルーブルで行うことが可能となり、企業などの取引への規制も強化される。
+露の「非友好国」指定に日本抗議 (産経ニュース)
+松野博一官房長官は８日の記者会見で、ロシアが日本を「非友好国・地域」に指定したことを受け、ロシア側に外交ルートを通じて抗議したと明らかにした。「日本国民や企業の正当な利益が損なわれないよう求めた」と述べた。
+林外相、北方領土は「不法占拠」　ロシア侵攻で復活 (産経ニュース)
+林芳正外相は８日の記者会見で「ロシアによる北方領土の占拠は法的根拠のない占拠という認識だ。法的根拠を何ら有していないという意味で不法なものだ」と述べた。政府はこれまでロシア政府との領土交渉を進めるため「不法占拠」という表現を控えていたが、ウクライナ侵攻で姿勢を転換した。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[就活日記2「ビスケット・オリバ」]]></title>
         <id>https://note.com/tekkin2note/n/na5506dd1de96</id>
         <link href="https://note.com/tekkin2note/n/na5506dd1de96"/>
@@ -1318,6 +1388,17 @@ PCトラブル以外で人生とかも言及しといて欲しい
 *1:こういう時間の自己言及って最近の若いボカロPの方々の曲には多いですが、わりと有名にしたのはこの曲ではと思っています。あとはツミキ氏とかでしょうか。]]></summary>
         <author>
             <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相  「北方領土は『固有の領土』」と答弁]]></title>
+        <id>hatenablog://entry/13574176438075655369</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220307/News"/>
+        <updated>2022-03-07T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[北方領土は「固有の領土」　岸田首相 (時事ドットコム)
+岸田文雄首相は７日の参院予算委員会で、北方領土について「わが国の固有の領土、わが国が主権を有する領土だ」と明言した。立憲民主党の小西洋之氏への答弁。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
