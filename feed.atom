@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-23T00:12:29.882Z</updated>
+    <updated>2022-03-23T01:31:37.177Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17572,19 +17572,6 @@ Unicode14.0に準拠して一部文字のコード位置を移動
 続きをみる]]></summary>
         <author>
             <name>ネジマキ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セルフレジと20円引きのパン]]></title>
-        <id>https://note.com/aun6june/n/n554308665c5d</id>
-        <link href="https://note.com/aun6june/n/n554308665c5d"/>
-        <updated>2021-03-23T12:57:28.000Z</updated>
-        <summary type="html"><![CDATA[日記です。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>aun6june</name>
         </author>
     </entry>
 </feed>
