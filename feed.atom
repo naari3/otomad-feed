@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-25T11:08:35.239Z</updated>
+    <updated>2022-03-25T12:07:20.873Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ムネオハウスの思い出@二次元裏may]]></title>
+        <id>hatenablog://entry/13574176438076589379</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220325/p1"/>
+        <updated>2022-03-25T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[[二次元裏@ふたば] ムネオハウスの思い出 (404)
+日付変わった頃から朝方にかけてのスレッド。時間帯のおかげもあってか昨今の話題の影響は程々で、昔の話がポツポツと書き込まれていました。
+以下はFTBucketに残っていたスレッド冒頭部分のスクリーンショットになります。ご参考までに。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[報告(見なくていいです]]></title>
         <id>https://note.com/ssaymds/n/n5d4123deb736</id>
