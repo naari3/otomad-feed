@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-25T04:04:14.938Z</updated>
+    <updated>2022-03-25T05:04:01.691Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17728,19 +17728,6 @@ Unicode14.0に準拠して一部文字のコード位置を移動
 　目指せ世界一収録文字数の多いフォント！]]></summary>
         <author>
             <name>ximcoの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[325 日記＃3]]></title>
-        <id>https://note.com/nejimakimia/n/n1ca0695fe11a</id>
-        <link href="https://note.com/nejimakimia/n/n1ca0695fe11a"/>
-        <updated>2021-03-25T16:30:57.000Z</updated>
-        <summary type="html"><![CDATA[すみませんね。日記サボっちゃって。
-・一人プレミアラッシュ
-ギリギリ間に合いました。エンコード。死ぬかと思いました。
-続きをみる]]></summary>
-        <author>
-            <name>ネジマキ</name>
         </author>
     </entry>
 </feed>
