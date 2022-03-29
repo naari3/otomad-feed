@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-03-29T10:09:07.565Z</updated>
+    <updated>2022-03-29T11:19:50.685Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220329「読書日記」]]></title>
+        <id>hatenablog://entry/13574176438077911366</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/03/29/191737"/>
+        <updated>2022-03-29T10:17:37.000Z</updated>
+        <summary type="html"><![CDATA[ワクチンの副反応で寝込んだりしたことを経て複数の本を読み切ったので、感想を羅列するだけの日記です。長いです
+ 
+ 
+ 
+
+永井均「これがニーチェだ」
+ 
+　永井均氏によるニーチェ論です。周囲で読んでいる人が複数観測されたり、新書ならすぐ読めるだろうという先入観から読みました。時間はかかったし難しかったです。でも解説書抜きで論理哲学論考を読もうとした時のように完全に分からないというわけではなく、ゆっくり読んだら理解できる文章だと思いました。
+ 
+　第三空間は理解できたのだけど、第一空間と第二空間についてはよく分かってない。第一第二と第三の間でブランクを挟んだこともあるかもしれない…。最終的に到達した第三空間、永遠回帰のなかで肯定する姿勢というのはおおよそ元々僕がニーチェに持っていた認識とあまり変わらなかったです。だから第一と第二がわりと斬新な解釈なのかもしれないけど、理解できていない。
+ 
+　それでも第三空間の姿勢はかなり難しいことだと思うというか、それ自体矛盾したものを孕んでいることが言及されていたりはする。最終的に達した結論はすごい「「「究極」」」」みたいなオーラを放っているなあ、と思ったのですが「その側面を見逃してしまえば、第三空間はただ神々しく輝かしいだけのずいぶんとおめでたいものになるだろう。」と203ページにあるように、なんかすごいなあくらいではまだ「おめでたい」認識なのだろうと思います。
+ 
+ 
+ 
+isitsutbustu-todoke.hatenablog.com
+　しかし自分が考えていたこととおこがましくも繋がっていると感じた部分もありました。この日の日記で言及した箇所も然りです。
+ 
+ 
+ 
+ 
+生きていくうえで、自分の中で価値観や考え方というものがだんだん形成されていく。だけどその最も根元にあるものは何なのだろうということをふいに考えていた。自分の話で…]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220328「自転車と友人など」]]></title>
         <id>hatenablog://entry/13574176438077904172</id>
