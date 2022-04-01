@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-01T01:34:06.660Z</updated>
+    <updated>2022-04-01T02:40:55.485Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -18281,17 +18281,6 @@ Minecraft Java Edition SpeedrunningにてDivine Travelで検索するとよさ�
 続きをみる]]></summary>
         <author>
             <name>埜村武</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動で音合わせ動画を生成するソフト　RPPtoAEP【REAPER+AfterEffects】]]></title>
-        <id>https://ytpmv.info/?p=1114</id>
-        <link href="https://ytpmv.info/rpptoaep/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e8%2587%25aa%25e5%258b%2595%25e3%2581%25a7%25e9%259f%25b3%25e5%2590%2588%25e3%2582%258f%25e3%2581%259b%25e5%258b%2595%25e7%2594%25bb%25e3%2582%2592%25e7%2594%259f%25e6%2588%2590%25e3%2581%2599%25e3%2582%258b%25e3%2582%25bd%25e3%2583%2595%25e3%2583%2588%25e3%2580%2580rpptoaep%25e3%2580%2590reaperaftereffects"/>
-        <updated>2021-04-01T14:04:43.000Z</updated>
-        <summary type="html"><![CDATA[皆さん御機嫌よう。まいまいです。 今回はREAPERのプロジェクトファイル上のメディアオブジェクトの位置をもとに、AfterEffects上にアイテムを配置するスクリプトを作成しました。 こんな感じのREAPERのプロジ […]
-The post 自動で音合わせ動画を生成するソフト　RPPtoAEP【REAPER+AfterEffects】 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
 </feed>
