@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-02T07:04:09.651Z</updated>
+    <updated>2022-04-02T08:07:07.011Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[何もかくことがありません]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1170.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1170.html"/>
+        <updated>2022-04-02T08:05:30.000Z</updated>
+        <summary type="html"><![CDATA[はらがみしかしてないもう4月ですが何もしていません何も…………俺も怖いよぱくっ     ぱくんってこいスロルのあにめよかった誰かフォワードを救ってくださいホレンテ島の2巻が出たからよみなさい精霊幻想記の最終話いいかげん観たいお腹が痛い気がするねむいぐっでい]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reactで日本語のクロスワードを扱うことができる @naari3/react-crossword-ja を作成した/「最強無敵スーパーウルトラ神神神合作」のクロスワードのWeb実装をつくった]]></title>
+        <id>hatenablog://entry/13574176438077449021</id>
+        <link href="https://naari.hatenablog.com/entry/2022/04/02/163359"/>
+        <updated>2022-04-02T07:33:59.000Z</updated>
+        <summary type="html"><![CDATA[きっかけ
+先日、最強無敵スーパーウルトラ神神神合作という音MAD合作が投稿された。
+
+
+
+最強無敵スーパーウルトラ神神神合作
+笑いや勢いが強いパートの多い音MAD合作で、個人的にとても好きなものだった。主催の微熱さんによってこの合作の制作進行についての記事が挙げられている。
+note.com
+こちらにも書いてあるが、この合作は告知としてクロスワードが使用された。先にTwitterに投稿されたものは一箇所ミスがあったようなので、今から解きたい人は上のnoteを参照してください。それで、記事内クロスワードの項目最後にこんなことが書かれていた。
+15x21マスのクロスワードをWeb上で遊べるようなサイトや仕組みが見つからなかったのですが、Webプログラミングできる人なら簡単に作れそう。なありさーーーん？
+
+
+
+おい pic.twitter.com/sC7VmpCjaM
+— なあり (@_naari_) 2022年3月27日
+  
+そりゃもうやるしかないよね、ということで制作に着手した。完成品は以下からどうぞ。スマホ未対応です。
+最強無敵スーパーウルトラ神神神合作 クロスワード
+
+パソコンからやってくださいhttps://t.co/liT7DsrcRJ https://t.co/vjFgRndRPp
+— なあり (@_naari_) 2022年3月29日
+  
+@jaredreisinger/react-crossword について
+この時、一番最初にやったのはクロスワードのためのライブラリ探しだった。仕組みをイチから作るのはあまりにも非効率的なので、使い回せるものは使いまわしたい。それですぐに以下のライブラリを発見できた。
+GitHub - JaredReisinger/react-crossword: A flexible, responsive, and easy-to-us…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220401「オールドファッション論」]]></title>
         <id>hatenablog://entry/13574176438079003530</id>
