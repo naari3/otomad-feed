@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-04T00:12:21.456Z</updated>
+    <updated>2022-04-04T01:34:11.315Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記]]></title>
+        <id>hatenablog://entry/13574176438079652628</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/04/04/095004"/>
+        <updated>2022-04-04T00:50:04.000Z</updated>
+        <summary type="html"><![CDATA[せっかく新年度になったので週一で日記でも書こうかなー、とか思ってます。多分日曜更新。めんどくさくなったら普通にやめるかもしれません。
+1日ごとに振り返るのか1週間をまとめて振り返るのかとかはその時の気分次第で決めます。
+身の回りの出来事は大体ツイートするので内容被りが頻発するかも。
+ 
+今週（先週？）は春休みの最終週でした。ばかなげ～～～～～と思ってた春休みもいつかは終わってしまうものなんですね。
+春休み前半は綺麗に昼夜逆転してたんですけどラヴィットにハマることで早めに元に戻せました。偉い。前から気になってはいたけどツイッターに上がってた山添卒業回の切り抜きが面白すぎて一気に見たくなってしまった。
+春休み終わったらリアタイ出来る頻度ガッツリ落ちるんですけど…
+ 
+あと、剣盾のランクマでマスターボール級に到達しました。
+
+ランクマは2年前に数戦やったぐらいで真剣にやるのは今シーズンが初めてだったんですけど、何とかマスボまで行けました。
+剣盾ほぼ初心者、禁伝環境完全初心者で50戦以内でマスボ行けたのは第7世代の経験が活きてるのかもしれませんね。（ポケモン初心者が何戦くらいで行けるのか知らないので普通に勘違い発言かもしれません）
+3月31日に滑り込みで入ったので今月は早めにマスボまで行って順位を上げたい。
+ 
+馬が走る順番を予想していたら月に入るお金の4分の1ほどを失くしてしまったので、来週取り返す。
+ 
+以上]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋葉原の「丸五」というとんかつ屋で特ロースカツをいただいた]]></title>
         <id>hatenablog://entry/13574176438079611554</id>
