@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-04T12:10:35.093Z</updated>
+    <updated>2022-04-04T13:08:51.559Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[漢検1級配当漢字の主な読み分け表（暫定版）プレゼントはこちら]]></title>
+        <id>https://note.com/dokozonosyake/n/nc3fa4c259e73</id>
+        <link href="https://note.com/dokozonosyake/n/nc3fa4c259e73"/>
+        <updated>2022-04-04T12:30:13.000Z</updated>
+        <summary type="html"><![CDATA[しゃけです。
+R4-1試験まで80日を切りましたが、勉強の進捗はいかがでしょうか。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220403「二匹目の金魚／好きなツイート」]]></title>
         <id>hatenablog://entry/13574176438079679549</id>
