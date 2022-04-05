@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-05T16:04:25.568Z</updated>
+    <updated>2022-04-05T17:06:35.454Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -18576,17 +18576,6 @@ Minecraft Java Edition SpeedrunningにてDivine Travelで検索するとよさ�
 続きをみる]]></summary>
         <author>
             <name>かっぱ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モンシロさぁ(蝶に詳しいドナルド)]]></title>
-        <id>https://note.com/yabaiwayo/n/n074dad26bb09</id>
-        <link href="https://note.com/yabaiwayo/n/n074dad26bb09"/>
-        <updated>2021-04-06T04:45:08.000Z</updated>
-        <summary type="html"><![CDATA[・・・
-続きをみる]]></summary>
-        <author>
-            <name>プリコネの年末年始はヤバイわよ！</name>
         </author>
     </entry>
 </feed>
