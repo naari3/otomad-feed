@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-04T23:05:08.062Z</updated>
+    <updated>2022-04-05T00:12:08.170Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -18536,20 +18536,6 @@ Minecraft Java Edition SpeedrunningにてDivine Travelで検索するとよさ�
 続きをみる]]></summary>
         <author>
             <name>大内乙打</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『あらびき音MAD2021』開催のお知らせ]]></title>
-        <id>https://note.com/nomuratakeshi/n/n59019cc49ad9</id>
-        <link href="https://note.com/nomuratakeshi/n/n59019cc49ad9"/>
-        <updated>2021-04-05T11:52:58.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。埜村武です。
-まさかとは思いますが、今年もやります。
-
-『あらびき音MAD』とは　
-続きをみる]]></summary>
-        <author>
-            <name>埜村武</name>
         </author>
     </entry>
 </feed>
