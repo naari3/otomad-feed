@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-05T06:04:36.696Z</updated>
+    <updated>2022-04-05T07:04:05.747Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -18522,20 +18522,6 @@ Minecraft Java Edition SpeedrunningにてDivine Travelで検索するとよさ�
 続きをみる]]></summary>
         <author>
             <name>プリコネの年末年始はヤバイわよ！</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第②回大内生MAD動画選手権　開催のお知らせ]]></title>
-        <id>https://note.com/oouc2/n/n3b5b9889f467</id>
-        <link href="https://note.com/oouc2/n/n3b5b9889f467"/>
-        <updated>2021-04-05T18:13:09.000Z</updated>
-        <summary type="html"><![CDATA[ニコニコのブロマガ無くなるって言うから避難してきました、文章は同じです
-皆様お疲れ様です、音MAD界隈の地獄の案内人こと大内乙打です。
-皆さんは覚えておりますでしょうか、去年の５月頃音MAD界隈で開かれたどうしようもない内輪コンテストを。
-大内生はお陰様で放送２００回を突破してしまいました。なのでまたこのイベントを企画せざるを得ない状況になってしまいました。
-続きをみる]]></summary>
-        <author>
-            <name>大内乙打</name>
         </author>
     </entry>
 </feed>
