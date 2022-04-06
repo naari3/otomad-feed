@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-06T14:09:04.999Z</updated>
+    <updated>2022-04-06T15:09:49.188Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220405「書けないとき」]]></title>
+        <id>hatenablog://entry/13574176438080493050</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/04/06/234158"/>
+        <updated>2022-04-06T14:41:58.000Z</updated>
+        <summary type="html"><![CDATA[明け方くらいに寝て、起きたのが正午くらいだった。そこから本当に何をしたのか憶えていないが、いろいろしていたら夜になっているという謎の一日でした。22時くらいから書くべき原稿に手をつけはじめ、明け方の5時くらいに完遂した。日記では日頃1000～2000字ほど書いているが、やはりそれ以外の文章となると書く速度は遅くなってしまう。
+ 
+　いくつか理由があって、ひとつは題材への興味だろう。興味の度合いによって書きやすさは異なる。または文章に求められるものの違いかもしれない。日記はほぼモノローグのように好きにやっているが、論理だてて説明することが求められる文章（これが大半）や、あるいは他者の興味を引き付ける文章、描こうとしているものを読者に上手に伝えようとする芸術的な文章などがあり、それぞれ意識することは異なる。他にも無数に挙げられると思う。
+ 
+　書けないというかなんとなく詰まってしまうときは、終わりまでの見通しが立っていなかったりする不安ゆえなのだ…という結論に、過去何回か考えて至っている。目的地が分からないのに長い道を歩き続けるのは当然誰だって嫌だろう。しかし、やはり見通しが立っていても漫然と書けないな…みたいなタイミングは途中でだいたい来る。文章に限らずなんらかを作っていると必ずやってくるもので、細かい理由はあったりなかったりする。
+ 
+　まあそうして逡巡してもやるしかないという結論に帰着する。いまはやっていて楽しくなかったりしても、とりあえず手を動かすか…となるのである。だいたいこれを繰り返していて、それが少しだけ楽しかったりもする。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年1月～3月ぐらいに観たアニメ]]></title>
         <id>hatenablog://entry/13574176438063795217</id>
