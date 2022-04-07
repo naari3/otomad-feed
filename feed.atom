@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-07T15:09:01.984Z</updated>
+    <updated>2022-04-07T16:09:01.622Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -18692,39 +18692,6 @@ Minecraft Java Edition SpeedrunningにてDivine Travelで検索するとよさ�
 続きをみる]]></summary>
         <author>
             <name>かすてら</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これ気づいたんですけどURLになってないですね]]></title>
-        <id>https://note.com/klunakapa/n/n533b10f3f947</id>
-        <link href="https://note.com/klunakapa/n/n533b10f3f947"/>
-        <updated>2021-04-08T03:30:02.000Z</updated>
-        <summary type="html"><![CDATA[すいません
-続きをみる]]></summary>
-        <author>
-            <name>かっぱ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[頼んだものが来ません]]></title>
-        <id>https://note.com/klunakapa/n/ne146d62ea606</id>
-        <link href="https://note.com/klunakapa/n/ne146d62ea606"/>
-        <updated>2021-04-08T03:29:00.000Z</updated>
-        <summary type="html"><![CDATA[なんで即席麺みたいなやつ作んのに10分ぐらいかかってんの
-続きをみる]]></summary>
-        <author>
-            <name>かっぱ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[noteを更新しようと思います]]></title>
-        <id>https://note.com/klunakapa/n/nf5143a758a47</id>
-        <link href="https://note.com/klunakapa/n/nf5143a758a47"/>
-        <updated>2021-04-08T03:27:05.000Z</updated>
-        <summary type="html"><![CDATA[今ツイッター開いたらネタバレ踏みそうなので…
-続きをみる]]></summary>
-        <author>
-            <name>かっぱ</name>
         </author>
     </entry>
 </feed>
