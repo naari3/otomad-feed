@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-09T21:04:10.289Z</updated>
+    <updated>2022-04-09T22:04:17.794Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -34,6 +34,19 @@
 ギリギリ音MAD特集 - 2022/04/09(土) 21:00開始 - ニコニコ生放送 1時間35分頃
 なお放送最後に行われる「今日のMVP」を決めるアンケート対象9作品には採用されていませんでした。
 後日ニコニコ動画にアーカイブが投稿されるはずなので、確認後追記で貼り付けます。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワースフェニックス・ノカルド氏 仮放免後初コメント]]></title>
+        <id>hatenablog://entry/13574176438081479872</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220409/News"/>
+        <updated>2022-04-09T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[ロシア去る判断「正しかった」　国後島から泳ぎ渡航の男性 (共同通信)
+北方領土・国後島から「亡命のため泳いできた」と話し、難民認定を求めるロシア人男性ワースフェニックス・ノカルド氏（39）が9日までに共同通信の取材に応じ、ロシアのウクライナ侵攻を非難した上で、島を離れた判断は「正しかった」と振り返った。「ロシアに残っていたら、戦地に送り込まれていたかもしれない」と主張した。
+
+ノカルド氏は昨年8月、北海道標津町で警察に保護され、入管施設に収容された後に難民認定を申請。同10月に仮放免されて以降、メディアの取材に応じるのは初めて。渡航理由は「強権体制のロシアから離れたかった。プーチン政権に嫌気が差した」と話していた。]]></summary>
         <author>
             <name>muneo house information</name>
         </author>
