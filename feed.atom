@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-09T11:04:14.003Z</updated>
+    <updated>2022-04-09T12:04:32.118Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ばなないす]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1171.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1171.html"/>
+        <updated>2022-04-09T11:52:17.000Z</updated>
+        <summary type="html"><![CDATA[レヴューすたーらいとをみましたまだ映画はみていない6話くらいまで僕こういうの苦手だわと思いながらみてたけどバナナの回がまじでおもしろくてゲラゲラ笑ってからはあっという間だったバナナイスぜってー強キャラだろうなと思ってたら想像の5000倍強キャラでワロタ狂い散らかしとる人間じゃおいもの回のおいももおいしそうでよかったThis is おいも正直マヤさんのこと面白いお姉さんとしか見てないなんやねんThis is てんどうま]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久々のピノ　ピカピカ贈りもの（韻を踏んでいる）]]></title>
         <id>https://note.com/leaf_62289/n/n771fc2f084ba</id>
