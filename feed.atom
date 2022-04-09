@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-09T06:04:44.994Z</updated>
+    <updated>2022-04-09T07:03:58.716Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[久々のピノ　ピカピカ贈りもの（韻を踏んでいる）]]></title>
+        <id>https://note.com/leaf_62289/n/n771fc2f084ba</id>
+        <link href="https://note.com/leaf_62289/n/n771fc2f084ba"/>
+        <updated>2022-04-09T06:31:15.000Z</updated>
+        <summary type="html"><![CDATA[イタダキマーーーーーー
+続きをみる]]></summary>
+        <author>
+            <name>阿保草</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220408「プレイリスト24」]]></title>
         <id>hatenablog://entry/13574176438081170387</id>
