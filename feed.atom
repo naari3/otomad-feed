@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-11T17:11:55.661Z</updated>
+    <updated>2022-04-11T18:04:53.181Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -18925,17 +18925,6 @@ Minecraft Java Edition SpeedrunningにてDivine Travelで検索するとよさ�
 続きをみる]]></summary>
         <author>
             <name>プリコネの年末年始はヤバイわよ！</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美しい国、コメダにて。]]></title>
-        <id>https://note.com/leaf_62289/n/n61fd36a862f4</id>
-        <link href="https://note.com/leaf_62289/n/n61fd36a862f4"/>
-        <updated>2021-04-12T05:57:34.000Z</updated>
-        <summary type="html"><![CDATA[シロノワール フロマージュベリー & メロンソーダ。
-続きをみる]]></summary>
-        <author>
-            <name>阿保草</name>
         </author>
     </entry>
 </feed>
