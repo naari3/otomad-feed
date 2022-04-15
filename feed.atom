@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-15T13:09:12.269Z</updated>
+    <updated>2022-04-15T14:04:09.854Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『あらびき音MAD2022』開催のお知らせ]]></title>
+        <id>https://note.com/nomuratakeshi/n/nc71839e73ad6</id>
+        <link href="https://note.com/nomuratakeshi/n/nc71839e73ad6"/>
+        <updated>2022-04-15T13:55:52.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！埜村武です！！！！！！！！！
+毎年恒例、なんでもありの音MADイベント『あらびき音MAD』。今年もやります！！！！！！！！！！！！！
+『あらびき音MAD』とは　
+続きをみる]]></summary>
+        <author>
+            <name>埜村武</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220414「ナイト・イン・ザ・マクドナルド」]]></title>
         <id>hatenablog://entry/13574176438083010249</id>
