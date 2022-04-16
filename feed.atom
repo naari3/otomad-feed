@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-16T22:03:52.736Z</updated>
+    <updated>2022-04-16T23:04:05.068Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年、活動をほぼ休止します]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-79.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-79.html"/>
+        <updated>2022-04-16T22:37:00.000Z</updated>
+        <summary type="html"><![CDATA[ざっくり言うと●メドレー制作新規依頼の停止●Twitterの休止の2点です。（万が一事情が変わったらこの記事に追記します）]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パソコン買い換えた]]></title>
         <id>https://note.com/furadiru_99/n/nb9e2a2f7dc65</id>
