@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-16T14:04:38.486Z</updated>
+    <updated>2022-04-16T15:04:04.231Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パソコン買い換えた]]></title>
+        <id>https://note.com/furadiru_99/n/nb9e2a2f7dc65</id>
+        <link href="https://note.com/furadiru_99/n/nb9e2a2f7dc65"/>
+        <updated>2022-04-16T14:24:24.000Z</updated>
+        <summary type="html"><![CDATA[レ〇ボの下半身が貧弱なデスクトップパソコンが二年足らずで壊れた。中国製なのが悪いのかでかいのにいろいろ持ちまわしたのが悪いのか原因は不明。
+症状は「ログイン後に真っ黒な画面しか表示されない」といった感じ。
+OS故障が原因であるため、OSを初期化するしかないらしい。（ベスト電器で買ったのでそこで修理を依頼、修理費２万ほど）
+その際、データが消えるというのでAOSのデータ復旧サービスを利用した。
+復旧費約５万円！うせやろ！？（データを入れる外付けHDDは別費）
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BB素材を作る方法]]></title>
+        <id>https://note.com/furadiru_99/n/n77a0bd5611aa</id>
+        <link href="https://note.com/furadiru_99/n/n77a0bd5611aa"/>
+        <updated>2022-04-16T14:07:51.000Z</updated>
+        <summary type="html"><![CDATA[切り抜く動画をPNGやBMPで連番出力する。（プラグイン必須）
+
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220415「水の味」]]></title>
         <id>hatenablog://entry/13574176438083418076</id>
