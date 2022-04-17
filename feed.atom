@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-17T11:04:00.241Z</updated>
+    <updated>2022-04-17T12:05:34.739Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#3 4月3週]]></title>
+        <id>hatenablog://entry/13574176438083818273</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/04/17/202155"/>
+        <updated>2022-04-17T11:21:55.000Z</updated>
+        <summary type="html"><![CDATA[最近ずっと何かしらやらなきゃいけないことがある。大体大学の課題なんですけど。
+春休みはあんなに暇だったのに。
+暇なときに時間を預けておいて忙しくなったら引き出せる、時間銀行があればいいのにな。世にも奇妙な物語でありそう。
+なありさんとかプログラム強いみたいだし作ってくれないかな。
+ 
+大学のサークルの人と競馬の話で盛り上がった。その人は応援馬券を買ってるらしくて、俺も応援馬券を買ってみたくなったのでWINSっていう馬券売り場に初めて行ってみた。ネットだと応援馬券は買えないので。
+初めてで慣れてない＋営業時間ぎりぎりに行ったのもあってマークシート塗って馬券買ったらすぐ出てきちゃったけど、友達と行ったら一日中楽しめるかも。
+
+↑人生初紙馬券。がんばれ！って書いててかわいい。触感とかサイズがちょうどよくて、触ってるだけでドキドキしてくる。1000円が700円になりました。
+ 
+応援馬券以外にも色々と買った結果、去年の負け額と今月の負け額がほぼ同額になってしまいました。来月取り返す。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[何書けばいいですか]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1172.html</id>
