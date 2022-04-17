@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-17T04:05:10.575Z</updated>
+    <updated>2022-04-17T05:04:25.182Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1級大見出し語表 意味つきバージョンのプレゼントはこちら]]></title>
+        <id>https://note.com/dokozonosyake/n/n8e34d840c1a8</id>
+        <link href="https://note.com/dokozonosyake/n/n8e34d840c1a8"/>
+        <updated>2022-04-17T04:57:40.000Z</updated>
+        <summary type="html"><![CDATA[こんちは。しゃけです。
+毎度お世話になっております漢検1級模擬試験倉庫さん制作の「1級大見出し語表」に意味・解説をつけた表が完成したので、ここに貼っておきます。
+解説の文は基本的に漢検漢字辞典や漢字ペディアに準拠しています。ただし、「〇〇に同じ。」や「〇〇を参照。」「〇〇（書き換え）」として割愛されているものは「〇〇」の解説文で代えています。また、倉庫さんの元の表は1346語ですが、「瓊筵」が2個あったので、一方を消去して1345語となっています。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ほのぼの自分語り - DTMを始めたきっかけと「えびです」の由来]]></title>
+        <id>https://note.com/ebideath/n/nb466bfe55c0f</id>
+        <link href="https://note.com/ebideath/n/nb466bfe55c0f"/>
+        <updated>2022-04-17T04:31:16.000Z</updated>
+        <summary type="html"><![CDATA[DTMを始めたきっかけは？
+→セラニポージのワンルームサバイバルという曲を聴いて「作曲って無限の可能性がある！」って本気で思ったから
+セラニポージ「ワンルームサバイバル」
+
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年、活動をほぼ休止します]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-79.html</id>
