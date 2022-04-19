@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-19T02:42:28.325Z</updated>
+    <updated>2022-04-19T03:31:12.974Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -19380,18 +19380,6 @@ Minecraft Java Edition SpeedrunningにてDivine Travelで検索するとよさ�
 これを決定する際に30秒ほど一時停止しており、これによって物議を醸しているらしい]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年冬アニメ備忘録]]></title>
-        <id>https://note.com/kasutera20/n/n206d1caae441</id>
-        <link href="https://note.com/kasutera20/n/n206d1caae441"/>
-        <updated>2021-04-19T14:51:23.000Z</updated>
-        <summary type="html"><![CDATA[最近、数年前のアニメの話題を出されても内容を忘れてしまっていることが増えたので、やる気が続く限り書いていこうと思います。
-ウマ娘 プリティーダービー Season 2
-続きをみる]]></summary>
-        <author>
-            <name>かすてら</name>
         </author>
     </entry>
 </feed>
