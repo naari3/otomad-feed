@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-23T04:04:28.394Z</updated>
+    <updated>2022-04-23T05:04:21.074Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -19512,136 +19512,6 @@ CS255 暗号入門 (2018Q1)
         <summary type="html"><![CDATA[うんこを食べると死ぬって知ったときは本当に驚いたよね、だって生まれてからずっと面白いと思ってたものが命を奪うような危険なものだったから 続きをみる]]></summary>
         <author>
             <name>タフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft 1.16 RSG WR 9:38(とDivine Travel)についてのメモ]]></title>
-        <id>hatenablog://entry/26006613719899092</id>
-        <link href="https://naari.hatenablog.com/entry/2021/04/24/013616"/>
-        <updated>2021-04-23T16:36:16.000Z</updated>
-        <summary type="html"><![CDATA[www.youtube.com
-https://www.youtube.com/watch?v=iv5uKxCMEkM
-今回の記録の特筆すべきところ
-世界初の10分切り
-
-
-9:38
-前回のWRが11:01
-初のsub10
-悲願とも言える大記録
-最初の1.16の記録から比べて半分ほどの時間で終了している
-Divine Travel
-流れ
-村スタート
-
-
-ベッド
-アイアンゴーレム -> バケツ1つ
-村のリソースを大活用、という感じではない
-IGT 2:51 ネザーin
-
-
-はやい
-チャンク(0, 0)に化石があった
-
-
-Divine Travelに使用できる
-詳しくは後述
-速攻で砦とネザー要塞を発見
-
-
-ネザーinとほぼ同タイミング
-かなり早い段階で (IGT 5:30) 必要資材 (エンパ, 黒曜石) が集まる
-スポナー以前の自然湧きで充分量のブレイズ
-
-
-IGT 7:00 で収集完了
-ネザー -> 現世 で要塞に到着
-
-
-IGT 8:06
-Divine Travelによる恩恵もでかいが、それでも超豪運
-詳しくは後述
-隣にポータル部屋
-ベッド5個で終了
-IGT 9:38
-Divine Travel
-以下はほとんどこの動画の要約 https://www.youtube.com/watch?v=IKo-jrZSgWU
-チャンク(0, 0) の生成物より、要塞の座標を推測する技
-今年の2月末、3月はじめ頃に実用化された
-
-
-実用されたrunとしては今回が初の記録更新 たぶん
-要塞の生成方法
-初期スポーンより 半径 1280 - 2816 の輪に、 特定の角度 から120°ごとに1つずつ生成される
-
-
-つまり3つ生成される
-この時、 特定の角度 はシード値を元にした乱数生成器によって生成された最初の乱数を使用して決定される
-また、それぞれの要塞の初期スポーンからの 特定の距離 も乱数によって決定される
-
-
-1つ目の要塞であれば、乱数生成器の三番目の乱数が 特定の距離 になる
-乱数生成器と乱数について
-シード値を元にした乱数生成器は複数存在し、乱数生成器ごとに生成される乱数の順番は同じ
-
-
-どの乱数生成器であっても同じシード値を使用していれば、
-
-
-最初に生成される乱数は同じ
-二番目に生成される乱数は同じ
-三番目に生成される乱数は同じ
-・・・
-ｎ番目に生成される乱数は同じ
-アイデア
-別用途で使用される乱数を確認し、 角度 や 距離 を特定する
-化石を利用した乱数特定
-生成される化石の座標は以下のような関数によって決定される
-Fossil Coord = ( f(rng1) * Chunk X ^ g(rng1) * Chunk Z ) ^ rng1
-
-
-^ は XOR
-rng1 は乱数生成器によって生成される一番目の乱数
-Chunk X = 0 かつ Chunk Z = 0 のとき、以下のようになる
-
-
-Fossil Coord = ( f(rng1) * 0 ^ g(rng1) * 0 ) ^ rng1
-Fossil Coord = ( 0 ^ 0 ) ^ rng1
-Fossil Coord = 0 ^ rng1
-Fossil Coord = rng1
-→ チャンク 0 0 に化石が生成された場合、この座標を確かめることで 遺跡の角度 が特定できる！！！！
-その他の特定方法など
-https://cdn.discordapp.com/attachments/405839885509984256/817167014484901908/pngdivinetravelmdpi.png
-洞窟
-
-
-ravine
-air cave
-water cave
-nether cave
-ツンドラにいる動物
-ツンドラにいない動物
-特定の動物
-
-
-strider, rabbit, bear, panda, parrot
-turtle
-big ruined portal
-ツンドラ かつ
-
-
-rabbit bears
-https://docs.google.com/presentation/d/1mm1YGcUCrrW4s7KIBn9v89MhHUMrtqSPeOuu0dy62NQ/edit#slide=id.gd438437599_0_70
-Minecraft Java Edition SpeedrunningにてDivine Travelで検索するとよさそう
-今回の場合
-ネザーin時に見つかった化石がチャンク(0, 0)でfossil_8だった
-
-
-(0, 0) から (-251, -50) の方向
-これを決定する際に30秒ほど一時停止しており、これによって物議を醸しているらしい]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
 </feed>
