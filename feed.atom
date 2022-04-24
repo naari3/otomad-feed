@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-24T09:04:07.952Z</updated>
+    <updated>2022-04-24T10:04:24.400Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ぶったおれ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1173.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1173.html"/>
+        <updated>2022-04-24T09:43:01.000Z</updated>
+        <summary type="html"><![CDATA[また更新を忘れそうになった  荒波です先日一緒にAPEXをしてた友人がいきなり倒れる事件があった119しようにも住所がわからず、知ってそうな奴に電話かけまくっても出ない（深夜1時）のでそいつん家の近所にいる奴に連絡してダッシュしてもらいなんとか119できたものの、この時点で30分も経っており通話越しに聞こえていたうめき声も途中からパッタリ止んでいた為対応の遅さを悔みつつ祈ることしかできなかったしばらくして救急隊]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毛利小五郎死亡大量投稿を通じて理解したこと　流行のメゾットなど＃音NOTENOTE＃音MEZOTTO＃Mezzoっと＃＃リファテンス]]></title>
         <id>https://note.com/euro3/n/n067ce609a0f0</id>
