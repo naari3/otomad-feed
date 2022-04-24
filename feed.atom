@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-24T21:04:13.389Z</updated>
+    <updated>2022-04-24T22:06:02.531Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -19649,16 +19649,6 @@ CS255 暗号入門 (2018Q1)
 続きをみる]]></summary>
         <author>
             <name>ゆうしゃアシスタント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[うんこを食べると死ぬって知ったとき...]]></title>
-        <id>https://note.com/tough_mad/n/n1b2fe525d3ef</id>
-        <link href="https://note.com/tough_mad/n/n1b2fe525d3ef"/>
-        <updated>2021-04-25T10:03:05.000Z</updated>
-        <summary type="html"><![CDATA[うんこを食べると死ぬって知ったときは本当に驚いたよね、だって生まれてからずっと面白いと思ってたものが命を奪うような危険なものだったから 続きをみる]]></summary>
-        <author>
-            <name>タフ</name>
         </author>
     </entry>
 </feed>
