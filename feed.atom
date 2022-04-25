@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-25T09:09:15.882Z</updated>
+    <updated>2022-04-25T10:09:32.016Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iidx CS14 GOLD 好きな曲・譜面・思い出を語ろう！]]></title>
+        <id>https://note.com/ebideath/n/ncac67e317847</id>
+        <link href="https://note.com/ebideath/n/ncac67e317847"/>
+        <updated>2022-04-25T09:49:52.000Z</updated>
+        <summary type="html"><![CDATA[初めて買ったCS版beatmania iidxが14のGOLDでした。
+
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.04.25]]></title>
         <id>hatenablog://entry/13574176438084318713</id>
