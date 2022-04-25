@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-25T01:32:39.115Z</updated>
+    <updated>2022-04-25T02:39:22.782Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -19636,19 +19636,6 @@ CS255 暗号入門 (2018Q1)
 続きをみる]]></summary>
         <author>
             <name>とげ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lasorl 編集後記]]></title>
-        <id>https://note.com/yuusyaasisutanto/n/n8425619b8eaf</id>
-        <link href="https://note.com/yuusyaasisutanto/n/n8425619b8eaf"/>
-        <updated>2021-04-25T14:15:53.000Z</updated>
-        <summary type="html"><![CDATA[お元気ですか、わしは鼻毛
-今回初めてボカロを投稿するにあたって色々と考えていたことをまとめようかなと思って筆を執った次第でございます。
-画像の用意がめんどいのですべてテキストでの形となるので先に謝らせてください、うんち（謝罪の意）
-続きをみる]]></summary>
-        <author>
-            <name>ゆうしゃアシスタント</name>
         </author>
     </entry>
 </feed>
