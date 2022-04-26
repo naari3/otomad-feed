@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-26T10:09:03.543Z</updated>
+    <updated>2022-04-26T11:09:15.493Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[常用大見出し語表意味つきバージョン プレゼントはこちら]]></title>
+        <id>https://note.com/dokozonosyake/n/n1e9fdf7c1b89</id>
+        <link href="https://note.com/dokozonosyake/n/n1e9fdf7c1b89"/>
+        <updated>2022-04-26T10:25:03.000Z</updated>
+        <summary type="html"><![CDATA[様式などの詳細は、前回、前々回の記事をご覧ください。
+今回についても、PDFだけでなくExcel版も貼っておきます。データのコピー等にはExcel版が使いやすいかと思います。
+       常用大見出し語表 意味つきバージョン.pdf 1.51 MB  ファイルダウンロードについて      ダウンロード      
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#4 4月4週]]></title>
         <id>hatenablog://entry/13574176438086398413</id>
