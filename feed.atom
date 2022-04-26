@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-26T21:06:08.860Z</updated>
+    <updated>2022-04-26T22:04:14.287Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -19750,18 +19750,6 @@ streamable.com
 続きをみる]]></summary>
         <author>
             <name>丹波津</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年春M3お疲れさまでした。+今後のTCNCの運営について]]></title>
-        <id>https://note.com/kyugata/n/ncc32fe351b37</id>
-        <link href="https://note.com/kyugata/n/ncc32fe351b37"/>
-        <updated>2021-04-27T09:27:16.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、底辺音楽マンです！
-年に2回の音楽大好きマン達による最強の音楽展示即売会、M3に6回目の参加、3回目のサークル参加をしてきました。やっほ～～～～～！！！！
-続きをみる]]></summary>
-        <author>
-            <name>きゅう / Q-Rabbit</name>
         </author>
     </entry>
 </feed>
