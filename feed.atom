@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-26T14:07:29.175Z</updated>
+    <updated>2022-04-26T15:09:16.537Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MADとは何なのか@音MAD研究所(仮)]]></title>
+        <id>hatenablog://entry/13574176438086629268</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220426/p1"/>
+        <updated>2022-04-26T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[音MAD研究所(仮)｜note
+音MAD研究所(仮)さんのnoteの投稿。冒頭の時代背景年表とその解説の中で「現存する最古の音MAD」としてムネオハウスが挙げられていました。以下、該当箇所の引用。
+音MADが発達した時代背景年表
+
+まずは音MADが発達した時代背景を、ざっくりと書いていこうと思います。
+
+年表について解説
+
+　音MADは、2000年代を初めにマニアの間で作られるようになり、その後ニコニコ動画などを中心として発達していった。またYouTubeにあげられる音MADに類似するもので、主に海外圏からYTPmvと呼ばれる動画形式がある。
+
+　音MADの歴史は技術の進歩と共にある。インターネットの普及と、フラウンホーファー研究所が開発したmp3の普及によって、より自由なサンプリングが可能となったのだ。
+Flash黄金時代へと突入し、個人が作成した動画やゲームを目にする機会が一気に増えた。この頃、現存最古とされる音MAD「ムネオハウス」が流行する。当時はまだ高度な動画編集が難しかった為、画像にテキストなど、シンプルな構成の動画が数多く掲示板などに投稿されていった。
+プラグイン」がリリースされると、それまでよりも自由度の高い編集が可能となったのである。
+　
+ムネオハウスから2012年ごろまで、音MAD作者がネットレーベルを立ち上げレコードを発表することがあった。そこから「合作」と呼ばれる固定されたメドレー曲に合わせ、音源と映像を複数人で付け足していく形式が流行するなど、音中心の作品から、映像を中心とした作品が多く見られるようになったのもこの頃からである。
+
+(後略)
+音MADとは何なのか｜音MAD研究所(仮)｜note * 年表のスクリーンショットは記事投稿時点のもの
+「(元)放送部員の嘆き」による音MADの歴史の説明 (2012-03-16)
+「MADテープ」から「音MAD」までの道のり（その2）@ニュトーイのブロマガ (2013-03-31)
+音MADの源流とガ板文化【音MAD歴史考察】@ニュトーイのブロマガ (2016-11-27)
+KAI-YOU Premium コラム「ミームという亡霊は、いかにして“壁”を越えるか　日本アニメの脱文脈化を辿る」 (2021-07-24)
+最初期の音mad (2020-11-10)
+2010年代以降にニコニコ周辺の所謂"音MAD界隈"から発信されたこれ等の言説やSNSの投稿等が反映された形とお見受けします。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知床観光船遭難事故 ロシア側回答「関連情報に接すれば提供する」]]></title>
+        <id>hatenablog://entry/13574176438086631917</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220426/News"/>
+        <updated>2022-04-26T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[知床観光船遭難事故 陸上も含め広範囲で行方不明者を捜索 (NHKニュース)
+(前略)
+
+松野官房長官は閣議のあとの記者会見で「行方不明者が北方領土周辺海域に近づいている可能性があるがウクライナ情勢が捜索に及ぼす影響はあるか」と問われたのに対し「ロシアには相互に協力することを定めた2国間協定に基づき今回の事案の概要などを伝え、ロシア側からは『関連情報に接すれば提供する』などと回答を得ている。現在のところ捜索救助活動に特段の支障があると考えていないが、必要に応じ捜索海域を含め所要の調整を行っていく」と述べました。
+
+(後略)]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[常用大見出し語表意味つきバージョン プレゼントはこちら]]></title>
         <id>https://note.com/dokozonosyake/n/n1e9fdf7c1b89</id>
