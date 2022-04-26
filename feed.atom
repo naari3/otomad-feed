@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-26T13:21:43.289Z</updated>
+    <updated>2022-04-26T14:07:29.175Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -19714,18 +19714,6 @@ streamable.com
 続きをみる]]></summary>
         <author>
             <name>きゅう / Q-Rabbit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタンフォードのコンピュータサイエンスの授業の感想（後編）]]></title>
-        <id>https://note.com/ruiu/n/nfef30c84e383</id>
-        <link href="https://note.com/ruiu/n/nfef30c84e383"/>
-        <updated>2021-04-27T01:53:01.000Z</updated>
-        <summary type="html"><![CDATA[2017年にも同じタイトルの記事を書いたのだけど、その後無事にスタンフォード大学院のコンピュータサイエンス学部を卒業することができたので、前回の記事以降に取った授業について、僕なりの感想をちょっとまとめたい。
-CS255 暗号入門 (2018Q1)
-続きをみる]]></summary>
-        <author>
-            <name>Rui Ueyama</name>
         </author>
     </entry>
 </feed>
