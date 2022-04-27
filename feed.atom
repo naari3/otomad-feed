@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-27T17:11:33.391Z</updated>
+    <updated>2022-04-27T18:09:20.600Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[まともにクラッシュダンプを読んだらAbleton Liveのクラッシュを止めることができた]]></title>
+        <id>hatenablog://entry/13574176438086830023</id>
+        <link href="https://naari.hatenablog.com/entry/2022/04/28/023243"/>
+        <updated>2022-04-27T17:32:43.000Z</updated>
+        <summary type="html"><![CDATA[ずっとSoundtoysのプラグインが原因だと思っていたAbleton Liveのクラッシュが、ちゃんと追ってみると実はそうではなかったという話。
+割と前からTwitterで騒いでいたようにずっと困っていたんだけど、今回M3や荷鞍のための制作に対してちゃんと支障をきたしていたので真面目に調べてみた。
+
+Ableton liveにSoundtoysのプラグイン入れてつけっぱにしてたらぜったいこれなる pic.twitter.com/sfmOwUxjIJ
+— なあり (@_naari_) 2021年2月14日
+  
+
+soundtoysのプラグインには、一定時間ごとにDAWを閉じるという画期的な機能がついています
+— なあり (@_naari_) 2021年10月23日
+  
+まず、Soundtoysがわるいという先入観を捨て、クラッシュ時に生成されるメモリダンプを確認する。
+こんなファイル↓
+
+見つけたらこれをWinDbg Previewに突っ込む。
+ここにdmpファイルを入れる
+
+そしたら 0:000> の横にある空欄に !analyze -v を入れてEnterを叩く。
+すると、以下のような結果が得られる
+
+このうち注目すべきは赤線を引いた箇所で、ここを見るとどういった例外がどこで起きているのかが分かる。今回の場合は MeldaProductionAudioPluginKernelV1164 って書いてありますね…………………アクセス違反を起こしている……freeした後に触っちゃったのだろうか………………
+もしかすると、Soundtoysのプラグインが大きく目立っていたのはプラグインホストであるAbleton Liveが落ちたからであって、Ableton Liveを落とすと同時に大きく目立っていたわけではなかったのかもしれない。ずっと疑っててごめん。
+で、実際にAbleton Liveがクラッシュしないようにする必要があるわけだけれど、まず最初に問題となっているプラグインのアップデートを試してみる。こういった問題がアップデートによって解決されることはけっこうある。MeldaProductionAudioPluginKernelV1164 というのはMeldaProductionのバンドルに入っているプラグインから共通で参照されるdllらしい。ということでバンドル自体をアップデートしたら、無事クラッシュが再現しなくなった。ずっと起動し続けていても落ちなくなった。めでたし。
+詳細な再現手順を作成することはできなかったので、なにかの相性問題なのか、またはプラグイン自体にそういったバグがあるのか、詳細はわからなかった。が、定期的な更新がある限り、古いプラグインを使い続けていること自体が何らかの原因になることは確かにあるので、いつか必ずやってくる嫌な事象に当たりたくなければアップデートし続ける必要があるのだと思う。
+その上で、やはり推測ではなく計測が大事だということもよくわかった。特に思い込みは怖いので、一度冷静になる必要があるのだろう。]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220426「文体模索」]]></title>
         <id>hatenablog://entry/13574176438086815917</id>
