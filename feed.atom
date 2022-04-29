@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-04-29T09:09:08.330Z</updated>
+    <updated>2022-04-29T10:09:09.407Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イキスギ嵐　後記]]></title>
+        <id>https://note.com/suisey_nico2/n/nd39636659df6</id>
+        <link href="https://note.com/suisey_nico2/n/nd39636659df6"/>
+        <updated>2022-04-29T09:40:09.000Z</updated>
+        <summary type="html"><![CDATA[sm40388925です。
+よろしくお願いします。
+ イキスギ嵐イキスギ嵐 [Music/Sound] sm37519311sm37607500以下歌詞書き起こしYou are my Snico.ms 
+続きをみる]]></summary>
+        <author>
+            <name>水星</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220427「私と牛丼」]]></title>
         <id>hatenablog://entry/13574176438087228100</id>
