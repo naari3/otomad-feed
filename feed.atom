@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-01T00:17:27.968Z</updated>
+    <updated>2022-05-01T01:37:35.047Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[思い事　とか　とりとめなく]]></title>
+        <id>https://note.com/futon_is_god/n/n971a8d48bee7</id>
+        <link href="https://note.com/futon_is_god/n/n971a8d48bee7"/>
+        <updated>2022-05-01T00:30:32.000Z</updated>
+        <summary type="html"><![CDATA[おしゃれな動画が作りたいです　とにかく
+おしゃれな動画の定義は人それぞれあると思うので、それはまあ置いときまして、
+自分自身昔っからおしゃれな動画に憧れてはいるけど、全然作れてないのです
+作りたいものも頭の中にいっぱいあるのにすぐ挫折してしまいます
+続きをみる]]></summary>
+        <author>
+            <name>片知</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当事者意識についての個人的な話]]></title>
         <id>hatenablog://entry/13574176438083903815</id>
