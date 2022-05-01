@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-01T12:06:29.970Z</updated>
+    <updated>2022-05-01T13:10:47.885Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -300,6 +300,22 @@ www.nicovideo.jp
 すごい良い合作だったと思います。あ…]]></summary>
         <author>
             <name>竹達アーカイブ通信</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知床観光船遭難事故 ロシア国境警備隊 国後島西方沖で漂流者を目撃 救助は出来ず]]></title>
+        <id>hatenablog://entry/13574176438088179020</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220429/News"/>
+        <updated>2022-04-29T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[国後島西方沖で漂流者の目撃情報 悪天候で救助できず見失う (NHK News Web)
+ロシアの国境警備局から第１管区海上保安本部に寄せられた連絡によりますと、２７日午後１時ごろ、ロシアの警備艦が北方領土の国後島の西方沖で救命胴衣を身につけて漂流する人を目撃していたということです。
+海上保安本部は目撃された状況などから観光船の乗客か乗員の可能性があるとみています。
+
+また、ロシアの警備艦が海から引き揚げたリュックサックには、これまでに死亡が確認されている人と同じ名義の銀行カードが入っていたということで、日本側に引き渡してもらうよう調整中だとしています。
+
+(後略)]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
