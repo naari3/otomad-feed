@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-02T01:36:29.580Z</updated>
+    <updated>2022-05-02T02:49:47.085Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -20419,19 +20419,6 @@ streamable.com
 続きをみる]]></summary>
         <author>
             <name>ゎけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幻想と理想と現実と本物]]></title>
-        <id>https://note.com/euro3/n/n65ec5b0a2d87</id>
-        <link href="https://note.com/euro3/n/n65ec5b0a2d87"/>
-        <updated>2021-05-02T13:56:05.000Z</updated>
-        <summary type="html"><![CDATA[お久しぶりです。ユーロです。大学生活始めました。上手くいきません。
-僕を監視している方お元気でしょうか。もしかしたら学部までご存知でしょうか。
-こんな曲がついに配信されました。聞いてください。
-続きをみる]]></summary>
-        <author>
-            <name>ユーロ/犬の鳴き真似bot</name>
         </author>
     </entry>
 </feed>
