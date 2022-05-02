@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-02T04:23:37.576Z</updated>
+    <updated>2022-05-02T05:14:07.643Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[神note]]></title>
+        <id>https://note.com/majirishigeri/n/n010d0a224766</id>
+        <link href="https://note.com/majirishigeri/n/n010d0a224766"/>
+        <updated>2022-05-02T04:57:13.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>KZ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220501「みるよむ」]]></title>
         <id>hatenablog://entry/13574176438088296495</id>
