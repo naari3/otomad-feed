@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-03T09:05:54.215Z</updated>
+    <updated>2022-05-03T11:08:59.436Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022/5/3日記]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n99da7b708495</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n99da7b708495"/>
+        <updated>2022-05-03T10:32:24.000Z</updated>
+        <summary type="html"><![CDATA[どうも大腸菌デリバリーサービスです。
+漠然とした焦燥感とのしかかる様な倦怠感によりせっかくのゴールデンウィークをドロドロと無為に溶かしている者です。
+せっかく久々に友人達と飲みに行けると思ったんですが予定が合わなくて今年のゴールデンウィークはバイトしか予定が無さそうです。
+超会議に赴く人や旅行に行く人をTwitterのTLで見かけると、就職前最後のゴールデンウィークだと言うのにクソみたいにスカスカな自分の予定表が嫌になります。
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220502「夢と回数」]]></title>
         <id>hatenablog://entry/13574176438088667076</id>
