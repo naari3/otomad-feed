@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-06T04:04:28.956Z</updated>
+    <updated>2022-05-06T05:04:21.598Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -7569,6 +7569,17 @@ note.com
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Colabの使い方]]></title>
+        <id>https://ytpmv.info/?p=1249</id>
+        <link href="https://ytpmv.info/how-to-use-real-esrgan"/>
+        <updated>2022-02-16T08:10:58.000Z</updated>
+        <summary type="html"><![CDATA[みなさんごきげんよう。まいまいです。 近年、waifu-2xを筆頭として数々のAIを用いた画像高画質化ソフト(以下、画像補間ソフト)が登場しています。 私のようにそれなりに良いPCを使っている人は問題なく実行できますが、 […]
+The post 低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Colabの使い方 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Collabの使い方]]></title>
         <id>https://ytpmv.info/?p=1249</id>
         <link href="https://ytpmv.info/how-to-use-real-esrgan?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e4%25bd%258e%25e3%2582%25b9%25e3%2583%259a%25e3%2581%25a7%25e3%2582%2582ai%25e7%2594%25bb%25e5%2583%258f%25e9%25ab%2598%25e7%2594%25bb%25e8%25b3%25aa%25e5%258c%2596%25e3%2582%25bd%25e3%2583%2595%25e3%2583%2588%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e3%2581%259f%25e3%2581%2584%25ef%25bc%2581real-esrgangoogle"/>
@@ -9206,6 +9217,17 @@ youtu.be
     <entry>
         <title type="html"><![CDATA[クリップボードからURLを取得しyt-dlpを起動するVBScript]]></title>
         <id>https://ytpmv.info/?p=1242</id>
+        <link href="https://ytpmv.info/?p=1242"/>
+        <updated>2022-01-30T05:31:38.000Z</updated>
+        <summary type="html"><![CDATA[みなさんごきげんよう。まいまいです。 Youtubedl使う時って、コマンドいちいち選択して高画質になるようにするの、面倒ですよね。 なのでサイトごとにそれなりに最適化した設定でDLできるように、ワンクリックでDLできる […]
+The post クリップボードからURLを取得しyt-dlpを起動するVBScript first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリップボードからURLを取得しyt-dlpを起動するVBScript]]></title>
+        <id>https://ytpmv.info/?p=1242</id>
         <link href="https://ytpmv.info/?p=1242&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2582%25af%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2597%25e3%2583%259c%25e3%2583%25bc%25e3%2583%2589%25e3%2581%258b%25e3%2582%2589url%25e3%2582%2592%25e5%258f%2596%25e5%25be%2597%25e3%2581%2597yt-dlp%25e3%2582%2592%25e8%25b5%25b7%25e5%258b%2595%25e3%2581%2599%25e3%2582%258bvbscript"/>
         <updated>2022-01-30T05:31:38.000Z</updated>
         <summary type="html"><![CDATA[みなさんごきげんよう。まいまいです。 Youtubedl使う時って、コマンドいちいち選択して高画質になるようにするの、面倒ですよね。 なのでサイトごとにそれなりに最適化した設定でDLできるように、ワンクリックでDLできる […]
@@ -9895,6 +9917,17 @@ https://www.twitch.tv/videos/1260950431?collection=k…]]></summary>
 続きをみる]]></summary>
         <author>
             <name>はここれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl)]]></title>
+        <id>https://ytpmv.info/?p=1225</id>
+        <link href="https://ytpmv.info/rpptoexo-lyric"/>
+        <updated>2022-01-20T17:28:12.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう。まいまいです。 今回は、人力系音MADで多用する表現のリップシンク（歌声に合わせて口の形を変える表現)を一部自動化するPythonスクリプトを作ったので公開します。 今回作ったスクリプトは、Pytho […]
+The post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl) first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>
@@ -11519,6 +11552,17 @@ https://github.blog/2021-09-01-improving-git-protocol-security-github/#how-do-i-
     <entry>
         <title type="html"><![CDATA[ffmpegを用いた動画の音声差し替え]]></title>
         <id>https://ytpmv.info/?p=1220</id>
+        <link href="https://ytpmv.info/?p=1220"/>
+        <updated>2022-01-09T13:00:21.000Z</updated>
+        <summary type="html"><![CDATA[ffmpegを用いた動画の音声差し替えの方法のメモ
+The post ffmpegを用いた動画の音声差し替え first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ffmpegを用いた動画の音声差し替え]]></title>
+        <id>https://ytpmv.info/?p=1220</id>
         <link href="https://ytpmv.info/?p=1220&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ffmpeg%25e3%2582%2592%25e7%2594%25a8%25e3%2581%2584%25e3%2581%259f%25e9%259f%25b3%25e5%25a3%25b0%25e5%25b7%25ae%25e3%2581%2597%25e6%259b%25bf%25e3%2581%2588"/>
         <updated>2022-01-09T13:00:21.000Z</updated>
         <summary type="html"><![CDATA[ffmpegを用いた動画の音声差し替えの方法のメモ
@@ -11566,6 +11610,17 @@ The post ffmpegを用いた動画の音声差し替え first appeared on YTPMV.i
 　書いてたら死ぬほど眠くなってきたので寝ます。]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。]]></title>
+        <id>https://ytpmv.info/?p=1131</id>
+        <link href="https://ytpmv.info/encode-and-codec/"/>
+        <updated>2022-01-09T08:37:17.000Z</updated>
+        <summary type="html"><![CDATA[みなさん御機嫌よう。まいまいです。今回は個人的に動画のコーデックについて調べまくってたのでその情報の備忘録がてら音MAD制作におけるコーデックについてまとめていきます。内容間違ってたら指摘してください。 基本的に「なるべ […]
+The post 音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>
@@ -18950,6 +19005,17 @@ Nietzsche パートです！！！！！！！！
     <entry>
         <title type="html"><![CDATA[Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行)]]></title>
         <id>https://ytpmv.info/?p=1201</id>
+        <link href="https://ytpmv.info/?p=1201"/>
+        <updated>2021-08-12T14:58:59.000Z</updated>
+        <summary type="html"><![CDATA[ffmpegへのパスが通っていない場合はffmpeg.exeへのパスに書き換えて下さい。 書き出しサイズも1920×1080以下の適当な値に設定するといいです。 参考：https://qiita.com/73_ […]
+The post Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行) first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行)]]></title>
+        <id>https://ytpmv.info/?p=1201</id>
         <link href="https://ytpmv.info/?p=1201&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=twitter%25e3%2581%25ab%25e6%258a%2595%25e3%2581%2592%25e3%2582%258b%25e3%2581%259f%25e3%2582%2581%25e3%2581%25ae%25e5%258b%2595%25e7%2594%25bb%25e3%2581%25ae%25e3%2582%25a8%25e3%2583%25b3%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2589%25e7%2594%25a8bat%25ef%25bc%2588%25e3%2583%2589%25e3%2583%25a9%25e3%2583%2583%25e3%2582%25b0"/>
         <updated>2021-08-12T14:58:59.000Z</updated>
         <summary type="html"><![CDATA[ffmpegへのパスが通っていない場合はffmpeg.exeへのパスに書き換えて下さい。 書き出しサイズも1920×1080以下の適当な値に設定するといいです。 参考：https://qiita.com/73_ […]
@@ -19281,6 +19347,17 @@ canon(24話)
 しっとりと曲が展開される部分だったため、音声・動画共に静かな印象でまとめてみました。出来る限り前後パートの"繋ぎ"に徹したつもりです。やろうと思えば、もっと「ここは俺のパートだ！！見…]]></summary>
         <author>
             <name>ぬる湯ま</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する]]></title>
+        <id>https://ytpmv.info/?p=1150</id>
+        <link href="https://ytpmv.info/?p=1150"/>
+        <updated>2021-07-23T15:09:45.000Z</updated>
+        <summary type="html"><![CDATA[皆さん御機嫌よう。まいまいです。 備忘録的記事です。 何が起きていたのか REAPERで作業し、REAPERを閉じたあとで、関連プロセスのreaper_host32.exeがキルされずに残り、結構な割合のCPUを使い続け […]
+The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>

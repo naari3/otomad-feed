@@ -11513,11 +11513,31 @@
         {
           "id": "https://ytpmv.info/?p=1249",
           "author": "maimai",
+          "description": "みなさんごきげんよう。まいまいです。 近年、waifu-2xを筆頭として数々のAIを用いた画像高画質化ソフト(以下、画像補間ソフト)が登場しています。 私のようにそれなりに良いPCを使っている人は問題なく実行できますが、 […]\nThe post 低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Colabの使い方 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/how-to-use-real-esrgan",
+          "publishedOn": "2022-02-16T08:10:58.000Z",
+          "wordCount": 371,
+          "title": "低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Colabの使い方",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ytpmv.info/?p=1249",
+          "author": "maimai",
           "description": "みなさんごきげんよう。まいまいです。 近年、waifu-2xを筆頭として数々のAIを用いた画像高画質化ソフト(以下、画像補間ソフト)が登場しています。 私のようにそれなりに良いPCを使っている人は問題なく実行できますが、 […]\nThe post 低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Collabの使い方 first appeared on YTPMV.info.",
           "link": "https://ytpmv.info/how-to-use-real-esrgan?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25bd%258e%25e3%2582%25b9%25e3%2583%259a%25e3%2581%25a7%25e3%2582%2582ai%25e7%2594%25bb%25e5%2583%258f%25e9%25ab%2598%25e7%2594%25bb%25e8%25b3%25aa%25e5%258c%2596%25e3%2582%25bd%25e3%2583%2595%25e3%2583%2588%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e3%2581%259f%25e3%2581%2584%25ef%25bc%2581real-esrgangoogle",
           "publishedOn": "2022-02-16T08:10:58.000Z",
           "wordCount": 371,
           "title": "低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Collabの使い方",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ytpmv.info/?p=1242",
+          "author": "maimai",
+          "description": "みなさんごきげんよう。まいまいです。 Youtubedl使う時って、コマンドいちいち選択して高画質になるようにするの、面倒ですよね。 なのでサイトごとにそれなりに最適化した設定でDLできるように、ワンクリックでDLできる […]\nThe post クリップボードからURLを取得しyt-dlpを起動するVBScript first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/?p=1242",
+          "publishedOn": "2022-01-30T05:31:38.000Z",
+          "wordCount": 322,
+          "title": "クリップボードからURLを取得しyt-dlpを起動するVBScript",
           "imageUrl": null
         },
         {
@@ -11533,10 +11553,30 @@
           "id": "https://ytpmv.info/?p=1225",
           "author": "maimai",
           "description": "皆さんごきげんよう。まいまいです。 今回は、人力系音MADで多用する表現のリップシンク（歌声に合わせて口の形を変える表現)を一部自動化するPythonスクリプトを作ったので公開します。 今回作ったスクリプトは、Pytho […]\nThe post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl) first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/rpptoexo-lyric",
+          "publishedOn": "2022-01-20T17:28:12.000Z",
+          "wordCount": 362,
+          "title": "リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ytpmv.info/?p=1225",
+          "author": "maimai",
+          "description": "皆さんごきげんよう。まいまいです。 今回は、人力系音MADで多用する表現のリップシンク（歌声に合わせて口の形を変える表現)を一部自動化するPythonスクリプトを作ったので公開します。 今回作ったスクリプトは、Pytho […]\nThe post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl) first appeared on YTPMV.info.",
           "link": "https://ytpmv.info/rpptoexo-lyric?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2597%25e3%2582%25b7%25e3%2583%25b3%25e3%2582%25af%25e6%2594%25af%25e6%258f%25b4python%25e3%2582%25b9%25e3%2582%25af%25e3%2583%25aa%25e3%2583%2597%25e3%2583%2588-rpptoexolyric-reaper%25e2%2586%2592aviutl",
           "publishedOn": "2022-01-20T17:28:12.000Z",
           "wordCount": 358,
           "title": "リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl)"
+        },
+        {
+          "id": "https://ytpmv.info/?p=1220",
+          "author": "maimai",
+          "description": "ffmpegを用いた動画の音声差し替えの方法のメモ\nThe post ffmpegを用いた動画の音声差し替え first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/?p=1220",
+          "publishedOn": "2022-01-09T13:00:21.000Z",
+          "wordCount": 336,
+          "title": "ffmpegを用いた動画の音声差し替え",
+          "imageUrl": null
         },
         {
           "id": "https://ytpmv.info/?p=1220",
@@ -11551,6 +11591,16 @@
           "id": "https://ytpmv.info/?p=1131",
           "author": "maimai",
           "description": "みなさん御機嫌よう。まいまいです。今回は個人的に動画のコーデックについて調べまくってたのでその情報の備忘録がてら音MAD制作におけるコーデックについてまとめていきます。内容間違ってたら指摘してください。 基本的に「なるべ […]\nThe post 音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/encode-and-codec/",
+          "publishedOn": "2022-01-09T08:37:17.000Z",
+          "wordCount": 392,
+          "title": "音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ytpmv.info/?p=1131",
+          "author": "maimai",
+          "description": "みなさん御機嫌よう。まいまいです。今回は個人的に動画のコーデックについて調べまくってたのでその情報の備忘録がてら音MAD制作におけるコーデックについてまとめていきます。内容間違ってたら指摘してください。 基本的に「なるべ […]\nThe post 音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。 first appeared on YTPMV.info.",
           "link": "https://ytpmv.info/encode-and-codec/?utm_source=rss&utm_medium=rss&utm_campaign=%25e9%259f%25b3mad%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%25a8%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2587%25e3%2583%2583%25e3%2582%25af-%25ef%25bd%259e%25e5%25a0%25b4%25e9%259d%25a2%25e3%2581%25ab%25e5%25bf%259c%25e3%2581%2598%25e3%2581%25a6%25e6%259c%2580%25e9%2581%25a9%25e3%2581%25aa%25e3%2582%25b3%25e3%2583%25bc",
           "publishedOn": "2022-01-09T08:37:17.000Z",
           "wordCount": 388,
@@ -11560,10 +11610,30 @@
           "id": "https://ytpmv.info/?p=1201",
           "author": "maimai",
           "description": "ffmpegへのパスが通っていない場合はffmpeg.exeへのパスに書き換えて下さい。 書き出しサイズも1920×1080以下の適当な値に設定するといいです。 参考：https://qiita.com/73_ […]\nThe post Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行) first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/?p=1201",
+          "publishedOn": "2021-08-12T14:58:59.000Z",
+          "wordCount": 322,
+          "title": "Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ytpmv.info/?p=1201",
+          "author": "maimai",
+          "description": "ffmpegへのパスが通っていない場合はffmpeg.exeへのパスに書き換えて下さい。 書き出しサイズも1920×1080以下の適当な値に設定するといいです。 参考：https://qiita.com/73_ […]\nThe post Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行) first appeared on YTPMV.info.",
           "link": "https://ytpmv.info/?p=1201&utm_source=rss&utm_medium=rss&utm_campaign=twitter%25e3%2581%25ab%25e6%258a%2595%25e3%2581%2592%25e3%2582%258b%25e3%2581%259f%25e3%2582%2581%25e3%2581%25ae%25e5%258b%2595%25e7%2594%25bb%25e3%2581%25ae%25e3%2582%25a8%25e3%2583%25b3%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2589%25e7%2594%25a8bat%25ef%25bc%2588%25e3%2583%2589%25e3%2583%25a9%25e3%2583%2583%25e3%2582%25b0",
           "publishedOn": "2021-08-12T14:58:59.000Z",
           "wordCount": 318,
           "title": "Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行)"
+        },
+        {
+          "id": "https://ytpmv.info/?p=1150",
+          "author": "maimai",
+          "description": "皆さん御機嫌よう。まいまいです。 備忘録的記事です。 何が起きていたのか REAPERで作業し、REAPERを閉じたあとで、関連プロセスのreaper_host32.exeがキルされずに残り、結構な割合のCPUを使い続け […]\nThe post REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/?p=1150",
+          "publishedOn": "2021-07-23T15:09:45.000Z",
+          "wordCount": 364,
+          "title": "REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する",
+          "imageUrl": null
         },
         {
           "id": "https://ytpmv.info/?p=1150",
