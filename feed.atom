@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-05T23:04:21.193Z</updated>
+    <updated>2022-05-06T00:13:55.526Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -20610,16 +20610,6 @@ streamable.com
 これ以上書くこともないのでこの辺で終わっておこうと思います。ありがとうございました。]]></summary>
         <author>
             <name>ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ピアノアレンジ]]></title>
-        <id>https://dumpmc.blog.fc2.com/blog-entry-95.html</id>
-        <link href="https://dumpmc.blog.fc2.com/blog-entry-95.html"/>
-        <updated>2021-05-06T12:11:37.000Z</updated>
-        <summary type="html"><![CDATA[約1年ぶりの耳コピ（アレンジ）忘れてたことなども交えつつ振り返る]]></summary>
-        <author>
-            <name>picm</name>
         </author>
     </entry>
 </feed>
