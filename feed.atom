@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-06T16:04:19.990Z</updated>
+    <updated>2022-05-06T17:09:08.091Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MADと著作権①]]></title>
+        <id>https://note.com/oto_mad_ytpmv/n/n3d10f2844a2c</id>
+        <link href="https://note.com/oto_mad_ytpmv/n/n3d10f2844a2c"/>
+        <updated>2022-05-06T16:44:33.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+お久しぶりです。さて、今回は音MAD作者が最も気を使うことであろう著作権について書いていこうと思います。
+続きをみる]]></summary>
+        <author>
+            <name>音MAD研究所(仮)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220505「アメリカンジョーク」]]></title>
         <id>hatenablog://entry/13574176438089736362</id>
