@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-07T13:09:34.509Z</updated>
+    <updated>2022-05-07T14:04:12.417Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラングドッシャア]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1175.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1175.html"/>
+        <updated>2022-05-07T13:37:21.000Z</updated>
+        <summary type="html"><![CDATA[今日も今日とてなにも……ひとつひとつやった事をおもいだしてみようあにめじゃんたまポンおもろすぎワロタヒーラー・ガールを2話まで見たがテンポは正義だなとおもいましたてんぽにゃRPG不動産どんなにおめめパッチリでも観てると眠くなる  まじでつまらない先月出たキャラットをまだ半分しか読んでないげーむ最近チョイチョイだれかとえいぺすすをやっていますが人とわちゃるのが楽しいのであってゲーム自体はまじのくそのごみで本]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Video edit botかくにのヒバナ制作後記]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n03d7af64883d</id>
