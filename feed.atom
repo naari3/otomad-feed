@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-08T21:04:05.475Z</updated>
+    <updated>2022-05-08T22:04:11.602Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -20717,15 +20717,6 @@ IPAの声調記号の連結で声調の昇降を表す記号（˥˩、˩˥など
 続きをみる]]></summary>
         <author>
             <name>タフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暇 210509]]></title>
-        <id>https://ss-sahara.work/?p=751</id>
-        <link href="https://ss-sahara.work/hima210509/"/>
-        <updated>2021-05-09T09:57:44.000Z</updated>
-        <author>
-            <name>ss-sahara</name>
         </author>
     </entry>
 </feed>
