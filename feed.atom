@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-10T11:08:53.641Z</updated>
+    <updated>2022-05-10T12:10:27.660Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -20736,17 +20736,6 @@ IPAの声調記号の連結で声調の昇降を表す記号（˥˩、˩˥など
 続きをみる]]></summary>
         <author>
             <name>瀬畑 黒</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「【出前館】「で」ループ 赤ちゃん 寝かしつけ 泣き止み 安眠 耐久」書き起こし]]></title>
-        <id>https://note.com/tough_mad/n/nce522f8cc3f5</id>
-        <link href="https://note.com/tough_mad/n/nce522f8cc3f5"/>
-        <updated>2021-05-10T23:57:03.000Z</updated>
-        <summary type="html"><![CDATA[今回はこちらの「【出前館】「で」ループ 赤ちゃん 寝かしつけ 泣き止み 安眠 耐久」の歌詞書き起こしをしていきたいと思います
-続きをみる]]></summary>
-        <author>
-            <name>タフ</name>
         </author>
     </entry>
 </feed>
