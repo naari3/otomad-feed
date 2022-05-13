@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-13T22:04:13.175Z</updated>
+    <updated>2022-05-13T23:04:20.844Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知床観光船事故 国後島西岸で女性遺体発見の報告]]></title>
+        <id>hatenablog://entry/13574176438092150735</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220513/News"/>
+        <updated>2022-05-13T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[国後島沖で女性の遺体発見、観光船客か確認中＝官房長官 (ロイター)
+［東京　１３日　ロイター］ - 松野博一官房長官は１３日午後の会見で、今月６日に国後島の西岸で女性を発見したものの、国籍は不明とロシア側から説明があったことを明らかにした。ロシア側からは１０日に情報を得たという。国後島はロシアが実効支配し、日本も北方領土の一部として領有権を主張している。
+松野官房長官は、北海道知床半島沖で遭難した観光船との関係性は現時点で不明とした上で、該当する可能性のある女性の家族には海上保安庁から連絡しており「ロシアに対しては外交ルートを通じ、さらなる情報の照会を求めており、事実関係の確認を進めていく」と述べた。
+(後略)]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220512「いま食べたいもの」]]></title>
         <id>hatenablog://entry/13574176438091819202</id>
