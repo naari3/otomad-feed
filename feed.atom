@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-13T04:23:50.659Z</updated>
+    <updated>2022-05-13T05:18:48.367Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -20908,19 +20908,6 @@ IPAの声調記号の連結で声調の昇降を表す記号（˥˩、˩˥など
 　目指せ世界一収録文字数の多いフォント！]]></summary>
         <author>
             <name>ximcoの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.05.13]]></title>
-        <id>hatenablog://entry/26006613763402788</id>
-        <link href="https://kaikityou.hatenablog.com/entry/2021/05/14/012959"/>
-        <updated>2021-05-13T16:29:59.000Z</updated>
-        <summary type="html"><![CDATA[メンタルが終わってるので久しぶりにブログ書く。
-なんでメンタル終わってるかというと多分睡眠不足。6時半起きなのに2時半以降に寝る日が続いてたの狂ってたもんな…
- 
-最近はヒプノシスマイクのドラマトラックとか聴いてました。]]></summary>
-        <author>
-            <name>kaikityouの日記</name>
         </author>
     </entry>
 </feed>
