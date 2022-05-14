@@ -16,6 +16,46 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-05-14">2022-05-14</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">Rust + GitHub Actionsでマルチアーキテクチャ対応のイメージをなるべく早く作る</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/05/14/121650" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>マルチアーキテクチャ対応のイメージとは
+詳しいことは書かないが、複数種類のアーキテクチャ上で実行できるイメージのことを指す。amd64 や arm64 など、異なる種類の環境でも docker run --rm hello-world として実行できるのはこれに対応しているため。
+このようなビルドをGitHub Actionsで行いたくなるが、これがかなり遅い。
+愚直にやると遅い
+docker buildx build --platform linux/amd64,linux/arm64 -t naari3/testtest . のように実行すると、必要なタイミングでQEMUが起動して対象のアーキテクチャで実行してくれるんだけど、まあ勿論のように遅い。
+Googleで調べてみると、遅くならないようにする工夫がいくつかヒットする。
+Rustのクロスコンパイルを利用する
+Rustは比較的簡単にクロスコンパイルができるので、これを利用したい。
+ホストと異なるアーキテクチャを対象にビルドする場合であっても、ベースイメージはホストと同じアーキテクチャを選択することでQEMUの起動を回避することができる。↓こんな感じ
+# linux/amd64の環境で docker buildx build --platform linux/arm64 としたとき
+# BUILDPLATFORM &#x3D; linux/amd64
+# TARGETPLATFORM &#x3D; linux/arm64
+FROM --platform&#x3D;$BUILDPLATFORM rust:1.60 as builder
+# snip
+RUN cargo build --release --target $TARGETPLATFORM
+
+
+
+これを利用して、最近amd64とarm64向けのイメージをビルドするためのDockerfileを…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-05-13">2022-05-13</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -27496,7 +27536,7 @@ IPAの声調記号の連結で声調の昇降を表す記号（˥˩、˩˥など
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-05-14T02:51:48.362Z">2022-05-14T02:51:48.362Z</time>
+    <time id="build-timestamp" datetime="2022-05-14T03:47:19.012Z">2022-05-14T03:47:19.012Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a></span>
   </footer>
   <script src="./index.js"></script>

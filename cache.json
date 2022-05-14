@@ -3291,6 +3291,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/13574176438092154383",
+          "author": null,
+          "description": "マルチアーキテクチャ対応のイメージとは\n詳しいことは書かないが、複数種類のアーキテクチャ上で実行できるイメージのことを指す。amd64 や arm64 など、異なる種類の環境でも docker run --rm hello-world として実行できるのはこれに対応しているため。\nこのようなビルドをGitHub Actionsで行いたくなるが、これがかなり遅い。\n愚直にやると遅い\ndocker buildx build --platform linux/amd64,linux/arm64 -t naari3/testtest . のように実行すると、必要なタイミングでQEMUが起動して対象のアーキテクチャで実行してくれるんだけど、まあ勿論のように遅い。\nGoogleで調べてみると、遅くならないようにする工夫がいくつかヒットする。\nRustのクロスコンパイルを利用する\nRustは比較的簡単にクロスコンパイルができるので、これを利用したい。\nホストと異なるアーキテクチャを対象にビルドする場合であっても、ベースイメージはホストと同じアーキテクチャを選択することでQEMUの起動を回避することができる。↓こんな感じ\n# linux/amd64の環境で docker buildx build --platform linux/arm64 としたとき\n# BUILDPLATFORM = linux/amd64\n# TARGETPLATFORM = linux/arm64\nFROM --platform=$BUILDPLATFORM rust:1.60 as builder\n# snip\nRUN cargo build --release --target $TARGETPLATFORM\n\n\n\nこれを利用して、最近amd64とarm64向けのイメージをビルドするためのDockerfileを…",
+          "link": "https://naari.hatenablog.com/entry/2022/05/14/121650",
+          "publishedOn": "2022-05-14T03:16:50.000Z",
+          "wordCount": 407,
+          "title": "Rust + GitHub Actionsでマルチアーキテクチャ対応のイメージをなるべく早く作る",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/13574176438091776071",
           "author": null,
           "description": "色々と長い期間を掛けてやりたいことがたくさんでてきて記事を書かなかった。今日も夜ご飯を食べることができなかったし、多分ちゃんと疲れているのだと思う。\n壺で2:40を取得した。もう数秒を詰めるだけで大変だな、という気持ちの他、例えばfunitureあたりはかなりマシな動きができるようになったので、つまり僕の進化はまだ止まらない。\nGlitchless in 2m 40s 852ms by naari3 - Getting Over It With Bennett Foddy - speedrun.com\nwww.youtube.com\n「極味や」というお店でハンバーグを食べた。本当においしかった。並び始めが11時15分くらい、店が始まったのが11時30分、中に入れたのは12時過ぎあたりだった。\n\nああああ pic.twitter.com/x2UwJzjcAT\n— なあり (@_naari_) 2022年5月1日\n  \n形を整えられただけの赤いハンバーグが目の前に出され、これを熱くなっている鉄板の上で焼く形式。店員さんに触ってもよい、と指示されたタイミングではまだ表面のみが熱された状態なので、自分たちで切り分けて鉄板で赤みがなくなるまで追加で熱して食べる。肉の味が凄くしっかりしていて、岩塩と白米が一番合うタイプのハンバーグだった。\nとんかつの話にも通じるが、これも家庭のハンバーグとはレギュレーションが全く違うもので、これこそ外食でないと食べられない味なのだろうと思った。調理過程が本当に知りたい。できれば家で食べたい。\nMinecraftをやった。葉月味というヤロウがSkyblockをやりたいと言い出したのでサーバーを立てた。進捗は以下のツイートのツリーをどうぞ。\n\n進捗https://t.co/EgMxFaWTaw pic.twitter.com/CB8Wv4nAr4\n— なあ…",

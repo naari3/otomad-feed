@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-14T02:51:48.437Z</updated>
+    <updated>2022-05-14T03:47:19.092Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rust + GitHub Actionsでマルチアーキテクチャ対応のイメージをなるべく早く作る]]></title>
+        <id>hatenablog://entry/13574176438092154383</id>
+        <link href="https://naari.hatenablog.com/entry/2022/05/14/121650"/>
+        <updated>2022-05-14T03:16:50.000Z</updated>
+        <summary type="html"><![CDATA[マルチアーキテクチャ対応のイメージとは
+詳しいことは書かないが、複数種類のアーキテクチャ上で実行できるイメージのことを指す。amd64 や arm64 など、異なる種類の環境でも docker run --rm hello-world として実行できるのはこれに対応しているため。
+このようなビルドをGitHub Actionsで行いたくなるが、これがかなり遅い。
+愚直にやると遅い
+docker buildx build --platform linux/amd64,linux/arm64 -t naari3/testtest . のように実行すると、必要なタイミングでQEMUが起動して対象のアーキテクチャで実行してくれるんだけど、まあ勿論のように遅い。
+Googleで調べてみると、遅くならないようにする工夫がいくつかヒットする。
+Rustのクロスコンパイルを利用する
+Rustは比較的簡単にクロスコンパイルができるので、これを利用したい。
+ホストと異なるアーキテクチャを対象にビルドする場合であっても、ベースイメージはホストと同じアーキテクチャを選択することでQEMUの起動を回避することができる。↓こんな感じ
+# linux/amd64の環境で docker buildx build --platform linux/arm64 としたとき
+# BUILDPLATFORM = linux/amd64
+# TARGETPLATFORM = linux/arm64
+FROM --platform=$BUILDPLATFORM rust:1.60 as builder
+# snip
+RUN cargo build --release --target $TARGETPLATFORM
+
+
+
+これを利用して、最近amd64とarm64向けのイメージをビルドするためのDockerfileを…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知床観光船事故 国後島西岸で女性遺体発見の報告]]></title>
         <id>hatenablog://entry/13574176438092150735</id>
