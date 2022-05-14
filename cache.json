@@ -3321,6 +3321,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/13574176438092434530",
+          "author": null,
+          "description": "時折、身内で遊ぶためにMinecraftのサーバーを立ち上げることがある。その際、運用のための各種コマンド入力が問題となる。\n例えば、直接ttyから入力→実行しても良いのだが、インターフェイスが貧弱で結構怖かったりする。有名なMinecraft用コンテナイメージの作者itzgさんが用意しているrcon-cliなどを使い、RCON経由で直接コマンドを実行しても良いのだが、これも手順を考えると煩わしい。また、サーバーにspigotやpaperを使い、DiscordSRVのようなプラグインを入れることも考えられるが、そもそもバニラでないと実現できない挙動もいくつかあるためサードパーティ製のサーバーは利用できない。\nそこで、Minecraftサーバー専用のDiscordサーバーを用意し、botを介することで問題を解決することを考え、実装した。それを紹介する。\ngithub.com\nminecraft-command-bot\nコマンド一覧\ncmd\nコマンドを実行する。\\cmd kill @e のように使える。なんでもできる強力なコマンドなので、サーバー上に cmd というロールがあり、それを付与されたユーザーのみが実行できるようにしている。\n\nsay\nDiscordチャンネルからMinecraftサーバーのチャットにチャットをDiscordの名前を付与してから送信する。この後説明する Minecraftサーバーのチャット to Discordのチャンネルの逆を行うために用意した。\n\nmcuuid\nMinecraft上のnameとUUIDを相互変換する。\n- `\\mcuuid naarisan` will returns => `05140bb4-f432-43fe-a5e4-069da2d4fc46`\n- `\\mcuuid 05140bb4-f432-43fe-a5e4-069da2…",
+          "link": "https://naari.hatenablog.com/entry/2022/05/15/034259",
+          "publishedOn": "2022-05-14T18:42:59.000Z",
+          "wordCount": 220,
+          "title": "Minecraftのバニラサーバーに対しても動くようなDIscordのbotを作成した",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220515/20220515030641.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220515/20220515030641.png"
+        },
+        {
           "id": "hatenablog://entry/13574176438092154383",
           "author": null,
           "description": "マルチアーキテクチャ対応のイメージとは\n詳しいことは書かないが、複数種類のアーキテクチャ上で実行できるイメージのことを指す。amd64 や arm64 など、異なる種類の環境でも docker run --rm hello-world として実行できるのはこれに対応しているため。\nこのようなビルドをGitHub Actionsで行いたくなるが、これがかなり遅い。\n愚直にやると遅い\ndocker buildx build --platform linux/amd64,linux/arm64 -t naari3/testtest . のように実行すると、必要なタイミングでQEMUが起動して対象のアーキテクチャで実行してくれるんだけど、まあ勿論のように遅い。\nGoogleで調べてみると、遅くならないようにする工夫がいくつかヒットする。\nRustのクロスコンパイルを利用する\nRustは比較的簡単にクロスコンパイルができるので、これを利用したい。\nホストと異なるアーキテクチャを対象にビルドする場合であっても、ベースイメージはホストと同じアーキテクチャを選択することでQEMUの起動を回避することができる。↓こんな感じ\n# linux/amd64の環境で docker buildx build --platform linux/arm64 としたとき\n# BUILDPLATFORM = linux/amd64\n# TARGETPLATFORM = linux/arm64\nFROM --platform=$BUILDPLATFORM rust:1.60 as builder\n# snip\nRUN cargo build --release --target $TARGETPLATFORM\n\n\n\nこれを利用して、最近amd64とarm64向けのイメージをビルドするためのDockerfileを…",

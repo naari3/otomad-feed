@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-14T18:04:16.513Z</updated>
+    <updated>2022-05-14T19:04:00.585Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minecraftのバニラサーバーに対しても動くようなDIscordのbotを作成した]]></title>
+        <id>hatenablog://entry/13574176438092434530</id>
+        <link href="https://naari.hatenablog.com/entry/2022/05/15/034259"/>
+        <updated>2022-05-14T18:42:59.000Z</updated>
+        <summary type="html"><![CDATA[時折、身内で遊ぶためにMinecraftのサーバーを立ち上げることがある。その際、運用のための各種コマンド入力が問題となる。
+例えば、直接ttyから入力→実行しても良いのだが、インターフェイスが貧弱で結構怖かったりする。有名なMinecraft用コンテナイメージの作者itzgさんが用意しているrcon-cliなどを使い、RCON経由で直接コマンドを実行しても良いのだが、これも手順を考えると煩わしい。また、サーバーにspigotやpaperを使い、DiscordSRVのようなプラグインを入れることも考えられるが、そもそもバニラでないと実現できない挙動もいくつかあるためサードパーティ製のサーバーは利用できない。
+そこで、Minecraftサーバー専用のDiscordサーバーを用意し、botを介することで問題を解決することを考え、実装した。それを紹介する。
+github.com
+minecraft-command-bot
+コマンド一覧
+cmd
+コマンドを実行する。\cmd kill @e のように使える。なんでもできる強力なコマンドなので、サーバー上に cmd というロールがあり、それを付与されたユーザーのみが実行できるようにしている。
+
+say
+DiscordチャンネルからMinecraftサーバーのチャットにチャットをDiscordの名前を付与してから送信する。この後説明する Minecraftサーバーのチャット to Discordのチャンネルの逆を行うために用意した。
+
+mcuuid
+Minecraft上のnameとUUIDを相互変換する。
+- `\mcuuid naarisan` will returns => `05140bb4-f432-43fe-a5e4-069da2d4fc46`
+- `\mcuuid 05140bb4-f432-43fe-a5e4-069da2…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220514「読書環境について」]]></title>
         <id>hatenablog://entry/13574176438092417243</id>
