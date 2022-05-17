@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-17T18:04:28.392Z</updated>
+    <updated>2022-05-17T19:04:08.634Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「男性向け紙類50枚セット」を買ってみる]]></title>
+        <id>https://note.com/nen_z_/n/n06661f05bc3f</id>
+        <link href="https://note.com/nen_z_/n/n06661f05bc3f"/>
+        <updated>2022-05-17T18:05:34.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+お世話になってます。捻挫です。
+続きをみる]]></summary>
+        <author>
+            <name>捻挫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所感箇条書き]]></title>
         <id>https://note.com/klunakapa/n/n22254a98aae1</id>
@@ -21111,17 +21123,6 @@ immortalt.hatenablog.com
 続きをみる]]></summary>
         <author>
             <name>あるくおすし</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[anond:20210518100156]]></title>
-        <id>https://anond.hatelabo.jp/20210518153931</id>
-        <link href="https://anond.hatelabo.jp/20210518153931"/>
-        <updated>2021-05-18T06:39:31.000Z</updated>
-        <summary type="html"><![CDATA[淫夢視聴
-	音MADビデ...]]></summary>
-        <author>
-            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
         </author>
     </entry>
 </feed>
