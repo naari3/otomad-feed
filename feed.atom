@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-16T23:04:27.372Z</updated>
+    <updated>2022-05-17T00:15:19.781Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#7 5月2週]]></title>
+        <id>hatenablog://entry/13574176438093095100</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/05/17/090915"/>
+        <updated>2022-05-17T00:09:15.000Z</updated>
+        <summary type="html"><![CDATA[今週は本当に何も無かった。
+日曜更新って言ってたけど火曜の朝が1番暇でちょうどいいかもしれない。
+ 
+最近アソビ大全のスパイダー熱が再燃してきた。
+1度始めたら辞め時が全く見つからないゲームで、プレイ回数がカンストするくらいにはハマってる。
+クリア率こそ低いものの、運が良ければ結構いいタイムでクリア出来てる（と思ってる）のでガチで上手い人はどれくらいのタイムなんだろうと思ってspeedrun.comを見てみた。
+自分の記録と見比べてみたら、1位には届かないものの、プレイ人口が少ないみたいで、どの難易度でも10位以内に入れそうだった。1番高難易度の上級は3人しかいなかった。
+今度好タイムが出たら申請してもいいかもしれない。
+ 
+今週何も無かったので、先週書きそびれたことを書く。
+おとわっか並びにワッカが爆流行りしている。
+自分はFFをやったことないどころか全然知らない(スマブラとパズドラで得た知識くらいしかない)。
+ワッカも一部の人たちがネタにしてるキャラ、くらいのイメージだったので急に全国的に流行られると混乱してしまう。
+瑛士シリーズとかヒカマニとかが流行った時も同じような感覚だった気がする。
+実際ティーダのコンボは気持ちいいんだろうか。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220516「ハウス　ザ・カリー中辛　レビュー」]]></title>
         <id>hatenablog://entry/13574176438093055384</id>
