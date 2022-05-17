@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-17T14:04:05.273Z</updated>
+    <updated>2022-05-17T15:08:53.498Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[所感箇条書き]]></title>
+        <id>https://note.com/klunakapa/n/n22254a98aae1</id>
+        <link href="https://note.com/klunakapa/n/n22254a98aae1"/>
+        <updated>2022-05-17T14:11:35.000Z</updated>
+        <summary type="html"><![CDATA[・小さい頃、ケーブルテレビでやってた再放送のウルトラマンを見て頑張れ頑張れしてた心。あれってウルトラマンを見たときにしか顕れないんですよね。
+・手に汗握る戦闘シーンの数々でした　特にお気に入りは山本耕史との戦闘シーン。（山本耕史の印象強すぎて怪人名忘れちゃった）
+続きをみる]]></summary>
+        <author>
+            <name>かっぱ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#7 5月2週]]></title>
         <id>hatenablog://entry/13574176438093095100</id>
