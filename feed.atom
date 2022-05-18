@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-18T08:04:54.045Z</updated>
+    <updated>2022-05-18T09:07:13.013Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニコニコのプレミアム会員解約方法]]></title>
+        <id>https://note.com/furadiru_99/n/nac9a2d330af3</id>
+        <link href="https://note.com/furadiru_99/n/nac9a2d330af3"/>
+        <updated>2022-05-18T08:25:04.000Z</updated>
+        <summary type="html"><![CDATA[アカウント設定から解約を選択。アンケートに答えて解約。
+
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「男性向け紙類50枚セット」を買ってみる]]></title>
         <id>https://note.com/nen_z_/n/n06661f05bc3f</id>
