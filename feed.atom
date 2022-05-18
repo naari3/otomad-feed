@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-18T18:04:25.539Z</updated>
+    <updated>2022-05-18T19:04:25.413Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220518「妹氏近況」]]></title>
+        <id>hatenablog://entry/13574176438093661809</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/05/19/034043"/>
+        <updated>2022-05-18T18:40:43.000Z</updated>
+        <summary type="html"><![CDATA[アニメを見るだとか見ないだとかで逡巡し、家でふにゃふにゃしていたら1日が終わった。なんだかんだでユーフォの2期を見終えられそうである。僕には妹がいて、この春中学校に入学した。吹奏楽部に入り、ユーフォニアムを吹くことになったらしい。そこには露骨にアニメの影響があるわけだが、当人が音を出せたのがそれくらいだったらしい。僕はあれこれ放任主義でいたい（≒責任を負いたくない）という気持ちがありつつ訊かれると色々とアドバイスしてしまい、向こうもよく母親のLINEアカウントを使って電話などをしてくる。部活動に関して吹奏楽に入ると言ったときも、僕が吹奏楽を多少推した部分があったため「本当に自分の意志か？」と何度も尋ねた。納得して入るのが一番だからだ。彼女は本当に入りたいから、とだけ言っていま色々やっているらしい。アニメに関しても熱心で、京都アニメーションの作品をほぼ全部見ようとしているという。こわすぎる。いまはいずれ推しの男性キャラとか出てくるのだろうか。ともあれ思春期にそのような作品を見ると、どんな人間になるのかというのは気になるところではある。妹がユーフォニアムを吹き、僕はトロンボーンをかつて吹いていた。これは本編に出てくる姉妹関係と同じ構造であり、まあ僕には確執などないのだけど色々重ねてうわ～となっていた日でもあった。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220517「今年の目標」]]></title>
         <id>hatenablog://entry/13574176438093654319</id>
