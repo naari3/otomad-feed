@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-20T01:32:50.470Z</updated>
+    <updated>2022-05-20T02:39:07.739Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -21245,18 +21245,6 @@ immortalt.hatenablog.com
         <summary type="html"><![CDATA[...]]></summary>
         <author>
             <name>picm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近”喰らった”あれこれ]]></title>
-        <id>https://note.com/walkingsushibox/n/nf6e839d1c724</id>
-        <link href="https://note.com/walkingsushibox/n/nf6e839d1c724"/>
-        <updated>2021-05-20T13:48:42.000Z</updated>
-        <summary type="html"><![CDATA[色々なものに触れた感想を文章として残しておきたいなと思ったので雑文にして書いてみます。作品の発表時期はバラバラです。衝動的な文章なので今後継続するかもわかりません。
-1. KID FRESINO - Cats & Dogs feat. カネコアヤノ [音楽]
-続きをみる]]></summary>
-        <author>
-            <name>あるくおすし</name>
         </author>
     </entry>
 </feed>
