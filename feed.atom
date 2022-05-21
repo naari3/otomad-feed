@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-21T10:04:19.863Z</updated>
+    <updated>2022-05-21T11:04:08.864Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[がちでやばい]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1177.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1177.html"/>
+        <updated>2022-05-21T10:05:43.000Z</updated>
+        <summary type="html"><![CDATA[ここ一週間なにをしたかの記憶がまったくない  荒波ですいよいよここまできたか書くことがないのは何年にも亘ってそうですが、記憶自体ないというのはもうというか、どこからどこまでが先週で今週なのかすらわからない前回STALKERを再開した事を書いたはずで、確かに最近もプレーしたはずなんですがしてない気もするし……毎週見てたアニメも2週間くらい見てないしご飯食べるのも忘れたお風呂はまだ毎日入ってる……はず特段何にも興味]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220520「Hide and」]]></title>
         <id>hatenablog://entry/13574176438094378824</id>
