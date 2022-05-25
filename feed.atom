@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-25T12:05:23.670Z</updated>
+    <updated>2022-05-25T13:16:34.668Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD作者シークワーズ解説・あとがき]]></title>
+        <id>https://note.com/anzato/n/n42f2f7ce96a3</id>
+        <link href="https://note.com/anzato/n/n42f2f7ce96a3"/>
+        <updated>2022-05-25T12:31:02.000Z</updated>
+        <summary type="html"><![CDATA[今年の3月に音MAD作者の名前を使った「音MAD作者シークワーズ」というものを出題しました。本記事はその解説およびあとがきとなっております。ネタバレを含むのでまだ解いてない！という方は以下のリンクから是非挑戦してみてください。
+
+
+
+
+
+
+
+続きをみる]]></summary>
+        <author>
+            <name>Anzato</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【作業用BGMに最適！】個人的俺の雑談放送オススメ一覧]]></title>
         <id>https://note.com/nanana555/n/n6a54202412c3</id>
