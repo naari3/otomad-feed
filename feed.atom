@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-25T04:11:07.667Z</updated>
+    <updated>2022-05-25T05:07:12.165Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【作業用BGMに最適！】個人的俺の雑談放送オススメ一覧]]></title>
+        <id>https://note.com/nanana555/n/n6a54202412c3</id>
+        <link href="https://note.com/nanana555/n/n6a54202412c3"/>
+        <updated>2022-05-25T04:41:46.000Z</updated>
+        <summary type="html"><![CDATA[下記のリンクは避難所兼録画保管庫のコミュニティ「不完全避難所」にて投稿されているものです。登録をしないと視聴できないと思うので是非登録をお願いします。
+では、オススメの放送を並べていきます。つまるところ自画自賛です。
+自己顕示、嫉妬、傲慢、転生。～さようなら那須ピーマン～　06/07(日) 1/2
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.05.24 ラムネが凄いという話]]></title>
         <id>hatenablog://entry/13574176438095231594</id>
