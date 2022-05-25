@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-25T05:07:12.165Z</updated>
+    <updated>2022-05-25T06:04:33.437Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -21586,16 +21586,6 @@ immortalt.hatenablog.com
 続きをみる]]></summary>
         <author>
             <name>Theas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スク水がもたらす空間的広がりとその展望]]></title>
-        <id>https://note.com/sehatakuro/n/nd653d9abe5e2</id>
-        <link href="https://note.com/sehatakuro/n/nd653d9abe5e2"/>
-        <updated>2021-05-25T17:54:27.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>瀬畑 黒</name>
         </author>
     </entry>
 </feed>
