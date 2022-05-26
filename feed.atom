@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-26T20:04:38.255Z</updated>
+    <updated>2022-05-26T21:04:09.256Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -21590,20 +21590,6 @@ immortalt.hatenablog.com
 続きをみる]]></summary>
         <author>
             <name>calpisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[驚くほどのスランプ]]></title>
-        <id>https://note.com/26435/n/nd0c338172ab2</id>
-        <link href="https://note.com/26435/n/nd0c338172ab2"/>
-        <updated>2021-05-27T08:16:12.000Z</updated>
-        <summary type="html"><![CDATA[本当に音MADが作れなくなりました
-アイデアも尽きました、殆ど183になっちゃいました
-勿論引退はしませんが投稿頻度は激減すると思います
-合作はできるだけ受けます
-続きをみる]]></summary>
-        <author>
-            <name>Theas</name>
         </author>
     </entry>
 </feed>
