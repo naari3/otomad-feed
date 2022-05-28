@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-28T04:05:03.043Z</updated>
+    <updated>2022-05-28T05:04:36.408Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国の東方Wiki紹介]]></title>
+        <id>https://note.com/furadiru_99/n/n6ca7d5e43911</id>
+        <link href="https://note.com/furadiru_99/n/n6ca7d5e43911"/>
+        <updated>2022-05-28T04:32:01.000Z</updated>
+        <summary type="html"><![CDATA[THBWiki · 专业性的东方Project维基百科 - TBSGroup (thwiki.cc)
+東方作品→各作品に飛ぶと…
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220525「京都探訪記」]]></title>
         <id>hatenablog://entry/13574176438096309404</id>
