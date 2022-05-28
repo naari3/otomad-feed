@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-28T08:04:54.143Z</updated>
+    <updated>2022-05-28T09:04:04.637Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[場所記憶法のすゝめ]]></title>
+        <id>https://note.com/dokozonosyake/n/n35b99449eb9e</id>
+        <link href="https://note.com/dokozonosyake/n/n35b99449eb9e"/>
+        <updated>2022-05-28T08:39:19.000Z</updated>
+        <summary type="html"><![CDATA[残り400個の当て字をどう覚えるか？
+
+こんにちは。漢検も本試験が迫っていますね。
+一定のラインを越えるとコスパが低くなる「熟字訓・当て字」の大問は直前期少し前くらいから対策するのがおすすめです。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220527「たまこまーけっと、たまこラブストーリーを見ました」]]></title>
         <id>hatenablog://entry/13574176438096622179</id>
