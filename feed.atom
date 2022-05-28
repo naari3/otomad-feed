@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-28T01:32:45.089Z</updated>
+    <updated>2022-05-28T02:34:14.049Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生存戦略WEB]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1178.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1178.html"/>
+        <updated>2022-05-28T01:44:56.000Z</updated>
+        <summary type="html"><![CDATA[ねこ鍋ねこ鍋一体何をやっているのだか今週はめちゃくちゃ久しぶりに友達とえいぺすすをしたり、はらがみをやったり、朝4時にペペロンチーノが食べたくなったりしたペペロンチーノなのかペペロンチーニなのかはっきりしてほしいアーリオオーリオとかいうてはりますけども……いやマジでかなりペペロンチーノ食べたい気分だったので食えるお店を調べたら、どこも遠いのはさておいてもいわゆるこう、オーソドックスな具がないペペロン]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD作者シークワーズ解説・あとがき]]></title>
         <id>https://note.com/anzato/n/n42f2f7ce96a3</id>
