@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-29T13:10:45.209Z</updated>
+    <updated>2022-05-29T14:04:20.308Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[百地たまてヴァンパイア説について]]></title>
+        <id>https://note.com/qreg/n/na78a67cf182a</id>
+        <link href="https://note.com/qreg/n/na78a67cf182a"/>
+        <updated>2022-05-29T13:41:08.000Z</updated>
+        <summary type="html"><![CDATA[この記事は百地たまて新説シリーズAdvent Calendarに参加しています。
+こんにちは！くれがしらです。
+最近は原神して漫画読んで寝るだけの生活をしています。
+今回は巷で噂の百地たまてヴァンパイア説について、世論と事実の齟齬が多く見受けられたため、この記事を通じて真実を伝えたいと思います。
+続きをみる]]></summary>
+        <author>
+            <name>くれがしら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220528「あつい」]]></title>
         <id>hatenablog://entry/13574176438096987833</id>
