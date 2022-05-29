@@ -16,6 +16,58 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-05-29">2022-05-29</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">Terrariaの日本語Wikiを検索するPowerToys Runのプラグインを作った</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/05/29/141049" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>身内でTerrariaが流行っている。このゲームは知っておかなければならないことが無限に存在し、特にハードモード以降はTerraria Japan Wikiに頼り切りにならなければやっていくことができない。で、PowerToys Runでプラグインを作ることができればかなり丁度良いのではないか？となって、調べたらどうやらいけそうだったので作った。PowerToys Runでプラグインを作るための記事はこちらでどうぞ。
+こんな感じのプラグインになった。Terraria Japan Wikiの検索結果をそのまま表示した上で、項目を選択するとデフォルトのブラウザでページが開くようになる。
+
+GitHub Releasesにて配布中。Terrariaプレイヤーはぜひとも使ってみてください。
+GitHub - naari3/terraria-japan-wiki-PowerToysRun: PowerToys Run Plugin for Terraria Japan Wiki Search
+PowerToys Runのプラグインを自作する - 名有りさんの日記
+プラグイン制作についての記事は↑で書いた。
+自分で作ったものを褒めるのもなんだけれど、まじで便利。ほんとうに便利で、これがないとTerrariaをやりたくないというくらいにはなっている。なくてはならないプラグインとなってしまった。
+PowerToys Runのプラグイン制作はマジで可能性を感じるので、何か必要に応じて作っていきたいね。</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220529/20220529132636.gif" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">PowerToys Runのプラグインを自作する</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/05/29/141028" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>Microsoftが出しているPowerToysというユーティリティ集が存在する。便利なユーティリティが集合したものだが、詳細についてはこちらを見て欲しい。
+今回はこの中のPowerToys Runに注目する。PowerToys Runとは、ショートカットキーによって検索窓を表示してくれる機能で、macOSのSpotlightのWindows版と想像してくれるとわかりやすいと思う。
+
+この検索結果一覧は様々な種類があり、例えば ファイル/フォルダの検索や、そのまま標準ブラウザを開いてくれる機能、VSCodeのワークスペースを検索する機能などがある。これらは、内部ではPluginとして個別に実装されている。
+PowerToys/src/modules/launcher/Plugins at main · microsoft/PowerToys · GitHub
+これが、以下のパスに設置されている。
+C:\Program Files\PowerToys\modules\launcher\Plugins
+これに対し、自分で好きな実装を施したプラグインを作るのが今回の目的。
+その前に
+現時点でサードパーティ製のプラグインはunsupportedなもので、扱いについては現在もこちらのissueで議論され続けているので、もしかしたら急にすべてが壊れるかもしれない。しかし、好意的な方向には見えるのでそんなに大きく事が変わることはないはず。
+かんたんなプラグインを作る
+まず、Pluginsの依存する各種ライブラリを用意するところから始める。以下の4つが対象だが、2022年5月29日現在はNuGet等には公開されていない*1ので PowerToys を自分でビルドするか、PowerToysインストール後に C:\Program Files\PowerToys\modules\launcher…</span>
+                  </div>
+                    <img src="https://docs.microsoft.com/ja-jp/windows/images/pt-powerrun-demo.gif" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-05-28">2022-05-28</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -28540,7 +28592,7 @@ immortalt.hatenablog.com
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-05-29T05:06:53.884Z">2022-05-29T05:06:53.884Z</time>
+    <time id="build-timestamp" datetime="2022-05-29T06:04:29.373Z">2022-05-29T06:04:29.373Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a></span>
   </footer>
   <script src="./index.js"></script>

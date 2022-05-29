@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-29T05:06:53.955Z</updated>
+    <updated>2022-05-29T06:04:29.455Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Terrariaの日本語Wikiを検索するPowerToys Runのプラグインを作った]]></title>
+        <id>hatenablog://entry/13574176438096940203</id>
+        <link href="https://naari.hatenablog.com/entry/2022/05/29/141049"/>
+        <updated>2022-05-29T05:10:49.000Z</updated>
+        <summary type="html"><![CDATA[身内でTerrariaが流行っている。このゲームは知っておかなければならないことが無限に存在し、特にハードモード以降はTerraria Japan Wikiに頼り切りにならなければやっていくことができない。で、PowerToys Runでプラグインを作ることができればかなり丁度良いのではないか？となって、調べたらどうやらいけそうだったので作った。PowerToys Runでプラグインを作るための記事はこちらでどうぞ。
+こんな感じのプラグインになった。Terraria Japan Wikiの検索結果をそのまま表示した上で、項目を選択するとデフォルトのブラウザでページが開くようになる。
+
+GitHub Releasesにて配布中。Terrariaプレイヤーはぜひとも使ってみてください。
+GitHub - naari3/terraria-japan-wiki-PowerToysRun: PowerToys Run Plugin for Terraria Japan Wiki Search
+PowerToys Runのプラグインを自作する - 名有りさんの日記
+プラグイン制作についての記事は↑で書いた。
+自分で作ったものを褒めるのもなんだけれど、まじで便利。ほんとうに便利で、これがないとTerrariaをやりたくないというくらいにはなっている。なくてはならないプラグインとなってしまった。
+PowerToys Runのプラグイン制作はマジで可能性を感じるので、何か必要に応じて作っていきたいね。]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerToys Runのプラグインを自作する]]></title>
+        <id>hatenablog://entry/13574176438096880557</id>
+        <link href="https://naari.hatenablog.com/entry/2022/05/29/141028"/>
+        <updated>2022-05-29T05:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftが出しているPowerToysというユーティリティ集が存在する。便利なユーティリティが集合したものだが、詳細についてはこちらを見て欲しい。
+今回はこの中のPowerToys Runに注目する。PowerToys Runとは、ショートカットキーによって検索窓を表示してくれる機能で、macOSのSpotlightのWindows版と想像してくれるとわかりやすいと思う。
+
+この検索結果一覧は様々な種類があり、例えば ファイル/フォルダの検索や、そのまま標準ブラウザを開いてくれる機能、VSCodeのワークスペースを検索する機能などがある。これらは、内部ではPluginとして個別に実装されている。
+PowerToys/src/modules/launcher/Plugins at main · microsoft/PowerToys · GitHub
+これが、以下のパスに設置されている。
+C:\Program Files\PowerToys\modules\launcher\Plugins
+これに対し、自分で好きな実装を施したプラグインを作るのが今回の目的。
+その前に
+現時点でサードパーティ製のプラグインはunsupportedなもので、扱いについては現在もこちらのissueで議論され続けているので、もしかしたら急にすべてが壊れるかもしれない。しかし、好意的な方向には見えるのでそんなに大きく事が変わることはないはず。
+かんたんなプラグインを作る
+まず、Pluginsの依存する各種ライブラリを用意するところから始める。以下の4つが対象だが、2022年5月29日現在はNuGet等には公開されていない*1ので PowerToys を自分でビルドするか、PowerToysインストール後に C:\Program Files\PowerToys\modules\launcher…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マンモス専門学校]]></title>
         <id>https://note.com/ssaymds/n/n51e0be2c4c49</id>
