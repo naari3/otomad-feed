@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-05-29T07:04:00.770Z</updated>
+    <updated>2022-05-29T08:05:08.173Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220528「あつい」]]></title>
+        <id>hatenablog://entry/13574176438096987833</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/05/29/170318"/>
+        <updated>2022-05-29T08:03:18.000Z</updated>
+        <summary type="html"><![CDATA[前2日は感想ばかり書いた。その間も生活は進んでいたのだけど、特筆すべきことはなく予定をこなしていた。ただ前日に何kmも歩いたから、わりと全身が痛いまま2日を過ごしていた。たった少し前から冷房はつけていたのだけど、暑くなってきたと思う。アイスでも買いに行きたいけど、最近見た動画の影響でプリンが食べたくなっている。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terrariaの日本語Wikiを検索するPowerToys Runのプラグインを作った]]></title>
         <id>hatenablog://entry/13574176438096940203</id>
