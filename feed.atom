@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-01T13:19:23.197Z</updated>
+    <updated>2022-06-01T14:11:14.409Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -21763,16 +21763,6 @@ immortalt.hatenablog.com
 続きをみる]]></summary>
         <author>
             <name>捻挫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一ヶ月に一回くらいなんか投稿しよう...]]></title>
-        <id>https://note.com/tojiru/n/n24622559dd53</id>
-        <link href="https://note.com/tojiru/n/n24622559dd53"/>
-        <updated>2021-06-02T01:25:58.000Z</updated>
-        <summary type="html"><![CDATA[一ヶ月に一回くらいなんか投稿しようとして途中で飽きてを繰り返してて下書き溜まりまくってて泣ける 続きをみる]]></summary>
-        <author>
-            <name>とじーら</name>
         </author>
     </entry>
 </feed>
