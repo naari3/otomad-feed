@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-01T14:11:14.409Z</updated>
+    <updated>2022-06-01T15:04:51.070Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Video edit botかくにのマーシャル・マキシマイザー制作後記]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/nfdd07fa47c2a</id>
+        <link href="https://note.com/ecolidelvsvc11/n/nfdd07fa47c2a"/>
+        <updated>2022-06-01T14:47:57.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+大腸菌デリバリーサービスと申します。
+2022年5月24日、Twitterの方にVideo edit botかくにのマーシャル・マキシマイザーの音MADを投稿させて頂きました。
+
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220530「好きなツイート3」]]></title>
         <id>hatenablog://entry/13574176438097556661</id>
