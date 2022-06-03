@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-03T00:13:08.277Z</updated>
+    <updated>2022-06-03T01:31:48.639Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -21862,19 +21862,6 @@ immortalt.hatenablog.com
 続きをみる]]></summary>
         <author>
             <name>1時</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[桑山千雪に触発されて巾着袋を作った話]]></title>
-        <id>https://note.com/nen_z_/n/n4b6f4a83e90c</id>
-        <link href="https://note.com/nen_z_/n/n4b6f4a83e90c"/>
-        <updated>2021-06-03T13:00:11.000Z</updated>
-        <summary type="html"><![CDATA[※当記事は一部桑山千雪G.R.A.D.編シナリオのネタバレ要素を含みます
-初めまして、捻挫と申します。
-普段は動画を通してアイドルのプロデュース活動をしています。
-続きをみる]]></summary>
-        <author>
-            <name>捻挫</name>
         </author>
     </entry>
 </feed>
