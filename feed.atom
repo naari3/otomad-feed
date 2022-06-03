@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-03T07:04:08.873Z</updated>
+    <updated>2022-06-03T08:05:04.504Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[常用漢字の表外読み（ほぼ）一覧  プレゼントはこちら]]></title>
+        <id>https://note.com/dokozonosyake/n/nde14780b52ce</id>
+        <link href="https://note.com/dokozonosyake/n/nde14780b52ce"/>
+        <updated>2022-06-03T07:54:06.000Z</updated>
+        <summary type="html"><![CDATA[本試験まであと2週間強といったところですが、いかがお過ごしでしょうか。
+今回はしゃけオリジナル資料のご紹介です。
+準1級精選演習に付属していた「常用漢字の表内外音訓表」から表外読みの一覧を作りました。
+内容は訓読みが2441問、音読みが603問となっています。
+送り仮名が同じものは1問に統合し、複数の答えを設ける仕様にしています。
+（例：諧う・・・かなう/ととのう）
+送り仮名がある訓読みについて、語幹が同じものは一つに省略した場合があります。
+（例：哀しい「かなしい」と 哀しむ「かなしむ」）
+このデータはQuizletでも学習することができます。こちらもぜひご利用ください。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220602「自炊日記その１」]]></title>
         <id>hatenablog://entry/13574176438098398314</id>
