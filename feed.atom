@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-05T05:04:54.416Z</updated>
+    <updated>2022-06-05T06:04:25.551Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[しゃけ式 中国故事成語辞典からの表 プレゼントはこちら]]></title>
+        <id>https://note.com/dokozonosyake/n/n1329e6bedd71</id>
+        <link href="https://note.com/dokozonosyake/n/n1329e6bedd71"/>
+        <updated>2022-06-05T05:31:27.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。しゃけです。
+前回は意味記載なしで公開した「しゃけ式 中国故事成語辞典からの表」ですが、意味つきバージョンが完成したので貼っておきます。
+倉庫さんや逞筆さんの基本的な資料とカブっているものは削り、あまりにも情報が少なく存在自体が怪しいものも削除。
+その結果、全部で165語と非常に取り組みやすい語数になりました。
+直前にでも活用ください。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ぷくぷく]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1179.html</id>
@@ -21851,20 +21866,6 @@ immortalt.hatenablog.com
 まず趣味で見たかった「ボカロ」を据えました。ボカロが雰囲気を重視し、文脈を紡ぐ「解釈と再構築の合作」になるとしたら…次は「発想と大衆性の合作」になる「国民的アニメ」が良いな、と。そして、「電子(ボカロ)」→「日本(国民)」と…]]></summary>
         <author>
             <name>メモタルト</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5月病ってあったんだな～っていうお話]]></title>
-        <id>https://note.com/26435/n/nddc1daba23be</id>
-        <link href="https://note.com/26435/n/nddc1daba23be"/>
-        <updated>2021-06-05T17:32:32.000Z</updated>
-        <summary type="html"><![CDATA[5月が終わってやっと一息ついた感じがします
-今まで何でこんな悩んでいたんだって思った
-とはいえ忙しいのには変わりないので動画はあんま上げません(合作は別)
-ただ今頑張ってる個人作があるので来月の後半くらいに公開したいな～っと思っています
-続きをみる]]></summary>
-        <author>
-            <name>Theas</name>
         </author>
     </entry>
 </feed>
