@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-05T16:04:21.028Z</updated>
+    <updated>2022-06-05T17:04:02.984Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近自分の音MADを正直に語る。]]></title>
+        <id>https://note.com/fourangle/n/n33c50b54727b</id>
+        <link href="https://note.com/fourangle/n/n33c50b54727b"/>
+        <updated>2022-06-05T16:17:02.000Z</updated>
+        <summary type="html"><![CDATA[どうしても最初に想像してた絵面になってない、もちろんそこに応じる反応も貰えてないと言う状況に相当苦しんでいる。
+サガの成功は逆に自分を縛ってしまい、どうしても重い音MADを作ろうと無意識でやってしまう悪い癖がついたようだ。もちろん雰囲気とストーリーだけでいい音なんて作れない。自分自身の技術力と演出感覚は他の人に比べて遥かに離れていることが深刻に体感される。
+だからサガの後続とも言える幽霊佐賀は1節の伝え方の甘さ、だいたいサボった映像でちゃんとした動画になってない。シャミルとかもだいたい同じ。重ければ全て良いものじゃないと気づいたのは幽霊佐賀を投稿し見返したその後だった。
+だとして重さを抜いた、正統派音MADでいいものを作れる気がもうしない。きゅうくらりんだって正統派でやるはずだったがセリフを何一つ選べなく爆死、ネタで方向転換。今準備しているのは何本かいるけど、もう何一つ自信がないようだ。
+で最悪、自分のセンスが日本の音MADに求められてるユーモアセンスからズレていてその文化の壁を死んでも超えれていないだけなんじゃないかなと思ってしまう最近。昔からの考えだが、どんどんそっちがわに向いてしまう。生まれからの限界にぶつかってしまっただけなのか、ここで満足するしかないのかと。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[函館に行きました その1]]></title>
         <id>hatenablog://entry/13574176438099313405</id>
