@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-05T23:03:41.802Z</updated>
+    <updated>2022-06-06T00:12:28.745Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -21783,18 +21783,6 @@ immortalt.hatenablog.com
 続きをみる]]></summary>
         <author>
             <name>四角</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ご注文はうさぎですか？最強キャラクターランキング]]></title>
-        <id>https://note.com/onmokosub/n/n28d82f6decc2</id>
-        <link href="https://note.com/onmokosub/n/n28d82f6decc2"/>
-        <updated>2021-06-06T10:31:24.000Z</updated>
-        <summary type="html"><![CDATA[第一位 ヒソカ=モロウ
-
-続きをみる]]></summary>
-        <author>
-            <name>オンモコスブ</name>
         </author>
     </entry>
 </feed>
