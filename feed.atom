@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-07T14:04:10.551Z</updated>
+    <updated>2022-06-07T15:09:15.315Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「インスピ広辞苑熟語表」20220510更新対応版 プレゼントはこちら]]></title>
+        <id>https://note.com/dokozonosyake/n/n57a9766e6388</id>
+        <link href="https://note.com/dokozonosyake/n/n57a9766e6388"/>
+        <updated>2022-06-07T14:40:07.000Z</updated>
+        <summary type="html"><![CDATA[インスピさんから公開されている「広辞苑熟語表」が5月10日に更新されていたので、こちらも対応しました。
+差分のみのバージョンもあります。たとえば 印刷してペンでチェックをつけていた方などは、チェックをつけ直す必要がなくて便利かと思います。
+前回と少し様式を変更し、しゃけ標準形式(？)に準拠しました。
+作業が結構面倒になりそうなので、Quizletの更新は遅れると思います。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20220607:最近思いついたアイデア10選]]></title>
         <id>hatenablog://entry/13574176438099954861</id>
