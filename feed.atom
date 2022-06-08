@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-08T08:05:10.741Z</updated>
+    <updated>2022-06-08T09:04:19.225Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「おとわっか」のつまらなさの伝えた方が間違っていると思う]]></title>
+        <id>https://anond.hatelabo.jp/20220608175403</id>
+        <link href="https://anond.hatelabo.jp/20220608175403"/>
+        <updated>2022-06-08T08:54:03.000Z</updated>
+        <summary type="html"><![CDATA[「ティーダのコンボ...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[函館に行きました その2]]></title>
         <id>hatenablog://entry/13574176438099345200</id>
