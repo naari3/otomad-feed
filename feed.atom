@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-08T00:13:23.418Z</updated>
+    <updated>2022-06-08T01:32:45.009Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -21952,24 +21952,6 @@ immortalt.hatenablog.com
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海外音MADをニコ動に転載することについて。]]></title>
-        <id>https://note.com/fourangle/n/nd5c624acc0cd</id>
-        <link href="https://note.com/fourangle/n/nd5c624acc0cd"/>
-        <updated>2021-06-08T12:12:56.000Z</updated>
-        <summary type="html"><![CDATA[久々ノートです四角です。本当に長い間使ってませんでした。仕事が辛くて、音MADもあんまりやる気がない上ゲームに逃げたりしてたんです。が最近に来てちょっと余裕ができそうな空気があり、また変なことを考えるのに夢中になりちょっと書こうとしてるだけです。
-
-
-
-
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>四角</name>
         </author>
     </entry>
 </feed>
