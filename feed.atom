@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-10T12:05:34.431Z</updated>
+    <updated>2022-06-10T13:15:23.981Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黴っぽいな備忘録]]></title>
+        <id>https://note.com/youtt6/n/na5730bf22bc9</id>
+        <link href="https://note.com/youtt6/n/na5730bf22bc9"/>
+        <updated>2022-06-10T13:10:36.000Z</updated>
+        <summary type="html"><![CDATA[んちゃ！先月投稿した黴っぽいなの備忘録です。
+ 黴っぽいな黴っぽいな [Entertainment] 黴落ちちゃうわ！立ち絵：シオサイダーさん user/1009499歌nico.ms 
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自転車泥棒合作2021 世界の始まり]]></title>
         <id>hatenablog://entry/13574176438100553966</id>
