@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-11T14:04:10.176Z</updated>
+    <updated>2022-06-11T15:04:12.301Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -765,6 +765,16 @@ August 27, 2020
 続きをみる]]></summary>
         <author>
             <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『シン・ウルトラマン』の楽しみ方を間違えた]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-82.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-82.html"/>
+        <updated>2022-06-01T13:02:00.000Z</updated>
+        <summary type="html"><![CDATA[久しぶりに「楽しみ！！！！！！」ではなく「どういう映画なんだ？」の感情で映画を観たので、メモとして。]]></summary>
+        <author>
+            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
