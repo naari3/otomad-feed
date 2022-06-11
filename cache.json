@@ -11790,6 +11790,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-102.html",
+          "author": "picm",
+          "description": "AviUtlで複数の画像/動画オブジェクトの参照ファイルを一括で変更したいとき",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-102.html",
+          "publishedOn": "2022-06-11T12:17:16.000Z",
+          "wordCount": 57,
+          "title": "参照ファイルの一括変更",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-101.html",
           "author": "picm",
           "description": "...",
