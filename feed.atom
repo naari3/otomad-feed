@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-12T14:04:07.649Z</updated>
+    <updated>2022-06-12T15:04:01.997Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【オマケ】音MADと著作権④？]]></title>
+        <id>https://note.com/oto_mad_ytpmv/n/n7073f7412909</id>
+        <link href="https://note.com/oto_mad_ytpmv/n/n7073f7412909"/>
+        <updated>2022-06-12T14:42:11.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+さて、著作権シリーズも第５回目となりました。
+続きをみる]]></summary>
+        <author>
+            <name>音MAD研究所(仮)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MADと著作権③〜インターネット化の波〜]]></title>
+        <id>https://note.com/oto_mad_ytpmv/n/ne3d07ab30bb2</id>
+        <link href="https://note.com/oto_mad_ytpmv/n/ne3d07ab30bb2"/>
+        <updated>2022-06-12T14:29:27.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+どうも、ややお久しぶりです。音MAD研究所(仮)です。
+続きをみる]]></summary>
+        <author>
+            <name>音MAD研究所(仮)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6.12 ポケモンジャパンチャンピオンシップスの2日目を見た]]></title>
         <id>hatenablog://entry/13574176438101418274</id>
