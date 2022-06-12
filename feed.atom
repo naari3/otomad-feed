@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-12T15:04:01.997Z</updated>
+    <updated>2022-06-12T16:04:23.222Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[合作の基本的なノウハウを知りたい]]></title>
+        <id>https://note.com/26435/n/nc045143c76a6</id>
+        <link href="https://note.com/26435/n/nc045143c76a6"/>
+        <updated>2022-06-12T15:25:07.000Z</updated>
+        <summary type="html"><![CDATA[こういう記事を書くときの書き始めがわかりません。Theasです
+自分は音MADにまつわるnoteやはてなブログをよく見ています。その中でも合作にまつわる記事を熟読しているんですが、合作のコンセプトやパート解説の記事が多い一方、基本的合作運営の記事が異常に少ないです
+続きをみる]]></summary>
+        <author>
+            <name>Theas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【オマケ】音MADと著作権④？]]></title>
         <id>https://note.com/oto_mad_ytpmv/n/n7073f7412909</id>
