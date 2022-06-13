@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-13T15:05:24.211Z</updated>
+    <updated>2022-06-13T16:04:08.395Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.06.13 別ゲーの貯金で戦うのをやめようとしている話]]></title>
+        <id>hatenablog://entry/13574176438101935316</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/06/14/002131"/>
+        <updated>2022-06-13T15:21:31.000Z</updated>
+        <summary type="html"><![CDATA[最近、SOUND VOLTEXをよくやってる。
+自分の周りの音ゲーマーの大多数がボルテプレイヤーな関係で、誘われて一緒にやりにいく機会も多い。中学の時の同級生に一人未だに仲の良い友人が居るのだが、多分これが一番大きい。
+また、自分とかなり実力の近い友人も居て、その人とボルフォース(レートみたいな概念)の競争をしているうちにお互いだいぶ上手くなった。
+ 
+レベル19の3曲にクリアランプが付いているのだが、曲によってはレベル18の曲でも終始歯が立たないこともある。
+というのも、僕は弐寺をやっていた関係でだいぶ歪な成長をしてしまっている。
+今まではそれ自体は認識していても「でも19出来てるしなぁ」と考えてひたすら17や18の譜面で練習していたのだが、最近少し考え方が変わり、レベル16の譜面をひたらすらプレイしている。
+ 
+同じように鍵盤が付いた音ゲーとはいえ、弐寺とボルテは違うゲームであって、自分はボルテに関しては初心者なのだから適切な譜面からプレイしていくべきだと思ったのだ。
+むしろ19の譜面がクリア出来てしまっていることが不幸というかイレギュラーなのだと考えるようになった。
+ 
+感覚としては、自分はボルテをやるフリをして弐寺をやっていたのだと思ってる。
+"郷に入っては郷に従え"ではないけど、そのゲームをやるならそのゲームなりの楽しみ方をする必要があるんじゃないかと考えて、今僕はサウンドボルテックスを改めて始めようとしている。
+明日もゲームセンターに行こうと思う。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドンゲー雑記]]></title>
         <id>hatenablog://entry/13574176438099839426</id>
