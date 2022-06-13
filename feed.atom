@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-13T16:04:08.395Z</updated>
+    <updated>2022-06-13T17:08:01.041Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220611「無題」]]></title>
+        <id>hatenablog://entry/13574176438101946987</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/06/14/014610"/>
+        <updated>2022-06-13T16:46:10.000Z</updated>
+        <summary type="html"><![CDATA[また日記がたまった。この日は夕方くらいに起きて、ちょっと作っている曲を触ってみたり、本を読んだりしたら深夜になっていたので寝た。実りのない日だったといえばそうなる。しかし何かを作っているときの休みの日って往々にしてこうだった気もするし、無為に過ごしたことに対する充実感というか久しぶり感みたいなものがあってよかった。そう現状を肯定したいだけかもしれない。最近はわりとそういう過ごし方を無理やり肯定したり、大したこともなく凄い嬉しいことがあるわけでもない日常を俯瞰して幸せなことだな、と肯定することが多い。これはのちにちょっと大きな取り組む予定があって忙しくなることを予期しての行動だと思う。話は逸れたけど、自分の創作は足踏みとか一歩進んで二歩下がることの繰り返しで、いつの間にかできている／締め切りがやってきて強制的にできた、そんなことばかりかもしれない。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.06.13 別ゲーの貯金で戦うのをやめようとしている話]]></title>
         <id>hatenablog://entry/13574176438101935316</id>
