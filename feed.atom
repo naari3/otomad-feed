@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-14T14:04:25.632Z</updated>
+    <updated>2022-06-14T15:04:24.507Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.06.14 今日は調子が良かった]]></title>
+        <id>hatenablog://entry/13574176438101595746</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/06/14/234330"/>
+        <updated>2022-06-14T14:43:30.000Z</updated>
+        <summary type="html"><![CDATA[今日は調子が良かった。
+僕は仕事中にほぼ毎日猛烈な眠気に襲われるのだが、今日はそれがなかった。
+理由を考えてみた。
+ 
+・昨日は通話をしなかった
+・昨日は25:00に寝た
+・昨日は夜にモンエナを飲まなかった
+・禁欲中
+・今日は昼にモンエナを飲んだ
+・自分の部屋が綺麗
+・洗濯したてなので布団がフカフカ
+ 
+理由は一つじゃないんだろうけど、とりあえず全部いいことだと思うので続けてみようと思う。
+ところで昨日宣誓した通りゲームセンターにも行ったのだけど、音ゲーはそこまで調子良かったかと言われると何とも言えない。時の運。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[anond:20220608175403]]></title>
         <id>https://anond.hatelabo.jp/20220614224008</id>
