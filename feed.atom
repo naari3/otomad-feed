@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-15T12:05:16.777Z</updated>
+    <updated>2022-06-15T13:15:44.045Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.06.15 通勤電車でゲームをやることにした]]></title>
+        <id>hatenablog://entry/13574176438102509206</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/06/15/221328"/>
+        <updated>2022-06-15T13:13:28.000Z</updated>
+        <summary type="html"><![CDATA[6月15日です。昔は15日と言えばコロコロコミックの発売日でした。
+うちは父親の給料日も15日だったので、平日だった時は銀行に行った母親がついでに買ってきてくれました。土日だったら近くのコンビニに自分で買いに行ってました。
+ 
+普段は通勤電車の中で本を読んだりアニメを見たりしているのですが、だいたい眠くなってしまう上に、別に眠ったところでその日のパフォーマンスが上がるわけでもないんですね。
+つまり眠るだけ無駄。ならばなんとかしたい。
+そう思って今日からスマホでゲームをやることにしました。友人からいくつかオススメを聞いて入れてみました。
+
+プロセカだけは自分セレクト。一応全部やったので感想。
+ 
+・トゥーンブラスト
+答えが複数ある気軽なパズルゲームといった感じ。意外と悪くない。
+ただ奇妙な日本語を始めとして色々不安になる。
+ 
+・ポケモンユナイト
+プレイヤーによって役割が変わるバスケットボールタイプのゲームでかなり面白い。
+朝の時間帯でもすぐマッチングしてとても良い。
+ 
+・プロセカ
+言うまでもなく面白い。けど前にやった時のデータ消えてた。
+ 
+まだ一日目ですけど、結果的に大成功だったと思います。
+途中で飽きて本を読み始めても全然眠気が来ない。交感神経が働いてくれる。
+これからも当分続けてみようと思います。有料だったのでとりあえず見送ったんですが、CS機ゲームのスマホ移植なんかも比較的充実してるみたいで意外と選択肢あるなぁって思いました。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220614「密室鍵紛失事件」]]></title>
         <id>hatenablog://entry/13574176438102266708</id>
