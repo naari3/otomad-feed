@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-16T23:04:30.722Z</updated>
+    <updated>2022-06-17T00:13:55.453Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -22630,18 +22630,6 @@ OBSのプレビューにウマ娘が表示されたら、プレビュー上の�
 続きをみる]]></summary>
         <author>
             <name>ゆうしゃアシスタント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現代の闇　なぜかっぱずしのひとは自分を売ったのか？]]></title>
-        <id>https://note.com/somethingofmok/n/nccc0a6aa28cf</id>
-        <link href="https://note.com/somethingofmok/n/nccc0a6aa28cf"/>
-        <updated>2021-06-17T11:34:56.000Z</updated>
-        <summary type="html"><![CDATA[大内生は宣伝効果のある音MAD特集あたりから見始めました。昔の特集軽く漁ってたら大内生選手権の存在を認知。去年の9月くらいには第2回あったら参加したいわね～ってうっすら思ってた。
-・どんな音MAD作る予定やったんや
-続きをみる]]></summary>
-        <author>
-            <name>かっぱずしのnote</name>
         </author>
     </entry>
 </feed>
