@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-19T08:04:15.106Z</updated>
+    <updated>2022-06-19T09:04:16.838Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Worldleについて検証]]></title>
+        <id>https://note.com/26435/n/n7000d227f147</id>
+        <link href="https://note.com/26435/n/n7000d227f147"/>
+        <updated>2022-06-19T08:25:04.000Z</updated>
+        <summary type="html"><![CDATA[自分用記事です
+Worldleとはこれです
+ WorldleWordle game in the Worldworldle.teuteuf.fr 
+続きをみる]]></summary>
+        <author>
+            <name>Theas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海外のポケモンセンターで買い物してみた]]></title>
         <id>hatenablog://entry/13574176438103478953</id>
