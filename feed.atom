@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-20T15:07:29.253Z</updated>
+    <updated>2022-06-20T16:04:20.219Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220619「無題」]]></title>
+        <id>hatenablog://entry/13574176438104148390</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/06/21/003103"/>
+        <updated>2022-06-20T15:31:03.000Z</updated>
+        <summary type="html"><![CDATA[18、19の土日は夜に起きて家に籠って終わった。作業をして曲が進んだり、諸々の進捗は生めたのだけどぱっとしないといえばぱっとしない。別に夜に起きようがリズムがあればいいと思っていたが、我々は吸血鬼ではないので日光を浴びたり外の空気を吸う必要というものがやはりある。とはいえ土日はこういう過ごし方をすることが大半で、昼夜逆転してなくても外には出ないみたいなことが多い。だって平日こそずっと外に出ているわけだし…。まあ本を注文したりしたので届くのが楽しみだったりします。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.06.20 頭が痛い]]></title>
         <id>hatenablog://entry/13574176438104142934</id>
