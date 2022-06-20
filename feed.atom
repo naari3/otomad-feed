@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-20T14:03:57.442Z</updated>
+    <updated>2022-06-20T15:07:29.253Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.06.20 頭が痛い]]></title>
+        <id>hatenablog://entry/13574176438104142934</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/06/21/000539"/>
+        <updated>2022-06-20T15:05:39.000Z</updated>
+        <summary type="html"><![CDATA[着替えが足りなくなったという理由でジムもゲームセンターも行けなかったので今日は職場から直帰した。
+ちょっと前から作ろうとしてるものがあるのでHTML及びCSSを弄ろうと思ったのだが疲れてやる気が起きなかったので少し前に買った風のタクトをやった。
+ 
+今回は二つ目の島の攻略。だいたい一時間ぐらいかかった。
+ゼルダヒストリーだと「ハイラルが封印されて水没した世界」みたいな感じで語られてる世界線ですが、時のオカリナで出てきたデクの樹サマが出てきたことでナルホド感が強く出ました。懐かしいとか言ってたしね。
+ゼルダは攻略の難易度が本当に程々って感じで凄く良いです。そのダンジョンで手に入れたアイテムをガンガン使うテンプレに一先ず従っておけば大幅に迷うことはないし、かといって全く頭を使わないかと言うとそうでもないっていう絶妙な難易度。
+今回倒したガーレ・デモスってボス、オリジナルの発売から14年経った2016年に新しい攻略法が見つかったらしいですね。ゼルダってそういうイースターエッグ的なやつ多い気がします。
+ 
+ゼルダの伝説の好きな展開3選
+・新しく手に入れたアイテムで過去の雑魚敵がよりスマートに倒せるようになる
+・過去に倒した中ボスがマイナーチェンジとか二体同時とかでもう一度出てくる
+・ボスをスタンさせて剣で殴る時の呻き声
+ 
+オーバーヒートだか何だか分からないけど頭がとても痛いので冷えピタを貼って寝ます。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.6.19 父の日]]></title>
         <id>hatenablog://entry/13574176438103730937</id>
