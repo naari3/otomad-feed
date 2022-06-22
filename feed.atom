@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-22T03:32:07.256Z</updated>
+    <updated>2022-06-22T04:14:14.067Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.6.22 DDRやりたい]]></title>
+        <id>hatenablog://entry/13574176438104567955</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/06/22/125240"/>
+        <updated>2022-06-22T03:52:40.000Z</updated>
+        <summary type="html"><![CDATA[最近あまりにも打たれ弱すぎるので、自分に簡単なノルマを作ってそれを実行することで自己肯定感を高めてる。
+今日は昼に薬を飲むこととブログを書くことをノルマにした。ちなみに昨日は病院に行くことをリーダーに伝えることだった。
+ほんとにあらゆることが出来なくなってる。昨日は自室の机の前に座ることが出来なかったのでWii Uのゲームパッドで風のタクトをプレイした。
+ 
+今日からDDR A3が本稼働するようだが、Twitterで回ってくる更新情報が凄い。
+書き下ろし新曲やSOUND VOLTEXからの移植、さらには既存曲への鬼譜面追加など情報が盛りだくさん。
+一気に足18が3譜面追加されてTwitterでは阿鼻叫喚になっているが、特に令和鬼への反応は凄い。
+そりゃそうだ。激譜面が足10なのになんで18も上がってるんだ。そんな曲でもないだろ。
+ 
+今日からはジムと同じ階にある白筐体でもA3がプレイ出来るので少し冷やかしに行ってみようと思う。
+しばらく音ゲーから遠ざかっていたので、昔みたいに新バージョン稼働の時の楽しさを味わえてとても嬉しい。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#12 6月3週]]></title>
         <id>hatenablog://entry/13574176438104164301</id>
