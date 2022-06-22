@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-22T15:03:58.411Z</updated>
+    <updated>2022-06-22T16:04:19.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[くれぐれも…]]></title>
+        <id>https://note.com/seirontea/n/n827160c080df</id>
+        <link href="https://note.com/seirontea/n/n827160c080df"/>
+        <updated>2022-06-22T15:57:39.000Z</updated>
+        <summary type="html"><![CDATA[マトモな作者とそうでない作者はどんなことをしてでも見分けろ！後になってでは遅い！
+じゃないと俺みたいになるぞ〜
+続きをみる]]></summary>
+        <author>
+            <name>セイロンティー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漢検1級 R4-1の感想 (オモテ面)]]></title>
         <id>https://note.com/dokozonosyake/n/n9aca773179ea</id>
