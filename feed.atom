@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-22T11:04:01.720Z</updated>
+    <updated>2022-06-22T12:05:14.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[漢検1級 R4-1の感想 (オモテ面)]]></title>
+        <id>https://note.com/dokozonosyake/n/n9aca773179ea</id>
+        <link href="https://note.com/dokozonosyake/n/n9aca773179ea"/>
+        <updated>2022-06-22T11:23:54.000Z</updated>
+        <summary type="html"><![CDATA[学校の定期テストが今日終わったので、R4-1の感想を書こうと思います。
+自分にとっては2回目の漢検1級受検です。前回は無惨にも91点という結果でしたが、今回の結果やいかに。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.6.22 DDRやりたい]]></title>
         <id>hatenablog://entry/13574176438104567955</id>
