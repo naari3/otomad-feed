@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-23T14:04:16.905Z</updated>
+    <updated>2022-06-23T15:04:19.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.6.23 そういえば]]></title>
+        <id>hatenablog://entry/4207112889892625865</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/06/23/235718"/>
+        <updated>2022-06-23T14:57:18.000Z</updated>
+        <summary type="html"><![CDATA[このブログが出来てから3年経ったらしい。
+
+確か名古屋に向かう夜行バスを待っている時に作ったんだったと思う。
+今も大変だけど、当時はもっと大変だったなとか色々思い出す。名古屋に行ったのも起死回生(?)の気分転換だった。
+逆にあれから3年しか経っていないのだと思うと意外な気持ちにもなる。
+ 
+ブログの1番良いところは自分が消したりサービスが終了したりしない限りずっと残り続けることだと思う。いわば自分の伝承アイテム。
+小学生の時に作ったFC2のブログも未だに残っている。パスワードを忘れてしまったので管理することは出来ないが、今でもたまに当時の記事を見返して懐かしんだりしてる。
+このブログも自分がもっと大きくなった時にそういう風になるのかもしれない。
+極論自分が死んでも自分の情報はネットに残り続けるのだ。Serial experiments lainだ。
+ 
+もっというとデジタルじゃなくて物理で残したいな。
+そういえばブログを製本出来るサービスとかあったような気もする。
+ 
+これからも頑張ります。頑張るめう。
+（╹◡╹）（╹◡╹）（╹◡╹）
+
+にせつむりだよ]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[くれぐれも…]]></title>
         <id>https://note.com/seirontea/n/n827160c080df</id>
