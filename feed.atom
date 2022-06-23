@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-23T16:04:15.319Z</updated>
+    <updated>2022-06-23T17:07:44.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220622「無題」]]></title>
+        <id>hatenablog://entry/4207112889892640659</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/06/24/012338"/>
+        <updated>2022-06-23T16:23:38.000Z</updated>
+        <summary type="html"><![CDATA[この日は水曜。月曜と火曜はちゃんと生活できていたのに、この日は起きたのが15時くらいだったと思う。気が付いたら明け方になっていて、だらだら起きていた。気絶するように寝て起きたらそうなっていて、調べ物とかしようとおもったのにできなかった。いまは並行して曲をいくつか作っていて、わりと滞りなく進んでいるのが怖い。たいては詰むフェーズが来るからだ。だいたい何かが完成するまでの間は落ち着きが無くなる。ちゃんとできるかとか、思ったことをすぐ形にしたくてそわそわする。だからおしなべて最近はすっきりしていないといえばそうなのだろう。それを怠惰の言い訳にはしたくないけど。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220621「雨に濡れれば」]]></title>
+        <id>hatenablog://entry/4207112889892639592</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/06/24/011522"/>
+        <updated>2022-06-23T16:15:22.000Z</updated>
+        <summary type="html"><![CDATA[この日は労働をした。はやく帰ることに成功した。空いた時間で調べ物をすることができてよかった。すごい雨が降っていて、傘は差していたけどことごとく濡れてしまった。こういうことは久しぶりだとおもう。それはなぜかと考えると去年とかおととしはほぼ家に引きこもっていたからだろう。濡れることは決してありがたくはないが、懐かしさもある。
+　
+　濡れた服を乾かすのは、小学校のころの雨の朝を連想させた。鉛色の空と校庭が窓外にひろがり、教室の電灯だけがすこし黄色がかって世界を照らす。滑りそうな廊下を歩いて教室に入ると湿気た空気が立ち込め、靴下が濡れたと騒ぐ同級生が窓辺に干したり、僕は持ってきた替えの靴下を履いたりする。不快感がまっさきに思い出される記憶だけど、懐かしくもある。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.6.23 そういえば]]></title>
         <id>hatenablog://entry/4207112889892625865</id>
