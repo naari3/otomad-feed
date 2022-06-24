@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-24T16:04:24.039Z</updated>
+    <updated>2022-06-24T17:07:39.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220623「半睡半醒」]]></title>
+        <id>hatenablog://entry/4207112889892931243</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/06/25/014542"/>
+        <updated>2022-06-24T16:45:42.000Z</updated>
+        <summary type="html"><![CDATA[午前まで起きていて、いま寝たら予定全部飛んで駄目になるなと思っていて、そうなった。この午前のモラトリアムというのは起きたときの絶望と同じくらい嫌な時間なのに、やってしまうことがある。いま寝たらもう起きれないだろう、こういうので起きられた試しがないから…でもいま寝たらましかな、でも寝たくない、しかし泥のように眠気はやってくる。…みたいな煩悶がずっと続いて気絶する。起きたのは午後17時くらいだった。失望しつつ、それでもすることはしようとして、23時とか早くに寝たと思う。そこから2時間で目が覚めて諦めたと思ったらまた二度寝して起きたら15時だったのはまた別の話。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ゆっくり車載】北海道高速どうでしょう 道東道(本線・端野支線)【シトロエンDS3】]]></title>
         <id>hatenablog://entry/4207112889892885351</id>
