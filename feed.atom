@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-24T12:05:14.673Z</updated>
+    <updated>2022-06-24T13:17:26.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[漢検1級 R4-1の感想 (ウラ面)]]></title>
+        <id>https://note.com/dokozonosyake/n/n3e2410184366</id>
+        <link href="https://note.com/dokozonosyake/n/n3e2410184366"/>
+        <updated>2022-06-24T12:24:14.000Z</updated>
+        <summary type="html"><![CDATA[前回記事に引き続き、R4-1の感想です。
+(五) 熟字訓・当て字 6点
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220622「無題」]]></title>
         <id>hatenablog://entry/4207112889892640659</id>
