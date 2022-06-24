@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-24T14:04:03.325Z</updated>
+    <updated>2022-06-24T15:04:35.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ゆっくり車載】北海道高速どうでしょう 道東道(本線・端野支線)【シトロエンDS3】]]></title>
+        <id>hatenablog://entry/4207112889892885351</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220624/p1"/>
+        <updated>2022-06-24T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[ミカゲスタジオ / Mikage STUDIO - YouTube (投稿者)
+
+
+陸別から南下し、足寄IC～(道央道端野視線)～本別JCT～(道央道本線)～キウスPAと進む車載動画。3:46頃に映像が足寄町に入ったところから「muneo house」(1st-03)、5:35頃からは「MUNE RACER」(19th-04)をBGMとして使っていた他、4:07頃他で1stアルバムEU版ジャケット画像が表示されるシーンが数度ありました。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漢検1級 R4-1の感想 (ウラ面)]]></title>
         <id>https://note.com/dokozonosyake/n/n3e2410184366</id>
