@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-25T08:04:32.290Z</updated>
+    <updated>2022-06-25T09:03:59.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -61,6 +61,39 @@ tuberecipe.com
         <summary type="html"><![CDATA[午前まで起きていて、いま寝たら予定全部飛んで駄目になるなと思っていて、そうなった。この午前のモラトリアムというのは起きたときの絶望と同じくらい嫌な時間なのに、やってしまうことがある。いま寝たらもう起きれないだろう、こういうので起きられた試しがないから…でもいま寝たらましかな、でも寝たくない、しかし泥のように眠気はやってくる。…みたいな煩悶がずっと続いて気絶する。起きたのは午後17時くらいだった。失望しつつ、それでもすることはしようとして、23時とか早くに寝たと思う。そこから2時間で目が覚めて諦めたと思ったらまた二度寝して起きたら15時だったのはまた別の話。おやすみなさい。]]></summary>
         <author>
             <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardonize web「ヒトクセあるサンプリングのテクノ特集：今週のオススメハードテクノ」でYabaiyoを紹介する人]]></title>
+        <id>hatenablog://entry/4207112889893087527</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220624/p2"/>
+        <updated>2022-06-24T14:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Hardonize web
+2008年から早稲田茶箱さんで開催されているハードテクノのイベント「Hardonize」の公式ページから。レギュラーDJ陣がおすすめ楽曲を紹介する記事で最後のオチが「Yabaiyo」(10th-01)でした。担当はTAK666さん。以下、該当箇所を引用。
+THE MUNEO HOUSE / yabaiyo
+
+
+[ムネオハウス] THE MUNEO HOUSE PV – yabaiyo (version1)
+
+今回のオチ。
+まさか令和の時代にこれを取り上げるとは自分でも思っていなかったんですが、今回のコンセプトにはバチッとハマってしまったので。
+
+経緯についてはWikipediaのページを参照して頂きたいのですが、今から20年前に2ちゃんねるで匿名アーティストたちがこぞって鈴木宗男の国会答弁をサンプリングし、ダンスミュージックと組み合わせた楽曲を発表していたことがあったのです。
+その数半年間で250曲以上。アルバム21枚相当というとんでもない量です。
+サウンド、展開、サンプリングの使い方、全てがアマチュア離れしています。
+ドライブ感のあるベースラインに複数種類のリフを巧みに組み合わせ、ループ感は保ちつつドラマティックに展開していくトランスとテクノの中間くらいのトラック。
+マジで20年越しに何を真面目に分析しているんでしょう私は。
+
+ちなみにまだ楽曲を配布しているところがあるのか調べたらありました。
+公式サイトもまだ残ってました。
+インターネット文化遺産として未来永劫残っていて欲しい。
+
+どうでも良い話ですが、2002年当時実際にクラブでムネオハウスを題材としたパーティーが行われておりまして、当時未成年で行けなかったことが人生で悔しい出来事のかなり上位にきます。
+ヒトクセあるサンプリングのテクノ特集：今週のオススメハードテクノ － Resident’s Recommend 2022/06/23 | Hardonize web
+DJデビュー戦の〆にムネオハウスをぶち込んだ人 - muneo house information (2005年3月13日)
+TAK666さんは2005年の人生初イベントDJの場でも「Yabaiyo」(10th-01)のエディット版を使っていらっしゃいました。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
