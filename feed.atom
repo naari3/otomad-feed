@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-25T12:04:47.571Z</updated>
+    <updated>2022-06-25T13:08:37.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハッハッ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1182.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1182.html"/>
+        <updated>2022-06-25T12:09:59.000Z</updated>
+        <summary type="html"><![CDATA[かなりあつくなってきた  荒波です最近仲間内で僕の大好きな妻！っていうドラマをみています発達障害をダシにした感動ポルノみたいな内容なんですが主演女優（ももくろの人）の演技がかなりそれっぽく、キャスティングうまいなーなんて思ったりドラマを観るのが久々すぎて、邦ドラマ特有のモーションブラーかかったみたいな感じ（？）や役者の芝居がかった演技が受け付けなかったりと色々あるものの楽しくみています周りがこういう]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220624「自炊日記２」]]></title>
         <id>hatenablog://entry/4207112889892934356</id>
