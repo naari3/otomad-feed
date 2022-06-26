@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-26T10:04:11.376Z</updated>
+    <updated>2022-06-26T11:04:01.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220625「無題」]]></title>
+        <id>hatenablog://entry/4207112889893447208</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/06/26/195353"/>
+        <updated>2022-06-26T10:53:53.000Z</updated>
+        <summary type="html"><![CDATA[10時半くらいに起きて、ぐずぐずしてから1時に家を出た。目的地は図書館で、調べ物をするためである。この土日はこれをすると決めていたのであまり晴れやかな気分ではないのだけど、決まったことはやるほかない。5時間くらい滞在して、うち2時間くらいは寝たのだけど成果を得ることはできた。帰りにすき家を利用してみると、「スパイシートマチ牛丼」という期間限定メニューがあった。シンプルな牛丼と迷ったが、ちょっと興味があったので大盛680円を注文してみる。
+ 
+
+ 
+　そのままトマトチーズカレーという趣かつ、ナッツが乗っていたりケールもあっておいしかったのだけど、すき家感がなかった。「ぼくらのすき家がおしゃれカフェになってしまった…」という感じ（そこまですき家は利用していない）で、夜ご飯にがつんと喰らうものではないだろう。そもそも普通の大盛が700円とか720円なのに、このトマチ牛丼は680円なのも不思議だった。期間限定メニューってお高めなイメージがあるからだ。だから「大盛と銘打っているけど実際はふつうの大盛より少ないのか…？」などと考えていた。
+ 
+　とはいえ、700円も680円も大した差ではないといえばそうである。大盛自体が僕の「夜ご飯にガツンと食べる」に向いてないのかも、という教訓を得られた。だから800円とか900円かけても特盛にトッピングしたほうが楽しめるのだ、僕にとっては。ちなみに本当に足りなかったのでコンビニでおにぎりを買って食べたら牛丼と合わせて900円くらいになってしまった。「ふつうの牛丼にすればよかった」「やはり外食で夜ご飯を食べると1000円近くかかる」と後悔しつつ帰宅し、いろいろしていたら朝になった。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.40　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
         <id>hatenablog://entry/4207112889893327585</id>
