@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-26T03:33:07.031Z</updated>
+    <updated>2022-06-26T04:12:37.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.40　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
+        <id>hatenablog://entry/4207112889893327585</id>
+        <link href="https://ximco.hatenablog.com/entry/2022/06/26/123904"/>
+        <updated>2022-06-26T03:39:04.000Z</updated>
+        <summary type="html"><![CDATA[挨拶と本記事の目的
+　もはや真夏の如し猛暑の日々でバテまくり。Ximcoです。
+　自作フォント「Xim Sans 手書き風」のバージョン更新のお知らせです。
+ 
+　DLはこちらから。↓
+ 
+github.com
+
+今回の更新について
+　今回は文字追加は少なめです。いくつか利用規約の見直しと、二次創作にあたる文字についてはクレジット表記や著作権情報などを確認しています。（今後も更新される可能性があります）
+ 
+　「あれ、1.39は？」と思った方、すみません。
+　Ver1.39を出した際にちょっとしたトラブルがあり余裕がなかったのでブログでの告知はしませんでした。
+利用規約の変更点など
+今回利用規約の見直しを行い、次の方針とするようにしました。
+禁止行為
+「Xim Sans」の作者を騙る行為。（今まで通りダメです）
+「Xim Sans」を改変なしで有償で再配布する行為。（有償での再配布は改変を含む場合でも相談ください。基本ダメです）
+「Xim Sans」の名称を用いて他者に迷惑を掛けていると判断できるような行為。（Xim Sansの名前を出して他フォント制作者に文字追加を過剰に募る行為が確認されました。当フォントに対するイメージ悪化に繋がる可能性もあるのでおやめください…）
+特定の過激な政治思想、差別的主張への利用。
+下記二次創作にあたる文字の中で、版権元が商用利用を禁止している文字を利用した商業活動
+　本フォントに含まれる文字のうち、二次創作にあたるものリスト↓
+文字
+文字の説明
+元となった作品
+版権元
+著作権情報
+
+
+
+ウマ娘の「馬」
+ウマ娘 プリティーダービー
+Cygames
+公式二次創作ガイドラインに従う
+当然だが商用利用不可
+
+
+～
+クリンゴン文字
+「Star Trek」シリーズ
+ViacomCBS, Inc., James Doohan, Marc Okran…]]></summary>
+        <author>
+            <name>ximcoの部屋</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハッハッ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1182.html</id>
