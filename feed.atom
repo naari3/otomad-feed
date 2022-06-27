@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-06-27T11:04:07.842Z</updated>
+    <updated>2022-06-27T12:05:14.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[明晰夢を見たよ日記]]></title>
+        <id>https://note.com/nejimakimia/n/n6f9a53423f46</id>
+        <link href="https://note.com/nejimakimia/n/n6f9a53423f46"/>
+        <updated>2022-06-27T11:52:29.000Z</updated>
+        <summary type="html"><![CDATA[寝起きで内容を忘れる前に急いで書いているので文章に違和感があったりまとまってなかったりひまふ←この誤字で察してください
+初めて明晰夢を見たかもしれません。
+まず、夢を見るまでの過程
+・睡眠って、うとうとしてから暫く経って、ゆるやかに夢に入るじゃないですか？（少なくとも自分はそう）
+・普段はそういった入り方なんですけど、今回は気絶する火のように急に夢の中に入っていました。と同時に、夢に入った瞬間それが夢であることを自覚し、自分の意思で夢の中で体を動かすことが出来ました。
+続きをみる]]></summary>
+        <author>
+            <name>ネジマキ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220625「無題」]]></title>
         <id>hatenablog://entry/4207112889893447208</id>
