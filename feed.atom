@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-01T06:04:27.051Z</updated>
+    <updated>2022-07-01T07:04:23.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年上半期ニコマス20選]]></title>
+        <id>https://note.com/saltlemon/n/nd70d71e5fe4f</id>
+        <link href="https://note.com/saltlemon/n/nd70d71e5fe4f"/>
+        <updated>2022-07-01T06:52:13.000Z</updated>
+        <summary type="html"><![CDATA[基本レギュレーション
+対象は2022年上半期(1月1日～6月30日)に公開されたニコマス動画
+自身のセレクトを20作品以内でブログ・マイリスト等にて公開
+1Pにつき1作品(合作・別名義については別カウント)
+選考基準はフリー（お気に入り・埋もれ発掘・テーマに沿って等何でも可）
+※作品と一緒にP名を表記していただけると非常に助かります
+1．天然由来のトワレ　いひぇさん
+続きをみる]]></summary>
+        <author>
+            <name>塩れもん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220630「涼しい朝」]]></title>
         <id>hatenablog://entry/4207112889894903346</id>
