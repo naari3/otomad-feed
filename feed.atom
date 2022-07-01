@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-01T13:15:48.977Z</updated>
+    <updated>2022-07-01T14:04:08.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おすすめ料理系youtuber４選]]></title>
+        <id>https://note.com/seirontea/n/n64daa0bc7f6b</id>
+        <link href="https://note.com/seirontea/n/n64daa0bc7f6b"/>
+        <updated>2022-07-01T13:50:21.000Z</updated>
+        <summary type="html"><![CDATA[夏に入り、暑さで食欲が減退気味の皆さん　こんにちは
+私は自炊が好きでよくやっていますが、料理は速さと作りやすさ、栄養バランスをモットーにしています。
+しかし、youtubeで活躍する方々は、未知なる料理のため、私が一生かかってもやらないような面倒で面白い事をやってくれます。（もちろん、再生数に関わることだと思うので当たり前ですけど）
+私がおすすめする料理系youtuberを見れば食に興味の無いあなたも、もともと食に興味あるあなたも食べることが好きになる！
+続きをみる]]></summary>
+        <author>
+            <name>セイロンティー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年上半期ニコマス20選]]></title>
         <id>https://note.com/saltlemon/n/nd70d71e5fe4f</id>
