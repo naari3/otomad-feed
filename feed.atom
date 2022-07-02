@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-02T10:04:12.668Z</updated>
+    <updated>2022-07-02T11:04:18.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[準1級四字熟語表ver.2.0はこちら]]></title>
+        <id>https://note.com/dokozonosyake/n/ne2fece87819f</id>
+        <link href="https://note.com/dokozonosyake/n/ne2fece87819f"/>
+        <updated>2022-07-02T10:36:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+
+R4-1試験から2週間が経過しようとしています。いかがお過ごしでしょうか。
+自分は少し漢検の勉強から離れていました。学校の勉強を進めたり、オープンキャンパスで横浜に行ったりと、試験以前に比べるとゆったりした時間が流れています。
+この期間を利用して、しゃけ式資料もアップデートしようということになりました。
+その魁として、準1級四字熟語表ver.2.0を公開します。
+これからはGoogleドライブで資料の保管・管理を行うことにしました。資料拠点の一つとしていただければ幸いです。
+お待たせしました、ダウンロードはこちらから。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2022/06]]></title>
         <id>hatenablog://entry/4207112889895352774</id>
