@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-02T01:33:48.274Z</updated>
+    <updated>2022-07-02T02:47:57.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -23319,20 +23319,6 @@ https://www.nippyo.co.jp/shop/book/8072.html'
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合作提出のアップローダまとめ]]></title>
-        <id>https://note.com/26435/n/n82d9a1abf457</id>
-        <link href="https://note.com/26435/n/n82d9a1abf457"/>
-        <updated>2021-07-02T13:36:27.000Z</updated>
-        <summary type="html"><![CDATA[こういう記事見たことないので書きます。
-不足とか誤情報とかあったら遠慮なくコメントして頂ければ対応します。
-いやほぼデタラメです
-GoogleDrive
-続きをみる]]></summary>
-        <author>
-            <name>Theas</name>
         </author>
     </entry>
 </feed>
