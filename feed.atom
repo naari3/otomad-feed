@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-02T05:06:37.973Z</updated>
+    <updated>2022-07-02T06:04:26.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[めかこっこ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1183.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1183.html"/>
+        <updated>2022-07-02T05:56:52.000Z</updated>
+        <summary type="html"><![CDATA[かわいい忍者こんな格好して別に忍者ではなさそうなのが面白いですねビジュアルもそうですが人物像がめちゃ好みでいい自由がいちばんだよね、そうだよねしょうくんのサポートに起用しているが中々よいですいつでもどこでも十分な持続ヒールをくれる千岩キャラという便利さ！サブ垢はサポート陣が手薄なので本当に助かる欲を言えば本垢で北斗と一緒につかいてえがさすがに引けんかったそのうち引けたら感電構成や過負荷混ぜる構成に]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[おすすめ料理系youtuber４選]]></title>
         <id>https://note.com/seirontea/n/n64daa0bc7f6b</id>
