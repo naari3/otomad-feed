@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-03T14:04:11.899Z</updated>
+    <updated>2022-07-03T15:05:41.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -23629,30 +23629,6 @@ https://www.nippyo.co.jp/shop/book/8072.html'
         <summary type="html"><![CDATA[ウマ娘というゲーム...]]></summary>
         <author>
             <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モリヤステップ踊ってみた]]></title>
-        <id>https://note.com/furadiru_99/n/nce87c9493888</id>
-        <link href="https://note.com/furadiru_99/n/nce87c9493888"/>
-        <updated>2021-07-04T02:51:26.000Z</updated>
-        <summary type="html"><![CDATA[この動画はすごくオススメです。
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年春アニメ備忘録]]></title>
-        <id>https://note.com/kasutera20/n/n339825563095</id>
-        <link href="https://note.com/kasutera20/n/n339825563095"/>
-        <updated>2021-07-04T02:50:32.000Z</updated>
-        <summary type="html"><![CDATA[ネタバレ注意（致命的なものには伏字してます）
-今期は面白いアニメが多くて嬉しい悲鳴。
-オッドタクシー
-続きをみる]]></summary>
-        <author>
-            <name>かすてら</name>
         </author>
     </entry>
 </feed>
