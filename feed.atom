@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-03T21:04:26.168Z</updated>
+    <updated>2022-07-03T22:04:16.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -23619,16 +23619,6 @@ https://www.nippyo.co.jp/shop/book/8072.html'
 続きをみる]]></summary>
         <author>
             <name>Lixy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウマ娘が覇権であるがゆえの地獄]]></title>
-        <id>https://anond.hatelabo.jp/20210704185308</id>
-        <link href="https://anond.hatelabo.jp/20210704185308"/>
-        <updated>2021-07-04T09:53:08.000Z</updated>
-        <summary type="html"><![CDATA[ウマ娘というゲーム...]]></summary>
-        <author>
-            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
         </author>
     </entry>
 </feed>
