@@ -6113,20 +6113,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613782851067",
-          "author": null,
-          "description": "竹達彩奈通信 - ブロマガ\nニコニコのユーザーブロマガに上げていた記事を移行しました。\n日付とかコメントとかも反映してくれるんですね。",
-          "link": "https://taket-a.hateblo.jp/entry/2021/07/03/231623",
-          "publishedOn": "2021-07-03T14:16:23.000Z",
-          "wordCount": 82,
-          "title": "移行完了",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },
@@ -9530,15 +9516,6 @@
           "publishedOn": "2021-07-04T02:51:26.000Z",
           "wordCount": 40,
           "title": "モリヤステップ踊ってみた"
-        },
-        {
-          "id": "https://note.com/furadiru_99/n/nb33ec3100b85",
-          "author": null,
-          "description": "ニコニコ動画に投稿した動画が削除されました。まー、元からダメ元だったんだけどね。それに削除されたらされたでおもしろいな、と。因みに内容はこんな感じ。\n続きをみる",
-          "link": "https://note.com/furadiru_99/n/nb33ec3100b85",
-          "publishedOn": "2021-07-03T13:40:45.000Z",
-          "wordCount": 43,
-          "title": "ニコニコ動画で動画を削除＆アカウント一時停止処分を受けた話"
         }
       ]
     },

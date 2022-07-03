@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-03T01:34:31.541Z</updated>
+    <updated>2022-07-03T02:47:42.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -23653,29 +23653,6 @@ https://www.nippyo.co.jp/shop/book/8072.html'
 続きをみる]]></summary>
         <author>
             <name>かすてら</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移行完了]]></title>
-        <id>hatenablog://entry/26006613782851067</id>
-        <link href="https://taket-a.hateblo.jp/entry/2021/07/03/231623"/>
-        <updated>2021-07-03T14:16:23.000Z</updated>
-        <summary type="html"><![CDATA[竹達彩奈通信 - ブロマガ
-ニコニコのユーザーブロマガに上げていた記事を移行しました。
-日付とかコメントとかも反映してくれるんですね。]]></summary>
-        <author>
-            <name>竹達アーカイブ通信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ニコニコ動画で動画を削除＆アカウント一時停止処分を受けた話]]></title>
-        <id>https://note.com/furadiru_99/n/nb33ec3100b85</id>
-        <link href="https://note.com/furadiru_99/n/nb33ec3100b85"/>
-        <updated>2021-07-03T13:40:45.000Z</updated>
-        <summary type="html"><![CDATA[ニコニコ動画に投稿した動画が削除されました。まー、元からダメ元だったんだけどね。それに削除されたらされたでおもしろいな、と。因みに内容はこんな感じ。
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
         </author>
     </entry>
 </feed>
