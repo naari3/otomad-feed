@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-05T16:04:42.005Z</updated>
+    <updated>2022-07-05T17:09:19.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.7.5 ボイロ動画ぐらいならすぐ作れるやろ…]]></title>
+        <id>hatenablog://entry/4207112889896461655</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/07/06/011636"/>
+        <updated>2022-07-05T16:16:36.000Z</updated>
+        <summary type="html"><![CDATA[グータラしてたら上半期が終わってしまった。
+一月に掲げた今年の目標は何にも達成出来てない。来週あたりに無理矢理一つ終わらせようと思ってる。ぴえん。
+ 
+最近ちょくちょく時のオカリナをやってる。Switchオンラインプラスの特典。
+コミカライズを読んだのでだいたいの内容は知っているのだが、実際にゲームをプレイしたことがあるのは子供編終了ぐらいまで。
+今回は改めて最初からプレイしているのだが、64のゲームとは思えないほどテンポが良い上に親切で驚いている。ダンジョンが短めなのも個人的には嬉しい。
+今はキングドドンゴを倒すところまで進めた。ゼル伝でも1,2位を争うぐらいに好きなボスなのだが、どうもシリーズ最弱候補とか言われてるらしい。
+ 
+最近少し仕事が落ち着いてきたので、本を読む時間が出来た。
+
+
+誰が音楽をタダにした？　巨大産業をぶっ潰した男たち (早川書房)
+作者:スティーヴン ウィット
+早川書房
+Amazon
+今日はこれを読んだ。
+mp3を開発した技術者、CD工場で働く労働者、音楽業界の伝説的プロデューサーの三人を中心として、音楽を聴く形態がいかにして今の形へと変わっていったかを紐解いた作品。
+章ごとに三人のうちの誰かに焦点を当てた内容になっており、最初は単独の話だがだんだんと繋がっていく様が群像劇のようで気持ちよかった。
+個人的には労働者編の話がダントツで面白かった。海賊版業界の組織に纏わる話は一昔前に話題になったひまわり動画の違法アップロードのナワバリ争い的な話を彷彿とさせた。あれより更に大規模なことが昔にも起きていたのだなぁと思った。
+今ならセールで500円ぐらいで買えるらしいので興味がある方は是非。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220705「センチメンタル／秘密の時間」]]></title>
         <id>hatenablog://entry/4207112889896452883</id>
