@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-05T03:33:55.833Z</updated>
+    <updated>2022-07-05T04:17:48.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -23598,18 +23598,6 @@ The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>プリコネの年末年始はヤバイわよ！</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チャー研との出会いを振り返る]]></title>
-        <id>https://note.com/somethingofmok/n/n885c9058bf52</id>
-        <link href="https://note.com/somethingofmok/n/n885c9058bf52"/>
-        <updated>2021-07-05T15:48:10.000Z</updated>
-        <summary type="html"><![CDATA[チャー研との出会いは2014年の秋頃でした。当時の自分はmiiverse（3DSでできるSNS）に入り浸る典型的中学生でして、でみんなの活動（Twitterで言うところのTL)見てたら仲のいい人が「チャー研」なる謎の言葉を使ってるのを発見。
-チャー研。
-続きをみる]]></summary>
-        <author>
-            <name>かっぱずしのnote</name>
         </author>
     </entry>
 </feed>
