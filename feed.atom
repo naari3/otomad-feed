@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-05T13:17:43.973Z</updated>
+    <updated>2022-07-05T14:04:57.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[見た2022年春アニメ]]></title>
+        <id>https://note.com/binetsu0904/n/nfc875706b3ca</id>
+        <link href="https://note.com/binetsu0904/n/nfc875706b3ca"/>
+        <updated>2022-07-05T13:56:36.000Z</updated>
+        <summary type="html"><![CDATA[前回の感想はこちら
+
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220704「明るい自暴自棄」]]></title>
         <id>hatenablog://entry/4207112889896247038</id>
