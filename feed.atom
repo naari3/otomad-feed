@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-05T00:14:03.583Z</updated>
+    <updated>2022-07-05T01:33:37.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#14 6月5週]]></title>
+        <id>hatenablog://entry/4207112889896224709</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/07/05/092228"/>
+        <updated>2022-07-05T00:22:28.000Z</updated>
+        <summary type="html"><![CDATA[最近外に出る日が多い。
+自分の限界は週3なんですけど、ここ2週間くらい週6とか週5とかが続いている。
+自分で決めた予定とか楽しい予定とか短い用事とかもあるからそこまで地獄って訳でもないんだけど、シンプルに体力がないのでぐったりしている。
+それに加えて普通に色々やらなきゃいけないこともあったけど、今週からは忙しさがマシになりそう。よかった。
+自由な時間が増えて、やろうやろうと思っていたFallGuysをやっと触れそうなので、もう少し流行っておいてください。
+ 
+今週（先週？）は髪を切ったり服を買ったりしたので偉かった。
+半袖を2着で回してたのが4着になった。すごい。
+ 
+ONEPIECEを読んでいる。
+いいペースで読めているので金カムの時のようにはならなそう。
+何回も読んだことあるので速く読めるってのもあるのかも。
+昔は本読んで泣いたりすることはあまり無かったんだけど、最近、というかウマ娘2期10話を見て以来涙腺が緩くなってしまった。
+シロップ村とココヤシ村のラストで涙を流した。
+ただ、一部のシーン（この帽子をお前に預ける、当たり前だ、二度と敗けねェから等）ではネットミームを思い出して素直に感動出来なくなっている。
+このままだとこの先の燃えるシーン（ネタバレ回避）や死ぬシーン（ネタバレ回避）でも色々思い出して笑ってしまいそう。両方作中屈指の感動シーンなのに。
+頂上戦争に至っては黄色いやつ（ネタバレ回避）に気を取られてまともに読めなさそう。怖いねェ〜？]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マグウ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1184.html</id>
@@ -23525,44 +23551,6 @@ The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動
 続きをみる]]></summary>
         <author>
             <name>かっぱずしのnote</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テレキャンパスイーボーイの担当詳細]]></title>
-        <id>https://note.com/kochi928/n/nf7777f065077</id>
-        <link href="https://note.com/kochi928/n/nf7777f065077"/>
-        <updated>2021-07-05T13:06:13.000Z</updated>
-        <summary type="html"><![CDATA[先日投稿したテレキャスタービーボーイ×Z会の五人合作のパート分け詳細を知りたいと言われたので記事を書きました
-    
-        
-            
-
-        
-    
-
-続きをみる]]></summary>
-        <author>
-            <name>こち横</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高校入試の「内申点」ってどうなの？ 7/5]]></title>
-        <id>https://note.com/108_9/n/n4a9c67074234</id>
-        <link href="https://note.com/108_9/n/n4a9c67074234"/>
-        <updated>2021-07-05T12:20:08.000Z</updated>
-        <summary type="html"><![CDATA[地域や学校によって制度は異なっているが、僕の住んでいる北海道では、一般受験の高校入試には試験当日の点数の他に、中学校の定期テストや授業態度、課題などから算出される内申点(通知表の数字)が合否判定に用いられる。
-ここでは僕が高校入試を経験した北海道の制度を軸に話していく。
-
-北海道の入試では、当日の得点以外に、中学校での成績評価である「内申点」が合否の判定に用いられます。
-　内申点は、中1時代からの各学年の成績を元に計算する。また、算出した内申点を20点ごとに区切って「内申ランク」を決めますが、同じランクでも内申点が高いほど有利になります。
-内申点の計算方法
-中1学年末・9教科合計×2┐
-中2学年末・9教科合計×2├すべて五段階評価
-中3学年末・9教科合計×3┘
-(引用: https://www.do-con.com/nyushi/judge.html)
-続きをみる]]></summary>
-        <author>
-            <name>Lixy</name>
         </author>
     </entry>
 </feed>
