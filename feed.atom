@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-05T06:04:43.668Z</updated>
+    <updated>2022-07-05T07:04:06.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -23588,16 +23588,6 @@ The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和洋折衷]]></title>
-        <id>https://note.com/yabaiwayo/n/nf03a8e23ab43</id>
-        <link href="https://note.com/yabaiwayo/n/nf03a8e23ab43"/>
-        <updated>2021-07-05T18:59:25.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>プリコネの年末年始はヤバイわよ！</name>
         </author>
     </entry>
 </feed>
