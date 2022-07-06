@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-06T13:18:31.612Z</updated>
+    <updated>2022-07-06T14:07:41.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220706「無題」]]></title>
+        <id>hatenablog://entry/4207112889896737696</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/07/06/230536"/>
+        <updated>2022-07-06T14:05:36.000Z</updated>
+        <summary type="html"><![CDATA[7月が始まって一週間が経とうとしている。いま日記に日付を書いて、やっと7月になった実感がわいてきた。昨晩なんとなく1時くらいに気絶していて、起きたら5時半ごろだった。そこから9時くらいまで作業したが、眠気に負けて起きたら15時になっていた。きょうは一日中図書館に籠らないとまずかったのだが、見事に敗れた形である。それでも重い腰をあげて図書館へ向かい、書物を集めた。行く間で思い立ってヨルシカ「だから僕は音楽を辞めた」をアルバム通して聴いたが、なんとなく全部似たような曲だなと感じてしまった。いうてまだヨルシカのアルバムは1、2回くらいしか通しで聴いてない。2年ほど前に耳にしたときは「エルマ」のほうがおとなしめの曲が多くて微妙だな…という感想を抱いていたのだけど、ここ数年で感性が変わったのか。あるいは「だぼやめ」のほうに飽きたのかもしれない。ちょっと時系列とか疑問だったので調べてもいいかもしれないけど、考察！みたいな記事が出るのが嫌だな…とおもう。これからあしたのための資料を仕上げないといけないので、コーヒーをちびちび飲みながら夜を明かすかもしれない。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MADを分類したい（野望）]]></title>
         <id>https://note.com/oto_mad_ytpmv/n/n896710e54366</id>
