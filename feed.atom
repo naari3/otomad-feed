@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-06T11:05:10.819Z</updated>
+    <updated>2022-07-06T12:15:19.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MADを分類したい（野望）]]></title>
+        <id>https://note.com/oto_mad_ytpmv/n/n896710e54366</id>
+        <link href="https://note.com/oto_mad_ytpmv/n/n896710e54366"/>
+        <updated>2022-07-06T12:10:28.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+みなさま、いかがお過ごしでしょうか。音MAD研究者(仮)です。
+さて、音MADには種類がありますよね。
+よく言われるのはYTPmv、古いものだと音系MADなんて言ったり。
+今回は音MADと呼ばれるものをの文化的側面から分類してみようと思います！
+では本編〜いってみよ〜
+続きをみる]]></summary>
+        <author>
+            <name>音MAD研究所(仮)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.7.5 ボイロ動画ぐらいならすぐ作れるやろ…]]></title>
         <id>hatenablog://entry/4207112889896461655</id>
