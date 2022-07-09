@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-09T03:26:43.356Z</updated>
+    <updated>2022-07-09T04:06:58.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -23700,29 +23700,6 @@ The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動
 続きをみる]]></summary>
         <author>
             <name>ぜじん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TUHUの偉い人]]></title>
-        <id>https://note.com/furadiru_99/n/nc6732696029d</id>
-        <link href="https://note.com/furadiru_99/n/nc6732696029d"/>
-        <updated>2021-07-09T15:50:27.000Z</updated>
-        <summary type="html"><![CDATA[画像の出所も詳細も分からない。それにしてもキマってんなぁ
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ニコニコ動画をソフト等を使わずにダウンロードする方法！]]></title>
-        <id>https://note.com/furadiru_99/n/n8e0ed8d4093a</id>
-        <link href="https://note.com/furadiru_99/n/n8e0ed8d4093a"/>
-        <updated>2021-07-09T15:44:07.000Z</updated>
-        <summary type="html"><![CDATA[今回はニコニコ動画にアップロードされている動画を簡単にダウンロード（保存）する方法を書いていく。
-
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
         </author>
     </entry>
 </feed>
