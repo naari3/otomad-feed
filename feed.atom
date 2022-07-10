@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-10T19:03:57.828Z</updated>
+    <updated>2022-07-10T20:04:07.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音楽と映像のmix文化の違いについて【音楽編】]]></title>
+        <id>https://note.com/oto_mad_ytpmv/n/n6432a0f96feb</id>
+        <link href="https://note.com/oto_mad_ytpmv/n/n6432a0f96feb"/>
+        <updated>2022-07-10T19:34:30.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+
+
+続きをみる]]></summary>
+        <author>
+            <name>音MAD研究所(仮)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220709「1年前を振り返る　その１」]]></title>
         <id>hatenablog://entry/4207112889897640009</id>
