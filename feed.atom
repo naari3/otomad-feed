@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-11T15:09:36.420Z</updated>
+    <updated>2022-07-11T16:13:54.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.07.11 レタスとハムのサンドイッチを見つけた]]></title>
+        <id>hatenablog://entry/4207112889898245407</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/07/12/010342"/>
+        <updated>2022-07-11T16:03:42.000Z</updated>
+        <summary type="html"><![CDATA[今日も有給だったので朝からDDRをやりに行っていた。
+たまには自然の中で昼飯を食べたいと思ってコンビニに入ったら長らく見かけなかったレタスとハムのサンドイッチを見つけた。
+ 
+
+他のコンビニだと自分が苦手な卵が一緒に入っていたりして買えない。
+昔はセブンイレブンにもこれと同じようにレタスとハムだけが入ったサンドイッチがあったのだけど最近見かけなくなってしまった。学生時代にはよく昼飯に食べていたのだが。
+これを食べた後にローソンに寄ったら同じようなものを見つけたが10円高かった。
+ 
+家に帰ってきてから履歴書の自己PRに当たるであろう部分の雛形を考えた。
+履歴書に書くことなんてあまり多くないのだから一日で一つのスペースを埋めたのは割合的に見て大きいと思ってる。誰がなんと言おうと自分だけはそう思ってる。
+ 
+明日以降はガクチカに当たる部分を書いてみようと思う。
+ 
+志望動機？志望する企業なんかないよ。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ODを楽しむ dxm編]]></title>
         <id>hatenablog://entry/4207112889898133796</id>
