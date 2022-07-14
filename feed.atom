@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-14T00:16:28.740Z</updated>
+    <updated>2022-07-14T01:34:27.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#15 7月1週]]></title>
+        <id>hatenablog://entry/4207112889898891797</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/07/14/103309"/>
+        <updated>2022-07-14T01:33:09.000Z</updated>
+        <summary type="html"><![CDATA[ついに木曜日更新になってしまった。よくない。
+ 
+Perfumeのニューアルバムが7/27に発売される。
+しっかりPerfumeにハマりだしてから、アルバムが出る度に音MADを投稿することにしていて、今回もそのつもりだった。
+でも、まだ全く手を付けてなくてもう無理な気がしている。
+ 
+ONEPIECE無料公開第1弾が終わった。
+名シーンは色々あるけど結局ド定番のアラバスタ編ラストが一番良かった。
+一応全部読んではいるけど最初から読み返すのは久々なので、｢ここ最近発覚したアレの伏線だったのか...！｣みたいなのがちょくちょくあって興奮した。第2弾も楽しみ。
+どうやら自分は何事もギリギリまで溜めてしまう性格らしく、最終日22時過ぎくらいに空島編を読み終えた。
+第2弾は余裕を持って計画的に読んでいきたい。と言いつつ、4日経ったのに1ページも読んでません。もうダメそう。
+ 
+毎週見る番組にお笑い向上委員会が加わった。
+土曜プレミアムからの流れで見ることは今までもあったけど、最近は土プレ関係なく見るようになった。
+最近発覚したのだが、母親も毎週向上委員会を見ていたらしく、今では家族みんなで見ている。家族みんなで見る番組Tierはかなり低いけど。
+お笑いが好き、くらいは知ってたけどまさか向上委員会を見てるとは思わなかった。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【合作】DINAMIX DIAGRAM に参加しました]]></title>
         <id>hatenablog://entry/4207112889898781038</id>
