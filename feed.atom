@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-13T23:04:16.529Z</updated>
+    <updated>2022-07-14T00:16:28.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -24029,18 +24029,6 @@ The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍄]]></title>
-        <id>https://note.com/zejin/n/nb4ce7f4a7ebc</id>
-        <link href="https://note.com/zejin/n/nb4ce7f4a7ebc"/>
-        <updated>2021-07-14T11:22:52.000Z</updated>
-        <summary type="html"><![CDATA[キノコを愛した天才は多い。多分。現代音楽で知られるジョン・ケージはどこからともなく現れるキノコの姿を、どこにでも存在しいつでもひょっこりと顔を出そうとする、あらゆる音になぞらえました。確か。
-ジョン・ユージの4分33浪
-続きをみる]]></summary>
-        <author>
-            <name>ぜじん</name>
         </author>
     </entry>
 </feed>
