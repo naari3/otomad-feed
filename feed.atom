@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-16T05:04:43.671Z</updated>
+    <updated>2022-07-16T06:04:30.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Med-1グランプリ2022 あとがき【実行編】]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html"/>
+        <updated>2022-07-16T05:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Med-1グランプリ2022あとがき記事その2。本記事は「実行編」を記述した記事です。「準備編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html「主催としての所感」はこちら：（今書いてるよ）「企画を開催したいあなたへ…」はこちら：（今書いてるよ）]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Med-1グランプリ2022 あとがき【準備編】]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html</id>
