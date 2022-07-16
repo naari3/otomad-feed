@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-16T06:04:30.576Z</updated>
+    <updated>2022-07-16T07:04:15.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「イアンのナードコア大百科」Internet Archiveで無料公開]]></title>
+        <id>hatenablog://entry/4207112889899498873</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20220716/p1"/>
+        <updated>2022-07-16T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[イアンのナードコア大百科 Ian's Nerdcore Encyclopedia : Ian Willett-Jacob : Free Download, Borrow, and Streaming : Internet Archive
+以下、著者のイアン･ウェレット･ジェイコブ/Ian Willett-Jacob氏からのアナウンス。なお書籍版は右開きでしたが、デジタル版は左開きに修正されています。
+
+AND THERE'S MORE
+Need to brush up on your nerdcore knowledge? In solidarity with @internetarchive's fight against publishers seeking to destroy their extensive online library, I've made a digital version of Ian's Nerdcore Encyclopedia available for free:https://t.co/luJFp8i1VP pic.twitter.com/GdwxEZjIYm
+— Ian (@SpeedBeatz) July 16, 2022
+ 
+ムネオハウスへの言及は年表の2002年の項(p.258)と用語集(p.369)の二箇所になります。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Med-1グランプリ2022 あとがき【実行編】]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html</id>
