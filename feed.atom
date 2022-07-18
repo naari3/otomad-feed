@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-18T15:04:25.549Z</updated>
+    <updated>2022-07-18T16:04:36.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.7.18]]></title>
+        <id>hatenablog://entry/4207112889900292004</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/07/19/001558"/>
+        <updated>2022-07-18T15:15:58.000Z</updated>
+        <summary type="html"><![CDATA[連休三日目です。終わらないで、夏。
+昨日はヤクルト1000を飲んで寝た訳だけど、確かに目覚めはスッキリしていたような気がする。何の抵抗もなく起きれた。
+最近この日記が本当に日記か思考メモになってきてる気がする。いいことなのかは分からない。
+ 
+昼寝中に、子供の頃の自分って無邪気だったよなぁと考えさせられる夢を見て涙が止まらなくなった。
+全体を通しての内容はあまり覚えていないのだが、最後の方だけ鮮明に覚えてる。
+昔の自分が自宅の庭の方に歩いていくのを見ながら親に「子供の頃って何してたっけ」と聞いてた。そこで目覚めた。
+子供の頃の話を持ち出されることに最近すごく弱い。今だって僕は自分なりに出来ることをやっているつもりだけど、多分子供の時に期待してた、されてた自分になれてないから悲しくなったんじゃないか。
+絶対に昨日読んだドラえもんの影響を受けている。
+ 
+
+最近流行ってる『呪詛』を見た。
+ムカデ人間がトラウマになって以来久しぶりにホラー映画を見たのだがだいぶ面白かった。スプラッター的な表現はなくジワジワ来る感じ。
+多分日本の映画から影響を受けているので日本人には比較的刺さる気がする。
+ 
+会社のオンライン研修をチマチマ進めてる。
+31日までに合計8時間分の動画研修を受ける必要があるのだが今日までに5時間分終わらせた。こういうことで自己肯定感高めていかないといけない。
+ 
+今日もPHPの勉強を進めた。
+ようやくHTMLの入力内容とPHPを連携させる手順に来て、少し楽しくなってきた。
+やはり本を買ったのは自分にとっては正解だったんじゃないかと思ってる。
+はやく実践に移したいものである。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220716「読書日記その３の１　詩歌その他編」]]></title>
         <id>hatenablog://entry/4207112889899985084</id>
