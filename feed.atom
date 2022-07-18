@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-18T21:03:59.342Z</updated>
+    <updated>2022-07-18T22:04:14.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -24457,16 +24457,6 @@ The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東方のモリヤステップの曲を書き起こしてみた]]></title>
-        <id>https://note.com/furadiru_99/n/n99a00b74bcdc</id>
-        <link href="https://note.com/furadiru_99/n/n99a00b74bcdc"/>
-        <updated>2021-07-19T09:39:45.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
         </author>
     </entry>
 </feed>
