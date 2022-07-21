@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-21T15:04:14.478Z</updated>
+    <updated>2022-07-21T16:04:28.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.7.21 DDRメモ]]></title>
+        <id>hatenablog://entry/4207112889901206827</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/07/22/003933"/>
+        <updated>2022-07-21T15:39:33.000Z</updated>
+        <summary type="html"><![CDATA[自分へのメモ。
+平日だけでもいいからDDRは一日800kcalぐらいに抑えておけ。
+時間で言うと19時ぐらいにはプレイやめておけ。
+休日は多少増やしてもいいけどやりすぎるのはやめとけ。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220720「蒸しパンの散歩」]]></title>
         <id>hatenablog://entry/4207112889900925465</id>
