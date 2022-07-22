@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-22T21:04:10.596Z</updated>
+    <updated>2022-07-22T22:04:27.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220721「ヒラガナとかたかな」]]></title>
+        <id>hatenablog://entry/4207112889901731221</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/07/23/060456"/>
+        <updated>2022-07-22T21:04:56.000Z</updated>
+        <summary type="html"><![CDATA[先週の金曜からの一週間は本当に昼夜が逆になっており、ソレを戻そうと抗っては睡眠時間がズタズタのめためたに寸断されている。オマケにコッテリしたぺぺろんちーのを200gつくって食べたりしたのでお腹が気持ち悪くなったりしていた。この日も起きておこうと思って午前中に眠りに落ち、起きたら夕方になっていた。急いで家を出て予定の最後の10分だけ参加して帰る、みたいなことをやった。昼夜が逆になっても支障が出ない人ならどうなってもいいが、残念ながらイマの社会はそうでない場合が大半である。そういう人が昼夜逆転しても体調も精神も申し訳なさでイッパイになってサイアクになるだけなのでやめたほうがいい。さてお気づきの方もいるかもしれないが、この文章では平仮名の単語はかたかなに、片仮名の単語はヒラガナにして書いてみるという実験をしている。結果として、ちょっとオジサンっぽくなるのと違和感があることしか分からなかった。オヤスミナサイ。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220721「オモコロチャンネルの好きな回　その１」]]></title>
         <id>hatenablog://entry/4207112889901240892</id>
