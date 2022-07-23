@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-23T02:47:09.915Z</updated>
+    <updated>2022-07-23T03:32:17.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -24606,28 +24606,6 @@ canon(24話)
 しっとりと曲が展開される部分だったため、音声・動画共に静かな印象でまとめてみました。出来る限り前後パートの"繋ぎ"に徹したつもりです。やろうと思えば、もっと「ここは俺のパートだ！！見…]]></summary>
         <author>
             <name>ぬる湯ま</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する]]></title>
-        <id>https://ytpmv.info/?p=1150</id>
-        <link href="https://ytpmv.info/?p=1150"/>
-        <updated>2021-07-23T15:09:45.000Z</updated>
-        <summary type="html"><![CDATA[皆さん御機嫌よう。まいまいです。 備忘録的記事です。 何が起きていたのか REAPERで作業し、REAPERを閉じたあとで、関連プロセスのreaper_host32.exeがキルされずに残り、結構な割合のCPUを使い続け […]
-The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する]]></title>
-        <id>https://ytpmv.info/?p=1150</id>
-        <link href="https://ytpmv.info/?p=1150&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reaper%25e3%2582%2592%25e7%25b5%2582%25e4%25ba%2586%25e3%2581%2595%25e3%2581%259b%25e3%2581%25a6%25e3%2582%2582%25e3%2582%25bf%25e3%2582%25b9%25e3%2582%25af%25e3%2581%25ab%25e6%25ae%258b%25e3%2582%258breaper_host32-exe%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e3%2581%25a7%25e7%25b5%2582%25e4%25ba%2586"/>
-        <updated>2021-07-23T15:09:45.000Z</updated>
-        <summary type="html"><![CDATA[皆さん御機嫌よう。まいまいです。 備忘録的記事です。 何が起きていたのか REAPERで作業し、REAPERを閉じたあとで、関連プロセスのreaper_host32.exeがキルされずに残り、結構な割合のCPUを使い続け […]
-The post REAPERを終了させてもタスクに残るreaper_host32.exeを自動で終了する first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
 </feed>
