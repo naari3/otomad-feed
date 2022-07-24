@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-24T05:06:45.509Z</updated>
+    <updated>2022-07-24T06:04:27.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Davinci Resolveの音MAD的運用を考える #1 【左右反転編】]]></title>
+        <id>https://note.com/em011_/n/n1dd69b3a2b27</id>
+        <link href="https://note.com/em011_/n/n1dd69b3a2b27"/>
+        <updated>2022-07-24T05:29:36.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+続きをみる]]></summary>
+        <author>
+            <name>仮</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTOMCDLAY ~後日談~]]></title>
+        <id>https://note.com/watu_note/n/n81fc0342cb99</id>
+        <link href="https://note.com/watu_note/n/n81fc0342cb99"/>
+        <updated>2022-07-24T05:19:12.000Z</updated>
+        <summary type="html"><![CDATA[どうもこんにちは、わっつーです。
+つい先日7/20のマクドナルド誕生記念日にOTOMCDLAYが投稿されました。
+いかがだったでしょうか？まだ視聴してない方はここからどうぞ！↓
+【ドナルド】OTOMCDLAY【合作】
+続きをみる]]></summary>
+        <author>
+            <name>わっつー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220723「ライブに行ってきました」]]></title>
         <id>hatenablog://entry/4207112889902052114</id>
@@ -15708,7 +15733,7 @@ note.com
 はじめに
 続きをみる]]></summary>
         <author>
-            <name>M.</name>
+            <name>仮</name>
         </author>
     </entry>
     <entry>
