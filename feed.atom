@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-25T08:04:43.515Z</updated>
+    <updated>2022-07-25T09:04:18.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[どうでもいいこと]]></title>
+        <id>hatenablog://entry/4207112889902523277</id>
+        <link href="https://lixy.hatenablog.com/entry/2022/07/25/174306"/>
+        <updated>2022-07-25T08:43:06.000Z</updated>
+        <summary type="html"><![CDATA[円城塔とはんじょう殿は似ている。]]></summary>
+        <author>
+            <name>空回り</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220724「My favorite Haunted Dance」]]></title>
         <id>hatenablog://entry/4207112889902367149</id>
