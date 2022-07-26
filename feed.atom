@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-26T22:04:04.221Z</updated>
+    <updated>2022-07-26T23:04:07.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220725「シスコーン」]]></title>
+        <id>hatenablog://entry/4207112889903045855</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/07/27/080059"/>
+        <updated>2022-07-26T23:00:59.000Z</updated>
+        <summary type="html"><![CDATA[さいきん「シスコーン」なるものを入手したので、朝に食べることが多い。秘密道具などの類ではなく、ただのコーンフレークである。ご存知の方も多いであろう。これに牛乳をかけて食べる。しかし食べていて妙なことに気づいたのだけど、色がやけに鮮やかである。コーンフレークは穀物からできているためパンのような茶色であることが多いのだけど、これは牛乳をかけて食べるともはやオレンジに近い色になる。袋の中に入っているときはまったくそんな印象はないのに、牛乳をかけると一種の毒々しささえ感じることがある。何故だろうと考えてみると、2つの原因が思い当たった。まず、牛乳の白色がフレークの色を際立たせている説である。白色のなかに茶色を置くとより鮮やかに見えてもおかしくはない。そして最有力なのが次の説で、牛乳をかけることによって本体の色が露出するという説である。シスコーンは表面が砂糖のようなものでコーティングされている。ゆえに単体だと茶色に見えるのだけど、牛乳をかけるとそれが溶けだして本来の色が露出するのである。この仕掛けにより牛乳が甘くなるし、色も変わって見えるのであろう。でもなんでオレンジに近い色なのか、調べたところ着色料は不使用のようで、やはり牛乳の白によるマジックだと思う。なんのためにもならない話でした。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[どうでもいいこと]]></title>
         <id>hatenablog://entry/4207112889902523277</id>
