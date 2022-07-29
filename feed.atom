@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-29T01:38:14.857Z</updated>
+    <updated>2022-07-29T02:52:59.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -24821,23 +24821,6 @@ canon(24話)
 続きをみる]]></summary>
         <author>
             <name>ユーロ/犬の鳴き真似bot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20210729:AKIRA]]></title>
-        <id>hatenablog://entry/26006613791879996</id>
-        <link href="https://aun6june.hatenablog.com/entry/2021/07/29/235154"/>
-        <updated>2021-07-29T14:51:54.000Z</updated>
-        <summary type="html"><![CDATA[劇場版のAKIRAを観た。
- 
-前日に眠れなくてAKIRAの漫画を読んだらシンプルに面白く、せっかくだしカルト的な人気を誇る映画も見てみようと思った。
- 
-1988年に公開された映画ということで、もしかしたら退屈に思うかもしらないと思っていたが杞憂だった。
-洗練されたアニメーションと声優の演技、何よりも雰囲気が最高だ。
-当然当時の日本になんて産まれてすらいないのにノスタルジーを感じるのは何故だろう。
-暴走族、学生運動などフィクションでしか知識を得ておらず、何年頃に流行っていたムーブメントなのかすら分からないが、その断片的な知識が組み合わさって懐かしいものだと脳が認識してるのだろうか。]]></summary>
-        <author>
-            <name>水無月の仲良し文章</name>
         </author>
     </entry>
 </feed>
