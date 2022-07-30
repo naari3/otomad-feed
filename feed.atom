@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-30T10:04:22.725Z</updated>
+    <updated>2022-07-30T11:04:31.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD作者シークワーズⅡあとがき]]></title>
+        <id>https://note.com/anzato/n/n4cec29eea171</id>
+        <link href="https://note.com/anzato/n/n4cec29eea171"/>
+        <updated>2022-07-30T10:33:36.000Z</updated>
+        <summary type="html"><![CDATA[本記事は「音MAD作者シークワーズⅡ」のあとがきとなっております。解説が長くなったのであとがきは分けることにしました。ネタバレを含むのでまだ解いてない！という方は以下のリンクから是非挑戦してみてください。
+
+
+
+
+
+
+
+続きをみる]]></summary>
+        <author>
+            <name>Anzato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MAD作者シークワーズⅡ解説]]></title>
+        <id>https://note.com/anzato/n/n53d356e3d7be</id>
+        <link href="https://note.com/anzato/n/n53d356e3d7be"/>
+        <updated>2022-07-30T10:33:21.000Z</updated>
+        <summary type="html"><![CDATA[前回に引き続き、音MAD作者の名前を使った「音MAD作者シークワーズⅡ」を出題しました。本記事はその解説となっております。ネタバレを含むのでまだ解いてない！という方は以下のリンクから是非挑戦してみてください。
+
+
+
+
+
+
+
+続きをみる]]></summary>
+        <author>
+            <name>Anzato</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文章が上手くなりたい]]></title>
         <id>https://note.com/somethingofmok/n/ne6a0a46cadd0</id>
