@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-07-30T13:09:09.587Z</updated>
+    <updated>2022-07-30T14:04:13.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[るみるみ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1188.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1188.html"/>
+        <updated>2022-07-30T13:20:02.000Z</updated>
+        <summary type="html"><![CDATA[そろそろ夏アニみようかなとおもってます  荒波ですどうにも一人で観る気にならず、今日もアカギをみてしまうアカギ何回観ても面白いからすごい特に浦部戦は1日5回くらいいける新作全く観てない訳ではなく、1話だけ確認したのがいくつかと、ルミナスウィッチーズを……ウィッチーズと言われたらもう観るしかないんですが、企画が立った時点で新人声優売出しアイドルコンテンツかぁ…………………………とかなり萎えていた  えっウィッチーズで]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.42　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
         <id>hatenablog://entry/4207112889904313446</id>
