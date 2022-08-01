@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-01T14:06:19.451Z</updated>
+    <updated>2022-08-01T15:04:33.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.8.1 8月です]]></title>
+        <id>hatenablog://entry/4207112889904987134</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/08/01/233149"/>
+        <updated>2022-08-01T14:31:49.000Z</updated>
+        <summary type="html"><![CDATA[今日はデカい水筒を買った。1Lのサーモス水筒。
+なんとスポーツドリンクを入れてもいいらしい。たまに無性に粉のポカリが飲みたくなる時があるのだが、これでいつでも解消できる。
+久しぶりに実店舗で物を見比べる経験をした気がする。
+ 
+今日読んだ本。
+
+
+人は２０００連休を与えられるとどうなるのか？
+作者:上田啓太
+河出書房新社
+Amazon
+仕事をやめて知り合いの家の物置で生活することになった著者の話。
+個人的にはこの題名は詐称に近いと思った。というのもこの著者は"連休"中にも月10万円程度の収入を獲得する手段としての執筆活動をしていたらしく、それは労働ではないのかと思った。
+内容としても題名から期待していた「無職だからこそ」みたいなものはあまり感じられず、ただ時間があったから考えたみたいな思考がメインコンテンツになっている。5億年ボタンに近い。もうちょっとこの人自身の日常を教えて欲しかった。
+ 
+読む前の期待を度外視して考えると結構面白い部分は多かった気がする。
+特に"自己の濃度"みたいな話がかなり良かった。人が"自分らしさ"だと思っているものは結局誰かとの関係性に依存しがちだよねみたいな話で、世間との繋がりが無くなると必然的に自己が薄くなっていくよねという。
+自分は無職期間が終わるところのフェードインしていく感じもリアルで好き。劇的なことが起きるわけでもなく小さなきっかけで社会に戻っていく訳だが、これは自分にも見に覚えがあるのでかなり説得力を感じた。ここの部分のおかげでノンフィクション性を感じたまである。
+ 
+どうでもいいけど、今日ブックオフ行ったらこの本が220円で売ってて猛烈に負けた気分になった。
+メルカリですら1000円ぐらいが相場なのに。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合作後記：FavBatoMædⅣ Amethyshoooot!!!]]></title>
         <id>hatenablog://entry/4207112889904656673</id>
