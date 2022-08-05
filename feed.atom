@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-05T13:17:25.327Z</updated>
+    <updated>2022-08-05T14:05:16.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【合作】UDK姉貴のゲームパーティー☆　-Happy 30th Birthday-　詳細]]></title>
+        <id>https://note.com/elminus/n/n47bf55584d4e</id>
+        <link href="https://note.com/elminus/n/n47bf55584d4e"/>
+        <updated>2022-08-05T14:00:54.000Z</updated>
+        <summary type="html"><![CDATA[動画本編
+
+（YouTubeリンク）
+（ビリビリリンク）
+続きをみる]]></summary>
+        <author>
+            <name>エルミナス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もう音MADなんかやらねー]]></title>
         <id>hatenablog://entry/4207112889906021406</id>
