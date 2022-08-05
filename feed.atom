@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-05T15:04:16.292Z</updated>
+    <updated>2022-08-05T16:04:06.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[私記・現状 22.08.06]]></title>
+        <id>https://note.com/readybug_/n/n168554998b7b</id>
+        <link href="https://note.com/readybug_/n/n168554998b7b"/>
+        <updated>2022-08-05T15:23:27.000Z</updated>
+        <summary type="html"><![CDATA[メモというか殴り書きというかチラシの裏みたいなのです。
+-----
+続きをみる]]></summary>
+        <author>
+            <name>れでぃば</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【合作】UDK姉貴のゲームパーティー☆　-Happy 30th Birthday-　詳細]]></title>
         <id>https://note.com/elminus/n/n47bf55584d4e</id>
