@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-06T02:41:56.851Z</updated>
+    <updated>2022-08-06T03:26:47.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『クエストクリア!!』あとがき]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-84.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-84.html"/>
+        <updated>2022-08-06T03:10:25.000Z</updated>
+        <summary type="html"><![CDATA[関係者の皆様お疲れ様でした！本当に疲れているので殴り書きですが、このメドレーの制作、ならびに『UDK姉貴のゲームパーティー☆ -Happy 30th Birthday-』の運営をして思ったことを書いていきますねこ鍋ねこ鍋]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鷹富士茄子という人間について]]></title>
         <id>https://note.com/ecolidelvsvc11/n/nada1646e876a</id>
