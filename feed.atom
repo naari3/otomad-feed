@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-06T10:03:56.507Z</updated>
+    <updated>2022-08-06T11:03:53.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プレミア公演 の私的オールスターたち]]></title>
+        <id>hatenablog://entry/4207112889906307464</id>
+        <link href="https://mugibata34.hatenablog.com/entry/2022/08/06/191923"/>
+        <updated>2022-08-06T10:19:23.000Z</updated>
+        <summary type="html"><![CDATA[しばらくボイロ実況ばかりでしたのでご無沙汰でした。
+何ならDaVinciくんともご無沙汰でした。
+ 
+以下一覧（敬称略）
+◆ドラム
+―キック
+　・雨晴はう
+　　（音声・動画ともに『おどる雨晴はう GB素材+使用例』から）
+―スネア
+　・ルナナ[ドラゴンクエスト10]
+―ハット
+　・マジョリタ[魔界戦記ディスガイア5]
+　・東条斬美[ニューダンガンロンパV3]
+―シンバル
+　・グろみちお兄さん[ヒテッマンリスペクト]
+―リバースシンバル
+　・亀井有馬（Z会CMより）
+ 
+◆音程合わせ
+―リード
+　・栗原桜子[VRアイドルえのぐ(元)]
+　・羽黒[艦隊これくしょん -艦これ]
+　・ユイ[プリンセスコネクト！Re:Dive] (New!)
+　・カラカル[けものフレンズ Vぷろじぇくと] (New!)
+―ベース
+　・佐久間宣行 (New!)
+―コード
+　・ビビッドアーミーWebCM
+　・マーブルヘッド[アズールレーン] (New!)
+　・今井三太郎[三上重工] (New!)
+―オーケストラヒット
+　・本田未央[アイドルマスター シンデレラガールズ]
+　　（音声は『目指せ！シンデレラNO.1！』より）
+ 
+◆その他
+―セリフ合わせなど
+　・剛力彩芽（ビビッドアーミーWebCMより） (New!)
+　・アバンティーズ OP
+　・It’s 笑 time！[VRアイドルえのぐ]
+　・Redial me baby（Coron3氏制作の音MAD） (New!)
+ 
+以上18素材]]></summary>
+        <author>
+            <name>麦帳 2冊目</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.43　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
         <id>hatenablog://entry/4207112889906291645</id>
