@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-06T04:07:45.578Z</updated>
+    <updated>2022-08-06T05:04:00.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[反逆の歌を奏でろ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1189.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1189.html"/>
+        <updated>2022-08-06T04:29:58.000Z</updated>
+        <summary type="html"><![CDATA[今週もはらがみしかしてない  やばい実はすたるかーもやっていたが特に書くことはない今回ついに通しで9☆げっと前回で攻略法を確立できたのがよかったですね圧倒的成長を実感する俺もなさゆさゆ、平蔵と徐々に持ち駒を増やしてはいますが結局どっちかは将軍様に頼るしかないのが辛いところうわぁがんばろう辛いといえばベネットと雲菫の凸を進めたくてちょろっとガチャしたら辛炎が完凸しましたほかには雲菫ちゃんが一人きました引]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『クエストクリア!!』あとがき]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-84.html</id>
