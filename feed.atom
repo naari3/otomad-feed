@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-08T07:04:09.990Z</updated>
+    <updated>2022-08-08T08:05:12.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25471,18 +25471,6 @@ The post Twitterに投げるための動画のエンコード用Bat（ドラッ�
         <summary type="html"><![CDATA[すごく時間かかりました　作業時間自体は相応なんですが多忙が重なり7/14投稿予定に間に合わず、延期して8/10になりました セルシェーディング優秀でした　C4DのSketch & Toonはレンダリング設定で一括 […]]]></summary>
         <author>
             <name>ss-sahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年7月の消費コンテンツ]]></title>
-        <id>https://note.com/sehatakuro/n/n5ce95c9bddb7</id>
-        <link href="https://note.com/sehatakuro/n/n5ce95c9bddb7"/>
-        <updated>2021-08-08T19:49:42.000Z</updated>
-        <summary type="html"><![CDATA[今公開中の映画も含むのでネタバレ注意
-少女☆歌劇 レヴュースタァライト
-続きをみる]]></summary>
-        <author>
-            <name>瀬畑 黒</name>
         </author>
     </entry>
 </feed>
