@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-12T22:04:39.051Z</updated>
+    <updated>2022-08-12T23:04:19.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25592,20 +25592,6 @@ Nietzsche パートです！！！！！！！！
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>エルミナス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自分をウルトラハンコ総集編について]]></title>
-        <id>https://note.com/ssaymds/n/n05da6af2ba14</id>
-        <link href="https://note.com/ssaymds/n/n05da6af2ba14"/>
-        <updated>2021-08-13T10:19:59.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、ておつくです(昼と見せかけて夕方に書きました)
-もう既に知っている方も多いと思いますが僕が投稿していたシリーズ「自分をウルトラハンコ」をこの度全てまとめて総集編として公開する事になりました
-この記事ではそれに至った経緯を説明します
-その前に、本編リンク↓
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
 </feed>
