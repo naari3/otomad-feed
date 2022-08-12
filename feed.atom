@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-12T02:45:39.949Z</updated>
+    <updated>2022-08-12T03:32:09.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25606,28 +25606,6 @@ Nietzsche パートです！！！！！！！！
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行)]]></title>
-        <id>https://ytpmv.info/?p=1201</id>
-        <link href="https://ytpmv.info/?p=1201"/>
-        <updated>2021-08-12T14:58:59.000Z</updated>
-        <summary type="html"><![CDATA[ffmpegへのパスが通っていない場合はffmpeg.exeへのパスに書き換えて下さい。 書き出しサイズも1920×1080以下の適当な値に設定するといいです。 参考：https://qiita.com/73_ […]
-The post Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行) first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行)]]></title>
-        <id>https://ytpmv.info/?p=1201</id>
-        <link href="https://ytpmv.info/?p=1201&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=twitter%25e3%2581%25ab%25e6%258a%2595%25e3%2581%2592%25e3%2582%258b%25e3%2581%259f%25e3%2582%2581%25e3%2581%25ae%25e5%258b%2595%25e7%2594%25bb%25e3%2581%25ae%25e3%2582%25a8%25e3%2583%25b3%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2589%25e7%2594%25a8bat%25ef%25bc%2588%25e3%2583%2589%25e3%2583%25a9%25e3%2583%2583%25e3%2582%25b0"/>
-        <updated>2021-08-12T14:58:59.000Z</updated>
-        <summary type="html"><![CDATA[ffmpegへのパスが通っていない場合はffmpeg.exeへのパスに書き換えて下さい。 書き出しサイズも1920×1080以下の適当な値に設定するといいです。 参考：https://qiita.com/73_ […]
-The post Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行) first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
 </feed>

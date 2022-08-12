@@ -14738,25 +14738,6 @@
           "publishedOn": "2022-01-09T08:37:17.000Z",
           "wordCount": 388,
           "title": "音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。"
-        },
-        {
-          "id": "https://ytpmv.info/?p=1201",
-          "author": "maimai",
-          "description": "ffmpegへのパスが通っていない場合はffmpeg.exeへのパスに書き換えて下さい。 書き出しサイズも1920×1080以下の適当な値に設定するといいです。 参考：https://qiita.com/73_ […]\nThe post Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行) first appeared on YTPMV.info.",
-          "link": "https://ytpmv.info/?p=1201",
-          "publishedOn": "2021-08-12T14:58:59.000Z",
-          "wordCount": 322,
-          "title": "Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ytpmv.info/?p=1201",
-          "author": "maimai",
-          "description": "ffmpegへのパスが通っていない場合はffmpeg.exeへのパスに書き換えて下さい。 書き出しサイズも1920×1080以下の適当な値に設定するといいです。 参考：https://qiita.com/73_ […]\nThe post Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行) first appeared on YTPMV.info.",
-          "link": "https://ytpmv.info/?p=1201&utm_source=rss&utm_medium=rss&utm_campaign=twitter%25e3%2581%25ab%25e6%258a%2595%25e3%2581%2592%25e3%2582%258b%25e3%2581%259f%25e3%2582%2581%25e3%2581%25ae%25e5%258b%2595%25e7%2594%25bb%25e3%2581%25ae%25e3%2582%25a8%25e3%2583%25b3%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2589%25e7%2594%25a8bat%25ef%25bc%2588%25e3%2583%2589%25e3%2583%25a9%25e3%2583%2583%25e3%2582%25b0",
-          "publishedOn": "2021-08-12T14:58:59.000Z",
-          "wordCount": 318,
-          "title": "Twitterに投げるための動画のエンコード用Bat（ドラッグアンドドロップで実行)"
         }
       ]
     }
