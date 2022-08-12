@@ -16,6 +16,50 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-08-12">2022-08-12</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">cargo-zigbuildで簡単にクロスコンパイルする / マルチアーキテクチャ対応のイメージ作成に利用する</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/08/12/091404" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>C依存のあるプロジェクトのビルドが難しい
+Rustはビルトインでクロスコンパイルをサポートしている。以下のようにすることでクロスコンパイル可能となっている。
+rustup target add aarch64-unknown-linux-musl
+cargo build --target aarch64-unknown-linux-musl
+しかし、これではビルドできない場合がある。依存するcrateのビルド時、C言語への依存があった場合はC言語のビルドに必要なツールチェイン(コンパイラとリンカ)を揃える必要がある。
+warning: cc: error: unrecognized command-line option &#x60;-arch&#x60;
+error: failed to run custom build command for &#x60;wasmtime-fiber&#x60;
+Caused by:
+  ...
+  running &quot;cc&quot; ...
+zig cc を利用する
+従来は clang や llvm-ar を追加でインストールする必要があったが、最近話題になっているzigを使うことでこれを回避することができる。
+Zig Makes Rust Cross-compilation Just Work · Um, actually...
+具体的には、次のようなwrapperを用意し、
+#!/bin/sh
+/path-to-zig/zig cc -target aarch64-linux $@
+
+
+
+以下のようにリンカ/ビルド時に利用する。
+[target.aarch64-unknown-linux-musl]
+linker &#x3D; &quot;/path-to-wrapper/zcc&quot;
+CC&#x3D;&quot;/path-to-wrapper/zcc&quot; cargo build --target aarch64-unkn…</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-08-11">2022-08-11</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -33467,7 +33511,7 @@ The post Twitterに投げるための動画のエンコード用Bat（ドラッ�
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-08-12T00:13:52.939Z">2022-08-12T00:13:52.939Z</time>
+    <time id="build-timestamp" datetime="2022-08-12T01:33:43.680Z">2022-08-12T01:33:43.680Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

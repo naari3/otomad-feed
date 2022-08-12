@@ -5114,6 +5114,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889907884115",
+          "author": null,
+          "description": "C依存のあるプロジェクトのビルドが難しい\nRustはビルトインでクロスコンパイルをサポートしている。以下のようにすることでクロスコンパイル可能となっている。\nrustup target add aarch64-unknown-linux-musl\ncargo build --target aarch64-unknown-linux-musl\nしかし、これではビルドできない場合がある。依存するcrateのビルド時、C言語への依存があった場合はC言語のビルドに必要なツールチェイン(コンパイラとリンカ)を揃える必要がある。\nwarning: cc: error: unrecognized command-line option `-arch`\nerror: failed to run custom build command for `wasmtime-fiber`\nCaused by:\n  ...\n  running \"cc\" ...\nzig cc を利用する\n従来は clang や llvm-ar を追加でインストールする必要があったが、最近話題になっているzigを使うことでこれを回避することができる。\nZig Makes Rust Cross-compilation Just Work · Um, actually...\n具体的には、次のようなwrapperを用意し、\n#!/bin/sh\n/path-to-zig/zig cc -target aarch64-linux $@\n\n\n\n以下のようにリンカ/ビルド時に利用する。\n[target.aarch64-unknown-linux-musl]\nlinker = \"/path-to-wrapper/zcc\"\nCC=\"/path-to-wrapper/zcc\" cargo build --target aarch64-unkn…",
+          "link": "https://naari.hatenablog.com/entry/2022/08/12/091404",
+          "publishedOn": "2022-08-12T00:14:04.000Z",
+          "wordCount": 503,
+          "title": "cargo-zigbuildで簡単にクロスコンパイルする / マルチアーキテクチャ対応のイメージ作成に利用する",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/4207112889907016181",
           "author": null,
           "description": "先月頭の話を書き起こしていく。\nちょっと前、ネットの知り合い*1と会ってきた。この方は秋葉原のアニメ/グッズショップによく足を運ぶ方らしく、予定がある程度済んだタイミングでよく行く(のかは知らないけど)お店に連れて行ってもらった。以下のふたつ。どちらも初めて足を運ぶ店だった。\nコトブキヤ秋葉原館\nらしんばん秋葉原店新館\nコトブキヤ秋葉原館ではにじさんじのグッズのコーナーが存在していたことが強く印象に残っている。区画一体がすべてにじさんじのグッズで埋め尽くされていたことがまず凄かった。僕はそんなににじさんじに思い入れのある人間というわけではないのだけれど、小さく始まったムーブメントが物理的にこの大きさのスペースを取っている、という事実に結構感慨深いものを覚えた。\n各ライバーモチーフのTシャツとかパーカーみたいなものや、クッションだとか、なりきりセットなるものも置いてあった。各ライバーのウェルカムグッズがたくさん並んでいるスペースには、デビューしてから一、二ヶ月くらいも経っていないサロメ嬢が並んでいたり、最近引退したライバーのものも並んでいた記憶がある。\nそんなファンの気持ちをそのまま吐き出すためのスペースもあった。紙のカードとボードと「推しのライバーについて書こう！」みたいなことが書いてあるヘッダーがあり、人はここでカードに推しのライバーについて書き殴る。様子を見ると、上手な絵とともに一、二文程度の紹介に留めるものが多い様子だった。にじさんじのファンの特性上なのかは知らないけど、みんなちゃんと絵が描けるのだなと感心した覚えがある。ボードに貼られてからある程度経ったもの？についてはその横にあるノートにアーカイブされていく仕組みらしく、そこを見ると様々なライバーについてのカードが並んでいる。知り合いと一緒に見ながら「そのライバーの紹介カードにはある程度ライバーの特徴が反映されてい…",

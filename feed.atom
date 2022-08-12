@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-12T00:13:53.016Z</updated>
+    <updated>2022-08-12T01:33:43.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[cargo-zigbuildで簡単にクロスコンパイルする / マルチアーキテクチャ対応のイメージ作成に利用する]]></title>
+        <id>hatenablog://entry/4207112889907884115</id>
+        <link href="https://naari.hatenablog.com/entry/2022/08/12/091404"/>
+        <updated>2022-08-12T00:14:04.000Z</updated>
+        <summary type="html"><![CDATA[C依存のあるプロジェクトのビルドが難しい
+Rustはビルトインでクロスコンパイルをサポートしている。以下のようにすることでクロスコンパイル可能となっている。
+rustup target add aarch64-unknown-linux-musl
+cargo build --target aarch64-unknown-linux-musl
+しかし、これではビルドできない場合がある。依存するcrateのビルド時、C言語への依存があった場合はC言語のビルドに必要なツールチェイン(コンパイラとリンカ)を揃える必要がある。
+warning: cc: error: unrecognized command-line option `-arch`
+error: failed to run custom build command for `wasmtime-fiber`
+Caused by:
+  ...
+  running "cc" ...
+zig cc を利用する
+従来は clang や llvm-ar を追加でインストールする必要があったが、最近話題になっているzigを使うことでこれを回避することができる。
+Zig Makes Rust Cross-compilation Just Work · Um, actually...
+具体的には、次のようなwrapperを用意し、
+#!/bin/sh
+/path-to-zig/zig cc -target aarch64-linux $@
+
+
+
+以下のようにリンカ/ビルド時に利用する。
+[target.aarch64-unknown-linux-musl]
+linker = "/path-to-wrapper/zcc"
+CC="/path-to-wrapper/zcc" cargo build --target aarch64-unkn…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[enikki_20220809]]></title>
         <id>hatenablog://entry/4207112889907697537</id>
