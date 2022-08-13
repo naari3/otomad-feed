@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-13T11:04:07.949Z</updated>
+    <updated>2022-08-13T12:04:44.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[著作権侵害者必見！MAD素材っぽく使える著作権放棄素材の薦め]]></title>
+        <id>https://note.com/yuusyaasisutanto/n/n4545376dc65a</id>
+        <link href="https://note.com/yuusyaasisutanto/n/n4545376dc65a"/>
+        <updated>2022-08-13T11:16:25.000Z</updated>
+        <summary type="html"><![CDATA[誰が著作権侵害者だよ。
+CC0及びパブリックドメインで、一次創作にも二次創作にも安心して（？）使える素材集を片手間ですがまとめておきます
+そもそもCC0とかパブリックドメインって？
+続きをみる]]></summary>
+        <author>
+            <name>ゆうしゃアシスタント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cargo-zigbuildで簡単にクロスコンパイルする / マルチアーキテクチャ対応のイメージ作成に利用する]]></title>
         <id>hatenablog://entry/4207112889907884115</id>
