@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-13T19:03:54.953Z</updated>
+    <updated>2022-08-13T20:04:17.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あう]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1190.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1190.html"/>
+        <updated>2022-08-13T20:01:02.000Z</updated>
+        <summary type="html"><![CDATA[ブログ書き忘れるとこだった  荒波です今週はOuter Wildsをようやっとプレイしてクリアめちゃめちゃめちゃ面白かったまじで凄いゲーム眠くてなんも書く気にならんけどとりあえずアレこれできんじゃね？って試した事が大抵できてしまうので好奇心と遊び心を刺激されまくって良かったです寝るのも忘れて夢中であそびました寝るとき宇宙が怖くなった宇宙は空にあるいまDLCをやっているとこなので全てが終わった後なにか書けたらいい、]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[著作権侵害者必見！MAD素材っぽく使える著作権放棄素材の薦め]]></title>
         <id>https://note.com/yuusyaasisutanto/n/n4545376dc65a</id>
