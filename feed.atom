@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-14T06:04:59.938Z</updated>
+    <updated>2022-08-14T07:04:04.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[enikki_20220812]]></title>
+        <id>hatenablog://entry/4207112889908640387</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/08/14/160218"/>
+        <updated>2022-08-14T07:02:18.000Z</updated>
+        <summary type="html"><![CDATA[広島平和公園]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[enikki_20220811]]></title>
+        <id>hatenablog://entry/4207112889908635899</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/08/14/154418"/>
+        <updated>2022-08-14T06:44:18.000Z</updated>
+        <summary type="html"><![CDATA[帰省先で大場ビルというスタァライトを彷彿とさせるビル名があったので撮ってしまった。となりにあるG線という喫茶店は訪れたことがある。古くて好きです。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[enikki_20220810]]></title>
         <id>hatenablog://entry/4207112889908622021</id>
