@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-16T12:04:55.580Z</updated>
+    <updated>2022-08-16T13:12:35.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[半年ぶりの更新]]></title>
+        <id>https://note.com/dou_akagane_cu/n/nc2cf2cdb1a3e</id>
+        <link href="https://note.com/dou_akagane_cu/n/nc2cf2cdb1a3e"/>
+        <updated>2022-08-16T12:55:36.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事からなんと半年も経過している。前回の内容は某歌い手と某VTuberの交際問題だった。既に解決(？)しているのでもはや誰も話さない。
+世の中はその間にとてつもない事件等が多くあったが、あまり触れすぎると売名を疑われるから今回は差し控える。気になるならヤフーニュースでも見てくればいい。ヤフーニュースのリンクを貼っておこう。　
+続きをみる]]></summary>
+        <author>
+            <name>梅晞あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#20 8月2週]]></title>
         <id>hatenablog://entry/4207112889909253535</id>
