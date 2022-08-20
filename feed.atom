@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-20T09:04:02.419Z</updated>
+    <updated>2022-08-20T10:04:15.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25725,18 +25725,6 @@ Nietzsche パートです！！！！！！！！
 続きをみる]]></summary>
         <author>
             <name>雨天雨衣</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旧垢の配信アーカイブ再生リストまとめ]]></title>
-        <id>https://note.com/ssaymds/n/n57a306512689</id>
-        <link href="https://note.com/ssaymds/n/n57a306512689"/>
-        <updated>2021-08-20T21:05:15.000Z</updated>
-        <summary type="html"><![CDATA[要望があったので、全て限定公開となっています
-単発配信
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
 </feed>
