@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-22T13:17:07.188Z</updated>
+    <updated>2022-08-22T14:04:26.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25711,16 +25711,6 @@ PS4のトロフィーは後から埋めなおさなくてはならなくなり�
 続きをみる]]></summary>
         <author>
             <name>セイロンティー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIMPでBB画像の色を切り抜く方法]]></title>
-        <id>https://note.com/furadiru_99/n/n381b5c59d335</id>
-        <link href="https://note.com/furadiru_99/n/n381b5c59d335"/>
-        <updated>2021-08-23T01:38:36.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
         </author>
     </entry>
 </feed>
