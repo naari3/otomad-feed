@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-22T14:04:26.132Z</updated>
+    <updated>2022-08-22T15:04:38.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25699,18 +25699,6 @@ PS4のトロフィーは後から埋めなおさなくてはならなくなり�
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合作のロゴについて]]></title>
-        <id>https://note.com/seirontea/n/n1e9521956dbc</id>
-        <link href="https://note.com/seirontea/n/n1e9521956dbc"/>
-        <updated>2021-08-23T02:32:40.000Z</updated>
-        <summary type="html"><![CDATA[貴重な体験だったので文字に残しておきます
-今回HD合作を主催するにあたり、∞の方に結構影響を受けて、ロゴにこだわりたいと思ってました。
-続きをみる]]></summary>
-        <author>
-            <name>セイロンティー</name>
         </author>
     </entry>
 </feed>
