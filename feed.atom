@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-22T17:06:09.982Z</updated>
+    <updated>2022-08-22T18:04:20.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20220822]]></title>
+        <id>hatenablog://entry/4207112889911093022</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/08/23/022720"/>
+        <updated>2022-08-22T17:27:20.000Z</updated>
+        <summary type="html"><![CDATA[nikki_20220822 - 遺失物取扱所]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.8.22 そういえばこの間焼肉食べに行った]]></title>
         <id>hatenablog://entry/4207112889910980223</id>
@@ -25682,23 +25692,6 @@ PS4のトロフィーは後から埋めなおさなくてはならなくなり�
 続きをみる]]></summary>
         <author>
             <name>大腸菌デリバリーサービス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キングオブコント2021準々決勝配信3日目レポ]]></title>
-        <id>https://note.com/ssaymds/n/n3b14d686bfb6</id>
-        <link href="https://note.com/ssaymds/n/n3b14d686bfb6"/>
-        <updated>2021-08-23T05:40:56.000Z</updated>
-        <summary type="html"><![CDATA[ておつっつ、こんにちは
-キングオブコント2回戦に引き続き今回の準々決勝の配信も1日分購入しましたので感想などを書き殴っていきます
-2回戦のレポは気になった組を抜粋しましたが今回は全25組分紹介します
-まだオンラインチケット見逃し視聴できるので是非(8/29まで)
-2回戦と違う点
-・2分ネタ→5分ネタになり、暗転の演出可能
-・準決勝進出者のネタは配信されず、敗退者のネタを日付や出番順バラバラに構成
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
 </feed>
