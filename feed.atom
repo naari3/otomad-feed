@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-22T11:04:11.009Z</updated>
+    <updated>2022-08-22T12:05:32.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.8.22 そういえばこの間焼肉食べに行った]]></title>
+        <id>hatenablog://entry/4207112889910980223</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/08/22/201533"/>
+        <updated>2022-08-22T11:15:33.000Z</updated>
+        <summary type="html"><![CDATA[諸事情で今日は仕事を休んだ。
+平日に家に居ると何となくしこりが残る気がするのだが、多分この感覚は比較的大事な気する。これが無くなったらいよいよ社会的にまずいんだと思う。
+藤和エリオがアルバイトの面接に落ちた時に「エリオはまだ振り切れきってない、だから大丈夫」みたいな台詞があった記憶がある。そんな感じ。
+ 
+
+2年前に貰ったGo To Eatの3000円分のポイントが今月いっぱいで無くなってしまうので、土曜日に焼肉を食べに行った。
+焼肉ライク以外で一人焼肉をするのは初めてだった。
+ 
+食べ放題で食べると3000円を越えないし、かといって少し高めのお店だとポイントが使えないので食べ放題制度のある大衆焼肉店で単品ずつ頼むことにした。
+折角なので食べ放題メニューの中に入っていない少し高めの肉を中心に頼んだのだが、大衆店のちょっと高い肉なんて食べ放題の中にある肉と対して変わらないと思った。上タン塩一皿より普通のタン塩二皿頼んだ方がいい。
+コースや食べ放題のように時間の枠が無いのでいつ出ても後ろ髪引かれないのはかなり良かった。
+ 
+ところで、肉を丁度良い頃合いで焼くのが明らかに上手くなっていたと思う。
+最近ずっと焼肉シミュレーターをやっていたのでその影響かもしれない。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ガマガマ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1192.html</id>
