@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-23T11:04:06.022Z</updated>
+    <updated>2022-08-23T12:05:31.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【自由参加】音MAD Advent Calendar 2022 in Summer]]></title>
+        <id>hatenablog://entry/4207112889910971347</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/08/23/210000"/>
+        <updated>2022-08-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前にTwitterで言ってたこれをやろうと思います。
+
+普段年末にやってるアドベントカレンダーとは別で夏頃に自由参加制のゆるいアドベントカレンダーやろうかなぁとか少し考えてるんですが、興味ある方居たらリプなりふぁぼなりで反応くれると助かります
+— kaikityou (@kaikityou) 2022年5月30日
+  
+例年の12月にやっているものよりもかなり緩いノリの企画を想定しています。
+音MADに紐付けることさえ出来れば基本的に何でもアリ！
+ 
+例)
+・音MADにしたい作品、キャラクターを語る
+・存在しない音MADの評論
+・音MAD作者同士で遊んだ日記
+etc…
+ 
+例えば僕は企画のサイトを作るためにPHPの勉強をした体験記を書く予定です。
+「音MAD作者 Advent Calendar」ぐらいのノリで捉えて貰って大丈夫です。
+音MAD作者が記事を書けばOK！ぐらいの感じ。
+参加方法
+①企画サイトにアクセス
+②左上の「ログイン」ボタンを押してTwitter連携
+③カレンダーの好きな日付の「登録」ボタンをクリックし、予定している記事の内容を入力
+④登録した日付になったらページ下部のリスト内にある「更新」ボタンをクリックし、投稿した記事のURLを登録(※Twitterのログインをしないとボタンが表示されません)
+参加資格
+・音MADを作ったことがある人
+・Twitterのアカウントを持っている人
+禁止事項
+・個人批判
+・情報暴露
+・その他、不適切そうなお題
+その他
+・PC以外の機器で表示するとページが著しく乱れます。
+・上記の企画サイトはレンタルサーバーの契約の都合で11月ぐらいに消えます。その後は別ページに内容を移します。
+・疑問点等ありましたら@kaikityouまで。
+ 
+皆様の参加をお待ちしております。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20220822]]></title>
         <id>hatenablog://entry/4207112889911093022</id>
