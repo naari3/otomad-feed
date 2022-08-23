@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-23T19:03:51.867Z</updated>
+    <updated>2022-08-23T20:04:12.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[100の質問に答えてみる]]></title>
+        <id>https://note.com/aru_danshi/n/n08736f93cefb</id>
+        <link href="https://note.com/aru_danshi/n/n08736f93cefb"/>
+        <updated>2022-08-23T19:04:32.000Z</updated>
+        <summary type="html"><![CDATA[20220814～20220821までの1週間日記をサボり、お詫び兼夏休み特別企画（？）で100の質問というものに答えたものです。
+続きをみる]]></summary>
+        <author>
+            <name>遺失物届</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100の質問に答えてみる]]></title>
         <id>hatenablog://entry/4207112889911372840</id>
@@ -25808,19 +25819,6 @@ PS4のトロフィーは後から埋めなおさなくてはならなくなり�
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好きな創作物の簡易的な紹介記事]]></title>
-        <id>https://note.com/ecolidelvsvc11/n/n9a78d1d51ddb</id>
-        <link href="https://note.com/ecolidelvsvc11/n/n9a78d1d51ddb"/>
-        <updated>2021-08-24T07:52:58.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、大腸菌デリバリーサービスです。
-なんとなく僕が好きな創作物をノンジャンルで紹介していきたい気分なので紹介していこうと思います。
-エヴァンゲリオンとそれに影響を受けている作品編
-続きをみる]]></summary>
-        <author>
-            <name>大腸菌デリバリーサービス</name>
         </author>
     </entry>
 </feed>
