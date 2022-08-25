@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-25T09:04:02.289Z</updated>
+    <updated>2022-08-25T10:04:06.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[enikki_20220823]]></title>
+        <id>hatenablog://entry/4207112889911856882</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/08/25/183935"/>
+        <updated>2022-08-25T09:39:35.000Z</updated>
+        <summary type="html"><![CDATA[気が付いたら8月が終わろうとしているので思い返してみると、帰省や鳥取へ赴いたのが中心にあった月だと思った。10日まではなんだかんだでこなすべきことがあったのでそれに追われており、8/10～8/21までだいたい立て続けに県外へ飛ぶイベントがあったわけである。それらと重なるようにして自動車学校に通い始めたりもあったので、それなりにイベントのあった月なのだは思うがもう終わってしまう焦燥感もある。
+ 
+帰省については思ったより悪くなく、帰りたくないなみたいに言っていたことが申し訳なくなってきた。前回はそこまでだったけど今回は実家を発つことに一抹の寂しさもあり、しみじみしている。特に流行り病についても何も無かったのもよかったが、以後も気を付けたい。帰省先もひとりで暮らすことも家族と暮らすこともどちらも同じくらい良いところ悪いところがあって、そう思えるのは幸せなことなんだろうと思う。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#21 8月3週]]></title>
         <id>hatenablog://entry/4207112889911474838</id>
