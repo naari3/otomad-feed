@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-26T20:04:10.351Z</updated>
+    <updated>2022-08-26T21:04:10.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25795,46 +25795,6 @@ www.youtube.com
 　紛うことなき無と長～い昼寝。夜にフジロックの配信を見た。シンセサイザーが聞けるという安直な理由でROVOを見ていた。生バンドでやるインストが好きだからすごく良かった。この時、同時間帯に出ていたKing GnuとNUMBER GIRLを見て…]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】Ghost of Tsushima Director's Cut のトロフィーに関する注意点]]></title>
-        <id>hatenablog://entry/13574176438042089456</id>
-        <link href="https://fear443243.hatenablog.com/entry/10267058"/>
-        <updated>2021-08-27T09:00:09.000Z</updated>
-        <summary type="html"><![CDATA[発売からもう1週間経過しているので今更遅い感はかなりあるんですが、
-これからアップグレードしようと思っている方もいるかもしれないので念のため記事にしておきます。
-
-Ghost of Tsushima Director's Cutは、PS4とPS5でトロフィーが分かれています。
-そのため、DC版になって追加されたトロフィーを埋めていない状態で、
-PS4のセーブデータを引き継いだPS5版をプレイすると、
-PS4のトロフィーは後から埋めなおさなくてはならなくなります。
-つまり2度手間です。
-
-
-
-↑PS5版をトロコンしてからそれに気づいた私は結局もう1周するハメになりました（泣く）
-
-これからPS4版のツシマをアップグレードしてPS5で遊ぼうと思っている方は、
-以下の手順でプレイすることをお勧めいたします。
-
-①画像の「･･･」を選択し、PS4版を起動する
-
-
-
-②PS4版で追加されたトロフィーをコンプリートする（現在はまだ冥人奇譚がきてないためコンプ不可）
-③先ほどと同じ要領でPS5版を起動し、PS4のセーブデータを引き継ぐ
-④PS5版も自動的にトロコン完了
-このようにすることで、1周でPS4、PS5ともにトロコンが可能なはずです。
-
-せっかくPS5版が出たんだから壱岐をPS5のスペックで見て回りたいというのが正直な気持ちだとは思いますが、
-トロフィーが気になる私のようなタイプの人は我慢しましょう。
-こいつなんのためにゲームしてるんだ？
-
-恐らくですが、9/24に発売する「Death Stranding Director's Cut」もツシマと同じ仕様になると思われます。
-必ずPS4版でトロコンしてからPS5版にセーブデータを引き継ぐようにしましょう。]]></summary>
-        <author>
-            <name>NiVE（にヴぇ）派</name>
         </author>
     </entry>
 </feed>
