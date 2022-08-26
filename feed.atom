@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-26T04:36:56.628Z</updated>
+    <updated>2022-08-26T05:30:40.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自分、草いいっすか？]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1193.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1193.html"/>
+        <updated>2022-08-26T04:45:20.000Z</updated>
+        <summary type="html"><![CDATA[ついにやってきましたすめーるまだシティにすら行っておらず寄り道ばかりですが（いつも通り）、何から何まで良すぎるモンドから山を越え初めて璃月を望んだあの時の感動が、幾重にもなって襲ってくるようです最近まではらがみがオープンワールドである事を忘れかけてましたがこれは紛うことなきオープンワールドですねこんなにすごいと思ったのはOblivion以来かもしれない集落の暮らしや行き交う傭兵団、変な精霊、野生動物から地]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォーしてくれたら～系のアカウント研究記録]]></title>
         <id>https://note.com/rubr/n/n882fa5c086eb</id>
