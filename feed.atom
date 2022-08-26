@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-26T22:04:11.433Z</updated>
+    <updated>2022-08-26T23:04:05.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25767,34 +25767,6 @@ CJK用段落記号を追加。
 続きをみる]]></summary>
         <author>
             <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圧縮日報　2021.08.18～2021.08.26]]></title>
-        <id>hatenablog://entry/26006613798738919</id>
-        <link href="https://erutufnab.hatenablog.com/entry/2021/08/27/190658"/>
-        <updated>2021-08-27T10:06:58.000Z</updated>
-        <summary type="html"><![CDATA[2021.08.18
-　歯が痛すぎて朝5時まで眠れなくて死。2年前に親知らずの虫歯を治療して以来まったく歯医者に行っていないのでやむなし。結果的に昼夜逆転が発生してさらに死。そのまま眠気が消えず、横になったまま一日が終了。文字にすると終わってるね。
-github.com
-　Amatsukazeというtsの処理ツールがあり、環境が悪いのかまったく起動できないので半年前から困っていた所、解凍ソフトを変えたら一発で起動して拍子抜けした。古いのを使い続けていたのが悪。環境はスタンダードなものに更新していくべきだと再認識しました。
- 
-2021.08.19
-　睡眠のリズムがめちゃくちゃでこれを書いてるのも26時。あんまり昼夜逆転を直す気が無いのがよくないと思う。
-　Amatsukazeのエンコード設定を詰めるなど自分にしか役の立たない活動があった。NVEncで300fpsくらいは出るようになったので満足。ハードウェアエンコードに足を向けて寝られません。素人だから全然イケてない設定にしてる可能性もあるけど、おれの目には許せる画質で見れてるので今の所は。
-
-キングヘイローがかわいかった。アニバーサリー仕様の青が似合うね。
- 
- 2021.08.20
-　昨日の設定を経てエンコードを丸一日回していた。録画が膨大すぎてまだ終わっていない。今日は1年以上やってるHaunted Danceの音声を少し進めて終わり。私的オールスターって1回しかやったことがないのでずっと苦戦してる。
- 
- 音がデカいです。
- 
-2021.08.21
-www.youtube.com
-　紛うことなき無と長～い昼寝。夜にフジロックの配信を見た。シンセサイザーが聞けるという安直な理由でROVOを見ていた。生バンドでやるインストが好きだからすごく良かった。この時、同時間帯に出ていたKing GnuとNUMBER GIRLを見て…]]></summary>
-        <author>
-            <name>9つのサボテンが喋った</name>
         </author>
     </entry>
 </feed>
