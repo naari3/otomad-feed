@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-28T09:04:04.519Z</updated>
+    <updated>2022-08-28T10:04:23.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お茶お稽古記録2]]></title>
+        <id>https://note.com/zejin/n/nd00620d3a703</id>
+        <link href="https://note.com/zejin/n/nd00620d3a703"/>
+        <updated>2022-08-28T09:24:38.000Z</updated>
+        <summary type="html"><![CDATA[お茶の記録です
+軸　瀧
+花　不明
+花入　蝉籠
+お菓子　金鍔
+お点前　茶入荘
+茶杓の設定　第9代　不見斎　石翁の作
+注意点
+中じまいは平点前だけ
+茶入を仕覆から出して、仕覆を釜のところに置いたら、古帛紗を出す
+お茶碗が帰ってきたら、総礼
+御由緒は、練習では大体「祖母が教授をいただきました折に、淡々斎からいただきましたものを、私が（何かおめでたいこと）の時に譲り受けたものでございます」
+釜に水を入れ忘れない
+茶筅とかを入れるお茶碗は無地
+
+続きをみる]]></summary>
+        <author>
+            <name>ぜじん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォーしてくれたら～系のアカウントの研究記録（画像編その1）]]></title>
         <id>https://note.com/rubr/n/n41f3af8f4e34</id>
