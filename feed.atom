@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-28T14:04:10.265Z</updated>
+    <updated>2022-08-28T15:04:10.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.8.28 「金曜日のしじみ」のイベントに行った]]></title>
+        <id>hatenablog://entry/4207112889912853943</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/08/28/231320"/>
+        <updated>2022-08-28T14:13:20.000Z</updated>
+        <summary type="html"><![CDATA[毎週聴いてる声優ラジオのイベントが初開催されるとのことなので参加してきた。
+開催告知の時点では少しだけ参加を迷ったのだが、今年の目標の一つに「声優イベントに参加する」というものがあったので半ば機械的判断に基づいて参加した。
+何かこういう記事書くと毎回長くなりがちなので手早く行こうと思う。
+ 
+
+会場にあった誘導用の看板。もうこの時点で雰囲気が良い…
+参加者はコロナ禍の影響で客席の間隔を空けたりしていることもあって、多分100人居なかったんじゃないかと思う。
+飲み会をテーマにしたラジオなだけあって会場で購入するドリンクの中にアルコール飲料があったり、会場で購入できる酒のツマミをイベント中に食べても良いという気楽さ。
+良い意味で普段の放送と全く同じノリ。コーナーなんかもそのまま。
+ 
+いつも通りのふつおた紹介なんかもイベント内で行われたのだが、自分はこの部分がかなり印象に残った。
+他のラジオ番組に漏れずしじみにも採用率の高いハガキ職人が何人か居るのだが、彼ら歴戦の猛者たちが同じ会場に一堂に会していたのが本当に良かった。
+お互いがお互いを視認できるような狭い会場だったのもGood。多分ANNみたいな大きい会場で行うイベントだとあの内輪感は出ないと思う。
+ 
+あと、椅子に座っている時の前田香織里さんの足が地面に着いていなかったのが可愛かった。
+ 
+またしじみのイベントが有ったら行きたいと思った。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お茶お稽古記録2]]></title>
         <id>https://note.com/zejin/n/nd00620d3a703</id>
