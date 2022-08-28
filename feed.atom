@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-28T15:04:10.033Z</updated>
+    <updated>2022-08-28T16:04:17.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WindowsでVST2のデフォルトのインストール先を変更する]]></title>
+        <id>hatenablog://entry/4207112889912879399</id>
+        <link href="https://naari.hatenablog.com/entry/2022/08/29/005017"/>
+        <updated>2022-08-28T15:50:17.000Z</updated>
+        <summary type="html"><![CDATA[tl; dr
+レジストリの HKEY_LOCAL_MACHINE\SOFTWARE\VST にある VSTPluginsPath を変更する
+経緯
+VST2とVST3はおおよそデフォルトのインストール先が決まっている。
+VST2*1: C:\ProgramFiles\Steinberg\VSTPlugins
+VST3: C:\Program Files\Common Files\VST3
+VST2とVST3のインストール先が結構遠いことが少し嫌で、自分はVST2のインストール先ディレクトリを C:\Program Files\Common Files\VST2 に変更している。が、インストーラーを立ち上げる度に毎回ここを触るのが面倒だったり、そもそもインストーラーがVST2のインストール先を変更させてくれない例なんかもある。
+こんな話をしていたら、さっき月裏さんに「レジストリを変更するとデフォルトのインストール先を変えることができる」と教えてもらった。速攻で設定したのでブログにも書いておく。
+変更する
+tl;drにも書いたけど、HKEY_LOCAL_MACHINE\SOFTWARE\VST にある VSTPluginsPath を変更することで対応可能。こんな感じ↓
+
+もしかしたら、行儀の悪いインストーラーはこれを見てくれないかもしれないけど、そういった場合はどちらにせよ自分の手でどうにかする必要がある。だいたいのケースはこれによって解決された、と信じている。
+*1:違う場合もあるらしいが。]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.8.28 「金曜日のしじみ」のイベントに行った]]></title>
         <id>hatenablog://entry/4207112889912853943</id>

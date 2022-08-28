@@ -20,6 +20,35 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">WindowsでVST2のデフォルトのインストール先を変更する</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/08/29/005017" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>tl; dr
+レジストリの HKEY_LOCAL_MACHINE\SOFTWARE\VST にある VSTPluginsPath を変更する
+経緯
+VST2とVST3はおおよそデフォルトのインストール先が決まっている。
+VST2*1: C:\ProgramFiles\Steinberg\VSTPlugins
+VST3: C:\Program Files\Common Files\VST3
+VST2とVST3のインストール先が結構遠いことが少し嫌で、自分はVST2のインストール先ディレクトリを C:\Program Files\Common Files\VST2 に変更している。が、インストーラーを立ち上げる度に毎回ここを触るのが面倒だったり、そもそもインストーラーがVST2のインストール先を変更させてくれない例なんかもある。
+こんな話をしていたら、さっき月裏さんに「レジストリを変更するとデフォルトのインストール先を変えることができる」と教えてもらった。速攻で設定したのでブログにも書いておく。
+変更する
+tl;drにも書いたけど、HKEY_LOCAL_MACHINE\SOFTWARE\VST にある VSTPluginsPath を変更することで対応可能。こんな感じ↓
+
+もしかしたら、行儀の悪いインストーラーはこれを見てくれないかもしれないけど、そういった場合はどちらにせよ自分の手でどうにかする必要がある。だいたいのケースはこれによって解決された、と信じている。
+*1:違う場合もあるらしいが。</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220829/20220829004848.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://kaikityou.hatenablog.com/" target="_blank" rel="noopener">kaikityouの日記</a></h3>
           <section class="articles-per-source">
             <article>
@@ -33767,7 +33796,7 @@ CJK用段落記号を追加。
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-08-28T15:04:09.928Z">2022-08-28T15:04:09.928Z</time>
+    <time id="build-timestamp" datetime="2022-08-28T16:04:17.464Z">2022-08-28T16:04:17.464Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

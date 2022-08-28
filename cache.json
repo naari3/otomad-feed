@@ -5194,6 +5194,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889912879399",
+          "author": null,
+          "description": "tl; dr\nレジストリの HKEY_LOCAL_MACHINE\\SOFTWARE\\VST にある VSTPluginsPath を変更する\n経緯\nVST2とVST3はおおよそデフォルトのインストール先が決まっている。\nVST2*1: C:\\ProgramFiles\\Steinberg\\VSTPlugins\nVST3: C:\\Program Files\\Common Files\\VST3\nVST2とVST3のインストール先が結構遠いことが少し嫌で、自分はVST2のインストール先ディレクトリを C:\\Program Files\\Common Files\\VST2 に変更している。が、インストーラーを立ち上げる度に毎回ここを触るのが面倒だったり、そもそもインストーラーがVST2のインストール先を変更させてくれない例なんかもある。\nこんな話をしていたら、さっき月裏さんに「レジストリを変更するとデフォルトのインストール先を変えることができる」と教えてもらった。速攻で設定したのでブログにも書いておく。\n変更する\ntl;drにも書いたけど、HKEY_LOCAL_MACHINE\\SOFTWARE\\VST にある VSTPluginsPath を変更することで対応可能。こんな感じ↓\n\nもしかしたら、行儀の悪いインストーラーはこれを見てくれないかもしれないけど、そういった場合はどちらにせよ自分の手でどうにかする必要がある。だいたいのケースはこれによって解決された、と信じている。\n*1:違う場合もあるらしいが。",
+          "link": "https://naari.hatenablog.com/entry/2022/08/29/005017",
+          "publishedOn": "2022-08-28T15:50:17.000Z",
+          "wordCount": 299,
+          "title": "WindowsでVST2のデフォルトのインストール先を変更する",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220829/20220829004848.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220829/20220829004848.png"
+        },
+        {
           "id": "hatenablog://entry/4207112889908505280",
           "author": null,
           "description": "データサイエンスは全くわからないのだけれど、「どのタグが一緒に使われているのかな」程度の情報であれば自分でも集められる。ので、htmlとjsにまとめたサイトを作った。\n\n- 音MADのタグ頒布が見れるサイトつくった\n- 全体/年度ごとにこういうチャートが見れる\n- EChartsを使ったのでマウスで動かせるhttps://t.co/kN7t7gBDJuhttps://t.co/YQ7yAZ1lSehttps://t.co/hv6cBFUKBW https://t.co/lsM76wqizG pic.twitter.com/eRFLGHrK4v\n— なあり (@_naari_) 2022年7月31日\n  \nできること\nhttps://naari3.github.io/otomad-tag-sort/bar.html\n\n\n棒グラフで見れる\nhttps://naari3.github.io/otomad-tag-sort/pie.html\n\n\nパイチャートも見れる\nhttps://naari3.github.io/otomad-tag-sort/wc.html\n\n\nワードクラウドも作ってみた\nhttps://naari3.github.io/otomad-tag-sort/2022/bar.html\n\n\n年度に分割してみることもできる\npieやwcについても年度ごとに分割しているので、各自でアドレスを弄ってみてください\nhttps://naari3.github.io/otomad-tag-sort/\n\n\nポータル\nディレクトリごとに生成したからいい感じに辿ってね\nマウスのD&Dだとか、マウスホイールによって縮尺を変えられるようにしているので、細かいところまで見れる。多分だけど削除されている動画以外のタグの利用はすべて収集できているはず。1つしかないタグが本当に大量にあってヤバい…",
