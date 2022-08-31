@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-08-31T14:05:17.666Z</updated>
+    <updated>2022-08-31T15:04:21.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PHPを勉強した話【音MAD Advent Calendar 2022 in Summer】]]></title>
+        <id>hatenablog://entry/4207112889911910095</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/09/01/000000"/>
+        <updated>2022-08-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MAD Advent Calendar 2022 in Summerの一日目の記事です。
+他にも素敵な記事が次々と投稿される可能性があります。
+(普段と違って自分で人を集めた訳ではないのでどれぐらい集まるのか分かりません…)
+はじめに
+今回例年の企画と異なる部分として、サイトを自作した。
+というのも、普段年末の企画で使っているAdventarは毎年12月にしかカレンダーを作れないのだ。本来アドベントカレンダーはクリスマスを待つ為のアイテムなのだから当然だ。夏に開催するのは本来あり得ないことなのだ。
+でも企画はやりたい… なので自作する必要があった。
+ 
+作る上で考えたこと等がもしかしたら音MADを始めとするような何らかの別の事柄においても役立つかもなぁと思ったので、今回日記という形で残すことにした。
+プログラミング自体の話よりは、何かをする上で今後も汎用的に役立ちそうな思考の部分だけ書くつもりです。
+前提
+僕のプログラミング経験は学生時代に授業で学んだ程度。課題等で必要があればコードを書いた程度で独学的なことはあんまりしなかった。
+今回は三年ぶりぐらいにちゃんとコーディングをしたことになる。
+ちなみにPHPは生まれて始めて触った。学生時代は何故かVBAを気に入っていた。
+期間
+かかった期間：1ヶ月ぐらい
+最初は別の言語でカレンダー部分だけ作っていて、それだと上手くいかなそうだったので途中からPHPで作り直した。
+乗り換えた後の作業期間がだいたい1ヶ月。それ以外も含めると多分2ヶ月ぐらい。
+ジムに寄ってから帰る日は疲れて作業出来ないことも多かったので、週の2日ぐらいを開発に当てていた程度だろうか。
+全然夏じゃないのにSummerとか言ってるのは気付いたら8月後半になってしまっていたからだ。元々は8月1日～31日を期間とする予定だったのだ。つまり僕の力不足だ。
+気を…]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[enikki_20220830]]></title>
         <id>hatenablog://entry/4207112889913713098</id>
