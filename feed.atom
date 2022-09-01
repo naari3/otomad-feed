@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-01T17:08:23.200Z</updated>
+    <updated>2022-09-01T18:04:52.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25885,19 +25885,6 @@ www.youtube.com]]></summary>
 続きをみる]]></summary>
         <author>
             <name>瀬畑 黒</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファンアートと二次創作を使い分ける事にした]]></title>
-        <id>https://note.com/ecolidelvsvc11/n/nbf0e7969fd7f</id>
-        <link href="https://note.com/ecolidelvsvc11/n/nbf0e7969fd7f"/>
-        <updated>2021-09-02T05:23:09.000Z</updated>
-        <summary type="html"><![CDATA[ファンアートと二次創作を別の意味の言葉として使い分けていこうかと考えています。
-あくまで自分の中でだけの使い分けだけど。
-どういう分け方をするかと言うと、
-続きをみる]]></summary>
-        <author>
-            <name>DDS</name>
         </author>
     </entry>
 </feed>
