@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-01T19:04:04.265Z</updated>
+    <updated>2022-09-01T20:04:11.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25867,24 +25867,6 @@ www.youtube.com
 www.youtube.com]]></summary>
         <author>
             <name>ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年8月の消費コンテンツ]]></title>
-        <id>https://note.com/sehatakuro/n/n5d75305b648c</id>
-        <link href="https://note.com/sehatakuro/n/n5d75305b648c"/>
-        <updated>2021-09-02T07:59:24.000Z</updated>
-        <summary type="html"><![CDATA[黄泉で足踏み
-
-
-
-
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>瀬畑 黒</name>
         </author>
     </entry>
 </feed>
