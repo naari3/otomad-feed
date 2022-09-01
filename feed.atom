@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-01T02:55:11.510Z</updated>
+    <updated>2022-09-01T03:48:36.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25870,34 +25870,6 @@ www.youtube.com]]></summary>
 続きをみる]]></summary>
         <author>
             <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本人とロシア人の友好の家@YouTube]]></title>
-        <id>hatenablog://entry/26006613803646561</id>
-        <link href="https://underdefinition.hatenadiary.jp/entry/20210901/p1"/>
-        <updated>2021-09-01T14:59:01.000Z</updated>
-        <summary type="html"><![CDATA[宇宙のすべての知識 プリンシピア - YouTube (投稿者)
-日本人とロシア人の友好の家 - Wikipedia (2021年3月29日 (月) 05:49版)
-合成音声がWikipediaの記事を読み上げるだけの動画を大量に投稿されている方が本日公開した「日本人とロシア人の友好の家」の動画。動画投稿時点での最新版(上掲)に基づいた内容のため、ムネオハウスムーブメントの項目を全て読み上げていました。
-
-
-
-以下、該当箇所のスクショ。]]></summary>
-        <author>
-            <name>muneo house information</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国後から来たロシア人 難民申請]]></title>
-        <id>hatenablog://entry/13574176438033287254</id>
-        <link href="https://underdefinition.hatenadiary.jp/entry/20210901/News"/>
-        <updated>2021-09-01T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[「国後から来た」ロシア人が難民申請　入管施設に収容　当面は送還せず (北海道新聞)
-北方領土の国後島から来たというロシア人男性が根室管内標津町で保護された問題で、男性が日本で難民認定を申請したことが１日、政府関係者への取材で分かった。男性が当初求めた「一時庇護（ひご）のための上陸」を札幌出入国在留管理局（札幌入管）が認めなかったため、ロシアメディアは今週にも在札幌ロシア総領事館に引き渡される見通しを報じていたが、難民申請をしたことで当面は送還されない。申請は８月２７日付。
-(後略)]]></summary>
-        <author>
-            <name>muneo house information</name>
         </author>
     </entry>
 </feed>
