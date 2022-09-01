@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-01T14:04:48.329Z</updated>
+    <updated>2022-09-01T15:04:20.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.46　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
+        <id>hatenablog://entry/4207112889914088508</id>
+        <link href="https://ximco.hatenablog.com/entry/2022/09/01/235649"/>
+        <updated>2022-09-01T14:56:49.000Z</updated>
+        <summary type="html"><![CDATA[挨拶と本記事の目的
+シンプルにやりたいことが多すぎて時間がねぇ。Ximcoです。
+自作フォント「Xim Sans 手書き風」のバージョン更新のお知らせです。
+ 
+DLはこちらから。↓
+github.com
+
+ 
+サンプル画像
+　↓当フォントのサンプル画像です。色々な書記体系で「Wikipedia」と書いてあります。
+
+　こんな感じの手書き風（？）のガタガタしたフォントです。ホラーあるいはアンティークな風味が出ます。
+　これまで使って下さっている方も、まだ使ったことのない人も、是非使ってみてください。何かしらのデザインのスパイスとして使ってみてはいかがでしょうか？
+ 
+今回の更新について
+　今回の大きな変更点は以下の通り。
+古代にアラビア文化圏で使われていた数字類（コプト暦用数字、ルミ数字記号）を追加。
+将来収録予定のUnicodeご乱心シリーズこと”Symbols for Legacy Computing Supplement”ブロックの文字の大部分を追加（めっちゃ疲れた…）
+モンゴルで昔チベット仏教徒の間でモンゴル語を表すのに用いられたソヨンボ文字を追加（モンゴルの国旗にも描かれていますね）
+将来収録予定のコード位置（参考：
+https://unicode.org/L2/L2022/22194-n5196-cdam2-chart.pdf
+音楽記号類のデザインについて、楽譜サイズに合わせた実装をやめ、テキスト内に併記した際の見やすさを優先するようにデザインを変更。
+　他にも色々追加しています。詳細は後述。
+ 
+利用規約
+前回と同じです。
+禁止行為
+「Xim Sans」の作者を騙る行為。
+「Xim Sans」を改変なしで有償で再配布する行為。（有償での再配布は改変を含む場合でも相談ください。基本ダメです）
+「Xim Sans」の名称を用いて他者に迷惑を掛けていると判断できるよ…]]></summary>
+        <author>
+            <name>ximcoの部屋</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHPを勉強した話【音MAD Advent Calendar 2022 in Summer】]]></title>
         <id>hatenablog://entry/4207112889911910095</id>
