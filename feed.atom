@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-02T09:04:18.499Z</updated>
+    <updated>2022-09-02T10:04:09.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[えのき]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1195.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1195.html"/>
+        <updated>2022-09-02T09:33:33.000Z</updated>
+        <summary type="html"><![CDATA[ようやく遺跡サーペントの呪いから解き放たれた画像の万葉とウェンティ入れ替えた構成で2間までいけたものの、3間で撃沈し怒りの雷電ナショナルロサリアリバースメルト優秀だなーと思いつつも聖遺物が弱すぎてチャージも火力もたりませんっていうか適当に旧貴族4のまま出してるからなんだよなぁ  ロサリア用の絶縁用意すべきですね……神3人とコレイchangのチームも急ごしらえな割に戦えたんで、今後も出番があるかな～コレイと行秋]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォーしてくれたら～系のアカウントの元画像一覧（その1）]]></title>
         <id>https://note.com/rubr/n/n0ffe9e861d06</id>
