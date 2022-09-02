@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-02T06:19:23.709Z</updated>
+    <updated>2022-09-02T07:10:12.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フォーしてくれたら～系のアカウントの元画像一覧（その1）]]></title>
+        <id>https://note.com/rubr/n/n0ffe9e861d06</id>
+        <link href="https://note.com/rubr/n/n0ffe9e861d06"/>
+        <updated>2022-09-02T06:25:56.000Z</updated>
+        <summary type="html"><![CDATA[フォー垢に貼られている画像に写っている人物のTwitter等を貼っていきます。つまり転載元です。あの画像たちがフォー垢のオリジナルではないことの証明のために特定しました。
+名前は敬称略、元画像が現存していた場合貼っておきます。
+りっきゅん
+Twitter
+続きをみる]]></summary>
+        <author>
+            <name>R___Va</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.46　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
         <id>hatenablog://entry/4207112889914088508</id>
