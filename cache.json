@@ -10732,15 +10732,6 @@
           "publishedOn": "2021-09-05T08:45:36.000Z",
           "wordCount": 45,
           "title": "MAD動画用の音声素材を作る方法"
-        },
-        {
-          "id": "https://note.com/furadiru_99/n/n5d2fa2028296",
-          "author": null,
-          "description": "音と連動して動画も編集されるので音MAD動画制作の助けになる。わざわざAviutlから動画内の音声をwav出力する必要はない。\nFFmpeg、VLCのいずれか、もしくは両方をインストールすればいいらしい。\n\n続きをみる",
-          "link": "https://note.com/furadiru_99/n/n5d2fa2028296",
-          "publishedOn": "2021-09-05T07:57:00.000Z",
-          "wordCount": 49,
-          "title": "REAPERで動画を読み込む方法"
         }
       ]
     },

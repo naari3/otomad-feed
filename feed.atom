@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-04T19:04:05.384Z</updated>
+    <updated>2022-09-04T20:05:07.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25828,19 +25828,6 @@ Nameryの詳細情報 : Vector ソフトを探す！
         <updated>2021-09-05T08:45:36.000Z</updated>
         <summary type="html"><![CDATA[sm36591767のような音声素材パックを作る方法を教える。
 まずはREAPERで音声として出力する動画を読み込む。REAPERに動画を取り込めない場合には使えるフォーマットの数を増やせばいい。それも面倒だったらAviutlでwav出力でもすればいい。
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REAPERで動画を読み込む方法]]></title>
-        <id>https://note.com/furadiru_99/n/n5d2fa2028296</id>
-        <link href="https://note.com/furadiru_99/n/n5d2fa2028296"/>
-        <updated>2021-09-05T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[音と連動して動画も編集されるので音MAD動画制作の助けになる。わざわざAviutlから動画内の音声をwav出力する必要はない。
-FFmpeg、VLCのいずれか、もしくは両方をインストールすればいいらしい。
-
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
