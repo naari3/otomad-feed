@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-05T01:39:18.841Z</updated>
+    <updated>2022-09-05T02:57:07.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニコニコ動画の会員登録の方法]]></title>
+        <id>https://note.com/furadiru_99/n/n48a7f99d2dc9</id>
+        <link href="https://note.com/furadiru_99/n/n48a7f99d2dc9"/>
+        <updated>2022-09-05T02:14:23.000Z</updated>
+        <summary type="html"><![CDATA[必要な物
+・メールアドレス（無いまたは新しいアドレスを使いたいならGmailアカウントを作るのがオススメ）
+・パスワード（要メモ）
+まずniconicoにアクセスして右上の会員登録をクリックする
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ShirahaMermaid Girl - Remix for "DD"【編集後記】]]></title>
         <id>hatenablog://entry/4207112889914424575</id>
