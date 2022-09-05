@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-05T11:04:12.857Z</updated>
+    <updated>2022-09-05T12:05:56.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[寝坊ってよくないよね]]></title>
+        <id>https://note.com/calpisco/n/nb70eb4c919d4</id>
+        <link href="https://note.com/calpisco/n/nb70eb4c919d4"/>
+        <updated>2022-09-05T11:17:36.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+万年寝坊助のcalpiscoと申します。
+先日、寝坊をしてしまいとてもとても怒られました。
+毎回毎回色々な作業場所に行って、
+結構な頻度で寝坊してしまっているのですが、
+ついに、今回の作業場所で上司から、
+次寝坊したら殺すから的な事を言われました。（誇張してます）
+ひえ～～～。
+と、いう事で、
+前々から良くないな～と頭では思っていたんですが、
+対策をしていない自分が100%悪いので、
+僕も死にたくはないから流石に対策をすることにしました。
+一先ず、寝坊の１番の原因だと僕が思っている
+PCの利用時間を制限することにしました。
+自分の意志として制限しても、どうせ自分の事だから
+今〇〇やってるからあと10分後に寝る！！とか言って、
+無視することはわかっているので、
+次の日が平日だった場合、0:00にPCが勝手に落ちるようにしました。
+これをすることで普通に生活リズムも最近良くなりましたし、
+寝覚めが良い（睡眠時間が良くとれているので）
+もし僕みたいに寝坊癖がどうしても治らないって言う人は、
+僕と同じように
+「100%自分が悪い事はわかっているが反省しきれてない」
+若しくは環境に甘えてる人（寝坊しても許される）
+だと思うので、自分の意志じゃない所でそれを出来ないようにするのは、
+良い対策だと思うので、やってみてはいかがでしょうか。
+それでは、また次回更新したいな～って思った時、
+上司に殺されてなかったらまた僕の適当なnoteに付き合ってください。
+ばいび～。
+続きをみる]]></summary>
+        <author>
+            <name>calpisco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニコニコ動画の会員登録の方法]]></title>
         <id>https://note.com/furadiru_99/n/n48a7f99d2dc9</id>
