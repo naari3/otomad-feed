@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-06T10:04:22.990Z</updated>
+    <updated>2022-09-06T11:04:11.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MADの対戦型イベントが久しぶりに観たい【音MAD Advent Calendar 2022 in Summer】]]></title>
+        <id>hatenablog://entry/4207112889914851936</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/09/06/200000"/>
+        <updated>2022-09-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MAD Advent Calendar 2022 in Summerの六日目の記事です！！！！！
+なんと今日以降全部空いてます！！！！！！
+何か書きたいことがある方は是非参加お願いします！！！！！！
+『獣道』の紹介
+プロゲーマーの梅原大吾がやっている企画に獣道というものがあります。
+これは特定のゲームタイトルにおいての最高峰の対決を実現するという企画です。
+
+恐らく獣道を説明する上で一番分かりやすい対決がこれです。
+左のウメハラは「世界で最も長く賞金を稼いでいる」としてギネス世界記録に登録されている説明不要のプレイヤーで、"格ゲーの歴史"なんて言われてたりします。日本初のプロゲーマー。
+対戦相手のときどは東大生プロゲーマーという肩書を持ち、近年はウメハラを超える実績を持つトッププレイヤー。今の収入はウメハラを超えてるとか言われてます(未確認情報)。日本三人目のプロ格闘ゲーマー。
+いわばこの試合は世代交代をかけた対決とも言えます。結果は自分で調べてください。
+ 
+試合に付随して、各選手へのインタビューや、その周りの人間からの応援コメントのPVなんかも投稿されていたりします。
+他にも上述のときど戦においては獣道Ⅰのエンディングで匂わせ演出があったり、エンタメ性の高いイベントと言えます。
+Daigo Umehara Presents: Kemonomichi 2 - Daigo vs Tokido PV - YouTube
+Daigo Presents Kemonomichi 2 - Interview with SFV Players! - YouTube
+https://clips.twitch.tv/WiseInnocentLeopardFUNgineer?tt_content=url&tt_medium=clips_api
+ 
+他にも獣道では「全一テトリスプレ…]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[enikki_20220904]]></title>
         <id>hatenablog://entry/4207112889915368198</id>
