@@ -791,6 +791,21 @@
       "siteUrl": "https://isitsutbustu-todoke.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889915750653",
+          "author": null,
+          "description": "つくみず「シメジシミュレーション」の冒頭を少し読んだ影響で目玉焼きをかきたくなった。",
+          "link": "https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/07/040330",
+          "publishedOn": "2022-09-06T19:03:30.000Z",
+          "wordCount": 225,
+          "title": "enikki_20220905",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220907/20220907040230.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220907/20220907040230.png"
+        },
+        {
           "id": "hatenablog://entry/4207112889915368198",
           "author": null,
           "description": "enikki_20220904 - 遺失物取扱所",
