@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-07T12:05:46.962Z</updated>
+    <updated>2022-09-07T13:19:29.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#23 9月1週]]></title>
+        <id>hatenablog://entry/4207112889916047979</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/09/07/212504"/>
+        <updated>2022-09-07T12:25:04.000Z</updated>
+        <summary type="html"><![CDATA[今週（先週？）は本当に何もなかった。 
+ 
+ONEPIECEの無料公開がまた始まった。嬉しい。今回は絶対に魚人島以降も読み逃さない。
+今回は前回みたいに3分割じゃなくて、細かくわけて12月くらいまで順番に公開していくらしい。
+12月までかかるなら途中で耐えきれずに全巻セットを買ってしまう可能性はある。
+とりあえず第1弾はアラバスタまでっぽいので、読みます。こないだ読んだばっかだけど。
+ 
+スプラ3の発売が近付いてきた。楽しみですね。
+ 
+今週は本当に書くことがないんですけど、次回はスプラ3の事をいっぱい書ける気がします。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[動画紹介企画「#韓国音MAD特集」開催のお知らせ]]></title>
         <id>https://note.com/fourangle/n/nc1a09deb9aa4</id>
