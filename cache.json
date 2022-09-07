@@ -791,6 +791,21 @@
       "siteUrl": "https://isitsutbustu-todoke.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889915965426",
+          "author": null,
+          "description": "enikki_20220904 - 遺失物取扱所 が正面からだったのに対し今回は裏側からだが、そのときよりかはマシな気がする。要因としては下書きで書いていた薄い試行錯誤の線を残さず、いちいち消して必要な線だけ残すようにしたこと（当たり前）。",
+          "link": "https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/07/170628",
+          "publishedOn": "2022-09-07T08:06:28.000Z",
+          "wordCount": 235,
+          "title": "enikki_20220906",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220907/20220907170607.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220907/20220907170607.jpg"
+        },
+        {
           "id": "hatenablog://entry/4207112889915750653",
           "author": null,
           "description": "つくみず「シメジシミュレーション」の冒頭を少し読んだ影響で目玉焼きをかきたくなった。",

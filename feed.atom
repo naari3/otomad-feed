@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-07T08:06:42.964Z</updated>
+    <updated>2022-09-07T09:04:45.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[enikki_20220906]]></title>
+        <id>hatenablog://entry/4207112889915965426</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/07/170628"/>
+        <updated>2022-09-07T08:06:28.000Z</updated>
+        <summary type="html"><![CDATA[enikki_20220904 - 遺失物取扱所 が正面からだったのに対し今回は裏側からだが、そのときよりかはマシな気がする。要因としては下書きで書いていた薄い試行錯誤の線を残さず、いちいち消して必要な線だけ残すようにしたこと（当たり前）。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[enikki_20220905]]></title>
         <id>hatenablog://entry/4207112889915750653</id>
