@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-07T23:04:11.960Z</updated>
+    <updated>2022-09-08T00:18:55.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25988,17 +25988,6 @@ www.nicovideo.jp
 (後略)]]></summary>
         <author>
             <name>muneo house information</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寝不足解消]]></title>
-        <id>https://note.com/ebideath/n/n754ec3508348</id>
-        <link href="https://note.com/ebideath/n/n754ec3508348"/>
-        <updated>2021-09-08T11:57:24.000Z</updated>
-        <summary type="html"><![CDATA[安定剤と睡眠導入剤飲んだら治った
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
