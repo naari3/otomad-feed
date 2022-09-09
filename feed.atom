@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-09T17:09:37.256Z</updated>
+    <updated>2022-09-09T18:04:23.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25822,18 +25822,6 @@ underdefinition.hatenadiary.jp]]></summary>
 続きをみる]]></summary>
         <author>
             <name>あるくおすし</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お昼休憩中です]]></title>
-        <id>https://note.com/ebideath/n/n82c79731fcbf</id>
-        <link href="https://note.com/ebideath/n/n82c79731fcbf"/>
-        <updated>2021-09-10T05:48:26.000Z</updated>
-        <summary type="html"><![CDATA[今日は寝てないのでゲロしんどいです でも今寝ると明日の夜になってそうなので頑張って起きてます 家にいるとねむいのでぼんやり歩きながらこれ書いてます 「生きるって…幸福ってなんだろう…」「金曜が終わっても月曜がやってきて、人生はずっと苦しい」「幸福って睡眠時間で決まるのでは？」そんなことを考えてたらファミマまで来てしまいました
-ファミマで人が働いてる
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
