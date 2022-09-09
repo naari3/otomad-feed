@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-09T15:04:16.512Z</updated>
+    <updated>2022-09-09T16:04:14.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ultimate vocal removerを使ってみよう]]></title>
+        <id>https://note.com/saltlemon/n/n5d02e7000726</id>
+        <link href="https://note.com/saltlemon/n/n5d02e7000726"/>
+        <updated>2022-09-09T15:43:30.000Z</updated>
+        <summary type="html"><![CDATA[おいっす、ナイスネイチャで~す。
+嘘です。皆様初めまして。塩れもんと申します。
+大半の方がお前誰やねんってなってると思いますが一応音MAD作ってます。アイマス・ウマ娘中心です。
+ 塩れもん - Niconico塩れもんさんのユーザーページです。音ＭＡＤとかつくりますwww.nicovideo.jp 
+続きをみる]]></summary>
+        <author>
+            <name>塩れもん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[うーん]]></title>
         <id>https://anond.hatelabo.jp/20220908192352</id>
