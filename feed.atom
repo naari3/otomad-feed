@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-10T08:04:36.191Z</updated>
+    <updated>2022-09-10T09:04:23.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25821,17 +25821,6 @@ underdefinition.hatenadiary.jp]]></summary>
 続きをみる]]></summary>
         <author>
             <name>オンモコスブ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エゴロック(short ver.)のMVが最高なわけ（つまりlong ver.は...）]]></title>
-        <id>https://note.com/walkingsushibox/n/nfe025d7a9ead</id>
-        <link href="https://note.com/walkingsushibox/n/nfe025d7a9ead"/>
-        <updated>2021-09-10T20:11:53.000Z</updated>
-        <summary type="html"><![CDATA[※お気持ちnoteです、細かいところには目をつぶってください
-続きをみる]]></summary>
-        <author>
-            <name>あるくおすし</name>
         </author>
     </entry>
 </feed>
