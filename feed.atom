@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-10T09:04:23.358Z</updated>
+    <updated>2022-09-10T10:04:25.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特に書きたいことがない]]></title>
+        <id>https://note.com/kari_yadokari/n/n9b2a64f38754</id>
+        <link href="https://note.com/kari_yadokari/n/n9b2a64f38754"/>
+        <updated>2022-09-10T09:44:58.000Z</updated>
+        <summary type="html"><![CDATA[特に書きたいことがない 続きをみる]]></summary>
+        <author>
+            <name>yadokari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久し振りにログイン]]></title>
         <id>https://note.com/kari_yadokari/n/nd1d35d67a2cc</id>
