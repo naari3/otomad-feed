@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-11T13:13:39.123Z</updated>
+    <updated>2022-09-11T14:04:33.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25485,17 +25485,6 @@ underdefinition.hatenadiary.jp]]></summary>
 続きをみる]]></summary>
         <author>
             <name>しゃけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破壊]]></title>
-        <id>https://note.com/onmokosub/n/neff8b4f7a80e</id>
-        <link href="https://note.com/onmokosub/n/neff8b4f7a80e"/>
-        <updated>2021-09-12T01:52:00.000Z</updated>
-        <summary type="html"><![CDATA[やめたほうがいい
-続きをみる]]></summary>
-        <author>
-            <name>オンモコスブ</name>
         </author>
     </entry>
 </feed>
