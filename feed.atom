@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-12T01:38:14.296Z</updated>
+    <updated>2022-09-12T02:59:45.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[enikki_20220911]]></title>
+        <id>hatenablog://entry/4207112889917357183</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/12/113238"/>
+        <updated>2022-09-12T02:32:38.000Z</updated>
+        <summary type="html"><![CDATA[描いてなかったので付記すると引き続き『ソッカの美術解剖学』の模写です]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[enikki_20220910]]></title>
+        <id>hatenablog://entry/4207112889917356819</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/12/113101"/>
+        <updated>2022-09-12T02:31:01.000Z</updated>
+        <summary type="html"><![CDATA[最近はじめてn-buna『ボロボロだ』（HATSUNE MIKU 10th Anniversary Album「Re:Start」に収録された動画も投稿されておらず個人のアルバムにも収録されていない曲）を聴いたのだけど、「つまんないならつまんないなりに自分の声で喋れよ」という歌詞にいいね～となっている。彼の曲にはそういうパンチラインみたいなものが1曲に最低ひとつある気がするのだけど、この曲における個人的パンチラインはその「つまんないなら～」の一節だった。いいですね。SNSでヨルシカのファンを標榜して歌詞を引用して自分の主張をしているような人に見せたいのだけど、それ自体引用という矛盾を孕んでしまうのもなんというか自己矛盾でn-bunaっぽくある。おなじく彼の『ヨヒラ』においては「自分が楽に行きたいから今日も逃げ続けたんだろ」が痛烈だなと思っているのだけど、それと同じくらい好きかもしれない（絵は全く関係ありません）]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【都市伝説】彦摩呂さん、実はもう亡くなっている…]]></title>
         <id>https://note.com/kari_yadokari/n/n657131ca2bd8</id>
@@ -25482,16 +25502,6 @@ underdefinition.hatenadiary.jp]]></summary>
         <link href="https://note.com/dou_akagane_cu/n/n01b2b3749365"/>
         <updated>2021-09-13T09:28:10.000Z</updated>
         <summary type="html"><![CDATA[なにも考えられないから今日は休みます。 続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これから徹夜…]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n20f6db8dbc9f</id>
-        <link href="https://note.com/dou_akagane_cu/n/n20f6db8dbc9f"/>
-        <updated>2021-09-12T13:58:16.000Z</updated>
-        <summary type="html"><![CDATA[これから徹夜… 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
         </author>

@@ -777,6 +777,36 @@
       "siteUrl": "https://isitsutbustu-todoke.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889917357183",
+          "author": null,
+          "description": "描いてなかったので付記すると引き続き『ソッカの美術解剖学』の模写です",
+          "link": "https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/12/113238",
+          "publishedOn": "2022-09-12T02:32:38.000Z",
+          "wordCount": 244,
+          "title": "enikki_20220911",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220912/20220912113127.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220912/20220912113127.jpg"
+        },
+        {
+          "id": "hatenablog://entry/4207112889917356819",
+          "author": null,
+          "description": "最近はじめてn-buna『ボロボロだ』（HATSUNE MIKU 10th Anniversary Album「Re:Start」に収録された動画も投稿されておらず個人のアルバムにも収録されていない曲）を聴いたのだけど、「つまんないならつまんないなりに自分の声で喋れよ」という歌詞にいいね～となっている。彼の曲にはそういうパンチラインみたいなものが1曲に最低ひとつある気がするのだけど、この曲における個人的パンチラインはその「つまんないなら～」の一節だった。いいですね。SNSでヨルシカのファンを標榜して歌詞を引用して自分の主張をしているような人に見せたいのだけど、それ自体引用という矛盾を孕んでしまうのもなんというか自己矛盾でn-bunaっぽくある。おなじく彼の『ヨヒラ』においては「自分が楽に行きたいから今日も逃げ続けたんだろ」が痛烈だなと思っているのだけど、それと同じくらい好きかもしれない（絵は全く関係ありません）",
+          "link": "https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/12/113101",
+          "publishedOn": "2022-09-12T02:31:01.000Z",
+          "wordCount": 248,
+          "title": "enikki_20220910",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220912/20220912112301.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220912/20220912112301.jpg"
+        },
+        {
           "id": "hatenablog://entry/4207112889916995069",
           "author": null,
           "description": "背中のあたりで肋骨が混線してしまったので、もう少し大きく描くべきだった。",
@@ -10039,15 +10069,6 @@
           "publishedOn": "2021-09-13T09:28:10.000Z",
           "wordCount": 39,
           "title": "なにも考えられないから今日は休みます。"
-        },
-        {
-          "id": "https://note.com/dou_akagane_cu/n/n20f6db8dbc9f",
-          "author": null,
-          "description": "これから徹夜… 続きをみる",
-          "link": "https://note.com/dou_akagane_cu/n/n20f6db8dbc9f",
-          "publishedOn": "2021-09-12T13:58:16.000Z",
-          "wordCount": 36,
-          "title": "これから徹夜…"
         }
       ]
     },
