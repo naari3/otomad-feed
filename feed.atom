@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-12T23:04:25.627Z</updated>
+    <updated>2022-09-13T00:17:30.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25474,18 +25474,6 @@ underdefinition.hatenadiary.jp
 underdefinition.hatenadiary.jp]]></summary>
         <author>
             <name>muneo house information</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏休みに見たもの]]></title>
-        <id>https://note.com/walkingsushibox/n/n01bb7d99bdf4</id>
-        <link href="https://note.com/walkingsushibox/n/n01bb7d99bdf4"/>
-        <updated>2021-09-13T12:10:59.000Z</updated>
-        <summary type="html"><![CDATA[だらだら夏を過ごしていたら映画やアニメに対する感想がたまってきたので、ここにまとめてしまいたいと思います。直接的な言及は避けますが、レビューではなく自分用の感想なので、軽いネタバレはあります。
-・映画
-続きをみる]]></summary>
-        <author>
-            <name>あるくおすし</name>
         </author>
     </entry>
 </feed>
