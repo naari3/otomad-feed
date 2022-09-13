@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-13T04:40:11.578Z</updated>
+    <updated>2022-09-13T05:32:22.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[糞喰漢合作2022ギャラリー]]></title>
+        <id>https://note.com/furadiru_99/n/n8bbfdb80e63d</id>
+        <link href="https://note.com/furadiru_99/n/n8bbfdb80e63d"/>
+        <updated>2022-09-13T05:14:05.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【柴田理恵のよだれ】うわっくせー氏の動画まとめ(前半)]]></title>
         <id>https://note.com/kari_yadokari/n/n8289515dc59b</id>
