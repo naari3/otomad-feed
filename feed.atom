@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-13T17:10:25.914Z</updated>
+    <updated>2022-09-13T18:04:33.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[enikki_20220912]]></title>
+        <id>hatenablog://entry/4207112889917894219</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/14/024015"/>
+        <updated>2022-09-13T17:40:15.000Z</updated>
+        <summary type="html"><![CDATA[enikki_20220912 - 遺失物取扱所]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[enikki_20220912]]></title>
+        <id>hatenablog://entry/4207112889917894208</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/14/024007"/>
+        <updated>2022-09-13T17:40:07.000Z</updated>
+        <summary type="html"><![CDATA[enikki_20220912 - 遺失物取扱所]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#24 9月2週]]></title>
         <id>hatenablog://entry/4207112889917798748</id>
