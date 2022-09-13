@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-13T22:04:40.629Z</updated>
+    <updated>2022-09-13T23:04:21.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25491,19 +25491,6 @@ Solitude Rain(ビガビガ戦法)
 続きをみる]]></summary>
         <author>
             <name>れでぃば</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[月見バーガーっ！！！]]></title>
-        <id>https://note.com/inaho_inadumi/n/n40c5be7c44ab</id>
-        <link href="https://note.com/inaho_inadumi/n/n40c5be7c44ab"/>
-        <updated>2021-09-14T11:01:18.000Z</updated>
-        <summary type="html"><![CDATA[（この配色カッコいいな...）
-
-
-続きをみる]]></summary>
-        <author>
-            <name>inaho_inadumi</name>
         </author>
     </entry>
 </feed>
