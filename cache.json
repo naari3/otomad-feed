@@ -13971,6 +13971,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-104.html",
+          "author": "picm",
+          "description": "感想",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-104.html",
+          "publishedOn": "2022-09-13T10:26:11.000Z",
+          "wordCount": 164,
+          "title": "ゲーミングヘッドセットを買った",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-102.html",
           "author": "picm",
           "description": "AviUtlで複数の画像/動画オブジェクトの参照ファイルを一括で変更したいとき",
