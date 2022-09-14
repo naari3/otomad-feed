@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-14T00:18:30.086Z</updated>
+    <updated>2022-09-14T01:36:09.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25478,19 +25478,6 @@ Solitude Rain(ビガビガ戦法)
 ここまでのまとめ。]]></summary>
         <author>
             <name>muneo house information</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.09.14　現状・私記]]></title>
-        <id>https://note.com/readybug_/n/n30eb6c911b85</id>
-        <link href="https://note.com/readybug_/n/n30eb6c911b85"/>
-        <updated>2021-09-14T12:25:59.000Z</updated>
-        <summary type="html"><![CDATA[noteを書きたい気分だったので書きました。箇条書きに近い形式なので内容が雑然としています。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>れでぃば</name>
         </author>
     </entry>
 </feed>
