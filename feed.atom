@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-14T19:05:08.028Z</updated>
+    <updated>2022-09-14T20:05:16.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[enikki_20220914]]></title>
+        <id>hatenablog://entry/4207112889918184852</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/09/15/040709"/>
+        <updated>2022-09-14T19:07:09.000Z</updated>
+        <summary type="html"><![CDATA[学んだことをもとに人の顔を書こうとしたらゆっくりみたいになった。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あれとかあれとかあれ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1197.html</id>
