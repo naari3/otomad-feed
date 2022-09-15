@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-15T12:06:41.800Z</updated>
+    <updated>2022-09-15T13:19:19.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25499,18 +25499,6 @@ https://shindanmaker.com/1084365
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[やばいクレーディトのSUSURU TV]]></title>
-        <id>https://note.com/sehatakuro/n/ndc52719ad791</id>
-        <link href="https://note.com/sehatakuro/n/ndc52719ad791"/>
-        <updated>2021-09-16T00:40:31.000Z</updated>
-        <summary type="html"><![CDATA[ゼーレゼーレ！
-どうも～！SUSURUのそっくりさんです！
-続きをみる]]></summary>
-        <author>
-            <name>瀬畑 黒</name>
         </author>
     </entry>
 </feed>
