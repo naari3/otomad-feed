@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-15T22:04:20.934Z</updated>
+    <updated>2022-09-15T23:04:16.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東大安田講堂事件8.10野獣邸ホモガキ大量凸事件説]]></title>
+        <id>https://anond.hatelabo.jp/20220916072154</id>
+        <link href="https://anond.hatelabo.jp/20220916072154"/>
+        <updated>2022-09-15T22:21:54.000Z</updated>
+        <summary type="html"><![CDATA[学生運動の闘士であ...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不沈艦前夜 後半パート映像 編集後記]]></title>
         <id>hatenablog://entry/4207112889918439057</id>
