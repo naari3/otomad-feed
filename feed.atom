@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-16T01:37:27.988Z</updated>
+    <updated>2022-09-16T03:01:06.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25538,22 +25538,6 @@ https://shindanmaker.com/1084365
 続きをみる]]></summary>
         <author>
             <name>丹波津</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1回目のワクチン接種の推移]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n5dc0fa81ebca</id>
-        <link href="https://note.com/dou_akagane_cu/n/n5dc0fa81ebca"/>
-        <updated>2021-09-16T14:23:50.000Z</updated>
-        <summary type="html"><![CDATA[2021年9月16日午前8時59分
-今から1回目ワクチン接種します。楽しみだぜ！！！
-午前9時16分
-接種直後です。特に何も…
-注射は全然痛くなかったですね。インフルの予防接種の方がもうちょい痛かったと思います。
-医師から「打ったところを数分手で押さえておくだけでも後々の痛みが緩和される」と言われました。これも検証。
-続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
         </author>
     </entry>
 </feed>
