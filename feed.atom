@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-16T00:19:40.011Z</updated>
+    <updated>2022-09-16T01:37:27.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25554,17 +25554,6 @@ https://shindanmaker.com/1084365
 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外付けSSDを買ってみた！]]></title>
-        <id>https://note.com/furadiru_99/n/nf14189903d66</id>
-        <link href="https://note.com/furadiru_99/n/nf14189903d66"/>
-        <updated>2021-09-16T12:20:54.000Z</updated>
-        <summary type="html"><![CDATA[ケーズデンキかもしくはヤマダデンキで購入。25,000くらいした。
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
         </author>
     </entry>
 </feed>
