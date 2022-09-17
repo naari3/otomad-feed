@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-17T02:55:19.146Z</updated>
+    <updated>2022-09-17T03:46:09.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25529,22 +25529,6 @@ Appアイコン・ウィジェットのデザイン変更
   今週はダメだ！]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[診断メーカー: ごめん。同窓会には、行けません。]]></title>
-        <id>hatenablog://entry/13574176438012610225</id>
-        <link href="https://underdefinition.hatenadiary.jp/entry/20210917/p1"/>
-        <updated>2021-09-17T14:59:01.000Z</updated>
-        <summary type="html"><![CDATA[ごめん。同窓会には、行けません。
-エア呼吸 (@okayaite) / Twitter (作者)
-「シンガポール」篇 | テレビCM | 大成建設株式会社
-2018年の大成建設のCM「『シンガポール』篇」が元ネタの診断メーカー。昨日公開されていました。同様の診断メーカーは過去にも作られていましたが、こちらはオリジナルの「本当は、あの頃が恋しいけれど」の部分を「本当は、〇〇がちょっと懐かしいけど」に改変し、その部分の辞書に「ムネオハウス」の単語を含む仕様でした。出力例は以下の通り。
-ごめん。カラオケまねきねこには、行けません。オレオを分解して作ったビスケットを、私は作っています。本当は、ムネオハウスがちょっと懐かしいけど……今は、もう少しだけ、知らないふりをします。
-https://shindanmaker.com/1084365 
-その他の懐かし担当ワードには「ビリーズブートキャンプ」、「レッサーパンダの風大くん」、「多摩川のタマちゃん」、「グルーポンのスカスカおせち」、「引っ越しおばさん」、「ち～が～う～だ～ろ～」(おそらく2017年の豊田真由子氏の発言)、「デタラメ手話通訳」、「バトルドーム」、「グルメスパイザー」等、社会的な流行語とネットの話題それぞれの文脈が想像できるものが確認できました。]]></summary>
-        <author>
-            <name>muneo house information</name>
         </author>
     </entry>
 </feed>
