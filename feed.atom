@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-17T07:04:55.871Z</updated>
+    <updated>2022-09-17T08:04:38.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25480,25 +25480,6 @@ Appアイコン・ウィジェットのデザイン変更
 続きをみる]]></summary>
         <author>
             <name>阿保草</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[裏起毛付きタイトル]]></title>
-        <id>https://note.com/ssaymds/n/nd53322aea62b</id>
-        <link href="https://note.com/ssaymds/n/nd53322aea62b"/>
-        <updated>2021-09-17T19:37:11.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、深夜配信終わった後なんで手短に済ませます
-まずは音MAD出しました、気になる方はどうぞ↓
-
-
-
-オドラニャそんオドラニャそん [エンターテイメント] タミフルくん誕生日おめでとうnico.ms
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
 </feed>
