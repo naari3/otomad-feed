@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-18T22:04:22.541Z</updated>
+    <updated>2022-09-18T23:04:20.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25379,36 +25379,6 @@ Appアイコン・ウィジェットのデザイン変更
         <summary type="html"><![CDATA[やる気があれば続けるサウンドをひらく]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本ムーンリッジ&ハイウェイ交通情報 制作後記]]></title>
-        <id>https://note.com/inaho_inadumi/n/nd28c283703a0</id>
-        <link href="https://note.com/inaho_inadumi/n/nd28c283703a0"/>
-        <updated>2021-09-19T10:42:57.000Z</updated>
-        <summary type="html"><![CDATA[先日投稿した動画について感想を交えながら振り返っていこうと思います
-
-
-
-
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>inaho_inadumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sm39358449 素材リスト]]></title>
-        <id>https://note.com/futhb3/n/n5322c130f823</id>
-        <link href="https://note.com/futhb3/n/n5322c130f823"/>
-        <updated>2021-09-19T10:42:07.000Z</updated>
-        <summary type="html"><![CDATA[動画→ https://sp.nicovideo.jp/watch/sm39358449
-追記:緋も色じゃん；；；；；；；；；；；；
-続きをみる]]></summary>
-        <author>
-            <name>なー</name>
         </author>
     </entry>
 </feed>
