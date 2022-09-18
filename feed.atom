@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-17T23:04:05.196Z</updated>
+    <updated>2022-09-18T00:17:55.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25457,18 +25457,6 @@ Appアイコン・ウィジェットのデザイン変更
 続きをみる]]></summary>
         <author>
             <name>葉月味</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラーメン食いに行った。]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n4150f69677dd</id>
-        <link href="https://note.com/dou_akagane_cu/n/n4150f69677dd"/>
-        <updated>2021-09-18T11:16:13.000Z</updated>
-        <summary type="html"><![CDATA[久々というか、多分3年ぶりにラーメン食いに行きました。
-理由は勿論「やばいクレーマーのSUSURUTV」とちうかSUSURUTV本家様に影響されて、急にラーメン食いたくなったからですね。
-続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
         </author>
     </entry>
 </feed>
