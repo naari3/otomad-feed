@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-18T16:04:27.319Z</updated>
+    <updated>2022-09-18T17:08:19.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25419,19 +25419,6 @@ Appアイコン・ウィジェットのデザイン変更
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テキスト編シーズン1 （例001〜例010） を振り返る]]></title>
-        <id>https://note.com/dokozonosyake/n/nac47136913e8</id>
-        <link href="https://note.com/dokozonosyake/n/nac47136913e8"/>
-        <updated>2021-09-19T04:12:50.000Z</updated>
-        <summary type="html"><![CDATA[企画「実例に学ぶ音MAD映像の要素」のテキスト編が一旦終了しました。全10回をここで振り返っておきましょう。
-テキスト編テーマカラー: #2180A2 - dark blue
-
-続きをみる]]></summary>
-        <author>
-            <name>しゃけ</name>
         </author>
     </entry>
 </feed>
