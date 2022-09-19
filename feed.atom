@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-19T12:06:14.218Z</updated>
+    <updated>2022-09-19T13:19:05.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ローファイ・ラップ調音MAD合作の振り返り]]></title>
+        <id>hatenablog://entry/4207112889918733101</id>
+        <link href="https://owatax00.hatenablog.com/entry/2022/09/19/220000"/>
+        <updated>2022-09-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日「ローファイ・ラップ調音MAD合作」及び「otomad-groove vol.1」を公開しました。
+ 
+
+
+ 
+ 
+本記事では、上記企画を振り返って色々書いていきたいと思います。
+※この記事は「音MAD Advent Calendar 2022 in Summer」に参加しています。
+ 
+
+
+■企画立案（最初期）
+2022年3月21日に音MAD作者の方々と遊ぶ機会があったのですが、そこで
+　「最近の音MAD合作ってカロリー高いよね」
+　「もっと気楽に参加出来る合作があっても良いと思う(一晩合作みたいな)」
+といった話題が上がりました。
+より高品質な音MADを届けるためにより良いものを作ろうとする姿勢そのものは素晴らしいもので尊重したいと思っています……が、自身が参加したり周囲の話を聞く中で、合作を主催したり参加すること自体がとても大きな負荷となってしまうことを強く感じつつもありました。
+こういった諸問題を解決するため、主催する側も参加する側もあまり負荷が掛からないような合作をしたいと思ったのが本企画を立ち上げるに至った経緯です。
+ 
+ 
+■合作フォーマットについて
+なんか文章堅苦しいな！もっと文体崩して書きます！！！クソ真面目文体だと筆が乗らないのでラフにスパスパ書いてきます。
+ 
+企画立案は前項の通りなんですが、負荷がかからないような合作形態自体は元々自分の中で答えが出てたんですね。
+そう、「台詞イントネーション作曲合作」や「MIXTAPE -ラップ調音MAD-」のフォーマットです。
+ 
+
+ 
+これらに共通するのは
+　「自由曲合作であること」
+　「共通のテーマが存在すること」
+　「提出された単品をDJMIX形式で繋いでいること」
+です。
+ 
+そして上記のフォーマットを用いる最大のメリットは「メンバーの入れ替わりに柔軟に対応出来る」点です。
+「勢いで参加表明しちゃったけ…]]></summary>
+        <author>
+            <name>owatax's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国語なんかできねえよ　動画説明欄]]></title>
         <id>hatenablog://entry/4207112889918701093</id>
@@ -25347,17 +25392,6 @@ Appアイコン・ウィジェットのデザイン変更
 続きをみる]]></summary>
         <author>
             <name>inaho_inadumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夢]]></title>
-        <id>https://note.com/ebideath/n/nbef75d360aac</id>
-        <link href="https://note.com/ebideath/n/nbef75d360aac"/>
-        <updated>2021-09-20T00:43:08.000Z</updated>
-        <summary type="html"><![CDATA[ラーメン屋とゲーセン、近所（具体的には自転車で5分圏内）にできてほしい
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
