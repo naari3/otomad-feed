@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-19T17:12:24.748Z</updated>
+    <updated>2022-09-19T18:06:00.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25373,25 +25373,6 @@ Appアイコン・ウィジェットのデザイン変更
         <summary type="html"><![CDATA[音程ミスサウンドをひらく]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しいヘッドホン！買いました！]]></title>
-        <id>https://note.com/inaho_inadumi/n/n9e75211a64c1</id>
-        <link href="https://note.com/inaho_inadumi/n/n9e75211a64c1"/>
-        <updated>2021-09-20T05:57:01.000Z</updated>
-        <summary type="html"><![CDATA[私事になるのですが先日、初投稿時から愛用していたiPhoneに付属してるapple純正イヤホン君が帰らぬ人となっちゃっいました。
-（しかもちょうどぼくのYoutubeの登録者数が1000人を突破（！）したその日に壊れたというイヤホン君からの何らかのメッセージ性を感じさせる演出付き。）
-
-
-
-
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>inaho_inadumi</name>
         </author>
     </entry>
 </feed>
