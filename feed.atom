@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-19T00:17:03.635Z</updated>
+    <updated>2022-09-19T01:39:14.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25358,17 +25358,6 @@ Appアイコン・ウィジェットのデザイン変更
 続きをみる]]></summary>
         <author>
             <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[note新機能テスト]]></title>
-        <id>https://note.com/ecolidelvsvc11/n/n4e8d0f25050c</id>
-        <link href="https://note.com/ecolidelvsvc11/n/n4e8d0f25050c"/>
-        <updated>2021-09-19T13:06:35.000Z</updated>
-        <summary type="html"><![CDATA[なぽり
-続きをみる]]></summary>
-        <author>
-            <name>DDS</name>
         </author>
     </entry>
 </feed>
