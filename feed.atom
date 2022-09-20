@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-19T23:04:15.300Z</updated>
+    <updated>2022-09-20T00:21:14.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25363,16 +25363,6 @@ Appアイコン・ウィジェットのデザイン変更
 続きをみる]]></summary>
         <author>
             <name>瀬畑 黒</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昨日の続き]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n7ebbabd911d0</id>
-        <link href="https://note.com/dou_akagane_cu/n/n7ebbabd911d0"/>
-        <updated>2021-09-20T12:20:21.000Z</updated>
-        <summary type="html"><![CDATA[音程ミスサウンドをひらく]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
         </author>
     </entry>
 </feed>
