@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-21T03:01:37.911Z</updated>
+    <updated>2022-09-21T04:38:03.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25340,17 +25340,6 @@ javascript:var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=fu
 続きをみる]]></summary>
         <author>
             <name>ふーふー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[しまった]]></title>
-        <id>https://note.com/dou_akagane_cu/n/ne9d4261953bf</id>
-        <link href="https://note.com/dou_akagane_cu/n/ne9d4261953bf"/>
-        <updated>2021-09-21T15:25:10.000Z</updated>
-        <summary type="html"><![CDATA[最悪だ…毎日更新が途切れてしまった…
-続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
         </author>
     </entry>
 </feed>
