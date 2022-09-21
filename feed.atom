@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-21T11:04:21.824Z</updated>
+    <updated>2022-09-21T12:06:14.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#25 9月3週]]></title>
+        <id>hatenablog://entry/4207112889920312304</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/09/21/204654"/>
+        <updated>2022-09-21T11:46:54.000Z</updated>
+        <summary type="html"><![CDATA[まだまだスプラトゥーンが熱い。
+恐らく過去作で未体験のA帯にやってきた。
+今作はやってればウデマエが上がっていくとは言え、結構すんなりA帯に来れて嬉しい。
+ギアもイカ速1.3がもうすぐ完成しそうでいい感じ。ドリンクチケットの効果が凄い。
+ 
+無料公開期間を利用して母親にONEPIECEを勧めていたら、読んでくれていたらしい。
+一応勧めてはいたけど本当に読み始めるとは思ってなかったので意外だった。
+ただ読む速度とか取れる時間的に無料公開を読み逃さずにワノ国まで辿り着くのは無理だと思うので、紙で買って貸すことになりそう。まあ元々買うつもりだったんですけど。
+周りにONEPIECEを語れるほど読んでいる人がいない（そんなことある？）ので、嬉しい。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォーしてくれたら～系のアカウント研究記録（用語編その1）]]></title>
         <id>https://note.com/rubr/n/nc44ddfe950ce</id>
@@ -25328,18 +25346,6 @@ javascript:var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=fu
 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明朝体は面白い]]></title>
-        <id>https://note.com/nanana555/n/n44d8b49030fa</id>
-        <link href="https://note.com/nanana555/n/n44d8b49030fa"/>
-        <updated>2021-09-22T00:03:43.000Z</updated>
-        <summary type="html"><![CDATA[皆さんにとって文字ってなんですか？
-「あ」とか「ア」とか「亜」とかありますけど、面白いって思ったことありますか？
-続きをみる]]></summary>
-        <author>
-            <name>ふーふー</name>
         </author>
     </entry>
 </feed>
