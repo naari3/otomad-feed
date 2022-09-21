@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-21T01:36:06.751Z</updated>
+    <updated>2022-09-21T03:01:37.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25351,18 +25351,6 @@ javascript:var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=fu
 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[しゃけ的 iOS15 細かいところの考察]]></title>
-        <id>https://note.com/dokozonosyake/n/n217abec47529</id>
-        <link href="https://note.com/dokozonosyake/n/n217abec47529"/>
-        <updated>2021-09-21T13:44:10.000Z</updated>
-        <summary type="html"><![CDATA[どうも、iPhoneユーザーのしゃけです。iOS15がリリースとなりました。メジャーな新機能については公式HPやガジェット専門サイト等で特集があるかと思いますので、そういったところで書かれない、自分が気づいた細かいインターフェースの変更点について書いておきます。
-Appアイコン・ウィジェットのデザイン変更
-続きをみる]]></summary>
-        <author>
-            <name>しゃけ</name>
         </author>
     </entry>
 </feed>
