@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-20T23:04:32.743Z</updated>
+    <updated>2022-09-21T00:19:36.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25363,18 +25363,6 @@ Appアイコン・ウィジェットのデザイン変更
 続きをみる]]></summary>
         <author>
             <name>しゃけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新食感チーズデザートもちもちきなこー黒みつ仕立てーもち粉入り]]></title>
-        <id>https://note.com/sehatakuro/n/n541b6d02377d</id>
-        <link href="https://note.com/sehatakuro/n/n541b6d02377d"/>
-        <updated>2021-09-21T11:26:17.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは～～～～～～
-夏も終わりが近づいてもうすぐサカナクションが聞きたくなる季節がやってきますね、どうも瀬畑黒です。
-続きをみる]]></summary>
-        <author>
-            <name>瀬畑 黒</name>
         </author>
     </entry>
 </feed>
