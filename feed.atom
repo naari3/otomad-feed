@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-22T01:35:42.334Z</updated>
+    <updated>2022-09-22T02:57:08.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25335,17 +25335,6 @@ javascript:var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=fu
 こうなっていたら成功。Vivaldi, Firefoxでは動きました。大体合ってるとは思いますが、検証が甘いので目安程度に。そもそも使えなかったら教えて下さい。]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特に…]]></title>
-        <id>https://note.com/dou_akagane_cu/n/ne0305921420e</id>
-        <link href="https://note.com/dou_akagane_cu/n/ne0305921420e"/>
-        <updated>2021-09-22T14:30:52.000Z</updated>
-        <summary type="html"><![CDATA[課題が溜まりに溜まり、爆発寸前です。
-続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
         </author>
     </entry>
 </feed>
