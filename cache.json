@@ -601,20 +601,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/13574176438014685779",
-          "author": null,
-          "description": "自分用に。シロウトのツギハギなのでイケてないコードである可能性が高いですが、動くは動きます。\nvar time = document.getElementsByClassName('NC-VideoLength');\nvar arr = [];\nvar min = sec = 0;\n\nfor (const elem of time) {\n    arr.push(elem.innerHTML.split(':'));\n}\n\nmin = arr.map(x => x[0]).map(str => parseInt(str, 10)).reduce((acc, value) => acc + value);\nsec = arr.map(x => x[1]).map(str => parseInt(str, 10)).reduce((acc, value) => acc + value);\n\nmin = min + Math.floor(sec / 60);\nsec = sec % 60;\n\nalert('Total - ' + min + 'm ' + sec + 's');\n\n\n\n使い方\nマイリストのページを開く。\n上のコードをブラウザのコンソールで実行する。\nあるいは下の変換したコードをブックマークに登録して押す。こっちの方が便利。\njavascript:var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var b=\"undefined\"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return b?b.call(a):$jscomp.arrayIterator(a)}; for(var time=document.getElementsByClassName(\"NC-VideoLength\"),arr=[],min=sec=0,$jscomp$iter$0=$jscomp.makeIterator(time),$jscomp$key$elem=$jscomp$iter$0.next();!$jscomp$key$elem.done;$jscomp$key$elem=$jscomp$iter$0.next()){var elem=$jscomp$key$elem.value;arr.push(elem.innerHTML.split(\":\"))}min=arr.map(function(a){return a[0]}).map(function(a){return parseInt(a,10)}).reduce(function(a,b){return a+b}); sec=arr.map(function(a){return a[1]}).map(function(a){return parseInt(a,10)}).reduce(function(a,b){return a+b});min+=Math.floor(sec/60);sec%=60;alert(\"Total - \"+min+\"m \"+sec+\"s\");\n\nこうなっていたら成功。Vivaldi, Firefoxでは動きました。大体合ってるとは思いますが、検証が甘いので目安程度に。そもそも使えなかったら教えて下さい。",
-          "link": "https://erutufnab.hatenablog.com/entry/2021/09/23/084833",
-          "publishedOn": "2021-09-22T23:48:33.000Z",
-          "wordCount": 157,
-          "title": "ニコニコ動画のマイリストの総再生時間を算出するブックマークレットを作った",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/banfuture/20210923/20210923041935.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },

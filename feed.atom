@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-22T11:04:15.701Z</updated>
+    <updated>2022-09-22T12:06:42.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25300,41 +25300,6 @@ GIMPは切り抜きで使っており、Animazeは直感的に操作できるこ
         <summary type="html"><![CDATA[折角2つも記事思いついたのに、気力がないので休みます。 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ニコニコ動画のマイリストの総再生時間を算出するブックマークレットを作った]]></title>
-        <id>hatenablog://entry/13574176438014685779</id>
-        <link href="https://erutufnab.hatenablog.com/entry/2021/09/23/084833"/>
-        <updated>2021-09-22T23:48:33.000Z</updated>
-        <summary type="html"><![CDATA[自分用に。シロウトのツギハギなのでイケてないコードである可能性が高いですが、動くは動きます。
-var time = document.getElementsByClassName('NC-VideoLength');
-var arr = [];
-var min = sec = 0;
-
-for (const elem of time) {
-    arr.push(elem.innerHTML.split(':'));
-}
-
-min = arr.map(x => x[0]).map(str => parseInt(str, 10)).reduce((acc, value) => acc + value);
-sec = arr.map(x => x[1]).map(str => parseInt(str, 10)).reduce((acc, value) => acc + value);
-
-min = min + Math.floor(sec / 60);
-sec = sec % 60;
-
-alert('Total - ' + min + 'm ' + sec + 's');
-
-
-
-使い方
-マイリストのページを開く。
-上のコードをブラウザのコンソールで実行する。
-あるいは下の変換したコードをブックマークに登録して押す。こっちの方が便利。
-javascript:var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var b="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return b?b.call(a):$jscomp.arrayIterator(a)}; for(var time=document.getElementsByClassName("NC-VideoLength"),arr=[],min=sec=0,$jscomp$iter$0=$jscomp.makeIterator(time),$jscomp$key$elem=$jscomp$iter$0.next();!$jscomp$key$elem.done;$jscomp$key$elem=$jscomp$iter$0.next()){var elem=$jscomp$key$elem.value;arr.push(elem.innerHTML.split(":"))}min=arr.map(function(a){return a[0]}).map(function(a){return parseInt(a,10)}).reduce(function(a,b){return a+b}); sec=arr.map(function(a){return a[1]}).map(function(a){return parseInt(a,10)}).reduce(function(a,b){return a+b});min+=Math.floor(sec/60);sec%=60;alert("Total - "+min+"m "+sec+"s");
-
-こうなっていたら成功。Vivaldi, Firefoxでは動きました。大体合ってるとは思いますが、検証が甘いので目安程度に。そもそも使えなかったら教えて下さい。]]></summary>
-        <author>
-            <name>9つのサボテンが喋った</name>
         </author>
     </entry>
 </feed>

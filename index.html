@@ -33132,56 +33132,9 @@ GIMPは切り抜きで使っており、Animazeは直感的に操作できるこ
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-09-22">2021-09-22</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://erutufnab.hatenablog.com/" target="_blank" rel="noopener">9つのサボテンが喋った</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">ニコニコ動画のマイリストの総再生時間を算出するブックマークレットを作った</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://erutufnab.hatenablog.com/entry/2021/09/23/084833" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>自分用に。シロウトのツギハギなのでイケてないコードである可能性が高いですが、動くは動きます。
-var time &#x3D; document.getElementsByClassName(&#x27;NC-VideoLength&#x27;);
-var arr &#x3D; [];
-var min &#x3D; sec &#x3D; 0;
-
-for (const elem of time) {
-    arr.push(elem.innerHTML.split(&#x27;:&#x27;));
-}
-
-min &#x3D; arr.map(x &#x3D;&gt; x[0]).map(str &#x3D;&gt; parseInt(str, 10)).reduce((acc, value) &#x3D;&gt; acc + value);
-sec &#x3D; arr.map(x &#x3D;&gt; x[1]).map(str &#x3D;&gt; parseInt(str, 10)).reduce((acc, value) &#x3D;&gt; acc + value);
-
-min &#x3D; min + Math.floor(sec / 60);
-sec &#x3D; sec % 60;
-
-alert(&#x27;Total - &#x27; + min + &#x27;m &#x27; + sec + &#x27;s&#x27;);
-
-
-
-使い方
-マイリストのページを開く。
-上のコードをブラウザのコンソールで実行する。
-あるいは下の変換したコードをブックマークに登録して押す。こっちの方が便利。
-javascript:var $jscomp&#x3D;$jscomp||{};$jscomp.scope&#x3D;{};$jscomp.arrayIteratorImpl&#x3D;function(a){var b&#x3D;0;return function(){return b&lt;a.length?{done:!1,value:a[b++]}:{done:!0}}};$jscomp.arrayIterator&#x3D;function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator&#x3D;function(a){var b&#x3D;&quot;undefined&quot;!&#x3D;typeof Symbol&amp;&amp;Symbol.iterator&amp;&amp;a[Symbol.iterator];return b?b.call(a):$jscomp.arrayIterator(a)}; for(var time&#x3D;document.getElementsByClassName(&quot;NC-VideoLength&quot;),arr&#x3D;[],min&#x3D;sec&#x3D;0,$jscomp$iter$0&#x3D;$jscomp.makeIterator(time),$jscomp$key$elem&#x3D;$jscomp$iter$0.next();!$jscomp$key$elem.done;$jscomp$key$elem&#x3D;$jscomp$iter$0.next()){var elem&#x3D;$jscomp$key$elem.value;arr.push(elem.innerHTML.split(&quot;:&quot;))}min&#x3D;arr.map(function(a){return a[0]}).map(function(a){return parseInt(a,10)}).reduce(function(a,b){return a+b}); sec&#x3D;arr.map(function(a){return a[1]}).map(function(a){return parseInt(a,10)}).reduce(function(a,b){return a+b});min+&#x3D;Math.floor(sec/60);sec%&#x3D;60;alert(&quot;Total - &quot;+min+&quot;m &quot;+sec+&quot;s&quot;);
-
-こうなっていたら成功。Vivaldi, Firefoxでは動きました。大体合ってるとは思いますが、検証が甘いので目安程度に。そもそも使えなかったら教えて下さい。</span>
-                  </div>
-                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/banfuture/20210923/20210923041935.png" class="card article-thumbnail" data-enclosure />
-                                  </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-09-22T11:04:15.605Z">2022-09-22T11:04:15.605Z</time>
+    <time id="build-timestamp" datetime="2022-09-22T12:06:42.688Z">2022-09-22T12:06:42.688Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
