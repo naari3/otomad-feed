@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-23T07:14:18.757Z</updated>
+    <updated>2022-09-23T08:05:25.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25315,16 +25315,6 @@ GIMPは切り抜きで使っており、Animazeは直感的に操作できるこ
 モーニング娘。で一番好きな曲、色々考えたけどSEXY BOY～そよ風に…]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7年ぶりにPC組みます]]></title>
-        <id>https://note.com/ebideath/n/n3bee213adc8b</id>
-        <link href="https://note.com/ebideath/n/n3bee213adc8b"/>
-        <updated>2021-09-23T19:55:50.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
