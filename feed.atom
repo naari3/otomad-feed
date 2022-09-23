@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-23T22:04:28.118Z</updated>
+    <updated>2022-09-23T23:04:29.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25274,33 +25274,6 @@ GIMPは切り抜きで使っており、Animazeは直感的に操作できるこ
 続きをみる]]></summary>
         <author>
             <name>プリコネの年末年始はヤバイわよ！</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MADの本人認知と愛と]]></title>
-        <id>https://note.com/dokozonosyake/n/n9fe599dfe786</id>
-        <link href="https://note.com/dokozonosyake/n/n9fe599dfe786"/>
-        <updated>2021-09-24T11:01:50.000Z</updated>
-        <summary type="html"><![CDATA[あまり知らないエリアの話だったので、言えることは少ないですが。
-一件に関してもですが、「音MADで素材への愛を表現しているんだ」とはしばしば聞く言葉です。
-続きをみる]]></summary>
-        <author>
-            <name>しゃけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲテモノ料理を食べた話]]></title>
-        <id>https://note.com/ecolidelvsvc11/n/n41df0d0f8989</id>
-        <link href="https://note.com/ecolidelvsvc11/n/n41df0d0f8989"/>
-        <updated>2021-09-24T10:29:37.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは大腸菌デリバリーサービスと申します。
-先日、冬眠しますさんが大阪にいらっしゃった時にかっぱの誘いで自分となぽりも冬眠しますさんとお会いする事になり、4人で食事をしたりアニメイトに行ったりなぽりの顔面が淫夢ファミリーの微妙にカツアゲ君じゃないヤツに似てると盛り上がったりしてました。
-余談ですが冬眠しますさんが全身オシャレで凄かったです。靴もボトムスもトップスもバッグも髪もめっちゃファッショナブル。
-かっぱは相変わらず全身意味の分からない配色センスの服で気持ち悪かったです。
-そんなオフ会の一環として「爬虫類カフェ」と言う場所に立ち寄った時の話が印象的だったので書いて行きたいと思います。
-続きをみる]]></summary>
-        <author>
-            <name>DDS</name>
         </author>
     </entry>
 </feed>
