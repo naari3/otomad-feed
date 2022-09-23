@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-23T12:06:29.225Z</updated>
+    <updated>2022-09-23T13:18:23.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラウザでニコニコ動画を全コメ表示出来る拡張機能の「コメント増量」を公開しました＆使い方]]></title>
+        <id>https://note.com/tanbatu/n/n3837f4137cd9</id>
+        <link href="https://note.com/tanbatu/n/n3837f4137cd9"/>
+        <updated>2022-09-23T12:17:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、丹波津です。今回はニコニコのコメント数を倍増して表示出来る拡張機能「コメント増量」を制作したのでその紹介と使い方を書こうと思います。
+拡張機能の紹介(雑)
+続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【牛報】イカ淫夢、牛牛]]></title>
         <id>https://note.com/ssaymds/n/n05d6be2cbd63</id>
