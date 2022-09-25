@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-25T00:18:52.489Z</updated>
+    <updated>2022-09-25T01:33:42.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25218,17 +25218,6 @@ GIMPは切り抜きで使っており、Animazeは直感的に操作できるこ
 続きをみる]]></summary>
         <author>
             <name>れでぃば</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[眠い。しばらく寝不足続きだからか…...]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n5e2bf423869a</id>
-        <link href="https://note.com/dou_akagane_cu/n/n5e2bf423869a"/>
-        <updated>2021-09-25T12:36:36.000Z</updated>
-        <summary type="html"><![CDATA[眠い。しばらく寝不足続きだからか…
-なので今日も休みます。 続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
         </author>
     </entry>
 </feed>
