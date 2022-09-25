@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-25T01:33:42.982Z</updated>
+    <updated>2022-09-25T02:58:50.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25206,18 +25206,6 @@ GIMPは切り抜きで使っており、Animazeは直感的に操作できるこ
 おわりです。]]></summary>
         <author>
             <name>若宮イヴだいすきクラブ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.09.25 私記]]></title>
-        <id>https://note.com/readybug_/n/nc6cfca269b99</id>
-        <link href="https://note.com/readybug_/n/nc6cfca269b99"/>
-        <updated>2021-09-25T14:33:09.000Z</updated>
-        <summary type="html"><![CDATA[以前から「れでぃば」という名義を捨てることについて考え続けている。
-細かく言うと、音MAD界隈に居た経歴を隠したい…というか、足を洗ってやり直したい…みたいな、そんな思いがある。
-続きをみる]]></summary>
-        <author>
-            <name>れでぃば</name>
         </author>
     </entry>
 </feed>
