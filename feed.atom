@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-26T09:06:53.767Z</updated>
+    <updated>2022-09-26T10:04:16.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[明日の夕飯これにならないかな]]></title>
+        <id>https://note.com/nendo31/n/n2dbe9fc714d2</id>
+        <link href="https://note.com/nendo31/n/n2dbe9fc714d2"/>
+        <updated>2022-09-26T09:58:05.000Z</updated>
+        <summary type="html"><![CDATA[300万円獲得したわよ
+続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映像リファレンス記録ツールとしてのNotionの活用方法]]></title>
+        <id>hatenablog://entry/4207112889921980949</id>
+        <link href="https://taiuo443.hatenablog.com/entry/2022/09/26/184130"/>
+        <updated>2022-09-26T09:41:30.000Z</updated>
+        <summary type="html"><![CDATA[皆さん、Notion（ノーション）をご存知でしょうか。
+通話でこれを聞いても、「知らない」「聞いたことはある」くらいの反応か、もしくは「ノーション！？」と聞き返されてしまうことが多かったです。
+
+ 
+しかし、使いこなせるようになるとスーパー便利ツールなので、紹介記事を書くことにしました。
+Notionユーザーが増えると、色々と話が早くなるのでできるだけ普及させたいなあという個人的な思いがあります。
+10月4日に投稿予定の咲合作2でもスプレッドシートの代わりに、Notionを使って進行されていました。めっちゃ便利です！
+www.nicovideo.jp
+音MADラジオの公式サイトもNotionで作成されていますね。
+otomad.notion.site
+ 
+ 
+上記の例を含めて用途は多岐に渡り、それをすべて書くととっても大変なので、
+今回は映像リファレンスを記録するツールとしての使い方を紹介します！
+ 
+ 
+手順
+ワークスペースを作成
+映像リファレンス用のページを作成
+データベースを作成
+拡張機能Save to Notionを使って動画をデータベースに追加
+データベースの内容をカスタマイズ
+ 
+1.ワークスペースを作成
+まずはアカウントを作成して、ワークスペースを作成するところまでやってみましょう。
+ワークスペースとはNotionのページ管理の最上位層です。
+今回は個人的に使用するアーカイブ用のワークスペースを作成します。
+細かいことはあんまり気にしないでください。
+気をつけた方がいいのは、合作とかのプロジェクトを立ち上げる際にはワークスペースは分けておいた方がいいです。
+ 
+それでは、アカウントを作成しましょう。
+
+www.notion.so
+どんどん進めてください。
+以下の画面まできたら、右側の自分のためにを選択。
+
+
+
+余談ですが、プロジェクトで使用する時もチームと一緒…]]></summary>
+        <author>
+            <name>ユッ記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[昔の話を少し]]></title>
         <id>https://note.com/readybug_/n/na157a066bc55</id>
