@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-26T01:36:06.210Z</updated>
+    <updated>2022-09-26T03:00:13.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25106,16 +25106,6 @@ https://www.nicovideo.jp/watch/sm31876801
         <updated>2021-09-27T08:24:23.000Z</updated>
         <summary type="html"><![CDATA[私のツイートがパクツイされてると、グループLINEで聞きました。
 ネタが欲しいなら提供するから連絡ください。 続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[課題が終わらん]]></title>
-        <id>https://note.com/dou_akagane_cu/n/nc23782fbf6ff</id>
-        <link href="https://note.com/dou_akagane_cu/n/nc23782fbf6ff"/>
-        <updated>2021-09-26T14:25:11.000Z</updated>
-        <summary type="html"><![CDATA[課題が終わらん 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
         </author>
