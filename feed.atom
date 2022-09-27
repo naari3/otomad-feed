@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-27T10:05:38.299Z</updated>
+    <updated>2022-09-27T11:04:25.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[柴田元ネタ解説をやろうと考えてる]]></title>
+        <id>https://note.com/nendo31/n/n7eea5a1cfd12</id>
+        <link href="https://note.com/nendo31/n/n7eea5a1cfd12"/>
+        <updated>2022-09-27T10:31:28.000Z</updated>
+        <summary type="html"><![CDATA[柴田元ネタ解説をやろうと考えてる 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黒塗り政界宛て書簡 編集後記的な。]]></title>
+        <id>https://note.com/garech/n/n0dbd0fc2ca9c</id>
+        <link href="https://note.com/garech/n/n0dbd0fc2ca9c"/>
+        <updated>2022-09-27T10:08:18.000Z</updated>
+        <summary type="html"><![CDATA[今更感半端ないですね………。（投稿から２ヶ月以上経過）
+皆さま、沢山の再生・広告・いいねマイリス高評価ありがとうございます。まさかここまで伸びるとは思っていませんでした。曲名タグの再生数の多い順で、検索欄の上位にいることにビックリしたのを覚えています。
+この記事では単純に、上記動画のネタや歌詞改変について語っていきます。なお音声/映像技術に関しては深く語りません。軽く触れる程度になります。
+続きをみる]]></summary>
+        <author>
+            <name>Garech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#26 9月4週]]></title>
         <id>hatenablog://entry/4207112889922250100</id>
