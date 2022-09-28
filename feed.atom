@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-28T01:36:01.398Z</updated>
+    <updated>2022-09-28T02:58:01.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25185,17 +25185,6 @@ https://www.nicovideo.jp/watch/sm31876801
 続きをみる]]></summary>
         <author>
             <name>かっぱ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外汁寺]]></title>
-        <id>https://note.com/tojiru/n/nda5aa1c6428f</id>
-        <link href="https://note.com/tojiru/n/nda5aa1c6428f"/>
-        <updated>2021-09-28T13:44:17.000Z</updated>
-        <summary type="html"><![CDATA[賽銭欲しすぎだろ…
-続きをみる]]></summary>
-        <author>
-            <name>とじーら</name>
         </author>
     </entry>
 </feed>
