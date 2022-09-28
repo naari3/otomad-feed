@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-28T22:04:07.640Z</updated>
+    <updated>2022-09-28T23:04:21.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25241,19 +25241,6 @@ https://www.nicovideo.jp/watch/sm31876801
 続きをみる]]></summary>
         <author>
             <name>オンモコスブ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近好きな音MADについて綴るだけのnote]]></title>
-        <id>https://note.com/klunakapa/n/nd368c9f12344</id>
-        <link href="https://note.com/klunakapa/n/nd368c9f12344"/>
-        <updated>2021-09-29T10:53:42.000Z</updated>
-        <summary type="html"><![CDATA[ただ単純に文章書きたい欲が溜まったので書くだけです
-不沈艦前夜
-
-続きをみる]]></summary>
-        <author>
-            <name>かっぱ</name>
         </author>
     </entry>
 </feed>
