@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-29T21:04:09.223Z</updated>
+    <updated>2022-09-29T22:04:33.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25215,18 +25215,6 @@ https://www.nicovideo.jp/watch/sm31876801
 続きをみる]]></summary>
         <author>
             <name>れでぃば</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[着地点がない日記的ななにか]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n8c4aeddf14d6</id>
-        <link href="https://note.com/dou_akagane_cu/n/n8c4aeddf14d6"/>
-        <updated>2021-09-30T09:47:11.000Z</updated>
-        <summary type="html"><![CDATA[普段は変なかしこまった記事(たまに使い方間違えてるし)ばっか書いてますが、久しぶりに超雑、語彙力0の記事を書こうと思います。
-最近はというか、ここ数ヶ月の間は外食もラーメン1回だけで、皆さんのように遠出やら高級なもの買ったりとかはできていません。年齢ってのもあるが。
-続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
         </author>
     </entry>
 </feed>
