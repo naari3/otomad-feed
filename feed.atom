@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-28T23:04:21.547Z</updated>
+    <updated>2022-09-29T00:24:25.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25229,18 +25229,6 @@ https://www.nicovideo.jp/watch/sm31876801
 ※課題は終わってます。 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【極秘】うまい飯超極秘裏テク]]></title>
-        <id>https://note.com/onmokosub/n/n3ae7d8bf3ecd</id>
-        <link href="https://note.com/onmokosub/n/n3ae7d8bf3ecd"/>
-        <updated>2021-09-29T11:11:48.000Z</updated>
-        <summary type="html"><![CDATA[知ってるテクニックがあったらtwitterで共有してね！
-・揚げ物を酢につけるとうまい
-続きをみる]]></summary>
-        <author>
-            <name>オンモコスブ</name>
         </author>
     </entry>
 </feed>
