@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-09-30T01:39:04.469Z</updated>
+    <updated>2022-09-30T03:01:36.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25202,19 +25202,6 @@ https://www.nicovideo.jp/watch/sm31876801
 それを今から終わらせます。 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実は僕って幸せ者なんじゃないかという自分語り]]></title>
-        <id>https://note.com/readybug_/n/n62eae01495fc</id>
-        <link href="https://note.com/readybug_/n/n62eae01495fc"/>
-        <updated>2021-09-30T15:00:44.000Z</updated>
-        <summary type="html"><![CDATA[自分が何かに興味を持ってそれを深く掘り下げる時、「いずれは自分自身が実行/入手できるようになりたい」という思いがあることに気付いた。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>れでぃば</name>
         </author>
     </entry>
 </feed>
