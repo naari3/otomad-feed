@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-01T17:09:36.805Z</updated>
+    <updated>2022-10-01T18:04:29.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25276,43 +25276,6 @@ noteのカスタマイズ性のなさに絶望しています。
 続きをみる]]></summary>
         <author>
             <name>かすてら</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自転車泥棒合作2021　残酷な天使のテーゼパート㊙情報]]></title>
-        <id>https://note.com/binetsu0904/n/n68167418907a</id>
-        <link href="https://note.com/binetsu0904/n/n68167418907a"/>
-        <updated>2021-10-02T05:34:01.000Z</updated>
-        <summary type="html"><![CDATA[『ダメよ～国民的アニメなんて【自転車泥棒合作2021】』の
-残酷な天使のテーゼパートで
-
-続きをみる]]></summary>
-        <author>
-            <name>微熱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エルシャダイ合作制作後記]]></title>
-        <id>https://note.com/binetsu0904/n/ne5b96eec454e</id>
-        <link href="https://note.com/binetsu0904/n/ne5b96eec454e"/>
-        <updated>2021-10-02T05:29:34.000Z</updated>
-        <summary type="html"><![CDATA[主催の神酒さんが制作後記を書いていたので僕も書いてみます。
-続きをみる]]></summary>
-        <author>
-            <name>微熱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Aviutl】3年目にして今更だけど、カラオケスクリプトバグってたから更新した【スクリプト配布】]]></title>
-        <id>https://note.com/binetsu0904/n/n1a85a6d032e6</id>
-        <link href="https://note.com/binetsu0904/n/n1a85a6d032e6"/>
-        <updated>2021-10-02T05:09:28.000Z</updated>
-        <summary type="html"><![CDATA[お世話になっております。微熱です。
-2017年9月に投稿したAviUtlの簡易カラオケスクリプトですが、変化前のテキストの色が変えられず、白字に黒縁取り固定という致命的な不具合があったので、変化前のテキストの色を変えられるように修正しました。下の動画の説明文にあるリンクからダウンロードしてください。
-https://www.nicovideo.jp/watch/sm31876801
-続きをみる]]></summary>
-        <author>
-            <name>微熱</name>
         </author>
     </entry>
 </feed>
