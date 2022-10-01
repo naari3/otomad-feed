@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-01T16:04:29.388Z</updated>
+    <updated>2022-10-01T17:09:36.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25310,19 +25310,6 @@ noteのカスタマイズ性のなさに絶望しています。
         <summary type="html"><![CDATA[お世話になっております。微熱です。
 2017年9月に投稿したAviUtlの簡易カラオケスクリプトですが、変化前のテキストの色が変えられず、白字に黒縁取り固定という致命的な不具合があったので、変化前のテキストの色を変えられるように修正しました。下の動画の説明文にあるリンクからダウンロードしてください。
 https://www.nicovideo.jp/watch/sm31876801
-続きをみる]]></summary>
-        <author>
-            <name>微熱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エルシャダイMAD史]]></title>
-        <id>https://note.com/binetsu0904/n/n73f41e91c6fb</id>
-        <link href="https://note.com/binetsu0904/n/n73f41e91c6fb"/>
-        <updated>2021-10-02T05:08:08.000Z</updated>
-        <summary type="html"><![CDATA[この記事は 音MAD Advent Calender 2018 に参加しています。3日目です。
-こんにちは、微熱です。日々面白いことを追求しています。
-最近こんな音MADを投稿しましたので、見て。
 続きをみる]]></summary>
         <author>
             <name>微熱</name>
