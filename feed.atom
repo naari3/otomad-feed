@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-01T00:25:10.946Z</updated>
+    <updated>2022-10-01T01:35:20.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「音MAD」と一緒に使用されやすいタグを集計した]]></title>
+        <id>hatenablog://entry/4207112889920690290</id>
+        <link href="https://naari.hatenablog.com/entry/2022/10/01/094807"/>
+        <updated>2022-10-01T00:48:07.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MAD Advent Calendar 2022 in Summerの29日目の記事です。
+この記事は前回の記事のアップデート的な立ち位置でもあるので、もしよければ前回のものから見てもらえると嬉しいです↓
+naari.hatenablog.com
+で、前回の記事を出した後、くらっちさんからこのような反応をいただいた。
+
+相互情報量とかを計算すると、「音MADだけで流行っているタグ」が得られて面白いかも？ https://t.co/elvraNljgc
+— ♪くらっち♪ (@kuratti2525) 2022年8月14日
+  
+ので、これをやってみる。
+まず、相互情報量とは？
+硬いことはWikipediaに尋ねてもらって、今回はやわらかく説明する。今回においては２つのタグがお互いに影響を与える量のことで、特定の２つのタグの結びつき度合いとも言えそう。この数字が高ければ高いほど、２つのタグの関係性が高いと言える。ここでは音MADというタグは固定で、音MADと一緒に使われるタグの相互情報量を算出する。
+例えば Z会 + 音MAD と、ゲーム + 音MAD の場合、Z会 の方が 音MAD との依存度が高いことが予想でき、両者の相互情報量を比べると Z会 + 音MAD の方が高いはず。
+今回は音MADと共に使われた全てのタグの相互情報量を算出した。
+具体的な話については以下を参照。くらっちさんのDMに尋ねに行った時、このように教えてもらいました。（くらっちさんが言うには「個人の見解なので、用語や概念の正確性は保証しかねます」とのことでした！）
+▶クリックで展開
+
+
+
+
+ gist.github.com
+
+
+
+くらっちさんに助けてもらった
+この直上のDMでのメッセージを読めば分かる通り、相互情報量については大部分をくらっちさんに教えてもらった。最初はこのページを参考に、月裏…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.09.30 実は今Twitterにアクセス出来ないようにしてるんだけど、ブログの更新通知を使えば間接的にツイート出来る気がするのでテスト]]></title>
         <id>hatenablog://entry/4207112889923416503</id>

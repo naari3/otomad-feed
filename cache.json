@@ -5560,6 +5560,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889920690290",
+          "author": null,
+          "description": "この記事は音MAD Advent Calendar 2022 in Summerの29日目の記事です。\nこの記事は前回の記事のアップデート的な立ち位置でもあるので、もしよければ前回のものから見てもらえると嬉しいです↓\nnaari.hatenablog.com\nで、前回の記事を出した後、くらっちさんからこのような反応をいただいた。\n\n相互情報量とかを計算すると、「音MADだけで流行っているタグ」が得られて面白いかも？ https://t.co/elvraNljgc\n— ♪くらっち♪ (@kuratti2525) 2022年8月14日\n  \nので、これをやってみる。\nまず、相互情報量とは？\n硬いことはWikipediaに尋ねてもらって、今回はやわらかく説明する。今回においては２つのタグがお互いに影響を与える量のことで、特定の２つのタグの結びつき度合いとも言えそう。この数字が高ければ高いほど、２つのタグの関係性が高いと言える。ここでは音MADというタグは固定で、音MADと一緒に使われるタグの相互情報量を算出する。\n例えば Z会 + 音MAD と、ゲーム + 音MAD の場合、Z会 の方が 音MAD との依存度が高いことが予想でき、両者の相互情報量を比べると Z会 + 音MAD の方が高いはず。\n今回は音MADと共に使われた全てのタグの相互情報量を算出した。\n具体的な話については以下を参照。くらっちさんのDMに尋ねに行った時、このように教えてもらいました。（くらっちさんが言うには「個人の見解なので、用語や概念の正確性は保証しかねます」とのことでした！）\n▶クリックで展開\n\n\n\n\n gist.github.com\n\n\n\nくらっちさんに助けてもらった\nこの直上のDMでのメッセージを読めば分かる通り、相互情報量については大部分をくらっちさんに教えてもらった。最初はこのページを参考に、月裏…",
+          "link": "https://naari.hatenablog.com/entry/2022/10/01/094807",
+          "publishedOn": "2022-10-01T00:48:07.000Z",
+          "wordCount": 369,
+          "title": "「音MAD」と一緒に使用されやすいタグを集計した",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/4207112889912879399",
           "author": null,
           "description": "tl; dr\nレジストリの HKEY_LOCAL_MACHINE\\SOFTWARE\\VST にある VSTPluginsPath を変更する\n経緯\nVST2とVST3はおおよそデフォルトのインストール先が決まっている。\nVST2*1: C:\\ProgramFiles\\Steinberg\\VSTPlugins\nVST3: C:\\Program Files\\Common Files\\VST3\nVST2とVST3のインストール先が結構遠いことが少し嫌で、自分はVST2のインストール先ディレクトリを C:\\Program Files\\Common Files\\VST2 に変更している。が、インストーラーを立ち上げる度に毎回ここを触るのが面倒だったり、そもそもインストーラーがVST2のインストール先を変更させてくれない例なんかもある。\nこんな話をしていたら、さっき月裏さんに「レジストリを変更するとデフォルトのインストール先を変えることができる」と教えてもらった。速攻で設定したのでブログにも書いておく。\n変更する\ntl;drにも書いたけど、HKEY_LOCAL_MACHINE\\SOFTWARE\\VST にある VSTPluginsPath を変更することで対応可能。こんな感じ↓\n\nもしかしたら、行儀の悪いインストーラーはこれを見てくれないかもしれないけど、そういった場合はどちらにせよ自分の手でどうにかする必要がある。だいたいのケースはこれによって解決された、と信じている。\n*1:違う場合もあるらしいが。",
