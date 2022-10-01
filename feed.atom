@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-01T19:05:36.611Z</updated>
+    <updated>2022-10-01T20:04:11.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25248,21 +25248,6 @@ realesrgan-ncnn-vulkan.exe -i インプットフォルダのパス -o アウト�
         <summary type="html"><![CDATA[今週終わったあああああ 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[windows10 デスクトップとダウンロードフォルダをPC起動時に自動で空にする]]></title>
-        <id>https://note.com/ebideath/n/nf7f6646d3f46</id>
-        <link href="https://note.com/ebideath/n/nf7f6646d3f46"/>
-        <updated>2021-10-02T07:17:30.000Z</updated>
-        <summary type="html"><![CDATA[デスクトップ上が散らかってるとwindowsが重くなるって友達に聞いた（実際そうかは調べてない）ので定期的に手動で片付けてるんだけど、
-いい加減めんどくさいのでpowershellで自動化する
-１． ここを参考に powershellのポリシーをRemoteSignedに変更する（初回のみ）
-自分の環境の場合なぜかうまく行かなかったので
-windowsメニューからpowershellを管理者権限で開いて以下入力でできた
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>

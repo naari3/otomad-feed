@@ -10243,15 +10243,6 @@
           "publishedOn": "2021-10-20T06:57:27.000Z",
           "wordCount": 39,
           "title": "無職！"
-        },
-        {
-          "id": "https://note.com/ebideath/n/nf7f6646d3f46",
-          "author": null,
-          "description": "デスクトップ上が散らかってるとwindowsが重くなるって友達に聞いた（実際そうかは調べてない）ので定期的に手動で片付けてるんだけど、\nいい加減めんどくさいのでpowershellで自動化する\n１． ここを参考に powershellのポリシーをRemoteSignedに変更する（初回のみ）\n自分の環境の場合なぜかうまく行かなかったので\nwindowsメニューからpowershellを管理者権限で開いて以下入力でできた\n続きをみる",
-          "link": "https://note.com/ebideath/n/nf7f6646d3f46",
-          "publishedOn": "2021-10-02T07:17:30.000Z",
-          "wordCount": 77,
-          "title": "windows10 デスクトップとダウンロードフォルダをPC起動時に自動で空にする"
         }
       ]
     },
