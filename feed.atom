@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-01T13:17:50.021Z</updated>
+    <updated>2022-10-01T14:06:42.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25326,18 +25326,6 @@ https://www.nicovideo.jp/watch/sm31876801
 続きをみる]]></summary>
         <author>
             <name>微熱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9月の消費コンテンツ]]></title>
-        <id>https://note.com/onmokosub/n/na7ccf967742b</id>
-        <link href="https://note.com/onmokosub/n/na7ccf967742b"/>
-        <updated>2021-10-02T01:31:18.000Z</updated>
-        <summary type="html"><![CDATA[ちなみにクレしんは観てないです
-今月あんまりアニメ観なさすぎて焦ってる。先月から消費し終わったコンテンツだけ書くことにしたんだけど、今月はアニメの二週目とか本読んだり他のことに集中して時間を使うことが多かった気がする。10月はアニメ観たいなー。
-続きをみる]]></summary>
-        <author>
-            <name>オンモコスブ</name>
         </author>
     </entry>
 </feed>
