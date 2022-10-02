@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-02T20:04:31.597Z</updated>
+    <updated>2022-10-02T21:04:10.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25177,17 +25177,6 @@ realesrgan-ncnn-vulkan.exe -i インプットフォルダのパス -o アウト�
         <summary type="html"><![CDATA[今日も休みです。特にないし 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破壊]]></title>
-        <id>https://note.com/onmokosub/n/n19db8a2b2819</id>
-        <link href="https://note.com/onmokosub/n/n19db8a2b2819"/>
-        <updated>2021-10-03T08:17:30.000Z</updated>
-        <summary type="html"><![CDATA[破壊
-続きをみる]]></summary>
-        <author>
-            <name>オンモコスブ</name>
         </author>
     </entry>
 </feed>
