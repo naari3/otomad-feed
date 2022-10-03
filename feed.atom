@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-03T17:16:43.914Z</updated>
+    <updated>2022-10-03T18:09:43.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PS4を分解清掃した]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-105.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-105.html"/>
+        <updated>2022-10-03T18:06:13.000Z</updated>
+        <summary type="html"><![CDATA[時の話]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[胸を内側から灼き尽くす呪いにかけら...]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n66c0ee9f8534</id>
