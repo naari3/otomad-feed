@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-04T01:34:13.564Z</updated>
+    <updated>2022-10-04T02:49:10.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25177,18 +25177,6 @@ realesrgan-ncnn-vulkan.exe -i インプットフォルダのパス -o アウト�
         <summary type="html"><![CDATA[無事に高校生活を送れて、なんとか高2の10月まできましたが…相変わらず肩身の狭い生活です。
 そりゃ1.5年間、友達ほぼ作らず生活したらそうなりますよね。悲しいです。高1の段階で青春をTwitterに捧げてたのが問題ですね。
 続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いつになったら書くのか…
-今週絶対...]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n9398e8be3d7b</id>
-        <link href="https://note.com/dou_akagane_cu/n/n9398e8be3d7b"/>
-        <updated>2021-10-04T14:05:37.000Z</updated>
-        <summary type="html"><![CDATA[いつになったら書くのか…
-今週絶対1本上げます 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
         </author>
