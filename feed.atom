@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-05T19:10:36.250Z</updated>
+    <updated>2022-10-05T20:04:23.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25225,20 +25225,6 @@ realesrgan-ncnn-vulkan.exe -i インプットフォルダのパス -o アウト�
 続きをみる]]></summary>
         <author>
             <name>梅晞あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【note移植版】超高校級のほぼ日MAD作者が選ぶ今年の超高校級のほぼ日MAD10選 2020]]></title>
-        <id>https://note.com/mega1617/n/ne86906c96630</id>
-        <link href="https://note.com/mega1617/n/ne86906c96630"/>
-        <updated>2021-10-06T07:39:27.000Z</updated>
-        <summary type="html"><![CDATA[※こちらは以前ブロマガに投稿した記事を、ブロマガサービス終了に備えてnote用に書き直したものです。 その為、元記事と多少の差異がある場合がございます。
-
-元記事【https://ch.nicovideo.jp/megakmegak/blomaga/ar1980293】　　　投稿日 2020-12-31 01:21 
-
-続きをみる]]></summary>
-        <author>
-            <name>mega(目が)</name>
         </author>
     </entry>
 </feed>
