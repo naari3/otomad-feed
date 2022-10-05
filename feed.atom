@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-05T20:04:23.919Z</updated>
+    <updated>2022-10-05T21:04:20.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25213,18 +25213,6 @@ realesrgan-ncnn-vulkan.exe -i インプットフォルダのパス -o アウト�
 今後ともよろしくおねがいします。]]></summary>
         <author>
             <name>麦帳 2冊目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毎日更新辞めます]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n7e0266042449</id>
-        <link href="https://note.com/dou_akagane_cu/n/n7e0266042449"/>
-        <updated>2021-10-06T08:12:24.000Z</updated>
-        <summary type="html"><![CDATA[もうまともな更新ができてない以上、毎日更新の意味は無いということでやめます。
-えー、本日試験が返却されました。その内数学ですが…あんまり良くないですね。
-続きをみる]]></summary>
-        <author>
-            <name>梅晞あかがね</name>
         </author>
     </entry>
 </feed>
