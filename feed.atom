@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-05T03:33:15.049Z</updated>
+    <updated>2022-10-05T04:19:55.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#27 9月5週]]></title>
+        <id>hatenablog://entry/4207112889924272890</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/10/05/124059"/>
+        <updated>2022-10-05T03:40:59.000Z</updated>
+        <summary type="html"><![CDATA[久々に音MADを投稿した。7ヶ月ぶり？
+また別で記事を書くかも。
+ 
+無料公開やってたので、ヒロアカを読み始めた。
+ジャンプの定期購読を始めた頃にはヒロアカはもう始まっていたが、無料公開分＋ジャンプ過去アーカイブ遡りで最新話まで追い付けるらしい。
+折角だしちょこちょこ今後の予想を立てながら読んでいた。東京ホテイソンみたいに。
+エンデヴァーがデクの父親だと思ったんだけど、だいぶ序盤で違った。また何か気付けばどこかで言おうかな。
+ 
+日曜夜、凱旋門賞を観た。
+JRAより海外のブックメーカーの方が日本馬のオッズが高い、という情報を発走3時間前くらいに知った。
+元々応援の意味も込めて日本馬しか買うつもりなかったので、オッズ高い方がいいな、と思って海外のブックメーカーから賭けることにした。
+が、主要2サイトの入金方法が尽く使えず、諦めかけていたが、割と時間ギリギリで辿り着いたSportsbet.ioは銀行からの入金がすぐ使えたので助かった。ステマじゃないよ。
+元々1000円くらいのつもりだったので入金の下限が8000円で悩んだが、JRAとのオッズの差に目が眩んだ。まあ今回は小額賭けて次の海外競馬まで置いときゃいいか〜、とかも思ってた。
+操作ミスったりなんやかんやあって結局8000円全部突っ込んだ。ディープボンドが勝ったら10万勝ちすることになっていた。
+結果は知っての通りです。高配当を追い求めた結果予定の8倍負けた。故事成語の元となったエピソード？]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[きんいろモザイク]]></title>
         <id>https://note.com/kari_yadokari/n/n0187c5167f8f</id>
