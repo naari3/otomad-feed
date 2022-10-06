@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-06T20:04:43.669Z</updated>
+    <updated>2022-10-06T21:04:33.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25229,16 +25229,6 @@ realesrgan-ncnn-vulkan.exe -i インプットフォルダのパス -o アウト�
 続きをみる]]></summary>
         <author>
             <name>粘土31号</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ご報告】ニコメド/音MAD周辺のブロマガ収集の結果について]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-72.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-72.html"/>
-        <updated>2021-10-07T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[去る10/7の15:20頃、ニコニコのユーザーブロマガサービスが終了しました。かなしいねということで当方で今年の4月から行っていたブロマガのローカル保存、並びにそれに付随する諸々についてのご報告を行います。また、情報提供等ご協力くださいましたすべての皆様にこの場を借りて御礼申し上げます、本当にありがとうございました！]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
 </feed>
