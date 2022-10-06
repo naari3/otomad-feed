@@ -5537,21 +5537,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/13574176438019738057",
-          "author": null,
-          "description": "当ブログに足を運んでいただき、ありがとうございます。\n音MAD作者を（かろうじて）やっている麦畑です。\n \nこの度、ニコニコさんから提供されていたユーザーブロマガ機能がサービス終了するということで、今後ははてなブログさんにて私的MADの素材一覧などの記事を投稿します。\n \nこの前段階として、記事のインポート機能を用いて過去作の素材一覧記事を一部を除き移植してきました。また、今後はニコ・つべ双方に記載していた素材一覧へのリンクの置き換えを行います。\n一時的に動画から素材一覧が閲覧できない状況が発生しますが、ご了承ください。\n【2021/10/07追記】現在は確認したすべてのリンクをはてブロに移植したものに張り替えています。ユーザーブロマガ、世話になったな！\n \n今後ともよろしくおねがいします。",
-          "link": "https://mugibata34.hatenablog.com/entry/2021/10/06/202328",
-          "publishedOn": "2021-10-06T11:23:28.000Z",
-          "wordCount": 73,
-          "title": "はてなブログ移行のお話",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
