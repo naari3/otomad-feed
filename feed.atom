@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-07T22:04:41.566Z</updated>
+    <updated>2022-10-07T23:04:52.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25206,21 +25206,6 @@ realesrgan-ncnn-vulkan.exe -i インプットフォルダのパス -o アウト�
 2021年10月6日]]></summary>
         <author>
             <name>ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みなさんこんにちは！]]></title>
-        <id>https://note.com/onmokosub/n/nd7adce70c661</id>
-        <link href="https://note.com/onmokosub/n/nd7adce70c661"/>
-        <updated>2021-10-08T10:46:00.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは！
-虹ヶ咲学園スクールアイドル同好会の優木せつ菜です！！
-今日は歴史を語れ寝屋川にお邪魔しています！あっ、かすみさん！！そんな食べ方では皆さんに「大好き」は届きませんよ！見ていてください！！
-いきますよお！！
-ｽﾞｽﾞｽﾞ…ｽﾞﾎﾞﾎﾞﾎﾞﾎﾞｯｯｯｯ!!!!ｺﾞﾎｯｯ
-続きをみる]]></summary>
-        <author>
-            <name>オンモコスブ</name>
         </author>
     </entry>
 </feed>
