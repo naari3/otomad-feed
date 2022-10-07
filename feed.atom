@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-07T09:07:15.974Z</updated>
+    <updated>2022-10-07T10:05:47.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[検索してはいけない都市伝説]]></title>
+        <id>https://note.com/ssaymds/n/n51e6276cf75b</id>
+        <link href="https://note.com/ssaymds/n/n51e6276cf75b"/>
+        <updated>2022-10-07T09:10:34.000Z</updated>
+        <summary type="html"><![CDATA[羽入りもえっちする時はあうあう言うんだよ
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ておつく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.48　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
         <id>hatenablog://entry/4207112889925078846</id>
