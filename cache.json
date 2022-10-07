@@ -14746,6 +14746,16 @@
       "siteUrl": "https://ytpmv.info",
       "articles": [
         {
+          "id": "https://ytpmv.info/?p=1308",
+          "author": "maimai",
+          "description": "要旨 機械学習を用いたボーカル除去ソフト「Ultimate Vocal Remover」導入方法・使用方法を解説した上で、いくつかの学習モデルを用い複数条件でボーカル抽出を行い、ボーカル抽出に適したモデル・設定を追求した […]\nThe post AIボーカル除去・抽出ソフト 「Ultimate Vocal Remover」の使い方と最良設定について first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/how-to-use-uvr/",
+          "publishedOn": "2022-10-07T15:41:01.000Z",
+          "wordCount": 861,
+          "title": "AIボーカル除去・抽出ソフト 「Ultimate Vocal Remover」の使い方と最良設定について",
+          "imageUrl": "https://ytpmv.info/wp-content/uploads/2022/10/2022-10-08_002924.png"
+        },
+        {
           "id": "https://ytpmv.info/?p=1264",
           "author": "maimai",
           "description": "多数の形式の出力に対応したAviutlの出力プラグイン「ffmpegOUT」の導入方法から使用法、詳しい設定まで幅広く解説します。\nThe post Aviutl最強の(?)出力プラグイン「ffmpegOut」の使い方 first appeared on YTPMV.info.",

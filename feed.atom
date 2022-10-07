@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-07T15:05:58.016Z</updated>
+    <updated>2022-10-07T16:06:43.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIボーカル除去・抽出ソフト 「Ultimate Vocal Remover」の使い方と最良設定について]]></title>
+        <id>https://ytpmv.info/?p=1308</id>
+        <link href="https://ytpmv.info/how-to-use-uvr/"/>
+        <updated>2022-10-07T15:41:01.000Z</updated>
+        <summary type="html"><![CDATA[要旨 機械学習を用いたボーカル除去ソフト「Ultimate Vocal Remover」導入方法・使用方法を解説した上で、いくつかの学習モデルを用い複数条件でボーカル抽出を行い、ボーカル抽出に適したモデル・設定を追求した […]
+The post AIボーカル除去・抽出ソフト 「Ultimate Vocal Remover」の使い方と最良設定について first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[検索してはいけない都市伝説]]></title>
         <id>https://note.com/ssaymds/n/n51e6276cf75b</id>
