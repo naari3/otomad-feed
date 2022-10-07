@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-06T23:04:41.961Z</updated>
+    <updated>2022-10-07T00:25:03.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25217,18 +25217,6 @@ realesrgan-ncnn-vulkan.exe -i インプットフォルダのパス -o アウト�
 ブロマガのリンクは全てInternet Archiveになっています。]]></summary>
         <author>
             <name>muneo house information</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柴田理恵さんのメガネは実は本体だった！？徹底調査！]]></title>
-        <id>https://note.com/nendo31/n/n5229eb3771c1</id>
-        <link href="https://note.com/nendo31/n/n5229eb3771c1"/>
-        <updated>2021-10-07T12:10:17.000Z</updated>
-        <summary type="html"><![CDATA[noteをご覧の皆様、粘土理恵です。
-突然ですがあなたは柴田さんのメガネを知っていますか？
-続きをみる]]></summary>
-        <author>
-            <name>粘土31号</name>
         </author>
     </entry>
 </feed>
