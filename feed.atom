@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-08T14:07:12.114Z</updated>
+    <updated>2022-10-08T15:04:24.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キングオブコント決勝の各組感想]]></title>
+        <id>https://note.com/ssaymds/n/n90b428f71335</id>
+        <link href="https://note.com/ssaymds/n/n90b428f71335"/>
+        <updated>2022-10-08T14:30:47.000Z</updated>
+        <summary type="html"><![CDATA[ちなみに事前の予想は
+1位いぬ
+2位ネルソンズ
+3位ビスケットブラザーズ
+さてどうなったのか
+続きをみる]]></summary>
+        <author>
+            <name>ておつく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[見た2022年夏アニメ]]></title>
+        <id>https://note.com/binetsu0904/n/n724f0b2bc260</id>
+        <link href="https://note.com/binetsu0904/n/n724f0b2bc260"/>
+        <updated>2022-10-08T14:08:56.000Z</updated>
+        <summary type="html"><![CDATA[前シーズンの感想はこちら
+
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIボーカル除去・抽出ソフト 「Ultimate Vocal Remover」の使い方と最良設定について]]></title>
         <id>https://ytpmv.info/?p=1308</id>
