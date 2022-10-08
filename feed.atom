@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-08T04:17:58.436Z</updated>
+    <updated>2022-10-08T05:14:18.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25110,28 +25110,6 @@ www.nicovideo.jp
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飽きた 2021.10.01-03, 04, 05]]></title>
-        <id>hatenablog://entry/13574176438019020288</id>
-        <link href="https://erutufnab.hatenablog.com/entry/2021/10/09/012050"/>
-        <updated>2021-10-08T16:20:50.000Z</updated>
-        <summary type="html"><![CDATA[2021.10.01～03
-　01:しっかり副反応が出た。何をする気力も失われて一生寝てた。一生寝てたら腰痛が出てそっちの方がしんどかった。
-　02:キングオブコント2021を見た。全組良かった。男性ブランコの1本目が一番好きだった。でも空気階段の1本目が一番笑ったと思う。優勝おめでとうございます。
-　03:炒飯食いすぎて動けなくなった。凱旋門賞は見た。トルカータータッソ陣営が大喜びしていて良かった。
-　日記に飽きてきて3日分を圧縮しました。圧縮してもこの文量。
- 
-2021.10.04
-  天気が良かった。まだ日記に飽きてる。
- 
-2021.10.05
-  まだまだ飽きてるぞ。作業作業作業。趣味でyoutube-dlを整備しておいたので作業がスムーズだった。
- 
-飽きた。]]></summary>
-        <author>
-            <name>9つのサボテンが喋った</name>
         </author>
     </entry>
 </feed>
