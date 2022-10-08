@@ -7155,20 +7155,6 @@
             "type": "image/jpeg",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/13574176438020511373",
-          "author": null,
-          "description": "ニコニコユーザーブロマガ終了に伴い記事を移行しました。\n正直いらない気もしますが使用動画リストはどこかに残しておいた方が良いと思ったので。\n \nニコレポ等気にしなくて良くなったので気が向いたら何か書くかもしれません",
-          "link": "https://sevensheets.hatenablog.com/entry/2021/10/09/005230",
-          "publishedOn": "2021-10-08T15:52:30.000Z",
-          "wordCount": 72,
-          "title": "ブロマガ移行",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },

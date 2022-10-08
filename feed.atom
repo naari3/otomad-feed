@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-08T03:32:14.941Z</updated>
+    <updated>2022-10-08T04:17:58.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25132,19 +25132,6 @@ www.nicovideo.jp
 飽きた。]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロマガ移行]]></title>
-        <id>hatenablog://entry/13574176438020511373</id>
-        <link href="https://sevensheets.hatenablog.com/entry/2021/10/09/005230"/>
-        <updated>2021-10-08T15:52:30.000Z</updated>
-        <summary type="html"><![CDATA[ニコニコユーザーブロマガ終了に伴い記事を移行しました。
-正直いらない気もしますが使用動画リストはどこかに残しておいた方が良いと思ったので。
- 
-ニコレポ等気にしなくて良くなったので気が向いたら何か書くかもしれません]]></summary>
-        <author>
-            <name>七曲り</name>
         </author>
     </entry>
 </feed>
