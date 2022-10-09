@@ -10523,6 +10523,16 @@
       "siteUrl": "https://note.com/fourangle",
       "articles": [
         {
+          "id": "https://note.com/fourangle/n/n5ce38a209b2e",
+          "author": null,
+          "description": "本番リンク↓\nhttps://live.nicovideo.jp/watch/lv338711804\n動画リスト↓\n続きをみる",
+          "link": "https://note.com/fourangle/n/n5ce38a209b2e",
+          "publishedOn": "2022-10-09T12:01:46.000Z",
+          "wordCount": 2369,
+          "title": "「#韓国音MAD特集」配信の後書き",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/7916a9edc2dc3c685d9d2d486dbc1c9bde569169.jpg"
+        },
+        {
           "id": "https://note.com/fourangle/n/nc1a09deb9aa4",
           "author": null,
           "description": "お久しぶりです、四角です。\n今回は他のではなく、なんと生配信で音MAD動画紹介企画でございます。タイトル通り、テーマは韓国音MAD特集であり、日本の音MAD界隈で皆さんのお好きな韓国音MADのオススメを受けて、生配信で流して一緒に見ようとの企画になっています。\n続きをみる",
@@ -14769,6 +14779,16 @@
       "feedUrl": "https://ytpmv.info/?feed=rss2",
       "siteUrl": "https://ytpmv.info",
       "articles": [
+        {
+          "id": "https://ytpmv.info/?p=1330",
+          "author": "maimai",
+          "description": "概要 使うだけなら↓の画像見ておけばおｋ。 はじめに 皆さんこんにちは。まいまいです。 今回はREAPERに標準で搭載されているサンプラーのVSTiである、「ReaSamplOmatic5000」の使い方を紹介していきま […]\nThe post REAPER標準サンプラー「ReaSamplOmatic5000」の使い方 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/how-to-use-reasamplomatic5000/",
+          "publishedOn": "2022-10-09T11:06:50.000Z",
+          "wordCount": 749,
+          "title": "REAPER標準サンプラー「ReaSamplOmatic5000」の使い方",
+          "imageUrl": "https://ytpmv.info/wp-content/uploads/2022/10/image-17.png"
+        },
         {
           "id": "https://ytpmv.info/?p=1308",
           "author": "maimai",
