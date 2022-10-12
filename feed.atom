@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-12T14:19:18.605Z</updated>
+    <updated>2022-10-12T15:06:25.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221010「無題」]]></title>
+        <id>hatenablog://entry/4207112889926938778</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/10/12/233516"/>
+        <updated>2022-10-12T14:35:16.000Z</updated>
+        <summary type="html"><![CDATA[前日からなんだかんだで一睡もせずに午後から人と会い、ボードゲームや食事などをして夜は気絶して眠った。会った数人のうちにはTwitterのフォロワーつながりの人もいて面白かった。学校や職場で知り合う人と、インターネットで知り合う人はやはり異なっている。学校や職場は偶然性が高くてまったく趣味が合わない人もいる。インターネットだとある程度趣味が似通っていたりする。あとは自分が当たり前に接している世界とは異なる分野の人と会うことができるところが決定的に違う。たとえば自分が高校にいる人と会うだけなら、高校以外の場所で働いている人と接する機会は少ない。そういう意味で新鮮というか、ある一点に特化したような人などに会うことがあるとうれしい。今週の3連休は異様に人と会う密度が高かったが、いつもこの限りではなくて9割くらいは誰にも会わずに過ごしている。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221009「無題」]]></title>
+        <id>hatenablog://entry/4207112889926933711</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/10/12/232154"/>
+        <updated>2022-10-12T14:21:54.000Z</updated>
+        <summary type="html"><![CDATA[この日はお誘いがあって遠方で行われた短歌の歌会に赴いていた。言葉とか表現について意見を交わすのは好きなのだということを常に実感している。そのあと数人で話をする時間もあった。ちょっとした議論みたいなのが交わされたのだけど、そういうのを経て思考とか説って磨かれていくのだなと思った。インターネットなどで自分の批評や感想を発表している人はすごい。私はそれらについて、ひとりで考えて発表している勝手なイメージを抱いていた。でも、たぶんそうではない。当たり前と言えばそうだが、誰かと話したりするうちに自然と気づきが得られたり、自分の考えを説明するうちに改善点が見つかることがある。よくTwitterのスペースにずっといる人を見かけるけど、見えないブラッシュアップがあの中で行われているんだろうし、自分もする必要があると思った。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ピーピーピーあれ故障]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1202.html</id>
