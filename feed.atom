@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-13T08:05:49.383Z</updated>
+    <updated>2022-10-13T09:07:38.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#28 10月1週]]></title>
+        <id>hatenablog://entry/4207112889927112751</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/10/13/173813"/>
+        <updated>2022-10-13T08:38:13.000Z</updated>
+        <summary type="html"><![CDATA[木曜まで更新をサボってたので正直何も覚えていないし書くこともない。
+ 
+サーモンラン配信、楽しかったしコメントで色々アドバイス貰えたのも良かったので、またやるかもしれない。
+出来れば配信中にでんせつ行きたい。頑張ります。
+ 
+キングオブコントのオープニングがすごく良かった。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221010「無題」]]></title>
         <id>hatenablog://entry/4207112889926938778</id>
