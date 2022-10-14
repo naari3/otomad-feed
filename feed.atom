@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-14T17:13:15.060Z</updated>
+    <updated>2022-10-14T18:06:13.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[深夜徘徊1-1]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n2d7a424650b4</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n2d7a424650b4"/>
+        <updated>2022-10-14T18:05:16.000Z</updated>
+        <summary type="html"><![CDATA[うんちサウンドをひらく]]></summary>
+        <author>
+            <name>DDS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#28 10月1週]]></title>
         <id>hatenablog://entry/4207112889927112751</id>
