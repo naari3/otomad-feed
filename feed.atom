@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-17T22:04:39.217Z</updated>
+    <updated>2022-10-17T23:04:23.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全部あなたにあげるね]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1203.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1203.html"/>
+        <updated>2022-10-17T22:24:51.000Z</updated>
+        <summary type="html"><![CDATA[サブ垢でにいろうちゃんを迎えすぐリセットされた螺旋へGOちなみにガチャ更新前に育成素材集めきるくらい準備してたのに肝心のコレイを20lvで放置してて草2水2編成つくれなかった自分、草いいっすかゆうべコレイchangも最低限仕上げたので、存分に豊穣パーティーをたのしめていますまあそれは置いといて、まず忍フィッシュルと組んで超開花PTつくってみましたが、どう考えてもｻﾝｺﾞﾉﾐﾔｻﾏやタルタルの方が良いのを除けば悪くない構成]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221017「勉学半島」]]></title>
         <id>hatenablog://entry/4207112889928502896</id>
