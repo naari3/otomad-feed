@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-18T12:06:38.968Z</updated>
+    <updated>2022-10-18T13:22:20.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ホアロックの担当詳細]]></title>
+        <id>https://note.com/kochi928/n/ncfc517d1525e</id>
+        <link href="https://note.com/kochi928/n/ncfc517d1525e"/>
+        <updated>2022-10-18T12:39:49.000Z</updated>
+        <summary type="html"><![CDATA[先日、エゴロック×Z会の音MAD合作を投稿いたしました。
+ニコニコ動画の方がわずか二日で2万再生を超えており、本当にありがたいです。
+この記事はその動画の担当パート詳細と制作にあたった経緯等の解説になります。
+https://www.nicovideo.jp/watch/sm41241760
+
+続きをみる]]></summary>
+        <author>
+            <name>こち横</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全部あなたにあげるね]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1203.html</id>
