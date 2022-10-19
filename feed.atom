@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-19T17:19:21.516Z</updated>
+    <updated>2022-10-19T18:12:52.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インターネット人は衝突を忌避し過ぎていないか？という話]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-88.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-88.html"/>
+        <updated>2022-10-19T18:05:02.000Z</updated>
+        <summary type="html"><![CDATA[こんな怪しい自己啓発セミナーみたいな記事を書くのめっちゃ嫌なんですけど、それでも書きたい気持ちが上回ってしまったのでメモとして残しておきます。この記事を一言で言うとお互い思っていることを正直に喋った方が結果的に上手くいくことが多いんじゃないか…？です。ただこの一文じゃ色々とまとめきれないしアレコレ考えていたら文字の分量が膨れ上がってしまったので記事に起こした、といういきさつです。]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#29 10月2週]]></title>
         <id>hatenablog://entry/4207112889928970155</id>
