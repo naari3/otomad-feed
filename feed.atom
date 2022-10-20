@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-20T16:07:43.529Z</updated>
+    <updated>2022-10-20T17:17:01.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プロ野球選手って実はあんまり夢ない？と思った話]]></title>
+        <id>hatenablog://entry/4207112889929314551</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/10/21/011052"/>
+        <updated>2022-10-20T16:10:52.000Z</updated>
+        <summary type="html"><![CDATA[今日はドラフト会議だったらしい。
+BPLのおかげでプロスポーツ界隈への興味がほんのちょっと高まってる。
+ 
+今までプロ野球の選手について全然知らなかったので調べてみたのだが、新人選手の年俸は1500万円と決まっているらしい。2軍以下だともっと低い。
+1500万円だと累進課税による所得税は33%となり、これは495万円にあたる。この時点で1005万円。
+さらにここから住民税10%、150万円分が引かれる。1005-150で855万円。
+855万円を12ヶ月で割ると71.25万円。
+ 
+プロ野球選手になる為にはそれこそ他の全てを投げ打つような努力をする必要があると思うのだが、それで月収71.25万は少し夢がないような気がしてしまった。
+もちろん年俸は活躍に応じて増えていくものだし、年俸とは別に契約料、他の仕事による収入も発生するので月収71.25万はかなり極端な例だと思う。
+ 
+でもプロ野球の世界には多くの強者がいて、その中で目立てる選手ってどれぐらいいるんだろう…？みたいなことは考えちゃう。
+しかも実力的に追いつけなくなれば職を失うことだってある訳で。リスクの高さに対して安全マージンがあまりないような気がしてしまう。転職も中々難しそうに思える。
+ 
+多分そんなこと考える人は勝負の世界には向いてないのであろうが。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.49　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
         <id>hatenablog://entry/4207112889929225605</id>
