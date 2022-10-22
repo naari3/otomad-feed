@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-22T00:22:52.574Z</updated>
+    <updated>2022-10-22T01:32:54.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25638,19 +25638,6 @@ https://www.nicovideo.jp/user/38412957/mylist/52613150
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちょっとしたお知らせ＋色々]]></title>
-        <id>https://note.com/tanbatu/n/n2b3eddbe0842</id>
-        <link href="https://note.com/tanbatu/n/n2b3eddbe0842"/>
-        <updated>2021-10-22T12:42:22.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは
-突然ですが、自分の名前表記を「丹波津」に統一したいと思います。
-理由は、自分の名前が「tanbatu」だったり「丹波津」だったり「丹場津」だったりしてごっちゃになっているからですｗ
-続きをみる]]></summary>
-        <author>
-            <name>丹波津</name>
         </author>
     </entry>
 </feed>
