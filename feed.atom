@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-23T01:32:55.254Z</updated>
+    <updated>2022-10-23T02:58:00.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無題]]></title>
+        <id>https://note.com/furadiru_99/n/nd2c697a47ffa</id>
+        <link href="https://note.com/furadiru_99/n/nd2c697a47ffa"/>
+        <updated>2022-10-23T01:48:12.000Z</updated>
+        <summary type="html"><![CDATA[恒心より伝わる秘儀…の受け売り
+ VoiceTextホーム デモンストレーションreadspeaker.jp 
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIを使ってオズワルドの新作漫才を作らせてみる]]></title>
         <id>https://note.com/ssaymds/n/neab06a090822</id>
