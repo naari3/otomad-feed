@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-23T12:06:10.170Z</updated>
+    <updated>2022-10-23T13:17:33.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三度目の正直なるか！？漢検R4-2反省と感想【前編・オモテ面】]]></title>
+        <id>https://note.com/dokozonosyake/n/n5eea4ea4547d</id>
+        <link href="https://note.com/dokozonosyake/n/n5eea4ea4547d"/>
+        <updated>2022-10-23T13:14:15.000Z</updated>
+        <summary type="html"><![CDATA[令和4年度 第2回の日本漢字能力検定が終了しました。
+自分にとって3回目の挑戦となる漢検1級。現在の戦績は、1回目のR3-3で91点、2回目のR4-1で140点となっております。
+(一)読み 22〜24点
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『VOCALIFE EX祭』に出演しました #ボカライフ]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-89.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-89.html"/>
+        <updated>2022-10-23T12:48:49.000Z</updated>
+        <summary type="html"><![CDATA[VOCALIFE EX祭、お疲れ様でした。]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無題]]></title>
         <id>https://note.com/furadiru_99/n/nd2c697a47ffa</id>
