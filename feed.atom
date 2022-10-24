@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-24T15:07:18.192Z</updated>
+    <updated>2022-10-24T16:07:47.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[文字を扱う時によくやってた技法とか]]></title>
+        <id>https://note.com/wake_otomad/n/nd3d6ef37b745</id>
+        <link href="https://note.com/wake_otomad/n/nd3d6ef37b745"/>
+        <updated>2022-10-24T16:05:39.000Z</updated>
+        <summary type="html"><![CDATA[今年に入ってからやたらとテキストを弄る動画ばっかり投稿してた気がします。いろいろ覚えたので備忘録も兼ねてよくやってたやつを紹介していきます。(Aviutlをそれなりに使いこなしてる人には物足りないかも)
+
+TA-Track
+続きをみる]]></summary>
+        <author>
+            <name>ゎけ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221024「今宵、貴方とマトンカレー」]]></title>
+        <id>hatenablog://entry/4207112889930546716</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/10/25/010118"/>
+        <updated>2022-10-24T16:01:18.000Z</updated>
+        <summary type="html"><![CDATA[以前に成城石井があったので初めて入ったことがあった。記念に何か買おうと思ったのだけど、なにを買ったらいいか分からない。そういえば前に哲学者の永井均がここのレトルトカレーをおすすめしていたような…と思って調べたところ、していたのでそれを買った。「これがニーチェだ」を読んだことがあったりする。
+ 
+
+レトルト・カレーで私がいちばん好きなのは、 石濱匡雄&ユザーン監修 「ベンガリー・マトンカレー」だ。シンプルな味だが、単純に美味しいと思う。
+永井均『独在性の矛は超越論的構成の盾を貫きうるか』発売中 (@hitoshinagai1) February 16, 2021
+
+
+
+@hitoshinagai1　レトルト・カレーで私がいちばん好きなのは、 石濱匡雄&ユザーン監修 「ベンガリー・マトンカレー」だ。シンプルな味だが、単純に美味しいと思う。
+ 
+ちょっとパッケージのフォントが哲学書っぽくないだろうか？　ともあれ、時は流れて今日に至る。600円もするレトルトカレーである、勿体なくてずっと取っていた。しかしここ数日で本当に食べるものが家になくなってきたので、コンビニでグレープフルーツサワーを買ってきて一緒に食べた。
+ 
+（盛りつけが汚かった・触りすぎで嫌になったので食事中はスマホをタイムロッキングコンテナに封印していた、という理由より写真はなし）たぶん価格の大半を占めているのは「マトン」という名の通り羊肉だと思われる、その肉がかなりおいしかった。ちょっとホロホロになっていて、少量ながら脂身が玉ねぎと絡んでいるところなど最高である。
+ 
+正直無印の350円のカレーと一緒に値段を隠して食べたら分からない説があるのだけど、それでも一般的なレトルトとは違ってそれには戻れない感覚がある。全体的には辛めだけど、マトンを生かしたスパイスの効いたカレーでよかったです。今後人生で何回食べるか分からないマトンカレーを食べられてよかった。
+ 
+家に食べるものがなくなったという記述のとおりわりと生活が憔悴しており、寒い眠い不規則だで今日は散々だった。カレーを食べたことで少し身体が暖まってきたのだけど、もう午前1時なので早々に寝ようと思う。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三度目の正直なるか！？漢検1級R4-2反省と感想【後編・ウラ面】]]></title>
         <id>https://note.com/dokozonosyake/n/n891cc982767d</id>
