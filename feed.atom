@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-24T04:45:23.672Z</updated>
+    <updated>2022-10-24T05:32:10.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25763,18 +25763,6 @@ https://www.nicovideo.jp/user/38412957/mylist/52613150
 続きをみる]]></summary>
         <author>
             <name>揉んティぱいぱい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仕事イヤ]]></title>
-        <id>https://note.com/ebideath/n/nddb28b8bee91</id>
-        <link href="https://note.com/ebideath/n/nddb28b8bee91"/>
-        <updated>2021-10-24T17:14:21.000Z</updated>
-        <summary type="html"><![CDATA[イヤーっ！
-イヤなのーっ！！
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
