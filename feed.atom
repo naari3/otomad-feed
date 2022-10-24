@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-24T11:07:53.048Z</updated>
+    <updated>2022-10-24T12:06:45.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[優越感]]></title>
+        <id>https://note.com/kokeshi_short/n/n05d295834037</id>
+        <link href="https://note.com/kokeshi_short/n/n05d295834037"/>
+        <updated>2022-10-24T11:13:16.000Z</updated>
+        <summary type="html"><![CDATA[秋になると風呂が一層気持ちいい。
+寒くなるとお湯が冷めやすく、すぐにぬるま湯になる。
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221023「内輪ネタ」]]></title>
         <id>hatenablog://entry/4207112889930290748</id>
