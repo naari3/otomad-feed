@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-25T22:04:40.028Z</updated>
+    <updated>2022-10-25T23:04:24.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[何故僕はニコニコ動画の視聴ページからニコニコチャートにすぐ飛ぶためのブックマークレットを何故10年前に作っておかなかったのか]]></title>
+        <id>hatenablog://entry/4207112889930892569</id>
+        <link href="https://naari.hatenablog.com/entry/2022/10/26/074730"/>
+        <updated>2022-10-25T22:47:30.000Z</updated>
+        <summary type="html"><![CDATA[ツイートで済みそうなブログ記事リンク集
+javascript:(()=>{ let url = new URL(location.href); url.host = "www.nicochart.jp"; url.protocol = "http:"; location.href = url.toString(); })()
+
+
+
+思いついたタイミングで衝撃が走った。何故これを10年前に用意しておかなかったんだ。僕はこういう簡単すぎることこそコードにしてない節があって、そういうところなんだよなという感じ。
+ところで自分のブックマークバーはブックマークレット専用バーみたいになっている。「ブックマークバーにはよく使うサイトやサービスを置いておくものだ」という一般的なノウハウがあるが、そんなサイトであればChromeのアドレスバーから対象のドメイン名頭数文字を入れるだけでそのサイトが出てくる。たとえば Ctrl + T → nico → Enter のようなコマンドで nicovideo.jp にアクセスできる、など。なので個人的にそのような用途をしておらず、代わりに前述の使い方をするようになった。
+ブックマークバーにあるアイテムに愚直な名前をつけ続けているとバーが埋まってどうしようもなくなる。なので今回を機会にちょっとだけ短い名前を付けるようにした*1。半角ｶﾅを使うだけで00年代のような雰囲気になるのがちょっとおもしろい。
+
+*1:一回フォルダにまとめることも考えたけど2クリックになってしまうのでやめた]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AfterEffectsで作るYTPMV（メイキング）②]]></title>
         <id>https://ytpmv.info/?p=1399</id>
@@ -25858,26 +25877,6 @@ https://www.nicovideo.jp/user/38412957/mylist/52613150
 続きをみる]]></summary>
         <author>
             <name>雨天雨衣</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洞窟の大きさに驚愕する女性の音MAD（sm38245854）について]]></title>
-        <id>https://note.com/montypypy/n/n88a847343ba0</id>
-        <link href="https://note.com/montypypy/n/n88a847343ba0"/>
-        <updated>2021-10-26T10:11:08.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！揉んティぱいぱいです！超お久！
-今日は半年以上前に投稿した「洞窟の大きさに驚愕する女性の音MAD」について色々書いていこうと思います（遅すぎるだろ…）
-ちなみに初動画音MADです！（確固たる意志）
-
-
-
-
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>揉んティぱいぱい</name>
         </author>
     </entry>
 </feed>

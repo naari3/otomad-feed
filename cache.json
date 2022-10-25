@@ -5968,6 +5968,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889930892569",
+          "author": null,
+          "description": "ツイートで済みそうなブログ記事リンク集\njavascript:(()=>{ let url = new URL(location.href); url.host = \"www.nicochart.jp\"; url.protocol = \"http:\"; location.href = url.toString(); })()\n\n\n\n思いついたタイミングで衝撃が走った。何故これを10年前に用意しておかなかったんだ。僕はこういう簡単すぎることこそコードにしてない節があって、そういうところなんだよなという感じ。\nところで自分のブックマークバーはブックマークレット専用バーみたいになっている。「ブックマークバーにはよく使うサイトやサービスを置いておくものだ」という一般的なノウハウがあるが、そんなサイトであればChromeのアドレスバーから対象のドメイン名頭数文字を入れるだけでそのサイトが出てくる。たとえば Ctrl + T → nico → Enter のようなコマンドで nicovideo.jp にアクセスできる、など。なので個人的にそのような用途をしておらず、代わりに前述の使い方をするようになった。\nブックマークバーにあるアイテムに愚直な名前をつけ続けているとバーが埋まってどうしようもなくなる。なので今回を機会にちょっとだけ短い名前を付けるようにした*1。半角ｶﾅを使うだけで00年代のような雰囲気になるのがちょっとおもしろい。\n\n*1:一回フォルダにまとめることも考えたけど2クリックになってしまうのでやめた",
+          "link": "https://naari.hatenablog.com/entry/2022/10/26/074730",
+          "publishedOn": "2022-10-25T22:47:30.000Z",
+          "wordCount": 297,
+          "title": "何故僕はニコニコ動画の視聴ページからニコニコチャートにすぐ飛ぶためのブックマークレットを何故10年前に作っておかなかったのか",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20221026/20221026073428.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20221026/20221026073428.png"
+        },
+        {
           "id": "hatenablog://entry/4207112889920690290",
           "author": null,
           "description": "この記事は音MAD Advent Calendar 2022 in Summerの29日目の記事です。\nこの記事は前回の記事のアップデート的な立ち位置でもあるので、もしよければ前回のものから見てもらえると嬉しいです↓\nnaari.hatenablog.com\nで、前回の記事を出した後、くらっちさんからこのような反応をいただいた。\n\n相互情報量とかを計算すると、「音MADだけで流行っているタグ」が得られて面白いかも？ https://t.co/elvraNljgc\n— ♪くらっち♪ (@kuratti2525) 2022年8月14日\n  \nので、これをやってみる。\nまず、相互情報量とは？\n硬いことはWikipediaに尋ねてもらって、今回はやわらかく説明する。今回においては２つのタグがお互いに影響を与える量のことで、特定の２つのタグの結びつき度合いとも言えそう。この数字が高ければ高いほど、２つのタグの関係性が高いと言える。ここでは音MADというタグは固定で、音MADと一緒に使われるタグの相互情報量を算出する。\n例えば Z会 + 音MAD と、ゲーム + 音MAD の場合、Z会 の方が 音MAD との依存度が高いことが予想でき、両者の相互情報量を比べると Z会 + 音MAD の方が高いはず。\n今回は音MADと共に使われた全てのタグの相互情報量を算出した。\n具体的な話については以下を参照。くらっちさんのDMに尋ねに行った時、このように教えてもらいました。（くらっちさんが言うには「個人の見解なので、用語や概念の正確性は保証しかねます」とのことでした！）\n▶クリックで展開\n\n\n\n\n gist.github.com\n\n\n\nくらっちさんに助けてもらった\nこの直上のDMでのメッセージを読めば分かる通り、相互情報量については大部分をくらっちさんに教えてもらった。最初はこのページを参考に、月裏…",
@@ -11898,16 +11913,6 @@
           "wordCount": 65,
           "title": "Salmon Funktion Pt.2（sm38342891）について",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e2f3ebe5e8b88302c78291ea1e43f3f6b9adb77a.jpg"
-        },
-        {
-          "id": "https://note.com/montypypy/n/n88a847343ba0",
-          "author": null,
-          "description": "こんにちは！揉んティぱいぱいです！超お久！\n今日は半年以上前に投稿した「洞窟の大きさに驚愕する女性の音MAD」について色々書いていこうと思います（遅すぎるだろ…）\nちなみに初動画音MADです！（確固たる意志）\n\n\n\n\n\n\n\n続きをみる",
-          "link": "https://note.com/montypypy/n/n88a847343ba0",
-          "publishedOn": "2021-10-26T10:11:08.000Z",
-          "wordCount": 46,
-          "title": "洞窟の大きさに驚愕する女性の音MAD（sm38245854）について",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e1d7b00420098cbe5fff5f17f7bdbcabc50c129e.jpg"
         }
       ]
     },
