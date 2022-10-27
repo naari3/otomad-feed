@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-27T20:04:35.102Z</updated>
+    <updated>2022-10-27T21:04:17.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221025「車校近況」]]></title>
+        <id>hatenablog://entry/4207112889931410269</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/10/28/053745"/>
+        <updated>2022-10-27T20:37:45.000Z</updated>
+        <summary type="html"><![CDATA[20日以降、あまり日付に対する意識がない。気が付いたら26とか27日になって10月が終わりそうである。この日はわりと間隔が空いてしまった自動車学校に行って運転をした。行く余裕がなかった・なかなか予約がとれなかったというだけなのだが、「苦労してるみたいだね」と言われたりした。不登校みたいに行きたくなくて予約しなかったと思われてるんだろうか、それは当たらずとも遠からずなところがあって、図星を言い当てられたような微妙な気持ちだ。
+ 
+実際運転してみるとアクセルとブレーキがどちらかみたいなところから忘れかけており、普通に恥ずかしかった。「基本的なところが安定していないから今から巻き返していきましょう」みたいに言われて、ああ進度が遅れてるという意味で「苦労してる」って言われてたんだなと思った。よほどの限り好んで自動車学校に通う人はたぶんいなくて、自分も例にもれずそうである。ただ行かないほど自分の首を絞めてしまうわけで、乗り始めたら降りられないジェットコースターみたいである。
+ 
+制服を着て金髪をした絵にかいたようなギャルの人を見たのでうれしかった。二輪なのか四輪なのか分からないが送迎バスの車内でも脚を組んでずっとスマホを見ていたりして貫禄があってよかった。彼女がオタクに優しかったとしてうれしいかな、と思ったけど別にそうでもないなと思った。あれは完全にフィクションの中だから許容されている。帰りはなんとなく歩いて帰ったのだけど、夜は寒くて風邪気味になったまま朝までぼんやりしていた。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[汎用説明記事] Pythonの導入]]></title>
         <id>https://ytpmv.info/?p=1474</id>
