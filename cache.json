@@ -15176,6 +15176,16 @@
       "siteUrl": "https://ytpmv.info",
       "articles": [
         {
+          "id": "https://ytpmv.info/?p=1474",
+          "author": "maimai",
+          "description": "Pythonの導入方法を簡潔に紹介します。 https://www.python.org/ 公式サイトのDownloadsから最新版をダウンロードし、インストーラーを起動します。 した2つにチェックを入れ、「Instal […]\nThe post [汎用説明記事] Pythonの導入 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/install-python/",
+          "publishedOn": "2022-10-27T13:25:28.000Z",
+          "wordCount": 675,
+          "title": "[汎用説明記事] Pythonの導入",
+          "imageUrl": "https://ytpmv.info/wp-content/uploads/2022/10/image-87.png"
+        },
+        {
           "id": "https://ytpmv.info/?p=1399",
           "author": "maimai",
           "description": "※この記事は、先日投稿した動画（ https://www.youtube.com/watch?v=ldiK5_5nt4k ）の作業工程を説明しながら、AftereffectsでYTPMVを作る方法を大まかに紹介する記事で […]\nThe post AfterEffectsで作るYTPMV（メイキング）② first appeared on YTPMV.info.",
