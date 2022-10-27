@@ -15140,6 +15140,53 @@
       ]
     },
     {
+      "title": "気合い気合い気合い",
+      "feedUrl": "https://sehatakuro.github.io/feed.xml",
+      "siteUrl": "/",
+      "articles": [
+        {
+          "id": "https://sehatakuro.github.io/2022/05/02/favmusic",
+          "author": null,
+          "description": "最近Spotifyのプレイリストで毎月の好きな曲を作るのが流行ってるらしいので、ぼくも真似しよと思ってやってみようと思います。",
+          "link": "https://sehatakuro.github.io/2022/05/02/favmusic",
+          "publishedOn": "2022-05-02T00:00:00.000Z",
+          "wordCount": 154,
+          "title": "2022春音楽",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sehatakuro.github.io/2022/03/28/update",
+          "author": null,
+          "description": "ホームページのレイアウトをめちゃくちゃ変えました。おしゃれでしょ。",
+          "link": "https://sehatakuro.github.io/2022/03/28/update",
+          "publishedOn": "2022-03-28T00:00:00.000Z",
+          "wordCount": 52,
+          "title": "ホームページのレイアウトを一新した",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sehatakuro.github.io/2022/03/11/",
+          "author": null,
+          "description": "Spaceキーもしくは左クリックを使ってジャンプをして、飛んでくる核を避けるゲームです。",
+          "link": "https://sehatakuro.github.io/2022/03/11/",
+          "publishedOn": "2022-03-11T00:00:00.000Z",
+          "wordCount": 52,
+          "title": "FlappyBirdもどき",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sehatakuro.github.io/2022/03/09/game1",
+          "author": null,
+          "description": "矢印キーを使ってボールを操作するゲームです。",
+          "link": "https://sehatakuro.github.io/2022/03/09/game1",
+          "publishedOn": "2022-03-09T00:00:00.000Z",
+          "wordCount": 46,
+          "title": "玉転がし",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "世界の餃子百選",
       "feedUrl": "https://ss-sahara.work/feed/",
       "siteUrl": "https://ss-sahara.work",

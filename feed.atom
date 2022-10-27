@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-27T18:05:07.436Z</updated>
+    <updated>2022-10-27T18:20:25.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -10286,6 +10286,16 @@ youtu.be]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022春音楽]]></title>
+        <id>https://sehatakuro.github.io/2022/05/02/favmusic</id>
+        <link href="https://sehatakuro.github.io/2022/05/02/favmusic"/>
+        <updated>2022-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近Spotifyのプレイリストで毎月の好きな曲を作るのが流行ってるらしいので、ぼくも真似しよと思ってやってみようと思います。]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[nikki_20220501「みるよむ」]]></title>
         <id>hatenablog://entry/13574176438088296495</id>
         <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/05/02/064412"/>
@@ -13033,6 +13043,16 @@ nico.ms
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ホームページのレイアウトを一新した]]></title>
+        <id>https://sehatakuro.github.io/2022/03/28/update</id>
+        <link href="https://sehatakuro.github.io/2022/03/28/update"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ホームページのレイアウトをめちゃくちゃ変えました。おしゃれでしょ。]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[nikki_20220327「ぶどうを食べない人生」]]></title>
         <id>hatenablog://entry/13574176438077352943</id>
         <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/03/28/054754"/>
@@ -14591,6 +14611,16 @@ vを
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FlappyBirdもどき]]></title>
+        <id>https://sehatakuro.github.io/2022/03/11/</id>
+        <link href="https://sehatakuro.github.io/2022/03/11/"/>
+        <updated>2022-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spaceキーもしくは左クリックを使ってジャンプをして、飛んでくる核を避けるゲームです。]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[ゾロリRTA]たからさがしバンジー研究]]></title>
         <id>https://note.com/howtopourbeer/n/n51c6dab2d915</id>
         <link href="https://note.com/howtopourbeer/n/n51c6dab2d915"/>
@@ -14797,6 +14827,16 @@ First Note…音楽について
 　眠りから醒めて起きたのは朝の7時くらいで、これを書きながら相対性理論の「ムーンライト銀河」を聴いていたけど妙にいまの感情に合っているような気がした。タイトルの「生活」は「ライフ」と読んでほしいです。おやすみなさい。]]></summary>
         <author>
             <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玉転がし]]></title>
+        <id>https://sehatakuro.github.io/2022/03/09/game1</id>
+        <link href="https://sehatakuro.github.io/2022/03/09/game1"/>
+        <updated>2022-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[矢印キーを使ってボールを操作するゲームです。]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>
