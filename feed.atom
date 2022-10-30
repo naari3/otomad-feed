@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-10-30T13:13:34.496Z</updated>
+    <updated>2022-10-30T14:04:19.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いこう、リュウガ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1205.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1205.html"/>
+        <updated>2022-10-30T13:49:02.000Z</updated>
+        <summary type="html"><![CDATA[タルタルが来るって聞いてから我慢できずに沈淪回ってしまうこのごろ氷風なんて全くいらないのに困ったもんだで、今日聖遺物がいっぱいになったからお試し強化したけど結構強いんじゃない？タルタル引けなかったらモナしか使う人いないけどいや、絶対ひく！！なひーだちゃんは……引けんかったらすまん；；とりあえず2セットできたしまた絶縁に帰ろうかな天井見てボーっとしてたらあっという間にアプデ目前でやばいですね逆に生活リ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221027「暗い部屋で食事をする」]]></title>
         <id>hatenablog://entry/4207112889931414179</id>
