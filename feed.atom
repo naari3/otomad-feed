@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-01T10:04:14.456Z</updated>
+    <updated>2022-11-01T11:04:09.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221028「夜行バスにて」]]></title>
+        <id>hatenablog://entry/4207112889932783616</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/11/01/192840"/>
+        <updated>2022-11-01T10:28:40.000Z</updated>
+        <summary type="html"><![CDATA[この日は夕方に起きて日中の予定を飛ばしたのだけど、とりあえず夜行バスに乗り込んで東京まで向かう予定があったので急いで乗車地まで向かった。バスでの遠出、夜行バスに乗ることは初体験、東京には人生三回目だったのでなるべく早く向かう必要があった。今回の旅行を通した反省点として、ポケットwifiサービスなどを利用すべきだというものがある。月末に知らない場所を歩いて地図アプリを使用しまくると、私の場合は通信速度制限がかかってしまう。仮に月末でなくても安心して使えるようにポケットwifiの必要性を痛感した。
+ 
+このときも初めて向かう乗車地への地図がなかなか表示されず、逃すと本当に終わりかねないので緊張が走った時間があったのだった。無事たどり着いたものの耳栓とネックピロー（あらかじめ検索して必要らしいと知っていた）を購入するため駅構内のドラッグストアなどを探して走り回り、引き返したりしているとちょうど10分くらい前に搭乗する形となった。結構怖かった。
+ 
+ひとまず乗車してからはなんとかなった。眠るのに特化したリクライニングや間仕切りなどがあったので想像以上ではあった（新幹線の座席みたいなものだと思っていたので自分の期待値が低すぎた）。ひとえに自分の生活リズムのせいでまったく眠れず苦しむ虚無の時間もあったが、結果として意識がふわふわしていたので眠れたのと同義だった。車酔いしやすい私の性質も、直進し続ける車内では問題にならなかった。
+ 
+印象に残ったのはサービスエリアで、独特の爽快感があった。単に狭い車内から出たのもあるが、いっときの休憩場所で車たちが合流し、たくさんの光が駐車場で点滅して海のようになっている。そこを排気ガスだらけではあるものの風が吹き抜けていて、とても心地よい。特に明け方などは空のグラデーションが美しく、騒音に紛れて叫んだりしていた。頻繁に乗りたくはないけどよい体験だったと思う。おやすみなさい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自己紹介]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-91.html</id>
