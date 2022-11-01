@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-01T01:34:08.664Z</updated>
+    <updated>2022-11-01T02:57:54.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自己紹介]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-91.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-91.html"/>
+        <updated>2022-11-01T01:44:30.000Z</updated>
+        <summary type="html"><![CDATA[自分語りと懺悔と自戒しかないので、読まなくていい記事です。]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#31 10月4週]]></title>
         <id>hatenablog://entry/4207112889932652816</id>
