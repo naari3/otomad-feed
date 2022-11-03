@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-03T18:04:49.367Z</updated>
+    <updated>2022-11-03T19:04:05.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マルニエ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1206.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1206.html"/>
+        <updated>2022-11-03T18:14:15.000Z</updated>
+        <summary type="html"><![CDATA[まあダメだよね  荒波ですななちゃんじゃないだけマシか……草神様には悪いけどまた復刻したらきてや☆4ピックアップが全然いらんから引く理由マジでない  退がりますあ、魔神任務おもしろかったですと、このタイミングで恒常ガチャも天井にかかったので何が来るかと思えばティナリが入ってるやん！！どうしてくれんのコレイ急に☆5アタッカーが二人も増えて嬉しいやら悲しいやらわかりませんが、せっかくだしのんびり育成してみようか]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2022/10]]></title>
         <id>hatenablog://entry/4207112889933334396</id>
