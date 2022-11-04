@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-04T19:04:00.003Z</updated>
+    <updated>2022-11-04T20:04:25.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221104「健康でいたい」]]></title>
+        <id>hatenablog://entry/4207112889933778067</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/11/05/041455"/>
+        <updated>2022-11-04T19:14:55.000Z</updated>
+        <summary type="html"><![CDATA[ここ数日は昼夜逆転しながらすべきことをしたり、そこまで真に迫ってすることがあるわけでもないので本を読んだりしていた。いろいろ考えていると、気が付くとコロナ禍に直面して以降に私以外の家族全員がメンタルヘルスの問題で学校や職場を休み、精神科を受診するという問題を経験していることに気がついた。特にいじめがあったとか不仲とかではなく、諸々の環境の変化で疲労がたまったのが主要因だと思われる。
+ 
+次は自分なのではという恐怖が背筋を走ったが、私は希死念慮やネガティブな感情にかられてひどく落ち込んでしまうということが本当にない。でもTwitterにはそういう人をたくさん見るので自分はおかしいのではないかと不安になってしまう。ないに越したことはないのだけど、いつ自分も病んでしまうか分からないので気を付けないといけない（気を付けていてもなってしまうものはなってしまう）。あとは心配かけないようにしないとね～と思ったりしていた。健康でいたい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221103「サブスクにないけど好きな曲」]]></title>
         <id>hatenablog://entry/4207112889933776671</id>
