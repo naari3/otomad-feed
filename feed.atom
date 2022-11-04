@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-04T17:07:25.263Z</updated>
+    <updated>2022-11-04T18:04:34.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221102「誕生日の価値」]]></title>
+        <id>hatenablog://entry/4207112889933773447</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/11/05/024020"/>
+        <updated>2022-11-04T17:40:20.000Z</updated>
+        <summary type="html"><![CDATA[note.com
+ 
+なんとなく誕生日のことを思っていた。ここで誕生日があまり楽しめなくなってきている所感について書いた。でも別に悪いことではなくて当たり前なのだと考えた。結局のところ、大半の人にとっての「誕生日の価値」は生まれたこと自体にはないだろう。こういう価値観は幼い頃から醸成されるわけで、「今日生まれたんだな、ここまで死ななくてよかった」と毎年思っている子供がいたら怖い。やはり幼少時代は「なんとなくおいしいものが食べられたり、買えないものが買ってもらたり、人から祝ってもらえる日」という認識になってしまうのではないか。それらは大人になるについて与えられる側から与える側になっていく。子供ころの価値観に依存していると、はしごを外されて誕生日の価値が分からなくなる。あくまで大多数の人を想定した話ではある。
+ 
+おいしいものを与えられたり買えないものを与えられる機会は少なくなっても、人に祝ってもらうという機会だけは大人になっても変わらないのかもしれない。ただ僕は昔も今も親くらいからしか誕生日プレゼントをもらったことがないので、よく分からない。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI拓也のはなし]]></title>
         <id>https://note.com/ssaymds/n/ne0f31cd54653</id>
