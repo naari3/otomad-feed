@@ -14312,6 +14312,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-106.html",
+          "author": "picm",
+          "description": "二年半やってきて初めてソロダイヤ到達できて、意識してたことや立ち回りなどを振り返る",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-106.html",
+          "publishedOn": "2022-11-05T17:03:12.000Z",
+          "wordCount": 145,
+          "title": "APEXでソロダイヤ達成した",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-105.html",
           "author": "picm",
           "description": "時の話",
@@ -15410,6 +15420,16 @@
       "feedUrl": "https://ytpmv.info/?feed=rss2",
       "siteUrl": "https://ytpmv.info",
       "articles": [
+        {
+          "id": "https://ytpmv.info/?p=1491",
+          "author": "maimai",
+          "description": "他の記事で説明を端折るための記事です。簡潔に説明します。 ffmpegとは、動画や音声のエンコード、デコードを行うフリーソフトです。対応するコーデック（動画の種類）が非常に多く、また、コマンドラインで出来ることが多いため […]\nThe post [汎用説明記事] ffmpegの導入とパスの通し方 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/?p=1491",
+          "publishedOn": "2022-11-05T16:45:39.000Z",
+          "wordCount": 704,
+          "title": "[汎用説明記事] ffmpegの導入とパスの通し方",
+          "imageUrl": null
+        },
         {
           "id": "https://ytpmv.info/?p=1474",
           "author": "maimai",
