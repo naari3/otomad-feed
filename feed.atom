@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-04T23:04:36.032Z</updated>
+    <updated>2022-11-05T00:17:19.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26222,16 +26222,6 @@ M3お疲れさまでした！みなさんとお話ができて良かったです
 以下有料記事。]]></summary>
         <author>
             <name>muneo house information</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[こころのnote]]></title>
-        <id>https://note.com/ssaymds/n/nf0cd0057f97e</id>
-        <link href="https://note.com/ssaymds/n/nf0cd0057f97e"/>
-        <updated>2021-11-05T11:23:24.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
 </feed>
