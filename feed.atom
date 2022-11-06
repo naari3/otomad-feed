@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-06T17:05:07.535Z</updated>
+    <updated>2022-11-06T18:04:32.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26154,18 +26154,6 @@ M3お疲れさまでした！みなさんとお話ができて良かったです
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAD用に綺麗に音を延ばす方法]]></title>
-        <id>https://note.com/furadiru_99/n/n4b87e5f5b21a</id>
-        <link href="https://note.com/furadiru_99/n/n4b87e5f5b21a"/>
-        <updated>2021-11-07T05:14:10.000Z</updated>
-        <summary type="html"><![CDATA[vocalshifterで音声を単音ボーカル用で読み込む。→アイテムをダブルクリックして編集画面を開く。
-
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
         </author>
     </entry>
 </feed>
