@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-06T14:04:25.487Z</updated>
+    <updated>2022-11-06T15:04:31.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Whisperを使って素材の自動書き起こし＋素材分割 (ローカル実行)]]></title>
+        <id>https://ytpmv.info/?p=1468</id>
+        <link href="https://ytpmv.info/whisper-support-scripts/"/>
+        <updated>2022-11-06T14:55:15.000Z</updated>
+        <summary type="html"><![CDATA[はじめに みなさんごきげんよう。まいまいです。今回の記事では、今話題の音声認識AI、Whisperを使って素材の音声を自動書き起こしして、個別の音声ファイルに分割するスクリプトを作成したので紹介していきます。 音MADを […]
+The post Whisperを使って素材の自動書き起こし＋素材分割 (ローカル実行) first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221105「食べたい・作りたい料理」]]></title>
         <id>hatenablog://entry/4207112889934057517</id>
