@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-06T05:04:27.725Z</updated>
+    <updated>2022-11-06T06:04:42.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26228,26 +26228,6 @@ M3お疲れさまでした！みなさんとお話ができて良かったです
 松岡修造さんお誕生日おめでとうございます！]]></summary>
         <author>
             <name>メモタルト</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ポケモンPt】ポケトレ色違い日記：ノコッチ編]]></title>
-        <id>hatenablog://entry/13574176438030303371</id>
-        <link href="https://kaikityou.hatenablog.com/entry/2021/11/07/030245"/>
-        <updated>2021-11-06T18:02:45.000Z</updated>
-        <summary type="html"><![CDATA[すっげー唐突にやりたくなったので。
-10年前ぐらいによくやってたんですよポケトレ。
- 
-
-場所：208番道路(大量発生)
-捕まえた数：13匹
- 
-雑感：
-やっぱり大量発生系は出現率高くてやりやすい。
-あと今回連鎖で使った208番道路の草むらがデカかったおかげで連鎖が単純に楽。
-ノコッチの色違いは分かりやすくて良い。]]></summary>
-        <author>
-            <name>kaikityouの日記</name>
         </author>
     </entry>
 </feed>
