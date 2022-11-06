@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-06T19:04:16.239Z</updated>
+    <updated>2022-11-06T20:04:40.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記未満　2022.11.01～2022.11.06]]></title>
+        <id>hatenablog://entry/4207112889932630904</id>
+        <link href="https://erutufnab.hatenablog.com/entry/2022/11/07/044958"/>
+        <updated>2022-11-06T19:49:58.000Z</updated>
+        <summary type="html"><![CDATA[2022.11.01
+　8時に起きた！なにが「！」かというと、しばらく昼に起きる生活だったので朝に起きられたことが嬉しいのです。窓を開けるともう冬の朝の気温だ。11月に入って諸々のリミットが見えてきたのでちゃんと頑張ろう。部屋の掃除とか。
+nico.ms
+　部屋の片付けってこうまとめてやるものじゃないのだろうというのは、感覚的にもわかるし、聞き及ぶには世間的にもこまめにやるべきらしい。
+　私は物理的に視野が狭く、また見えないものは無いものとする素朴実在的な精神構造を持っているので、ゴミがすぐに知覚から消える。特に床は、腰の悪さによって曲げることがほぼ無いことも相まってかなり認識できない。端的に言えば認識が「雑」なので、部屋を片付け"られない"（そもそも認識しないから）事態に陥るのだと思われる。
+　視野が狭いことの自覚については、「目の前にありますよ」と言われて全く見つけられないことが幾度となくあったことで形成された。視覚がぜんぜん得意じゃないので、音MADやMVのような速い映像は全く見えてないと思う。「よくわかんないけどカッコいい～」くらいで止まっちゃう。
+　一方、聴覚はある程度高い分解能で動いてる感覚があり、それと比較しても視覚が雑だなという自覚が増してくる。絵や映像が苦手なのは、マジで見えてないからなのだと最近は捉えている。こういう人間だし意識して世界を見る必要があるよね。
+　内省の日記はやめようと思っているのにすぐこういう雰囲気になるな。事実だけ書いていたい。
+＿
+　昼寝と夕寝を経て22時に。部屋の片付けまだ終わってなくて床が地獄なんだけど明日締め切りのES間に合うのかな？間に合わせるんだよ！！
+ 
+2022.11.02
+　間に合った間に合った間に合った〜！もう今日の活動終了にしたい。再来週に選考の結果が出るんだけど心配してると精神が死ぬので一旦忘れます。さようなら。…]]></summary>
+        <author>
+            <name>9つのサボテンが喋った</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whisperを使って素材の自動書き起こし＋素材分割 (ローカル実行)]]></title>
         <id>https://ytpmv.info/?p=1468</id>
@@ -26142,18 +26164,6 @@ M3お疲れさまでした！みなさんとお話ができて良かったです
 連鎖切れはスプレー使い忘れ→自然遭遇のミス。今回はまぁ十分な数捕まえられたと思うけど、今後イーブイみたいなたくさん数欲しいポケモンの時に同じことやったら絶対後悔するから気を付けないといかん。]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10万]]></title>
-        <id>https://note.com/ssaymds/n/n6a60b3ad81ff</id>
-        <link href="https://note.com/ssaymds/n/n6a60b3ad81ff"/>
-        <updated>2021-11-07T07:24:17.000Z</updated>
-        <summary type="html"><![CDATA[ておつっつ〜
-先々週投稿した動画が10万再生到達してました
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
 </feed>
