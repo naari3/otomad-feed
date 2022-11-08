@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-08T00:17:56.428Z</updated>
+    <updated>2022-11-08T01:33:03.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26251,27 +26251,6 @@ M3お疲れさまでした！みなさんとお話ができて良かったです
 続きをみる]]></summary>
         <author>
             <name>きゅう / Q-Rabbit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ポケモンPt】ポケトレ色違い日記：パッチール編]]></title>
-        <id>hatenablog://entry/13574176438030970913</id>
-        <link href="https://kaikityou.hatenablog.com/entry/2021/11/08/215102"/>
-        <updated>2021-11-08T12:51:02.000Z</updated>
-        <summary type="html"><![CDATA[やったのは昨日(2021/11/7)です。
-最近ポケトレで記事数を稼いでる感否めねぇ。
- 
-
-場所：227番道路(大量発生)
-捕まえた数：15匹
- 
-雑感：
-火山灰降ってて少し画面見づらい場所だけど案外見える。この感じならダンバル連鎖も全然行ける気がする(捕まえられるとは言ってない)。
-連鎖に結構苦戦した。後半のマップだと出てくるポケモンの数が多くなるから大量発生だろうが結構切れる。多分人生でやったポケトレで一番難易度高い場所だったんじゃないかと思う。
-止め時分からなくなってめっちゃ大量に捕まえちゃった。今後はあらかじめ数決めといた方が良いかも。
-あと今回ニ連続で色草出た。はじめて。]]></summary>
-        <author>
-            <name>kaikityouの日記</name>
         </author>
     </entry>
 </feed>
