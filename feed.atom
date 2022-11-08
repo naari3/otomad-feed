@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-08T18:04:41.272Z</updated>
+    <updated>2022-11-08T19:08:15.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[切り貼り人力をしたい]]></title>
+        <id>https://note.com/eroerojpeg/n/nc0e8bcf0f4b9</id>
+        <link href="https://note.com/eroerojpeg/n/nc0e8bcf0f4b9"/>
+        <updated>2022-11-08T18:28:15.000Z</updated>
+        <summary type="html"><![CDATA[って思うよね？（米倉涼子）
+なんか、ノウハウとか共有してみんな人力作ったら嬉しいなということで、
+自分流ですが切り貼り人力の作り方でも綴っていこうかなと思います。
+不可逆褐色です。
+続きをみる]]></summary>
+        <author>
+            <name>不可逆褐色</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パンケーキ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1207.html</id>
