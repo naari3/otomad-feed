@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-09T17:08:03.469Z</updated>
+    <updated>2022-11-09T18:04:39.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26346,17 +26346,6 @@ Discordに取って代わられたSkypeみたいで可愛いですね。質問�
 (後略)]]></summary>
         <author>
             <name>muneo house information</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苦しい]]></title>
-        <id>https://note.com/ebideath/n/n5df205a8dc4f</id>
-        <link href="https://note.com/ebideath/n/n5df205a8dc4f"/>
-        <updated>2021-11-10T05:40:06.000Z</updated>
-        <summary type="html"><![CDATA[人生早く終わりたい
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
