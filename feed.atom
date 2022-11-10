@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-10T20:04:39.953Z</updated>
+    <updated>2022-11-10T21:04:43.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -109,6 +109,16 @@
 きみのための深夜放送こわいのはわたしがみんな食べてあげるね]]></summary>
         <author>
             <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MADで使われる技法・手法メモ]]></title>
+        <id>https://sehatakuro.github.io/2022/11/10/madtactics</id>
+        <link href="https://sehatakuro.github.io/2022/11/10/madtactics"/>
+        <updated>2022-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[音声]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>
