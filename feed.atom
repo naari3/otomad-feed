@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-11T13:17:21.553Z</updated>
+    <updated>2022-11-11T14:05:50.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[11月11日の日記]]></title>
+        <id>https://note.com/nano_87g/n/n92772fd1765f</id>
+        <link href="https://note.com/nano_87g/n/n92772fd1765f"/>
+        <updated>2022-11-11T13:58:34.000Z</updated>
+        <summary type="html"><![CDATA[ポッキー買いて〜！！！！！！！！！
+そのために外出して〜けどそれだけじゃ味気ね〜！！！！！
+散歩するぞ！
+続きをみる]]></summary>
+        <author>
+            <name>なのはなぐらむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221110「漫画数冊」]]></title>
         <id>hatenablog://entry/4207112889935549153</id>
