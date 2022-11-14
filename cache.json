@@ -15290,7 +15290,18 @@
       "title": "音MADとその周辺",
       "feedUrl": "https://otomad.jp/feed",
       "siteUrl": "https://otomad.jp",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://otomad.jp/?p=708",
+          "author": "ubu_chinchilla",
+          "description": "備忘録代わりに役に立ちそうな記事を集めています。 REAPER+Nameryを使用した音声切り分け（たいうおさんのブログ） https://taiuo443.hatenablog.com/entry/2021/09/05 […]",
+          "link": "https://otomad.jp/archives/708",
+          "publishedOn": "2022-11-14T11:59:42.000Z",
+          "wordCount": 3974,
+          "title": "REAPERを使った音MADの音声素材の切り分けについての参考記事",
+          "imageUrl": "https://otomad.jp/wp-content/uploads/REAPER.png"
+        }
+      ]
     },
     {
       "title": "パペロンのメモ帳",

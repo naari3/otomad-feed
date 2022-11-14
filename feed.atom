@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-14T11:04:05.570Z</updated>
+    <updated>2022-11-14T12:06:01.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[REAPERを使った音MADの音声素材の切り分けについての参考記事]]></title>
+        <id>https://otomad.jp/?p=708</id>
+        <link href="https://otomad.jp/archives/708"/>
+        <updated>2022-11-14T11:59:42.000Z</updated>
+        <summary type="html"><![CDATA[備忘録代わりに役に立ちそうな記事を集めています。 REAPER+Nameryを使用した音声切り分け（たいうおさんのブログ） https://taiuo443.hatenablog.com/entry/2021/09/05 […]]]></summary>
+        <author>
+            <name>ubu_chinchilla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[柴田vs変おば　公開します]]></title>
         <id>https://note.com/nendo31/n/nb4670dd90941</id>
