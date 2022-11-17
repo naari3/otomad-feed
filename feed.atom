@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-17T13:13:49.278Z</updated>
+    <updated>2022-11-17T14:04:07.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#33 11月2週]]></title>
+        <id>hatenablog://entry/4207112889937367198</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/11/17/230210"/>
+        <updated>2022-11-17T14:02:10.000Z</updated>
+        <summary type="html"><![CDATA[最後の方にすずめの戸締まりのネタバレあります
+ 
+S+にいった。
+ポケモン発売に間に合ってよかった。
+
+うおおおおおおおおおおお #スプラトゥーン3 #Splatoon3 #NintendoSwitch pic.twitter.com/EMRTil0CeP
+— nkaoobt (@nkaoobt) 2022年11月10日
+  
+ 
+ポケモン出るからスプラトゥーンは12月まで一旦終わりですかね。
+フェスで触ったシャプマが使いやすくて楽しかったので、次バンカラマッチ潜るならシャプマかも。
+ 
+IndieWorldを見た。
+7 DAYS TO END WITH YOUというゲームが面白そうで気になっている。
+ただアンテもomoriもやるやる言って結局まだ買ってないので、その時の気分次第って感じです。
+ 
+すずめの戸締まりを見た。浅めの感想にします。
+タイトルの出方がめちゃ良かった。事前に公開されてたから知ってはいたんですけど、映画館で見るとまた違いますね。
+新神戸駅が出てきたけどかなり一瞬だった。遊園地のシーンは熱かった。
+RADWIMPSの歌は最後に流れただけで「これRADWIMPSいるか...？」って思ってたけどメインテーマ？の作詞作曲がRADと知ってめっちゃいるじゃん！！ってなった。すずめ feat.十明、良すぎです。
+地震速報が流れたり地震のシーンがあるのは予告されてたけど、結構ガッツリというか、ただの演出じゃなく話の中心レベルだった。
+実際の震災がテーマになってるのもあって、地震速報が流れるくらいなら大丈夫だけど後半の描写は耐えられない、みたいな人結構いそう。僕はその土地にいた人たちの声を聞くシーンが結構来ました。
+ただそこの注意喚起をしちゃうとデカめのネタバレになっちゃうから、難しいですよね。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[片生の生放送を通知するスクリプトを作ったけどめんどいし役に立たなさそう]]></title>
+        <id>https://note.com/howtopourbeer/n/nfd9d87374842</id>
+        <link href="https://note.com/howtopourbeer/n/nfd9d87374842"/>
+        <updated>2022-11-17T13:58:12.000Z</updated>
+        <summary type="html"><![CDATA[タイトル通りです。
+とりあえずgithub貼っとくわ
+    
+続きをみる]]></summary>
+        <author>
+            <name>8bit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＃今の音MAD作者は知らない]]></title>
         <id>hatenablog://entry/4207112889937083045</id>
