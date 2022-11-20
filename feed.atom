@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-20T01:32:53.198Z</updated>
+    <updated>2022-11-20T02:39:51.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26780,28 +26780,6 @@ drive.google.com
 【漢字】㓟㕤㕰㕽㖄㖠㖣㗛㗩㙘㞞…]]></summary>
         <author>
             <name>ximcoの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今からお前たちを殴るッ！(唐突)]]></title>
-        <id>https://note.com/teihen_x_taka/n/n344ff1b0b264</id>
-        <link href="https://note.com/teihen_x_taka/n/n344ff1b0b264"/>
-        <updated>2021-11-20T14:14:15.000Z</updated>
-        <summary type="html"><![CDATA[#部活の思い出
-続きをみる]]></summary>
-        <author>
-            <name>底辺たか</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大西由里子が好きなだけ]]></title>
-        <id>https://note.com/teihen_x_taka/n/n7aa7f7cf0732</id>
-        <link href="https://note.com/teihen_x_taka/n/n7aa7f7cf0732"/>
-        <updated>2021-11-20T14:04:49.000Z</updated>
-        <summary type="html"><![CDATA[スーパーウルトラハイパーミラクルロマンチックに合わせて動画を動かしました
-続きをみる]]></summary>
-        <author>
-            <name>底辺たか</name>
         </author>
     </entry>
 </feed>
