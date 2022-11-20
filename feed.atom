@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-20T05:04:08.163Z</updated>
+    <updated>2022-11-20T06:04:16.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221116「運転」]]></title>
+        <id>hatenablog://entry/4207112889938224179</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/11/20/143640"/>
+        <updated>2022-11-20T05:36:40.000Z</updated>
+        <summary type="html"><![CDATA[自動車学校に行っており、仮免許の取得が近づいてきている。よく分からないがとりあえずこれをクリアすることで初心者レベルというかチュートリアルを突破できるというような認識だ。入学してから3か月ほど経っているが、これはわりあい遅いペースかもしれない、と教官の反応を見ていて思う。ペーパーテストと実際の運転の2つで評価されるわけで、ペーパーのほうはなんとかなりそうである（と考えつつ何もしていない）。ただ運転に関しては恐怖しかない。あと片手で数えるほどの教習を終えると試験らしいが、隣での指図抜きにしてできる自信は皆無だ。現状、何か隣で言われては慌てふためいてハンドルを切って失敗しまくる有様である。「次右ね」「右、右はえっとハンドルをこうして、指示器を出して……」みたいに混乱しているうちに教習の時間が終わる。私はマルチタスクが苦手だという意識があり、複数のことを同時並行で上手に処理することができない。これが運転に影響してるんだろうなと思いつつ、ここまでこれたことは事実なのでなんとか乗り切りたいと考えている。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【牛】牛、牛]]></title>
         <id>https://note.com/ssaymds/n/n87bafe1f331b</id>
