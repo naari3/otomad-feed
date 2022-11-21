@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-21T22:04:13.079Z</updated>
+    <updated>2022-11-21T23:04:16.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26804,30 +26804,6 @@ AviUtlのダウンロードもといプラグイン導入方法、は以下か�
 最後の方の台詞は龍が如くの新井弘明(CV:沢村一樹)です]]></summary>
         <author>
             <name>メモタルト</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人生ゲームに存在ないマス]]></title>
-        <id>https://note.com/ebideath/n/n52e9fd7319a2</id>
-        <link href="https://note.com/ebideath/n/n52e9fd7319a2"/>
-        <updated>2021-11-22T10:57:52.000Z</updated>
-        <summary type="html"><![CDATA[首吊りマス
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次の音MADの楽曲は何にしようかな]]></title>
-        <id>https://note.com/teihen_x_taka/n/nef9d1e81a2b1</id>
-        <link href="https://note.com/teihen_x_taka/n/nef9d1e81a2b1"/>
-        <updated>2021-11-22T10:42:36.000Z</updated>
-        <summary type="html"><![CDATA[音MADを作り始めて２か月くらい。
-一番悩むのは楽曲の選定だけど、成人向けゲームのオープニングが作りやすい(個人的な感想)
-次は電波的な曲がいいなあ
-続きをみる]]></summary>
-        <author>
-            <name>底辺たか</name>
         </author>
     </entry>
 </feed>
