@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-24T09:04:26.518Z</updated>
+    <updated>2022-11-24T10:04:22.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#34 11月3週]]></title>
+        <id>hatenablog://entry/4207112889939461314</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/11/24/184919"/>
+        <updated>2022-11-24T09:49:19.000Z</updated>
+        <summary type="html"><![CDATA[日曜に上がるべき内容が木曜にズレてるので、先週月曜~日曜の内容を書くようにしてるんですけど、普通に先週の月曜のことなんて何も覚えてません。良く無さすぎ。
+ 
+最近はずっとポケモンをやってます。楽しい。
+なんだかんだランクマ開始も近いので急がないといけない。楽しみです。
+ 
+音MADを上げました。見てね。
+www.nicovideo.jp
+カビキラー投稿祭最終日1時に作り始めて21時に投稿出来ました。
+このスピードで作れるならもっと投稿頻度上げられるはずなのに。
+今年4本目です。去年と並びました。やったね。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221122「転生・類友」]]></title>
         <id>hatenablog://entry/4207112889938983219</id>
