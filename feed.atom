@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-25T11:04:08.764Z</updated>
+    <updated>2022-11-25T12:05:17.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[にげられるかな？]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1210.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1210.html"/>
+        <updated>2022-11-25T11:16:30.000Z</updated>
+        <summary type="html"><![CDATA[ついにあの男がチームに加わりました。そう、タルタリヤです！強いのはもちろん、性能抜きにしても好きなキャラなのでうれしいです、本当にうれしいこの一週間は彼とテイワット中の魔物を狩りまくって過ごしましたいい弓がなかったので、彼のために冬極の白星もひきました血反吐も吐きましたまさか命定値MAXまでいくとはね……1凸神楽どうしよう……石使い果たしたけど後悔はしてません、っていうか満足  推しなんだから全ツッパしても]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[置いてかれちゃうよ～；；]]></title>
         <id>https://note.com/calpisco/n/n5f7431d73ed5</id>
