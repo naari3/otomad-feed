@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-26T16:04:05.118Z</updated>
+    <updated>2022-11-26T17:04:00.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26991,17 +26991,6 @@ AviUtlのダウンロードもといプラグイン導入方法、は以下か�
 続きをみる]]></summary>
         <author>
             <name>たくつち</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナナナナナイスネイチャ]]></title>
-        <id>https://note.com/teihen_x_taka/n/n8e46d5dca17b</id>
-        <link href="https://note.com/teihen_x_taka/n/n8e46d5dca17b"/>
-        <updated>2021-11-27T04:44:51.000Z</updated>
-        <summary type="html"><![CDATA[ナイスなネイチャです
-続きをみる]]></summary>
-        <author>
-            <name>底辺たか</name>
         </author>
     </entry>
 </feed>
