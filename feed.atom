@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-27T18:04:27.360Z</updated>
+    <updated>2022-11-27T19:04:11.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221126「無題」]]></title>
+        <id>hatenablog://entry/4207112889940384163</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/11/28/040138"/>
+        <updated>2022-11-27T19:01:38.000Z</updated>
+        <summary type="html"><![CDATA[午後に起きた。すべきことから逃げ続けている。夜に3人で集まって話をする機会があった。僕を除く2人が「すずめの戸締まり」を見ていたので気を遣わせてしまい、申し訳なかった。結局この次の日に誘われて突発的に見に行ったのだけど。なにもしないと毎日はずっと同じままで、その変化をつけるものとしてフィクションに触れたりしないといけないのだなとしぶしぶ思っている。めくるページと進む番号だけで毎日の進みを実感していた中高のころを取り戻したい。いまは届いた短歌の同人誌とか、連城三紀彦『夜よ鼠たちのために』を読みかけのままマーガレット・アトウッド『侍女の物語』を読み進めている。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創作意欲とは果たして何なのか]]></title>
         <id>https://note.com/nanana555/n/nabc1c4af16f1</id>
@@ -26992,33 +27002,6 @@ miruca（ミルカ）
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【犯罪？】赤信号は居なきゃ行っていい、それは本当なのか？調査してみた！]]></title>
-        <id>https://note.com/s0_/n/ndb755adee79e</id>
-        <link href="https://note.com/s0_/n/ndb755adee79e"/>
-        <updated>2021-11-28T07:00:50.000Z</updated>
-        <summary type="html"><![CDATA[「赤信号はいなきゃ行っていい、どうもリーシューです。」
-皆さんはこのセリフをご存知でしょうか？
-このセリフは、↓の動画にてリーシュー氏が発した言葉です。
-  
-続きをみる]]></summary>
-        <author>
-            <name>so</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bilibiliに投稿し始めて3日くらい経ちました]]></title>
-        <id>https://note.com/hadkimi/n/n9f7b09e042c7</id>
-        <link href="https://note.com/hadkimi/n/n9f7b09e042c7"/>
-        <updated>2021-11-28T06:04:00.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/hadkimi_/status/1463700233041641472
-
-とりあえず他の日本人作者にもbilibiliをどういう風に使うかだいたい分かるように、色々書いておきます
-続きをみる]]></summary>
-        <author>
-            <name>葉月味</name>
         </author>
     </entry>
 </feed>

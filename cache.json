@@ -682,6 +682,21 @@
       "siteUrl": "https://isitsutbustu-todoke.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889940384163",
+          "author": null,
+          "description": "午後に起きた。すべきことから逃げ続けている。夜に3人で集まって話をする機会があった。僕を除く2人が「すずめの戸締まり」を見ていたので気を遣わせてしまい、申し訳なかった。結局この次の日に誘われて突発的に見に行ったのだけど。なにもしないと毎日はずっと同じままで、その変化をつけるものとしてフィクションに触れたりしないといけないのだなとしぶしぶ思っている。めくるページと進む番号だけで毎日の進みを実感していた中高のころを取り戻したい。いまは届いた短歌の同人誌とか、連城三紀彦『夜よ鼠たちのために』を読みかけのままマーガレット・アトウッド『侍女の物語』を読み進めている。",
+          "link": "https://isitsutbustu-todoke.hatenablog.com/entry/2022/11/28/040138",
+          "publishedOn": "2022-11-27T19:01:38.000Z",
+          "wordCount": 225,
+          "title": "nikki_20221126「無題」",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/4207112889940257808",
           "author": null,
           "description": "自動車学校に入校して3か月ほど経ち、やっと仮免許のための試験を受ける段階になってきた。たぶん人よりも進みは遅い。暗記していて思うのは、問題を解いた方が勉強になるという点だ。国数英ではなく、理社のタイプである。暗記するだけ有利になる。さらに形式が正誤問題しかないわけで、どこが間違いかみたいなポイントも絞られている。問題をこなすほど「ここが問われるのか」という点がはっきしてくるため、そういうやり方が有利なのだと考えている。資格勉強などさらさらしていない（TOEIC以来）ので、こういう勉強と戦略みたいなものに触れる新鮮さと懐かしさがある。",
@@ -11711,17 +11726,7 @@
       "title": "葉月味",
       "feedUrl": "https://note.com/hadkimi/rss",
       "siteUrl": "https://note.com/hadkimi",
-      "articles": [
-        {
-          "id": "https://note.com/hadkimi/n/n9f7b09e042c7",
-          "author": null,
-          "description": "https://twitter.com/hadkimi_/status/1463700233041641472\n\nとりあえず他の日本人作者にもbilibiliをどういう風に使うかだいたい分かるように、色々書いておきます\n続きをみる",
-          "link": "https://note.com/hadkimi/n/n9f7b09e042c7",
-          "publishedOn": "2021-11-28T06:04:00.000Z",
-          "wordCount": 65,
-          "title": "bilibiliに投稿し始めて3日くらい経ちました"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ｱﾌﾞﾗゼ民",
@@ -13274,15 +13279,6 @@
           "wordCount": 1178,
           "title": "たのしそう",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/87865663/picture_pc_1476f6c46d1692372283cc6f12ce487c.png?width=800"
-        },
-        {
-          "id": "https://note.com/s0_/n/ndb755adee79e",
-          "author": null,
-          "description": "「赤信号はいなきゃ行っていい、どうもリーシューです。」\n皆さんはこのセリフをご存知でしょうか？\nこのセリフは、↓の動画にてリーシュー氏が発した言葉です。\n  \n続きをみる",
-          "link": "https://note.com/s0_/n/ndb755adee79e",
-          "publishedOn": "2021-11-28T07:00:50.000Z",
-          "wordCount": 45,
-          "title": "【犯罪？】赤信号は居なきゃ行っていい、それは本当なのか？調査してみた！"
         }
       ]
     },
