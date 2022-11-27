@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-27T17:04:28.826Z</updated>
+    <updated>2022-11-27T18:04:27.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[創作意欲とは果たして何なのか]]></title>
+        <id>https://note.com/nanana555/n/nabc1c4af16f1</id>
+        <link href="https://note.com/nanana555/n/nabc1c4af16f1"/>
+        <updated>2022-11-27T17:17:38.000Z</updated>
+        <summary type="html"><![CDATA[※この記事は非営利な創作を軸としたお話です。
+まず皆さん。創作意欲はありますか？
+今はない人でも昔はあったり、期限などを決めてもらって縛られると湧いてくる。みたいな人もいると思います。
+私自身も創作意欲に満ち溢れているときもあれば、何も創りたいという気持ちが起きないというときもあります。それこそこういう文章を書くこと自体も意欲があるときにしかできません。
+そんな話なんですけど、この創作意欲というものがどういうときに湧くのか？という結論じみたものを先日発見しましたので備忘録として残しておこうと思います。
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221125「無題」]]></title>
         <id>hatenablog://entry/4207112889940257808</id>
