@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-27T14:03:57.974Z</updated>
+    <updated>2022-11-27T15:04:11.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27004,21 +27004,6 @@ miruca（ミルカ）
 続きをみる]]></summary>
         <author>
             <name>葉月味</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【音MAD制作】めちゃくちゃ使えるAviUtlプラグイン&エモエモスクリプトまとめ]]></title>
-        <id>https://note.com/poison_fox/n/n756070c4e2d2</id>
-        <link href="https://note.com/poison_fox/n/n756070c4e2d2"/>
-        <updated>2021-11-28T02:07:02.000Z</updated>
-        <summary type="html"><![CDATA[入れておけばYTPMVからガチ映像までなんでも作れそうな秘伝のアレです
-これらと才能と情報網が有れば基本何でも作れます。ちなみに僕は才能と情報網がないので作れません
-また、３D表現は安易に手を出すと死んでしまうのでParallelcameraやGetcolorV2、拡張パーティクルRなどの”沼”は省略しています
-
-AviUtlのダウンロードもといプラグイン導入方法、は以下から
-続きをみる]]></summary>
-        <author>
-            <name>たくつち</name>
         </author>
     </entry>
 </feed>
