@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-28T08:05:02.321Z</updated>
+    <updated>2022-11-28T09:04:15.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26946,18 +26946,6 @@ www.nicovideo.jp
 ２．やや…]]></summary>
         <author>
             <name>ximcoの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日記]]></title>
-        <id>https://note.com/ebideath/n/nce025459f391</id>
-        <link href="https://note.com/ebideath/n/nce025459f391"/>
-        <updated>2021-11-28T20:54:41.000Z</updated>
-        <summary type="html"><![CDATA[(DL販売) ぱんださんようちえん  bermei.inazawa  https://studiocampanella.booth.pm/items/1416287 
-
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
