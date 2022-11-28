@@ -14368,7 +14368,28 @@
       "title": "Ximco",
       "feedUrl": "https://note.com/ximco_note/rss",
       "siteUrl": "https://note.com/ximco_note",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/ximco_note/n/n2d8a77217d17",
+          "author": null,
+          "description": "…そう周りから言われているのは、僕と僕の彼女の美咲だった。友人たちの間で、ここ最近ずっとアツアツなカップルと言われ続けている。\n　僕は彼女のどこに惹かれたんだったかな。二人で紡いできた過去の記憶に思いを馳せる。\n続きをみる",
+          "link": "https://note.com/ximco_note/n/n2d8a77217d17",
+          "publishedOn": "2022-11-28T13:00:00.000Z",
+          "wordCount": 2258,
+          "title": "「もう結婚しちゃいなよ」",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/92171749/rectangle_large_type_2_1136e427d9cc2cc6a5e117078e740fd5.png?width=800"
+        },
+        {
+          "id": "https://note.com/ximco_note/n/n7a51b2db440a",
+          "author": null,
+          "description": "「もっと小さな声で言えよ」\nそれが私が最後に聞いた、彼の声だった。\n彼となら、何でも話せた。\n彼となら、僕が僕でいられた。\nだから、失ってしまった代償はとても大きかった。\n続きをみる",
+          "link": "https://note.com/ximco_note/n/n7a51b2db440a",
+          "publishedOn": "2022-11-28T12:54:42.000Z",
+          "wordCount": 2225,
+          "title": "「もっと小さい声で言えよ」",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/92170928/rectangle_large_type_2_59aecbdcc4e79407b56fa4e5a6b52a78.png?width=800"
+        }
+      ]
     },
     {
       "title": "プリコネの年末年始はヤバイわよ！",

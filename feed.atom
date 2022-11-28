@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-28T12:05:33.371Z</updated>
+    <updated>2022-11-28T13:10:00.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「もう結婚しちゃいなよ」]]></title>
+        <id>https://note.com/ximco_note/n/n2d8a77217d17</id>
+        <link href="https://note.com/ximco_note/n/n2d8a77217d17"/>
+        <updated>2022-11-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[…そう周りから言われているのは、僕と僕の彼女の美咲だった。友人たちの間で、ここ最近ずっとアツアツなカップルと言われ続けている。
+　僕は彼女のどこに惹かれたんだったかな。二人で紡いできた過去の記憶に思いを馳せる。
+続きをみる]]></summary>
+        <author>
+            <name>Ximco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「もっと小さい声で言えよ」]]></title>
+        <id>https://note.com/ximco_note/n/n7a51b2db440a</id>
+        <link href="https://note.com/ximco_note/n/n7a51b2db440a"/>
+        <updated>2022-11-28T12:54:42.000Z</updated>
+        <summary type="html"><![CDATA[「もっと小さな声で言えよ」
+それが私が最後に聞いた、彼の声だった。
+彼となら、何でも話せた。
+彼となら、僕が僕でいられた。
+だから、失ってしまった代償はとても大きかった。
+続きをみる]]></summary>
+        <author>
+            <name>Ximco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221127「新海誠『すずめの戸締まり』」]]></title>
         <id>hatenablog://entry/4207112889940384452</id>
