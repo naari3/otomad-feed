@@ -13075,10 +13075,21 @@
       ]
     },
     {
-      "title": "レイマン",
+      "title": "レ",
       "feedUrl": "https://note.com/rayman6847/rss",
       "siteUrl": "https://note.com/rayman6847",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/rayman6847/n/n74558d4ddbf6",
+          "author": null,
+          "description": "3選なことに特に意味はありません　お目汚しな文章　ネタバレは無いと思う　いくぜ\n\nPost Void\n続きをみる",
+          "link": "https://note.com/rayman6847/n/n74558d4ddbf6",
+          "publishedOn": "2022-11-29T15:21:17.000Z",
+          "wordCount": 2611,
+          "title": "【マジです】最近遊んでおもしろかったゲーム3選【リアル真剣note】",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/92247004/rectangle_large_type_2_e16c3b61f88b01d8042e69abe11c9fbb.jpeg?width=800"
+        }
+      ]
     },
     {
       "title": "れでぃば",
