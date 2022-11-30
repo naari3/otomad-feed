@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-11-30T11:04:12.727Z</updated>
+    <updated>2022-11-30T12:05:38.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221129「雨に最中」]]></title>
+        <id>hatenablog://entry/4207112889941181096</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/11/30/205324"/>
+        <updated>2022-11-30T11:53:24.000Z</updated>
+        <summary type="html"><![CDATA[予定をこなしたけど長引いてしまい大変だったので、コンビニでチョコレートが増量されたチョコモナカジャンボを購入して食べた。雨が降りしきっており、傘をさしながら霧がかかったような暗い道路を見ながらモナカをかじって歩いた。チョコは増量した感じがあり、ぱきっと折れた感触が少し固かった。モナカの生地が想像以上にサクサクだったことのほうが印象的だった。だいたいちょっと溶けて湿っているのばかり食べていたのかもしれない。生地を噛むと粉がでてくるほどのサクサクさは初めてな気がした。帰ってから本当に動けなくなったのだけど、予定があったので1時間かけてがんばって起き上がった。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221128「よみおわり」]]></title>
+        <id>hatenablog://entry/4207112889941176357</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/11/30/204012"/>
+        <updated>2022-11-30T11:40:12.000Z</updated>
+        <summary type="html"><![CDATA[ずっとぼんやりしている。予定をこなしたのだけど、それ以外はぼんやりインターネットを見るかフォークギターを触っていただけな気がして実感がない。東京で開催された文学フリーマーケットには参加しなかったのだけど、知っている人が出している詩歌の本を何冊か注文していて、それが届いた。28、29日でおおよそそれを読み切った。けれどよく分からなかった。面白くないというわけではなく、一読しただけではまだ感覚を言葉にしきれなかった。詩歌の本においては読んだってなんなんだろうね、という気持ちはずっとある。いちど全ての作品に目を通すことで読んだとはいえるのだけど、小説などと異なって文の意味が確定しなかったりする。だから小説などの読後感とは異なっていて、そっちに慣れ切っているゆえに詩歌を読み終わったってなんなんだ…？というという不思議な気持ちがある。そのまま自分だけにしか書けないような詩歌、オリジナルってなんなのだろうということが数日ずっと頭をもたげている。考えている。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【マジです】最近遊んでおもしろかったゲーム3選【リアル真剣note】]]></title>
         <id>https://note.com/rayman6847/n/n74558d4ddbf6</id>
