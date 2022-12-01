@@ -15670,6 +15670,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://sehatakuro.github.io/2022/12/02/commentary",
+          "author": null,
+          "description": "この記事は音MAD Advent Calendar 2022に参加しています！",
+          "link": "https://sehatakuro.github.io/2022/12/02/commentary",
+          "publishedOn": "2022-12-01T15:00:00.000Z",
+          "wordCount": 513,
+          "title": "勝手に編集後記 vol.1",
+          "imageUrl": "https://github.com/SehataKuro/SehataKuro.github.io/blob/main/madcommentary/%E3%82%B5%E3%82%A4%E3%83%88%E7%94%A8%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB.png"
+        },
+        {
           "id": "https://sehatakuro.github.io/2022/11/10/madtactics",
           "author": null,
           "description": "音声",
