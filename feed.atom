@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-01T08:05:21.639Z</updated>
+    <updated>2022-12-01T09:04:20.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MADにおけるコンテクストの作り方‐「キラーソーニャエデュケーション」を例に考える‐]]></title>
+        <id>hatenablog://entry/4207112889928398321</id>
+        <link href="https://lixy.hatenablog.com/entry/2022/12/01/171946"/>
+        <updated>2022-12-01T08:19:46.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MAD Advent Calendar 2022に参加しています。(諸事情により順番が一部前後しています。すみません！)
+はじめに
+1.曲、素材の解釈
+2.ストーリーを考える
+3.歌詞改変
+4.セリフ合わせ
+はじめに
+Lixyと申します。私が発案し、ディレクションと音声制作を務めた「キラーソーニャエデュケーション」が、10月に「強烈誘拐」アカウントから投稿されました。
+
+和音の耳コピは葉月味(https://www.nicovideo.jp/user/96226560)さんに担当していただきました。ありがとうございます。
+ 
+当記事ではこの動画を例に、音MADにおけるコンテクストの作り方について解説していきます（ほとんど我流ですので、使用ツールなどは皆さんのお好みに合わせて調整することを推奨します。僕は基本的にGoogleドキュメントを用いて整理していました）。
+あくまでもこの記事は、文脈やストーリーを再構築するための方法論に焦点を当てたものです。したがって、「キラーソーニャエデュケーション」のストーリー解説は必要最小限にしています。ご了承ください（そして気になった方はぜひたくさん考察してみてください。ほとんどすべての描写に意図を込めています）。また、一部内容が拙作「ラグとレイン」の解説記事と重複していますので、すでにそちらをご覧になっている方は適宜読み飛ばしていただいて構いません。
+
+1.曲、素材の解釈
+音MADはその性質上、文脈を作る場合に素材となるコンテンツと原曲の2つについて精通している必要があります。これら2つのメッセージ性や世界観がぴったり合致していることは極めて稀で、基本的に素材と曲の間には多少のすれ違いや摩擦が存在しているため、それぞれの文脈が繋がるように解釈を進めていく作業が必要です。
+「キラーソーニャエデュケーション」は、キルミーベイベーとビ…]]></summary>
+        <author>
+            <name>空回り</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221129「雨に最中」]]></title>
         <id>hatenablog://entry/4207112889941181096</id>
