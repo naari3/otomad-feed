@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-02T19:04:03.527Z</updated>
+    <updated>2022-12-02T20:04:20.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26971,19 +26971,6 @@ Wikipediaより
 ※「を」→「お」　「ぢ」→「じ」　「づ」→「ず」として統合…]]></summary>
         <author>
             <name>メモタルト</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[適当に音窓アドベント 2021 - 3日目【音MAD作者をステータスにしたい人について】]]></title>
-        <id>https://note.com/natto0141/n/nc91d0715c8d5</id>
-        <link href="https://note.com/natto0141/n/nc91d0715c8d5"/>
-        <updated>2021-12-03T07:54:48.000Z</updated>
-        <summary type="html"><![CDATA[僕です、自己満足企画３日目です。
-
-3日目【音MAD作者をステータスにしたい人について】
-続きをみる]]></summary>
-        <author>
-            <name>Natto(ナット)</name>
         </author>
     </entry>
 </feed>
