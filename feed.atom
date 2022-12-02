@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-02T13:07:50.796Z</updated>
+    <updated>2022-12-02T14:04:18.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[M-1準決勝　敗退組レポ]]></title>
+        <id>https://note.com/ssaymds/n/n80099ad7bfe4</id>
+        <link href="https://note.com/ssaymds/n/n80099ad7bfe4"/>
+        <updated>2022-12-02T13:47:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは
+準決勝は見たい…でも決勝は初見で楽しみたい…
+ので、準決勝の見逃し配信で敗退組のネタだけ見てみましたので折角なので感想を書いてみました
+続きをみる]]></summary>
+        <author>
+            <name>ておつく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[凍死]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1211.html</id>
