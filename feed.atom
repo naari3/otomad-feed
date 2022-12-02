@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-02T09:04:14.963Z</updated>
+    <updated>2022-12-02T10:04:33.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[凍死]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1211.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1211.html"/>
+        <updated>2022-12-02T09:23:29.000Z</updated>
+        <summary type="html"><![CDATA[布団に包まってるだけじゃ凍死しそうだったので暖房つけてしまいました  荒波です急に冷えまくってて冬と仲良くできそうにないイワナ、書かなかったコメント？いきなりグイグイくるなってダイソーでナタデココ入りブドウジュース？を買ったんだけど隣に置いてあったバジルシードドリンクがマジでキモかったどう見てもカエルの卵じゃん、やべぇよ味なんて想像もつかない  そもそもバジルシードってなに？バジルの種ってこんな卵なの]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勝手に編集後記 vol.1]]></title>
         <id>https://sehatakuro.github.io/2022/12/02/commentary</id>
