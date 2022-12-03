@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-03T18:04:19.590Z</updated>
+    <updated>2022-12-03T19:04:12.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26918,16 +26918,6 @@ ShiMa
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちっぽけな革命性]]></title>
-        <id>https://anond.hatelabo.jp/20211204154852</id>
-        <link href="https://anond.hatelabo.jp/20211204154852"/>
-        <updated>2021-12-04T06:48:52.000Z</updated>
-        <summary type="html"><![CDATA[私はよくアニメキャ...]]></summary>
-        <author>
-            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
         </author>
     </entry>
 </feed>
