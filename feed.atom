@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-03T07:04:03.599Z</updated>
+    <updated>2022-12-03T08:04:34.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26903,18 +26903,6 @@ ShiMa
         <summary type="html"><![CDATA[私はよくアニメキャ...]]></summary>
         <author>
             <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メモ】つばきちセリフ書き起こし]]></title>
-        <id>https://note.com/yabaiwayo/n/n1ca361ffac86</id>
-        <link href="https://note.com/yabaiwayo/n/n1ca361ffac86"/>
-        <updated>2021-12-03T19:29:43.000Z</updated>
-        <summary type="html"><![CDATA[8話
-椿森幸です
-続きをみる]]></summary>
-        <author>
-            <name>プリコネの年末年始はヤバイわよ！</name>
         </author>
     </entry>
 </feed>
