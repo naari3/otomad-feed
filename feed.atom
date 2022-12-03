@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-03T14:03:58.012Z</updated>
+    <updated>2022-12-03T15:04:45.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MADに物語を込めて、「ストーリー系MAD」を作ろう]]></title>
+        <id>https://note.com/fourangle/n/nb9dd81e44698</id>
+        <link href="https://note.com/fourangle/n/nb9dd81e44698"/>
+        <updated>2022-12-03T15:00:36.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は、「音MAD Advent Calendar 2022」に参加しています！
+※本記事は、アニメーション「ゾンビランドサガ」「リコリス・リコイル」のネタバレを含めています！
+お久しぶりです、そして初めての方は初めまして、音MAD作者の四角ともうします。この前まで音MAD関連記事をたまに書いていて最近は結構控えめになってしまいましたが、栄光にも音MAD Advent Calendar 2022の企画に参加することになりまた一つの記事を書くことになりました。それではよろしくお願いいたします。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現在の音MADを形作る、文脈的に重要な音MAD8本を選んでみる]]></title>
+        <id>https://note.com/kasutera20/n/n62e2fc2169a9</id>
+        <link href="https://note.com/kasutera20/n/n62e2fc2169a9"/>
+        <updated>2022-12-03T14:07:22.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MADアドベントカレンダーに参加しています。
+      adventar.org  
+続きをみる]]></summary>
+        <author>
+            <name>かすてら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M-1準決勝　敗退組レポ]]></title>
         <id>https://note.com/ssaymds/n/n80099ad7bfe4</id>
