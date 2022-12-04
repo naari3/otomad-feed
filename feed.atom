@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-04T00:14:18.964Z</updated>
+    <updated>2022-12-04T01:31:25.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26847,55 +26847,6 @@ A：見つけたー
 …]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もし音MAD作者が調音音声学を学んだら【音MAD Advent Calendar 2021】]]></title>
-        <id>hatenablog://entry/13574176438032663760</id>
-        <link href="https://shima1296.hatenablog.com/entry/2021/12/04/221208"/>
-        <updated>2021-12-04T13:12:08.000Z</updated>
-        <summary type="html"><![CDATA[※本記事は「音MAD Advent Calendar 2021」4日目の記事です。他にも面白い記事が上がる予定なので是非。
-adventar.org
-
-こんにちは。ShiMaと申します。チャー研MADをメインに活動しております。
-ShiMa
-代表作は、「ヒカマニサイコトロピック」「ドーナツに穴があってよかったな～」「ポシャルル／亀井有馬＆ユージ」などです。
-
-
-
-さて、この3作品のどれにおいても僕は人力VOCALOIDなる技術を用いたわけですが、この記事ではそんな人力VOCALOIDについて検討していきます。
-そして、もう一つの主題について。
-アドベントカレンダーの企画に誘われたのでネタを探していたら、「調音音声学」という音MADに応用できそうな学問を見つけました。
-※僕は音声学の専門家ではないので、もしかしたら専門的な視点から見たら不正確な表現などあるかもしれません。ご了承ください。
-要約
-はじめに
-参考文献
-調音音声学とは
-人力VOCALOIDとは
-音MAD外での音声合成技術の使われ方
-人力VOCALOIDの方法
-調音音声学の知識
-子音
-「タ」「チ」「ツ」の子音は違う
-子音の分類（難しいから飛ばしてもいいよ）
-調音のしかたが似ている子音は、聞こえも似る
-補遺　～音MADと摩擦音・破擦音～
-母音
-母音の分類（難しいから飛ばしてもいいよ）
-「ヤ」は「イア」？
-本振りサディスティック
-無声化母音
-二重母音
-最後に
-脚注
-要約
-この記事で最も伝えたいことは、「調音音声学を学ぶと音MADの音声に関する諸現象を理論的に説明できるようになるよ」ということです。
-はじめに
-まず、ここで紹介する知識は、音MADを作るうえで必ず必要になる知識ではありません。
-ですが、こうした知識を持っておくことは、表現を豊かにする可能性があります。
-特に人力VOCALOID方面において、より自然な調教にで…]]></summary>
-        <author>
-            <name>ShiMaのブログ</name>
         </author>
     </entry>
 </feed>
