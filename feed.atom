@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-04T14:04:04.588Z</updated>
+    <updated>2022-12-04T15:04:04.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『音MAD』はいつ生まれ、いつ普及したのか〜10年前の音MADタグ昔話〜]]></title>
+        <id>https://note.com/hacocone/n/nc63ac67519ad</id>
+        <link href="https://note.com/hacocone/n/nc63ac67519ad"/>
+        <updated>2022-12-04T15:00:19.000Z</updated>
+        <summary type="html"><![CDATA[こんばんはー！　音MAD最終報告
+（その前に）
+※この記事は音MAD Advent Calendar 2022　12月5日目の参加記事です！
+
+
+続きをみる]]></summary>
+        <author>
+            <name>はここれ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MADに物語を込めて、「ストーリー系MAD」を作ろう]]></title>
         <id>https://note.com/fourangle/n/nb9dd81e44698</id>
