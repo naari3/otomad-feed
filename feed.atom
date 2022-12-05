@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-05T20:04:15.502Z</updated>
+    <updated>2022-12-05T21:04:20.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26787,18 +26787,6 @@ https://adventar.org/calendars/6506
 続きをみる]]></summary>
         <author>
             <name>Natto(ナット)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M-1グランプリ2021決勝の予想]]></title>
-        <id>https://note.com/ssaymds/n/n8ed51cd0341b</id>
-        <link href="https://note.com/ssaymds/n/n8ed51cd0341b"/>
-        <updated>2021-12-06T08:23:50.000Z</updated>
-        <summary type="html"><![CDATA[ておつっつ〜
-昨年に引き続き今年もM-1決勝の予想をします
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
 </feed>
