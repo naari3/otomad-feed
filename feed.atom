@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-05T18:04:32.387Z</updated>
+    <updated>2022-12-05T19:04:03.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26799,18 +26799,6 @@ https://adventar.org/calendars/6506
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[糸電話 セリフ 文字起こし]]></title>
-        <id>https://note.com/futon_is_god/n/ndf8759b8155c</id>
-        <link href="https://note.com/futon_is_god/n/ndf8759b8155c"/>
-        <updated>2021-12-06T06:33:05.000Z</updated>
-        <summary type="html"><![CDATA[1話
-A：見つけたー
-続きをみる]]></summary>
-        <author>
-            <name>片知</name>
         </author>
     </entry>
 </feed>
