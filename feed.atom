@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-05T03:04:32.969Z</updated>
+    <updated>2022-12-05T04:05:45.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26811,17 +26811,6 @@ A：見つけたー
 続きをみる]]></summary>
         <author>
             <name>片知</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テスト]]></title>
-        <id>https://note.com/sweets_farting/n/n83e0e06984c5</id>
-        <link href="https://note.com/sweets_farting/n/n83e0e06984c5"/>
-        <updated>2021-12-05T15:37:51.000Z</updated>
-        <summary type="html"><![CDATA[ニコニコのブロマガが消し飛んだのではじめてみました
-続きをみる]]></summary>
-        <author>
-            <name>角煮サイダ一</name>
         </author>
     </entry>
 </feed>
