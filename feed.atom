@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-06T00:13:47.824Z</updated>
+    <updated>2022-12-06T01:31:19.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26748,33 +26748,6 @@ https://adventar.org/calendars/6506
 続きをみる]]></summary>
         <author>
             <name>Natto(ナット)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セリフ合わせ構成論～セリフ合わせの考え方～]]></title>
-        <id>https://note.com/klunakapa/n/nb4f468146f05</id>
-        <link href="https://note.com/klunakapa/n/nb4f468146f05"/>
-        <updated>2021-12-06T13:11:01.000Z</updated>
-        <summary type="html"><![CDATA[※注意事項※・割と適当なこと言ってるので「アーそういう考え方もあるのね」ぐらいの気持ちでいてください。・あまり技術的な内容には触れません。どちらかというとコンセプト的な話になります。・この記事は音MAD Advent Calendar2021に参加しています　６日目になります
-      adventar.org  
-続きをみる]]></summary>
-        <author>
-            <name>かっぱ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図形編シーズン1 （例011〜例020） を振り返る]]></title>
-        <id>https://note.com/dokozonosyake/n/n4b1a833e3432</id>
-        <link href="https://note.com/dokozonosyake/n/n4b1a833e3432"/>
-        <updated>2021-12-06T12:22:51.000Z</updated>
-        <summary type="html"><![CDATA[企画「実例に学ぶ音MAD映像の要素」の図形編シーズン1が終了しました。
-長かったですね〜（サボっていたので2ヶ月以上かかってしまいました…）
-全10回をここで振り返っておきましょう。
-
-図形編テーマカラー: #BF3F6C - moderate pink
-続きをみる]]></summary>
-        <author>
-            <name>しゃけ</name>
         </author>
     </entry>
 </feed>
