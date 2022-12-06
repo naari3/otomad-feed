@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-06T05:04:18.919Z</updated>
+    <updated>2022-12-06T06:04:32.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26736,18 +26736,6 @@ https://adventar.org/calendars/6506
 続きをみる]]></summary>
         <author>
             <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[適当に音窓アドベント 2021 - 7日目【プロの作る音MADじゃない音MAD】]]></title>
-        <id>https://note.com/natto0141/n/naa4f9d78dcaf</id>
-        <link href="https://note.com/natto0141/n/naa4f9d78dcaf"/>
-        <updated>2021-12-06T17:19:58.000Z</updated>
-        <summary type="html"><![CDATA[僕です、自己満足企画7日目です。
-7日目【プロの作る音MADじゃない音MAD】
-続きをみる]]></summary>
-        <author>
-            <name>Natto(ナット)</name>
         </author>
     </entry>
 </feed>
