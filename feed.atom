@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-07T01:32:11.601Z</updated>
+    <updated>2022-12-07T02:30:12.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26731,19 +26731,6 @@ https://adventar.org/calendars/6506
 続きをみる]]></summary>
         <author>
             <name>Natto(ナット)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第②回　大内生お絵描き選手権　開催のお知らせ]]></title>
-        <id>https://note.com/oouc2/n/nefbddbb60df4</id>
-        <link href="https://note.com/oouc2/n/nefbddbb60df4"/>
-        <updated>2021-12-07T14:26:46.000Z</updated>
-        <summary type="html"><![CDATA[ブロマガに比べてどうもnotoが好きになれない、どうも大内乙打です。
-あの内輪クソイベントがまた行われるみたいです。
-
-続きをみる]]></summary>
-        <author>
-            <name>大内乙打</name>
         </author>
     </entry>
 </feed>
