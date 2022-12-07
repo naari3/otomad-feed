@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-06T23:04:30.957Z</updated>
+    <updated>2022-12-07T00:14:45.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#36 12月1週]]></title>
+        <id>hatenablog://entry/4207112889942816357</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/12/07/091013"/>
+        <updated>2022-12-07T00:10:13.000Z</updated>
+        <summary type="html"><![CDATA[週末はちょっとした熱が出て寝込んでいた。コロナでもインフルでもなくて良かった。ただの風邪だったらしい。
+平熱がかなり低めなので体温計の写真を送ってもあんまり心配されながち。僕の微熱、普通の人の平熱らしいです。
+ 
+SVランクマが始まった。とても楽しい。
+前日にパラドックス準伝使用禁止が発表されたけど古代ドンファンしか入れてなかったしそもそもそんなちゃんとした構築を組んでたわけでも無かったのでどうにかなった。
+とりあえずスパボまでは行った。
+今作はマスボ入れて終わりじゃなくて行けるところまで行きたい。
+ 
+久々に馬券が当たった。チャンピオンズカップ。
+6月末の宝塚記念を最後に週1レース1000円を上限にするようにしたけど、どうやら下半期のプラス収支が確定したらしい。
+1000円の制限そのものよりは、それによって馬連ばっか買うようになったのが良い気がする。
+これ、制限を10000円にしたら収支も10倍になるのでは？（天才の発想）]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再生数をめちゃくちゃ増やした最強のサムネ構図]]></title>
         <id>https://note.com/rupea/n/n1ba66c8e9159</id>
