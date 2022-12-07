@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-07T11:04:34.645Z</updated>
+    <updated>2022-12-07T12:05:26.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -231,6 +231,16 @@ SVランクマが始まった。とても楽しい。
 続きをみる]]></summary>
         <author>
             <name>rupea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制作物一覧]]></title>
+        <id>https://sehatakuro.github.io/2022/12/06/works</id>
+        <link href="https://sehatakuro.github.io/2022/12/06/works"/>
+        <updated>2022-12-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022 二晩合作 9/19 おかえり 5/5 20220412 Djmix ラ・ビ・アン・ローズ 4/12 20220407 Djmix おしゃべりぽぽちゃん vs. うるさいオタク 4/7 【MASHUP】メルティダンス【メルティランドナイトメア × YONA YONA DANCE】 4/3 【MASHUP】快感フレンズを添えるだけ【EYE × ぼくのフレンド】 4/2 二晩合作 3/7 月夜の再創世記【バカヤロイド合作】 3/6 【合作】ガヴめっど【音MAD】 1/9 主催,サムネイル,ロゴ,映像まとめ,1-チルミルチルノ]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>
