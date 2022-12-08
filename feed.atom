@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-08T14:04:05.730Z</updated>
+    <updated>2022-12-08T15:04:13.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【実写】1週間音MAD作者の名前かアイコンの食べ物しか食べられない生活したら高い食べ物や入手しずらい食べ物ばっかで破産した]]></title>
+        <id>https://note.com/kochi928/n/ne23e0fa43684</id>
+        <link href="https://note.com/kochi928/n/ne23e0fa43684"/>
+        <updated>2022-12-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はいどうもこち横です
+今回は、音MAD Advent Calendar 2022に参加していこうと思います。
+
+続きをみる]]></summary>
+        <author>
+            <name>こち横</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.53　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
         <id>hatenablog://entry/4207112889943411962</id>
