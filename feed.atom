@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-08T01:31:42.599Z</updated>
+    <updated>2022-12-08T02:27:01.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26881,18 +26881,6 @@ https://adventar.org/calendars/6506
 続きをみる]]></summary>
         <author>
             <name>aun6june</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD10選決定]]></title>
-        <id>https://note.com/ssaymds/n/ne43fe68797ab</id>
-        <link href="https://note.com/ssaymds/n/ne43fe68797ab"/>
-        <updated>2021-12-08T14:26:31.000Z</updated>
-        <summary type="html"><![CDATA[ておつっつ〜
-(この記事は先月書いたものですがここだけ今日書いてます、もう音MAD10選投票開始したとの事で公開しました)
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
 </feed>
