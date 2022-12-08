@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-08T20:04:10.153Z</updated>
+    <updated>2022-12-08T21:04:20.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26934,20 +26934,6 @@ AcFunという名前がAnime Com…]]></summary>
 続きをみる]]></summary>
         <author>
             <name>Natto(ナット)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【検証】字の丁寧さと音MADの上手さの関係性]]></title>
-        <id>https://note.com/aun6june/n/n3f881637fa91</id>
-        <link href="https://note.com/aun6june/n/n3f881637fa91"/>
-        <updated>2021-12-09T08:18:37.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。
-音MADアドベントカレンダー9日目の記事を担当する水無月☆★です。
-音MAD Advent Calendar 2021
-https://adventar.org/calendars/6506
-続きをみる]]></summary>
-        <author>
-            <name>aun6june</name>
         </author>
     </entry>
 </feed>
