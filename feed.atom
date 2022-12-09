@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-09T16:04:30.123Z</updated>
+    <updated>2022-12-09T17:04:12.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ふん、ゴミか]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1212.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1212.html"/>
+        <updated>2022-12-09T16:42:35.000Z</updated>
+        <summary type="html"><![CDATA[さっそく魈のために先輩引いてきた  けど1凸どまりでウーン状態です喋るたびにキャトラのことを思い出してしまいますまだ育ちきってないけど、やっぱり耐性ダウンはえらくて魈のダメージが目に見えてあがるのでたのしいですPT単位の火力がどうかはしらんけど……サブ垢は鍾離すらいないので十分ありがたいはず地味に便利なのが、スキルで狙い撃ちした所に風を巻き起こせる（LENZみたいなもん）ので動物を狩りやすい所ティミー前のハ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲーミングキーボードを買った]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-107.html</id>
