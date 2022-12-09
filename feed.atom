@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-09T03:06:16.698Z</updated>
+    <updated>2022-12-09T04:04:31.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26880,18 +26880,6 @@ AcFunという名前がAnime Com…]]></summary>
 続きをみる]]></summary>
         <author>
             <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来年の目標]]></title>
-        <id>https://note.com/fourangle/n/n220978a505e1</id>
-        <link href="https://note.com/fourangle/n/n220978a505e1"/>
-        <updated>2021-12-09T15:26:20.000Z</updated>
-        <summary type="html"><![CDATA[・ゾンビランドサガ正統派を少なくとも2本作る
-・エア本の5祭り全部投稿する
-続きをみる]]></summary>
-        <author>
-            <name>四角</name>
         </author>
     </entry>
 </feed>
