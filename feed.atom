@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-10T21:04:17.070Z</updated>
+    <updated>2022-12-10T22:04:33.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27002,16 +27002,6 @@ adventar.org
 AcFunという名前がAnime Com…]]></summary>
         <author>
             <name>七曲り</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[anond:20211211183618]]></title>
-        <id>https://anond.hatelabo.jp/20211211183945</id>
-        <link href="https://anond.hatelabo.jp/20211211183945"/>
-        <updated>2021-12-11T09:39:45.000Z</updated>
-        <summary type="html"><![CDATA[ば、ば、ば、僕は、...]]></summary>
-        <author>
-            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
         </author>
     </entry>
 </feed>
