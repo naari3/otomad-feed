@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-10T03:04:20.724Z</updated>
+    <updated>2022-12-10T04:04:27.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26954,17 +26954,6 @@ AcFunという名前がAnime Com…]]></summary>
 続きをみる]]></summary>
         <author>
             <name>雨天雨衣</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[土曜日だがもう死にたい]]></title>
-        <id>https://note.com/ebideath/n/n1b7866e8a2e7</id>
-        <link href="https://note.com/ebideath/n/n1b7866e8a2e7"/>
-        <updated>2021-12-10T15:58:56.000Z</updated>
-        <summary type="html"><![CDATA[終わりだ…
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
