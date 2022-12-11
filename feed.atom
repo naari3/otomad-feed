@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-11T01:31:42.273Z</updated>
+    <updated>2022-12-11T02:30:01.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26964,21 +26964,6 @@ BandcampはCDジャケットが並んでいるのでとてもデザインの参�
 その技術を用いることで極論どんなことでも実現出来てしまう。つまり…]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MADという人形遊び ─音に対する映像編集のアプローチ]]></title>
-        <id>https://note.com/readybug_/n/nc2e7eccda258</id>
-        <link href="https://note.com/readybug_/n/nc2e7eccda258"/>
-        <updated>2021-12-11T13:47:37.000Z</updated>
-        <summary type="html"><![CDATA[「原曲不使用で音程合わせしかしてない音MADってDTMと変わんなくね？」
-「耳コピするにしろちゃんとした音源買えば良くね？」
-「なんでわざわざ権利侵害して妙な加工しまくってんの？」
-という意見を以前耳にしました。
-…そうか？本当に音MADとDTMって同じなのか？
-続きをみる]]></summary>
-        <author>
-            <name>れでぃば</name>
         </author>
     </entry>
 </feed>
