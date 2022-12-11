@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-11T14:04:14.460Z</updated>
+    <updated>2022-12-11T15:04:15.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年を振り返って来年の目標を]]></title>
+        <id>https://note.com/fourangle/n/n10446cab2303</id>
+        <link href="https://note.com/fourangle/n/n10446cab2303"/>
+        <updated>2022-12-11T14:27:08.000Z</updated>
+        <summary type="html"><![CDATA[個人作に関してはまじで酷い一年でした。ウケられずのゴリ押し動画の比率を減らすことを目標にしていたんですが、ただ全体的な投稿量が減っただけで良質の動画の数が逆に減っている気がします。見事に作りました！と言える動画が「マーシャル・ブロコライザー」しかない気がします。「ブツダンス」とか「私もいきまっ…(きゅうくらりん)」「ヒトデマゾク」「バトルデモワンドーム」など頑張った動画は何本かありましたけど何かが足りないと感じてしまいます。特に「リコリオドル」については色んな人からお助けも頂きながら、3ヶ月他の作品を我慢しながらやったのも関わらず色々満足できない動画となってしまいました。
+かわりに合作歴は物凄い豊かになりました。「ウマ娘競走曲」「UDKゲームパーティー」「黄猿光誕祭2022」「エア本15年爆発史」など、去年の続いて幅広いスペクトラムの合作から呼んて下さり本当に感謝の心しかございません。単品も自分のアイデアや理想的な表現をだいたい描けた気がします。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nerdtronics2のロゴを作りました]]></title>
         <id>hatenablog://entry/4207112889943803190</id>
