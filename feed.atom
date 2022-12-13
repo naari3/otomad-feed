@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-13T12:05:27.764Z</updated>
+    <updated>2022-12-13T13:08:37.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[わかさぎAV計画の進捗について]]></title>
+        <id>https://note.com/oouc2/n/n5f96a600bd8e</id>
+        <link href="https://note.com/oouc2/n/n5f96a600bd8e"/>
+        <updated>2022-12-13T12:34:38.000Z</updated>
+        <summary type="html"><![CDATA[お疲れ様です。中の下音MAD作者の大内です。
+僕の野望を紹介する記事を今年7月頃に書きました。
+続きをみる]]></summary>
+        <author>
+            <name>大内乙打</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221204「冬に長距離を歩くべきではない」]]></title>
         <id>hatenablog://entry/4207112889944695117</id>
