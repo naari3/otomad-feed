@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-13T02:30:39.287Z</updated>
+    <updated>2022-12-13T03:10:29.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27201,35 +27201,6 @@ span.v{
 続きをみる]]></summary>
         <author>
             <name>ゎけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MADにおけるオケヒのような音について]]></title>
-        <id>https://note.com/saradisk/n/ncf863ecfdfd9</id>
-        <link href="https://note.com/saradisk/n/ncf863ecfdfd9"/>
-        <updated>2021-12-13T15:06:23.000Z</updated>
-        <summary type="html"><![CDATA[音MAD Advent Calendar 2021
-この記事は音MAD Advent Calendar 2021の13日目の記事です。
-続きをみる]]></summary>
-        <author>
-            <name>皿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民党 山崎拓氏 党員資格1年停止]]></title>
-        <id>hatenablog://entry/13574176438043070365</id>
-        <link href="https://underdefinition.hatenadiary.jp/entry/20211213/News"/>
-        <updated>2021-12-13T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[山崎拓氏、党員資格停止１年　自民 (時事ドットコム)
-自民党は１３日の党紀委員会で、山崎拓元副総裁が先の衆院選の際、立憲民主党の辻元清美氏（大阪１０区）を応援したことを受け、同日から１年間の党員資格停止処分にすると決定した。総裁選の選挙権が停止されるほか、党大会など党内会議への出席もできなくなる。
-
-(後略)
-辻元清美氏を応援 山崎拓氏を1年間党員資格停止処分 自民 (NHK政治マガジン)
-(前略)
-
-党紀委員長を務める衛藤 元一億総活躍担当大臣は記者団に対し「山崎氏からは『大変な迷惑をかけて申し訳なく、重々反省している』という弁明書をもらったが、規約に基づいて処分した」と述べました。]]></summary>
-        <author>
-            <name>muneo house information</name>
         </author>
     </entry>
 </feed>
