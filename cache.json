@@ -6532,6 +6532,28 @@
       ]
     },
     {
+      "title": "ひとます",
+      "feedUrl": "https://mas134.hateblo.jp/rss",
+      "siteUrl": "https://mas134.hateblo.jp/",
+      "articles": [
+        {
+          "id": "hatenablog://entry/4207112889944874294",
+          "author": null,
+          "description": "DJも音MAD-mixも出してないので持ってった機材載せます！\n順番に意味はない。\n1.blackmagicdesign ATEM Mini Pro ISO\nwww.blackmagicdesign.com\nHDMIスイッチャーとして新規購入\nこんぐらいの機材買えばいいじゃろ！MOGRAのレンタル機材リストにもあるし！\n...と思ってたら見せ場で映像でトラブルが出てしまった(原因はよく分かっていない)。\nあとATEM Miniだとパワーが足りないとかでMOGRAのプロジェクターをフル活用できなかった（本当は両側の壁に投影される）。\n本来VJ用ではないので、別のスイッチャーを買っときましょう。\nただ操作が簡単なのと動作のレスポンスはバッチシなので今後は自宅で実験用メインに使う予定。\nこれに外付けのSSD繋げば当日投影されてた映像をそのまま保存できたと思うけど、それが原因でトラブル起きたら怖いのでやめておきました。\n \n2.撮影用の三脚\nDJブース内を撮影するために持って行ったやつ。\nどこに置けるか分からないので複数持ってった。\n \nライトスタンド\nhttps://www.amazon.co.jp/gp/product/B01LZ1Y076/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1\n軽量で持ち運びが簡単かつ高さがあるので2019年のnerdtronicsで使ったやつ。\n今回は通路を塞いでしまうので設置できず、持って行ったけど不採用。\n \n折り畳み三脚\nhttps://www.amazon.co.jp/gp/product/B09M8B8KNB/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1\nもうちょっとコンパクトなやつも用意しようと思って買ってみた。\n軽いし小さいし、デフォル…",
+          "link": "https://mas134.hateblo.jp/entry/2022/12/14/011111",
+          "publishedOn": "2022-12-13T16:11:11.000Z",
+          "wordCount": 439,
+          "title": "nerdtronics2 セトリ #ナートロ2",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        }
+      ]
+    },
+    {
       "title": "mimaraka's blog",
       "feedUrl": "https://mimaraka.hateblo.jp/rss",
       "siteUrl": "https://mimaraka.hateblo.jp/",

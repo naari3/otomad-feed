@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-13T18:04:32.273Z</updated>
+    <updated>2022-12-13T18:07:16.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -129,6 +129,40 @@ nikki_20221202「My Top Songs 2022ひとことコメント その３」 - 遺失
 はじめて聴いた人間としては最初に「ひなちくんのうた」でバックグラウンドを語っておきつつ、最後に今まで歌っていた人の正体が判明するのでいい構成だなと思った。それにしても全員のレベルが高すぎて恐ろしい。]]></summary>
         <author>
             <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nerdtronics2 セトリ #ナートロ2]]></title>
+        <id>hatenablog://entry/4207112889944874294</id>
+        <link href="https://mas134.hateblo.jp/entry/2022/12/14/011111"/>
+        <updated>2022-12-13T16:11:11.000Z</updated>
+        <summary type="html"><![CDATA[DJも音MAD-mixも出してないので持ってった機材載せます！
+順番に意味はない。
+1.blackmagicdesign ATEM Mini Pro ISO
+www.blackmagicdesign.com
+HDMIスイッチャーとして新規購入
+こんぐらいの機材買えばいいじゃろ！MOGRAのレンタル機材リストにもあるし！
+...と思ってたら見せ場で映像でトラブルが出てしまった(原因はよく分かっていない)。
+あとATEM Miniだとパワーが足りないとかでMOGRAのプロジェクターをフル活用できなかった（本当は両側の壁に投影される）。
+本来VJ用ではないので、別のスイッチャーを買っときましょう。
+ただ操作が簡単なのと動作のレスポンスはバッチシなので今後は自宅で実験用メインに使う予定。
+これに外付けのSSD繋げば当日投影されてた映像をそのまま保存できたと思うけど、それが原因でトラブル起きたら怖いのでやめておきました。
+ 
+2.撮影用の三脚
+DJブース内を撮影するために持って行ったやつ。
+どこに置けるか分からないので複数持ってった。
+ 
+ライトスタンド
+https://www.amazon.co.jp/gp/product/B01LZ1Y076/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+軽量で持ち運びが簡単かつ高さがあるので2019年のnerdtronicsで使ったやつ。
+今回は通路を塞いでしまうので設置できず、持って行ったけど不採用。
+ 
+折り畳み三脚
+https://www.amazon.co.jp/gp/product/B09M8B8KNB/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+もうちょっとコンパクトなやつも用意しようと思って買ってみた。
+軽いし小さいし、デフォル…]]></summary>
+        <author>
+            <name>ひとます</name>
         </author>
     </entry>
     <entry>
