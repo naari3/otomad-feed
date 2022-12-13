@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-13T14:04:12.664Z</updated>
+    <updated>2022-12-13T15:04:12.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nerdtronics2の振り返り(セトリ解説) #ナートロ2]]></title>
+        <id>hatenablog://entry/4207112889944487063</id>
+        <link href="https://owatax00.hatenablog.com/entry/2022/12/13/234114"/>
+        <updated>2022-12-13T14:41:14.000Z</updated>
+        <summary type="html"><![CDATA[nerdtronics2、本当にありがとうございました＆お疲れさまでした！！
+振り返るべき内容が多すぎてしっちゃかめっちゃかになってるので、
+とりあえず書きやすいところから順番に書いていこうとの魂胆によりまずはセトリ解説の記事から書いていこうかなと思います。
+しっかり推敲しながら書いてると書ききれなくなりそうなのでラフに書いていきます（重要）
+ 
+twipla.jp
+ 
+■コンセプト＆全体像
+今回のコンセプトは「イベント全体の総括」です。
+運営作業としてDJ/音MAD-mix担当各位のやりたいことや方向性を整理していく中で自然と「トリは自分がやるべきだな」と感じ、比較的早い段階でイベントを終わらせる為の構成を考え出したような流れですね。
+ 
+とはいえ元々自分自身がやりたかった構想も抱いていたため、上手いこと総括感とブレンドしつつ大まかに以下の大枠を検討。
+
+◆序盤～中盤
+・ストイックなテクノ調の音MADで「アングラな空気感」を演出したい
+・カットアップ系の動画で「nerdtronicらしさ」を感じさせたい
+・重低音を響かせることで「音を身体で浴びる感覚」を音MAD作者に味わわせたい
+
+◆中盤～後半
+・皆で盛り上がれる音MADで畳み掛けて一気にフィナーレ
+ 
+ 
+■セットリスト
+01.テクノックリさん - 菅沼
+02.レンレンレン - エースμ
+03.アタシはアタシ - BaN長
+
+
+最序盤のテクノ地帯。
+テクノックリさんのイントロが開幕の演出として凄く良かったのでそのまま採用し、'90～'00頃のアニメ×テクノMADへそのまま繋いでいきます。
+これはもうただの好みの話になっちゃうんですが、ディープなアニメのアングラ感とテクノの無機質さが醸し出す空気感が凄く好きなんですよね。
+所謂「音MAD」と言われてイメージするものとはまた異なり、反復性を主体に組み立てられるテクノMAD。…]]></summary>
+        <author>
+            <name>owatax's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わかさぎAV計画の進捗について]]></title>
         <id>https://note.com/oouc2/n/n5f96a600bd8e</id>
