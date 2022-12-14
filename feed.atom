@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-14T09:04:23.710Z</updated>
+    <updated>2022-12-14T10:04:38.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「〝複数人体制〟による合作/企画運営」の弱点【音MAD Advent Calendar 2022】]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-92.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-92.html"/>
+        <updated>2022-12-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#37 12月2週]]></title>
         <id>hatenablog://entry/4207112889944919929</id>
