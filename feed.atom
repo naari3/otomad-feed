@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-14T05:04:28.429Z</updated>
+    <updated>2022-12-14T06:04:36.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#37 12月2週]]></title>
+        <id>hatenablog://entry/4207112889944919929</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/12/14/150216"/>
+        <updated>2022-12-14T06:02:16.000Z</updated>
+        <summary type="html"><![CDATA[この記事は『音MAD Advent Calendar 2022』に参加していません！
+ 
+でもこの記事は『音MAD Advent Calendar 2022』に参加しています！
+↓
+音MADへの課金について考えてみよう - 音MADとポケモンと私
+読んでね！
+ 
+ぼっち・ざ・ろっく！を見たくなってきた。
+と言うより、ぼざろの音MADが流行りすぎていて、それらの動画を楽しむために本編を見たい。
+まちカドまぞくやシャニマスでも同じような現象が起こった。結局両方未履修だけど。
+折角なら最終回はリアタイしたいのでそれまでに追いつきたい。アマプラにあるらしい。よかった。
+ 
+10選の時期になってきたけど、近年はあまり音MADを見れてないので提出するか迷ってしまう。一応候補作マイリスを作ってはいるけれど。
+来年は毎週音MADを見る曜日を決めるとかしたらいいのかもしれない。それこそ週記で好きな動画を1本挙げるとかにすればいいかも。
+新着順と比べると隠れた名作的な動画を見逃すことは増えるだろうけど、人気順のおかげで音MADを見るハードルは下がってきている気はする。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221210「アニメみたいにリンゴを食べたい！」]]></title>
         <id>hatenablog://entry/4207112889944880548</id>
