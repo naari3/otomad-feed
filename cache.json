@@ -8417,20 +8417,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/13574176438040280434",
-          "author": null,
-          "description": "pre{\n    position: relative;\n    margin-left: 2em;\n    padding: 5px 10px;\n    background: #f8f8ff;\n    border: solid 1px #00f;\n    color: #008;\n    line-height: 110%;\n    max-height: 8em;\n    overflow: auto;\n}\npre code{\n    user-select:all !important;\n    -moz-user-select:all !important;\n    -webkit-user-select:all !important;\n    -khtml-user-select:all !important;\n}\npre code[class]:after{\n    content: attr(class);\n    position: absolute;\n    top: 0px;\n    right: 0px;\n    padding: 5px;\n    font-size: 1em;\n    line-height: 1;\n    background: #00b;\n    color: #fff;\n}\n.code{\n    padding: 0 2px;\n    background: #f8f8ff;\n    border: solid 1px #88f;\n    color: #008;\n    font-family:monospace;\n}\nspan.v{\n    padding: 0 2px;\n    background: #f8fff8;\n    border: solid 1px #0c1;\n    color: #080;\n    …",
-          "link": "https://ruiji.hatenablog.jp/entry/20211214/1639486800",
-          "publishedOn": "2021-12-14T13:00:00.000Z",
-          "wordCount": 821,
-          "title": "【AviUtl】使ってみようスクリプト制御",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/r/ruijiiii/20211207/20211207215726.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-14T00:14:53.303Z</updated>
+    <updated>2022-12-14T01:32:43.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27438,56 +27438,6 @@ https://adventar.org/calendars/6506
 その視点で…]]></summary>
         <author>
             <name>ユッ記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AviUtl】使ってみようスクリプト制御]]></title>
-        <id>hatenablog://entry/13574176438040280434</id>
-        <link href="https://ruiji.hatenablog.jp/entry/20211214/1639486800"/>
-        <updated>2021-12-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[pre{
-    position: relative;
-    margin-left: 2em;
-    padding: 5px 10px;
-    background: #f8f8ff;
-    border: solid 1px #00f;
-    color: #008;
-    line-height: 110%;
-    max-height: 8em;
-    overflow: auto;
-}
-pre code{
-    user-select:all !important;
-    -moz-user-select:all !important;
-    -webkit-user-select:all !important;
-    -khtml-user-select:all !important;
-}
-pre code[class]:after{
-    content: attr(class);
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    padding: 5px;
-    font-size: 1em;
-    line-height: 1;
-    background: #00b;
-    color: #fff;
-}
-.code{
-    padding: 0 2px;
-    background: #f8f8ff;
-    border: solid 1px #88f;
-    color: #008;
-    font-family:monospace;
-}
-span.v{
-    padding: 0 2px;
-    background: #f8fff8;
-    border: solid 1px #0c1;
-    color: #080;
-    …]]></summary>
-        <author>
-            <name>ブログ名 - コピー (2) - コピー</name>
         </author>
     </entry>
 </feed>
