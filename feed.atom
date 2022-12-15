@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-15T02:28:43.090Z</updated>
+    <updated>2022-12-15T03:07:52.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27491,18 +27491,6 @@ studio-okina.com
 私は課金してるので非常…]]></summary>
         <author>
             <name>NiVE（にヴぇ）派</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日記]]></title>
-        <id>https://note.com/ebideath/n/n4526a89f8c40</id>
-        <link href="https://note.com/ebideath/n/n4526a89f8c40"/>
-        <updated>2021-12-15T15:05:42.000Z</updated>
-        <summary type="html"><![CDATA[フィラデルフィアや水道水
-みたいに、「AABBAA」みたいな繰り返し方の単語を探してたんですけどほかに見つからなかったです。見つけたら教えてください。
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
