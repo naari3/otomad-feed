@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-15T08:04:51.357Z</updated>
+    <updated>2022-12-15T09:04:22.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022.12.15 久々に音MADを聴きながら退勤した]]></title>
+        <id>hatenablog://entry/4207112889945337000</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/12/15/173752"/>
+        <updated>2022-12-15T08:37:52.000Z</updated>
+        <summary type="html"><![CDATA[スマホの音楽アプリの中に少し音MADを入れていて、一昨年とかは移動する際には常に音MADを入れていた。
+今年に入ってからはその枠はすっかりラジオのアーカイブになってしまった。
+ 
+
+こんな感じのセットリストだ。合計90個の音MADが入ってるらしい。ちなみにいくつか自作MADも入ってる。
+多分最後に更新したのはこれをよく聴いていた2020年11月頃だと思う。
+ 
+なんでこのプレイリストを再生しなくなったのか。
+もちろん前述の通りラジオのアーカイブだったり、色々別の音声コンテンツが競合するようになったというのもあるのだが、それだけではない気がしてる。
+大前提としてそもそも音MADに対しての興味が以前よりも無くなってしまったのもある訳だけど。
+ 
+何の気もなく久々にこのプレイリストを聴きながら退勤してみたのだが、15分ぐらい聴いて、今では既にSpotifyでLiella!のDay1を聴き始めてしまった。
+もう終わりだぁ！]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nerdtronics2の思い出箇条書き]]></title>
         <id>https://note.com/aun6june/n/n460722ce58a3</id>
