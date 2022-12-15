@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-14T23:04:09.761Z</updated>
+    <updated>2022-12-15T00:14:50.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27503,62 +27503,6 @@ studio-okina.com
 続きをみる]]></summary>
         <author>
             <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[松岡修造MADのセリフ合わせの組み立て方]]></title>
-        <id>hatenablog://entry/13574176438040093221</id>
-        <link href="https://taiuo443.hatenablog.com/entry/2021/12/15/201426"/>
-        <updated>2021-12-15T11:14:26.000Z</updated>
-        <summary type="html"><![CDATA[私がたいうおです
-この記事は
-音MAD Advent Calendar 2021
-https://adventar.org/calendars/6506
-に参加しています
-
- 
-前置き
- 
-この記事で解説するのは非常にベーシックな修造MADの作り方です
-つまり、基本形の考え方です
-逆を言うと、この記事で挙げたポイントが抑えられていないと、あともう一歩！といった印象になってしまいます（もっと頑張ってくれないかな）
-松岡修造MADは、メッセージ性のある、いわゆる正統派と言われているMADや、ネタに振っているMADで方向性は異なりますが、どちらにも共通する内容で書いています
- 
-修造MADは、膨大な素材の中からセリフを選定する必要があります
-その素材量が最大のハードルになっていると考えられます
-しかし、土台となる考え方があれば、セリフ選びがグッと容易になっていきます
-修造MADを投稿して約9年以上経つ私のノウハウを全て伝えきるつもりで臨んでいきたいです
-修造MADが作りたい方や、この考え方を通して別の素材の音MADのセリフ合わせのヒントになれば幸いです
-よろしくお願いします
- 
- 
-前置き
-1章. 良い修造MADのセリフ合わせとは
-2. 松岡修造さんの発言の要素を分解しよう
-構成編
-内容編
-特徴編
-まとめ
-3.頭に松岡修造をインストールしよう
-4.原曲や元ネタと組み合わせよう
-5.全体の構成を決めよう
-6.テクニック一覧
-7.最後に
- 
- 
- 
- 
-1章. 良い修造MADのセリフ合わせとは
- 
-修造MADのセリフ合わせで最も大事なことは
-松岡修造さんらしい発言かどうか
-この一点です
-新作の修造MADを見る時も、自分が作る作品もまず第一にこのことを考えています
-この記事では、如何に松岡修造さんらしく音MADのセリフを組んでいけるのか、この一点に絞って追求していきます
- 
-その視点で…]]></summary>
-        <author>
-            <name>ユッ記</name>
         </author>
     </entry>
 </feed>
