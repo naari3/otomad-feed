@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-16T22:04:08.743Z</updated>
+    <updated>2022-12-16T23:04:23.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28062,19 +28062,6 @@ Grid: Adjust by 2
 続きをみる]]></summary>
         <author>
             <name>りりりうむ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『ケンタッキー』の制作後記]]></title>
-        <id>https://note.com/nomuratakeshi/n/nd42b0c5dec5e</id>
-        <link href="https://note.com/nomuratakeshi/n/nd42b0c5dec5e"/>
-        <updated>2021-12-17T10:45:15.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは。埜村武です。
-この記事は、2021年12月10日(金)に公開された『ケンタッキー』についての解説となります。
-動画をご覧になってない方は、まずご覧になってから記事をお読みください。
-続きをみる]]></summary>
-        <author>
-            <name>埜村武</name>
         </author>
     </entry>
 </feed>
