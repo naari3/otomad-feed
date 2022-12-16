@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-15T23:34:21.488Z</updated>
+    <updated>2022-12-16T00:13:54.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28276,59 +28276,6 @@ Aviutlが重いから
 自転…]]></summary>
         <author>
             <name>竹達アーカイブ通信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD合作における音声まとめの技術Tipsとか]]></title>
-        <id>hatenablog://entry/13574176438042123530</id>
-        <link href="https://fear443243.hatenablog.com/entry/2021/12/16/210008"/>
-        <updated>2021-12-16T12:00:08.000Z</updated>
-        <summary type="html"><![CDATA[本記事は「音MAD Advent Calendar 2021」16日目の記事です。
-adventar.org
- 
- 
- 
-気が付いたら前回の記事から3年経過してました。
-「合作の音声まとめTips作る」みたいなことを記事の最後に書いてたのに、まったく書いてませんでした。
-ゆるして…お兄さんゆるして…
-このアドベントカレンダー企画のおかげでやっと文章化することができました。
-もうこの企画のために寝かせていたということにしておきます。
-開き直りが大事です。
- 
-
-
-目次
-合作における音声まとめ役の作業概要
-M/S処理とは
-合作における音声まとめの作業詳細
-書き出し、マスタリング
-ラウドネスノーマライゼーション
-技術とかではないが音声まとめ役になった際にやっておくとよいこと
- 
-合作における音声まとめ役の作業概要
-合作で音声まとめをするときのミックスは、普通に音MADを作るときのミックスと若干変わってきます。
-というのも、既に完成品の音声ばかりを取り扱うので、
-作業としてはマスタリングに近い行為を行うことになります。
-以下に、主に行う作業を箇条書きします。
- 
-・"Sideの"低音域を削る
-・パートによっては"Mid"の低音域も少しだけ削る
-・Sideの音量を少し上げる（そのパートの音作りの）
- 
-はい。
-サイド、ミッドという単語が出てきました。なんだァ？てめェ…
-この言葉、M/S処理という作業で使われる言葉です。
- 
- 
- 
-M/S処理とは
-M/S処理とは、ステレオ信号を「Mid(中央)」と「Side(左右)」という2つの信号に分けて別々に処理するミキシング手法です。
-出典:
-studio-okina.com
-真ん中にある音と、リバーブとかディレイを使ったことにより横に広がってる音に対して別々のコンプレッサー処理、イコライジングができると思ってください。
-私は課金してるので非常…]]></summary>
-        <author>
-            <name>NiVE（にヴぇ）派</name>
         </author>
     </entry>
 </feed>
