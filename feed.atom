@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-16T12:04:48.132Z</updated>
+    <updated>2022-12-16T13:06:41.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nerdtronics2の振り返り③ (選曲管理/音MAD-mix監修) #ナートロ2]]></title>
+        <id>hatenablog://entry/4207112889945525896</id>
+        <link href="https://owatax00.hatenablog.com/entry/2022/12/16/220025"/>
+        <updated>2022-12-16T13:00:25.000Z</updated>
+        <summary type="html"><![CDATA[今回の記事では以下のトピックについて振り返ります。
+ 
+
+DJ/音MAD-mixの選曲管理
+音MAD-mixの監修
+ 
+※関連記事は nerdtronics2タグ より参照ください。
+ 
+
+
+ 
+■選曲管理
+選曲管理って言うと大げさですが！
+端的に言うと「各人で好き放題やってたら全員ポポヶ原流しちゃったよ！」みたいな自体を避けるために曲被りを回避出来るような仕組みを予め組んでおこうねって話です。
+ 
+ 
+……ということで管理用のスプレッドシートを作りました。
+※実際に使用していたスプレッドシートから一部切り出しています。
+
+
+▲Dirby Bakaが3件重複しているため、件数の列が赤背景で警告されています
+ 
+ 
+……百聞は一見にしかずなのでとりあえず上記サンプルを見てもらえればと思うのですが、運用方法としては以下のような感じを想定しています。
+ 
+
+各担当者用のシートを埋める
+
+使いたい動画のURLを入力
+スプレッドシートの関数により自動的にタイトルが反映される
+【参考用関数】
+　=IF(C9999<>"", IMPORTXML(C9999,"/html/head/title"), "")
+希望度や備考欄を記入
+
+ALLシートで被りが無いかを確認
+
+ALLシート上の担当行を参照し、「件数」の項目が2以上になっている項目が無いかを目視で確認する
+【参考用関数】
+　①=VLOOKUP (こっちは一般的な使い方と同じなので普通にググってください)
+　②=IF(D9999<>"", COUNTIF(D:D,D9999), 0) (D列内で同一名称の件数を集計)
+　　※URLは短縮URLやパラメータ付与により表記がブレがちなので、タイトルで突合しています
+　　※必然的にタイトルが全く同じ動画(膳とか)は違う動画でも被っているように表示されます
+
+セトリを組む（任意）
+
+スプレッドシ…]]></summary>
+        <author>
+            <name>owatax's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3人で振り返る2022年の出来事と合作②（合作篇）]]></title>
         <id>hatenablog://entry/4207112889945066505</id>

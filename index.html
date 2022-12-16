@@ -16,6 +16,73 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-12-16">2022-12-16</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://owatax00.hatenablog.com/" target="_blank" rel="noopener">owatax&#x27;s blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">nerdtronics2の振り返り③ (選曲管理/音MAD-mix監修) #ナートロ2</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://owatax00.hatenablog.com/entry/2022/12/16/220025" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>今回の記事では以下のトピックについて振り返ります。
+ 
+
+DJ/音MAD-mixの選曲管理
+音MAD-mixの監修
+ 
+※関連記事は nerdtronics2タグ より参照ください。
+ 
+
+
+ 
+■選曲管理
+選曲管理って言うと大げさですが！
+端的に言うと「各人で好き放題やってたら全員ポポヶ原流しちゃったよ！」みたいな自体を避けるために曲被りを回避出来るような仕組みを予め組んでおこうねって話です。
+ 
+ 
+……ということで管理用のスプレッドシートを作りました。
+※実際に使用していたスプレッドシートから一部切り出しています。
+
+
+▲Dirby Bakaが3件重複しているため、件数の列が赤背景で警告されています
+ 
+ 
+……百聞は一見にしかずなのでとりあえず上記サンプルを見てもらえればと思うのですが、運用方法としては以下のような感じを想定しています。
+ 
+
+各担当者用のシートを埋める
+
+使いたい動画のURLを入力
+スプレッドシートの関数により自動的にタイトルが反映される
+【参考用関数】
+　&#x3D;IF(C9999&quot;&quot;, IMPORTXML(C9999,&quot;/html/head/title&quot;), &quot;&quot;)
+希望度や備考欄を記入
+
+ALLシートで被りが無いかを確認
+
+ALLシート上の担当行を参照し、「件数」の項目が2以上になっている項目が無いかを目視で確認する
+【参考用関数】
+　①&#x3D;VLOOKUP (こっちは一般的な使い方と同じなので普通にググってください)
+　②&#x3D;IF(D9999&quot;&quot;, COUNTIF(D:D,D9999), 0) (D列内で同一名称の件数を集計)
+　　※URLは短縮URLやパラメータ付与により表記がブレがちなので、タイトルで突合しています
+　　※必然的にタイトルが全く同じ動画(膳とか)は違う動画でも被っているように表示されます
+
+セトリを組む（任意）
+
+スプレッドシ…</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/owatax00/20221212/20221212180711.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-12-15">2022-12-15</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -36444,7 +36511,7 @@ Aviutlが重いから
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-12-16T12:04:48.043Z">2022-12-16T12:04:48.043Z</time>
+    <time id="build-timestamp" datetime="2022-12-16T13:06:41.140Z">2022-12-16T13:06:41.140Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
