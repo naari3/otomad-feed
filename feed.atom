@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-17T02:18:13.175Z</updated>
+    <updated>2022-12-17T03:04:25.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221215「簡潔な感想」]]></title>
+        <id>hatenablog://entry/4207112889945797557</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/12/17/114508"/>
+        <updated>2022-12-17T02:45:08.000Z</updated>
+        <summary type="html"><![CDATA[自分はこうして毎日文章を書こうとしているが、たいして上手くなる見込みもなく（上手くなるというのがなんなのか自分でもわからない）そっちの方向は好きだけど技術はないんだなあと思ったりすることもしばしばである。最近おもうのは感想を無理にひねり出そうとするのはやめようということで、読んだり見たり聞いたりしたものの感想を一行くらいに収めるとか、最悪とくに言うことがなかったら感想は自分でメモするにとどめておくとか、そういうことを躊躇わないようにしたい。感想を書いているブログがみんな長文であることが多いからという同調圧力？を勝手に感じているのもあったが、単純に自分が作者だとして長い感想と短い感想だと長い方がうれしいし、、という価値観があって長く書いていた。けれどもそこで長く書こうとしても自分の文章力では中身がなくなってかさ増しみたいになるし、別に長ければよいというものでもない。読書感想文でもあるまいし……。そして周囲のいろいろを見ていても、感想をさらっと一文で発信している人もたくさんいる。あとは生来「文を短くまとめる」というのが苦手なところもあって長くなりがちなのだけど、出来る限り簡潔な感想を心がけていきたいねいう話でした。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[きたいくよ～～いくいくいくいく]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1213.html</id>
