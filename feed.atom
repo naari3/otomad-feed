@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-17T22:04:46.471Z</updated>
+    <updated>2022-12-17T23:04:23.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28093,16 +28093,6 @@ Grid: Adjust by 2
 それぞれのアクションをシングルクリックした後に左…]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1/?】ニコニコ十五周年漂流記　解説記事]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-73.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-73.html"/>
-        <updated>2021-12-18T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[初めましての方は初めまして、いつも応援してくださっている方はありがとうございます。ニコニコメドレー作者の26K/にとろくです。この度はニコニコ十五周年漂流記をご視聴いただきありがとうございました。「まだ観てないよ！」という方は（見ずにこの記事に来る人おるんか？）、是非先にご視聴くださいませ。ねこ鍋また、気になった部分は答えられる範囲でコメントでお答えしますのでお気軽にどうぞ！]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
 </feed>
