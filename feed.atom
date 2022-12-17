@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-17T00:13:04.836Z</updated>
+    <updated>2022-12-17T01:30:40.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28049,19 +28049,6 @@ Grid: Adjust by 2
 続きをみる]]></summary>
         <author>
             <name>8bit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD理論基礎編【音MADが面白いほどわかるシリーズ】]]></title>
-        <id>https://note.com/nahcarika/n/ncf90a6a8a4b5</id>
-        <link href="https://note.com/nahcarika/n/ncf90a6a8a4b5"/>
-        <updated>2021-12-17T13:13:55.000Z</updated>
-        <summary type="html"><![CDATA[このNoteは音MAD Adventなんとか非参加作品です
-
-
-続きをみる]]></summary>
-        <author>
-            <name>りりりうむ</name>
         </author>
     </entry>
 </feed>
