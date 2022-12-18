@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-18T16:04:22.012Z</updated>
+    <updated>2022-12-18T17:03:59.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nerdtronics2振り返り(音MAD-mix制作編)]]></title>
+        <id>hatenablog://entry/4207112889945631357</id>
+        <link href="https://kotsurend.hatenablog.com/entry/2022/12/19/013651"/>
+        <updated>2022-12-18T16:36:51.000Z</updated>
+        <summary type="html"><![CDATA[nerdtronics2にて流してもらった音MAD-mixのコンセプトは何だったのかとかどういう動画のチョイスだったのかとか解説したいと思います。
+
+
+otoMAD-mix.prog
+" data-en-clipboard="true">前回書いたように音MAD-mixは自由でいいんだ！という心持で自分の好きなものを作る、その一つのみで作っています。
+nerdtronicsのDiscordではいかにして盛り上がり所を作るかとか盛り上がる要素が挙げられたり皆で入れたい音MADを共有したりしていましたが、それら一切気にかけておりません。ごめん。
+ 
+" data-en-clipboard="true">コンセプトはプログレ！と行きたかったんですが、実際探してみるとプログレの本筋をなぞった音MADって本当にわずかしかない。
+" data-en-clipboard="true">そもそもプログレ合作を立ち上げたわけがプログレ音MADがほぼないためだったからなのですが。自分のも結構プログレ使っていたりしますが、今回自作MADは除外しようと思っていました。やるなら新作で。
+ 
+" data-en-clipboard="true">プログレって何？って方はペディア見てみてください。なんとなくめんどくさい音楽って思うと思います。
+プログレッシブ・ロック - Wikipedia
+ 
+だから私のmix「prog」はプログレ音MADのみのmixではなく、プログレ原曲を混ぜることによってmix全体がプログレとなるという方向性にすることになりました。
+ 
+余談ですが前者プログレ音MADの場合これを入れたかったなあって音MADがいくつかありました。
+ 
+
+偉大なる雀士
+
+幸成乱舞
+ 
+
+【バトルドーム】超!劇的ビフォーアフター!!
+
+ハゲマルドン
+ 
+
+【音ゲーMAD】鳩の巣【松岡修造】
+
+Cobut…]]></summary>
+        <author>
+            <name>コツコツだらだら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M-1決勝全ネタ感想]]></title>
         <id>https://note.com/ssaymds/n/n5c365bd2a219</id>
