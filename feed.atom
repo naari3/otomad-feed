@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-18T07:04:26.782Z</updated>
+    <updated>2022-12-18T08:05:08.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なーどにとろくす2合作 奮闘記 #ナートロ2]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-94.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-94.html"/>
+        <updated>2022-12-18T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[なーどにとろくす2合作　#ナートロ2こちらは感想記事。]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なーどにとろくす2合作 解説付きパート表 #ナートロ2]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-93.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-93.html"/>
+        <updated>2022-12-18T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[なーどにとろくす2合作　#ナートロ2こちらは解説付きパート表記事。]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[墓標に備忘録]]></title>
         <id>https://note.com/furadiru_99/n/nad06dd121eb7</id>
