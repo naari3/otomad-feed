@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-18T02:20:10.227Z</updated>
+    <updated>2022-12-18T03:04:19.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27957,27 +27957,6 @@ fn main() {
         <summary type="html"><![CDATA[こちらは『ニコニコ十五周年漂流記』の解説記事・その2です。32-57曲目の解説をしています。その1（1-31曲目）はこちら！&nbsp;⇒ http://medley26kvocaloid.blog.fc2.com/blog-entry-73.html]]></summary>
         <author>
             <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21/12/13 Youtubeへの苦言についての謝罪とか弁明とか]]></title>
-        <id>https://note.com/no_produce/n/ndd27816b9763</id>
-        <link href="https://note.com/no_produce/n/ndd27816b9763"/>
-        <updated>2021-12-18T14:41:22.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。いつもは内輪へのツイートとかしてない担当無しです。
-今日は先日呟いた下のツイートについて追加で色々言いたいことがあったので記事を書きます。書き終えた頃にはもう誰も見てなさそうですけど。
-    
-        
-            
-YoutubeがいよいよGoogleの15秒あるCMを飛ばせなくしてきたの、
-たかが10秒とはいえ中々な越権行為だと思うんだけど批判ツイート全然見かけん
-— 担当無し (@No_Produce) December 13, 2021
-        
-    
-
-続きをみる]]></summary>
-        <author>
-            <name>担当無し</name>
         </author>
     </entry>
 </feed>
