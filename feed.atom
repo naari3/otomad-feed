@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-18T03:04:19.146Z</updated>
+    <updated>2022-12-18T04:04:16.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTokで音MADをバズらせようとした男の奮闘記]]></title>
+        <id>hatenablog://entry/4207112889943046566</id>
+        <link href="https://fear443243.hatenablog.com/entry/2022/12/18/130004"/>
+        <updated>2022-12-18T04:00:04.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MAD Advent Calendar 2022の18日目の記事です。
+
+本日はM-1グランプリです。みんな見ような。
+ 
+本記事は論文っぽく書いてますが、大したエビデンスも無く「あなたの感想ですよね？」みたいなことしか書いてなくて論文としては破綻しているのでそこは突っ込まないでくださいマジで。
+ 
+
+
+ 
+1.はじめに
+この動画を見たことはあるだろうか。
+ 
+
+pic.twitter.com/LEsq03GbEf
+2021年1月28日
+
+
+ 
+2020年に投稿し、結構なバズりを記録した動画である。
+実はこの動画、ある程度バズる確信があった。
+「後出しでなら何とでも言える」と思われるのは承知の上だが、
+それなりの根拠があったので聞いてほしい。
+ 
+まず、下記の動画たちを見てほしい。
+ 
+
+pic.twitter.com/g8ewvq6hkO
+2021年11月27日
+
+
+
+pic.twitter.com/AY9wlzL3uI
+2020年12月12日
+
+
+
+薄壁1dk踊りまくり pic.twitter.com/M9yrBPRqbX
+2020年11月21日
+
+
+（藤崎マーケットのやつはもっと伸びてるのがあった気がする）
+見ての通り、「リズムネタ芸人を流行りの曲に乗っける」と、
+Twitterではバズりやすい傾向にある。
+エアロビ選手やインド人系の動画が好きなのは全世代共通らしい。
+「うっせえわ」のサビは、レギュラーのあるある探検隊のリズムとバッチリハマっていた。
+なので、上記理論通り行けば「バズる」確信があったわけである。
+ 
+
+    
+2.クソリプの中に見出したTikTok
+結果的にこの動画はかなりバズった。
+理論が証明に成功し、脳汁があふれまくったのを覚えている。
+
+脳汁が溢れるイメージ(ゴールデンカムイより鶴見中尉)
+
+バズりにはクソリプがつきものである。
+「…]]></summary>
+        <author>
+            <name>NiVE（にヴぇ）派</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nerdtronics2にDJとして参加しました]]></title>
         <id>hatenablog://entry/4207112889945200538</id>
@@ -27947,16 +28013,6 @@ fn main() {
 続きをみる]]></summary>
         <author>
             <name>塩れもん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2/?】ニコニコ十五周年漂流記　解説記事]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-74.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-74.html"/>
-        <updated>2021-12-18T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[こちらは『ニコニコ十五周年漂流記』の解説記事・その2です。32-57曲目の解説をしています。その1（1-31曲目）はこちら！&nbsp;⇒ http://medley26kvocaloid.blog.fc2.com/blog-entry-73.html]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
 </feed>
