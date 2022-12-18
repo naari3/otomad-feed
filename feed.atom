@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-18T12:06:31.631Z</updated>
+    <updated>2022-12-18T13:05:39.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大学生で音作者だった7年を全力で振り返る]]></title>
+        <id>https://note.com/fourangle/n/n06284549940c</id>
+        <link href="https://note.com/fourangle/n/n06284549940c"/>
+        <updated>2022-12-18T12:57:12.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、音MAD作者の四角です。今日の記事は、自分語りするだけの記事です。ただただプライベートすぎ話をする記事なだけなんですが、すぐ次の「どうした急に」部分は一応伝えておきたい話もあるのでぜひあそこだけは読んで頂ければ幸いです。
+
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なーどにとろくす2合作 奮闘記 #ナートロ2]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-94.html</id>
