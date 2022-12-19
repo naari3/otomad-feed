@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-19T13:07:28.624Z</updated>
+    <updated>2022-12-19T14:04:12.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nerdtronics2振り返り(mix自作パート、感想)]]></title>
+        <id>hatenablog://entry/4207112889946525010</id>
+        <link href="https://kotsurend.hatenablog.com/entry/2022/12/19/224009"/>
+        <updated>2022-12-19T13:40:09.000Z</updated>
+        <summary type="html"><![CDATA[" data-en-clipboard="true">前回の記事にて自作パートの作成に至った経緯をお話しました。
+その後本パートはOstrichさん、BaN長さん、零～ゼロ～さん、三名の映像ヘルプを頂きなんとか完成になります。
+前回の記事が長すぎたため、今回は本パートの経緯と映像ヘルプの方にお願いした内容をサクっと解説し、最後に参加させていただいたnerdtronics2の感想(現地には行っていないけど)を書いて振り返り記事を終わりたいと思います。
+ 
+音声ほぼ完成、進捗確認後
+11/11、owataxさんからの返信にて映像ヘルプについて打診され即お願いをする。
+自分でなんとかする場合、映像は割り切ってものすごく簡素なものにする予定でした。
+しかしそこは主催owataxさんの計らいにより映像ヘルプの場を設けていただきました。
+ 
+
+
+ちなみにですが、進捗提出の過程でしれっと新作パート（例の終盤の箇所です）が付け足されており、「いや滅茶苦茶凄い音声だけどこれ映像付けるの今からじゃ相当大変だよな…？」との考えが頭を過ったためコツ連打らさんにヘルプを打診。やはり厳しかったようで映像ヘルプの正式な依頼が来たためこちらで検討を進めます。 コツ連打らさんには音声のブラッシュアップと未完成部の映像制作に専念してもらいたいとの思いにより、こちらの独断で「Ostrichさん」「BaN長さん」「零さん」を映像ヘルプで急遽招致。いや本当短納期にも関わらず受けてくれてありがとうございました…！！
+nerdtronics2の振り返り② (企画デザイン/演者選定/休憩動画等) #ナートロ2 - owatax's blog
+ 
+" data-en-clipboard="true">翌日11/12にはnerdtronics鯖に新たにチャンネルを追加して頂いてお三方を招集されています。仕事が早い！(お前のせ…]]></summary>
+        <author>
+            <name>コツコツだらだら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a]]></title>
         <id>https://note.com/furadiru_99/n/n417f7bf135cb</id>
