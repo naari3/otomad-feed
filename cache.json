@@ -16079,6 +16079,16 @@
       "siteUrl": "https://ytpmv.info",
       "articles": [
         {
+          "id": "https://ytpmv.info/?p=1563",
+          "author": "maimai",
+          "description": "概要 REAPERの「ショートカットを追加」する機能を利用し、ツールバーにVSTを直接追加するボタンを追加する方法を解説した。ついでにツールバーの機能について詳しく触れ、自作アイコンのツールバーを作成した。 はじめに み […]\nThe post REAPERにVSTを追加するランチャー(ツールバー)を追加する first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/reaper-vst-toolbar/",
+          "publishedOn": "2022-12-19T07:34:07.000Z",
+          "wordCount": 749,
+          "title": "REAPERにVSTを追加するランチャー(ツールバー)を追加する",
+          "imageUrl": "https://ytpmv.info/wp-content/uploads/2022/12/2022-12-19_162804.png"
+        },
+        {
           "id": "https://ytpmv.info/?p=1468",
           "author": "maimai",
           "description": "はじめに みなさんごきげんよう。まいまいです。今回の記事では、今話題の音声認識AI、Whisperを使って素材の音声を自動書き起こしして、個別の音声ファイルに分割するスクリプトを作成したので紹介していきます。 音MADを […]\nThe post Whisperを使って素材の自動書き起こし＋素材分割 (ローカル実行) first appeared on YTPMV.info.",

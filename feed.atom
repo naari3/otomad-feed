@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-19T07:04:33.111Z</updated>
+    <updated>2022-12-19T08:05:14.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[REAPERにVSTを追加するランチャー(ツールバー)を追加する]]></title>
+        <id>https://ytpmv.info/?p=1563</id>
+        <link href="https://ytpmv.info/reaper-vst-toolbar/"/>
+        <updated>2022-12-19T07:34:07.000Z</updated>
+        <summary type="html"><![CDATA[概要 REAPERの「ショートカットを追加」する機能を利用し、ツールバーにVSTを直接追加するボタンを追加する方法を解説した。ついでにツールバーの機能について詳しく触れ、自作アイコンのツールバーを作成した。 はじめに み […]
+The post REAPERにVSTを追加するランチャー(ツールバー)を追加する first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年作の音MADを思い出す]]></title>
         <id>https://note.com/nototote/n/nbb8ed5284577</id>
