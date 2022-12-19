@@ -20,6 +20,24 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://note.com/furadiru_99" target="_blank" rel="noopener">フラヂル</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">a</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://note.com/furadiru_99/n/n417f7bf135cb" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>a
+続きをみる</span>
+                  </div>
+                    <img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/2f2d125f8cdd9c736bc459264b6f2ccc83760c53.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://ytpmv.info" target="_blank" rel="noopener">YTPMV.info</a></h3>
           <section class="articles-per-source">
             <article>
@@ -36234,58 +36252,9 @@ pic.twitter.com/ZbKjO1FfWI
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-19">2021-12-19</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">Rustのゲーム用ライブラリpistonがWindowsの上だと60fps出なかったのを直した</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2021/12/20/072028" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>github.com
-tl;dr
-pistonで60fps出なかった
-Windowsの Sleep はデフォルトだと精度が悪い
-sleepを呼ぶ前に timeBeginPeriod を呼んで精度を良くしたら60fps出るようになった
-pistonで60fps出なかった
-趣味でNESのエミュレーターを作っていた時に発生した事象として、pistonというライブラリを使うと60fpsを出せないというものがあった。
-60fpsという要件を達成するには、1回の更新毎に約16.6msずつ待ち合わせる必要がある。考えられる実現方法としては、ゲームのロジックを実行する際にその処理が何ms掛かったのかを記録しておき、16.6msからその時間を引いた時間だけ処理を停止する、というものがシンプルで良さそうだ。
-use std::time;
-
-fn main() {
-  let frame_rate &#x3D; 60;
-  let sleep_ms &#x3D; time::Duration::from_secs(1) / frame_rate;
-
-  loop {
-    let start &#x3D; time::Instant::now();
-    game_logic(); // ちょっと時間がかかる
-    let elapsed &#x3D; time::Instant::now() - start;
-    if sleep_ms &lt; elapsed { // 経過時間より1fの規定時間のほうが長かったらスキップ
-        break;
-    }
-    time::thread::sleep(sleep_ms - elapsed); // 16.6ms - Nms 分だけ停止する
-  }
-}
-
-
-
-この基本方針はRustのゲーム用ライブラリであるpistonも同じだった。同じようにフレーム毎の待ち合いに s…</span>
-                  </div>
-                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-enclosure />
-                                  </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-12-19T10:04:43.515Z">2022-12-19T10:04:43.515Z</time>
+    <time id="build-timestamp" datetime="2022-12-19T11:04:08.787Z">2022-12-19T11:04:08.787Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

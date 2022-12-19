@@ -7858,20 +7858,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/26006613785834089",
-          "author": null,
-          "description": "github.com\ntl;dr\npistonで60fps出なかった\nWindowsの Sleep はデフォルトだと精度が悪い\nsleepを呼ぶ前に timeBeginPeriod を呼んで精度を良くしたら60fps出るようになった\npistonで60fps出なかった\n趣味でNESのエミュレーターを作っていた時に発生した事象として、pistonというライブラリを使うと60fpsを出せないというものがあった。\n60fpsという要件を達成するには、1回の更新毎に約16.6msずつ待ち合わせる必要がある。考えられる実現方法としては、ゲームのロジックを実行する際にその処理が何ms掛かったのかを記録しておき、16.6msからその時間を引いた時間だけ処理を停止する、というものがシンプルで良さそうだ。\nuse std::time;\n\nfn main() {\n  let frame_rate = 60;\n  let sleep_ms = time::Duration::from_secs(1) / frame_rate;\n\n  loop {\n    let start = time::Instant::now();\n    game_logic(); // ちょっと時間がかかる\n    let elapsed = time::Instant::now() - start;\n    if sleep_ms < elapsed { // 経過時間より1fの規定時間のほうが長かったらスキップ\n        break;\n    }\n    time::thread::sleep(sleep_ms - elapsed); // 16.6ms - Nms 分だけ停止する\n  }\n}\n\n\n\nこの基本方針はRustのゲーム用ライブラリであるpistonも同じだった。同じようにフレーム毎の待ち合いに s…",
-          "link": "https://naari.hatenablog.com/entry/2021/12/20/072028",
-          "publishedOn": "2021-12-19T22:20:28.000Z",
-          "wordCount": 253,
-          "title": "Rustのゲーム用ライブラリpistonがWindowsの上だと60fps出なかったのを直した",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },
@@ -11919,6 +11905,16 @@
       "feedUrl": "https://note.com/furadiru_99/rss",
       "siteUrl": "https://note.com/furadiru_99",
       "articles": [
+        {
+          "id": "https://note.com/furadiru_99/n/n417f7bf135cb",
+          "author": null,
+          "description": "a\n続きをみる",
+          "link": "https://note.com/furadiru_99/n/n417f7bf135cb",
+          "publishedOn": "2022-12-19T10:27:56.000Z",
+          "wordCount": 2203,
+          "title": "a",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2f2d125f8cdd9c736bc459264b6f2ccc83760c53.png"
+        },
         {
           "id": "https://note.com/furadiru_99/n/nad06dd121eb7",
           "author": null,

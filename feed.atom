@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-19T10:04:43.606Z</updated>
+    <updated>2022-12-19T11:04:08.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a]]></title>
+        <id>https://note.com/furadiru_99/n/n417f7bf135cb</id>
+        <link href="https://note.com/furadiru_99/n/n417f7bf135cb"/>
+        <updated>2022-12-19T10:27:56.000Z</updated>
+        <summary type="html"><![CDATA[a
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REAPERにVSTを追加するランチャー(ツールバー)を追加する]]></title>
         <id>https://ytpmv.info/?p=1563</id>
@@ -28048,43 +28059,6 @@ pic.twitter.com/ZbKjO1FfWI
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rustのゲーム用ライブラリpistonがWindowsの上だと60fps出なかったのを直した]]></title>
-        <id>hatenablog://entry/26006613785834089</id>
-        <link href="https://naari.hatenablog.com/entry/2021/12/20/072028"/>
-        <updated>2021-12-19T22:20:28.000Z</updated>
-        <summary type="html"><![CDATA[github.com
-tl;dr
-pistonで60fps出なかった
-Windowsの Sleep はデフォルトだと精度が悪い
-sleepを呼ぶ前に timeBeginPeriod を呼んで精度を良くしたら60fps出るようになった
-pistonで60fps出なかった
-趣味でNESのエミュレーターを作っていた時に発生した事象として、pistonというライブラリを使うと60fpsを出せないというものがあった。
-60fpsという要件を達成するには、1回の更新毎に約16.6msずつ待ち合わせる必要がある。考えられる実現方法としては、ゲームのロジックを実行する際にその処理が何ms掛かったのかを記録しておき、16.6msからその時間を引いた時間だけ処理を停止する、というものがシンプルで良さそうだ。
-use std::time;
-
-fn main() {
-  let frame_rate = 60;
-  let sleep_ms = time::Duration::from_secs(1) / frame_rate;
-
-  loop {
-    let start = time::Instant::now();
-    game_logic(); // ちょっと時間がかかる
-    let elapsed = time::Instant::now() - start;
-    if sleep_ms < elapsed { // 経過時間より1fの規定時間のほうが長かったらスキップ
-        break;
-    }
-    time::thread::sleep(sleep_ms - elapsed); // 16.6ms - Nms 分だけ停止する
-  }
-}
-
-
-
-この基本方針はRustのゲーム用ライブラリであるpistonも同じだった。同じようにフレーム毎の待ち合いに s…]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
 </feed>
