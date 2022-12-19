@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-19T01:30:45.993Z</updated>
+    <updated>2022-12-19T02:18:48.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28105,31 +28105,6 @@ fn main() {
 　16時くらいに寿司食ったらそれ以降「今日は寿司を食ったぞ」という満足感のまま過ごせた上に「まだ19時！？」「まだ21時！？」など時間の感覚も引き伸ばされて気分が良…]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MADにおいて「初心忘るべからず」はどれほど重要なのか]]></title>
-        <id>https://note.com/nanana555/n/n94ff4e853f5e</id>
-        <link href="https://note.com/nanana555/n/n94ff4e853f5e"/>
-        <updated>2021-12-19T14:10:05.000Z</updated>
-        <summary type="html"><![CDATA[寒い日が続きますね、こんな寒い日は外に出るのも億劫になるし家でぬくぬくしてる人も多いんじゃないでしょうか。
-家にいる時は動画を見たりすることも多いんですが、この間自分の今までの投稿動画をたまたま振り返っていたんですよ。それで見ていくとその動画の中に今の自分の作風の核になってるモノを見出したりできたので、それについて連連と書いていこうと思います。
-技術的な話はたくさん投稿されてるのでこの記事は『音MAD作者の抱えている感覚』と『多様性』を感じてくれると幸いです。
-続きをみる]]></summary>
-        <author>
-            <name>ふーふー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年の投稿動画を振り返る]]></title>
-        <id>https://note.com/saltlemon/n/nab88630cba45</id>
-        <link href="https://note.com/saltlemon/n/nab88630cba45"/>
-        <updated>2021-12-19T13:36:24.000Z</updated>
-        <summary type="html"><![CDATA[どうも！底辺動画投稿者の塩れもんと申します!12月19日で初投稿から1年がたったので今までの投稿動画を自分で振り返ってみたいなーと思います!
-なんだこの自己満記事
-続きをみる]]></summary>
-        <author>
-            <name>塩れもん</name>
         </author>
     </entry>
 </feed>
