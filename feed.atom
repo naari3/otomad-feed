@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-19T15:04:31.577Z</updated>
+    <updated>2022-12-19T16:04:45.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20221217「無題」]]></title>
+        <id>hatenablog://entry/4207112889946557088</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/12/20/010125"/>
+        <updated>2022-12-19T16:01:25.000Z</updated>
+        <summary type="html"><![CDATA[17、18ともずっと予定のある休日であり、せわしなかった。しかし義務というより趣味の方の予定であり、人とあって話すものばかりであった。18日は数人で美術館を訪問したのち適当な担々麺のお店と喫茶店を訪れた。担々麺のお店が存外に当たりであり、こういうときになんとなく選んだものがおいしいのはいいねとなっていた。美術館とか博物館にもっと積極的に訪れたいということを前も書いたけれど、今回もそう思った。来年の目標として10回以上は美術館や博物館に訪れることを目指したい。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nerdtronics2振り返り(mix自作パート、感想)]]></title>
         <id>hatenablog://entry/4207112889946525010</id>
