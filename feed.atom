@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-19T23:04:24.743Z</updated>
+    <updated>2022-12-20T00:13:54.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28120,18 +28120,6 @@ pic.twitter.com/ZbKjO1FfWI
 続きをみる]]></summary>
         <author>
             <name>塩れもん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD作者にヒップホップを薦めたい]]></title>
-        <id>https://note.com/kasutera20/n/n655a01c8deb5</id>
-        <link href="https://note.com/kasutera20/n/n655a01c8deb5"/>
-        <updated>2021-12-20T12:08:36.000Z</updated>
-        <summary type="html"><![CDATA[音MADアドベントカレンダー20日目です。いよいよ佳境ですね。
-      adventar.org  
-続きをみる]]></summary>
-        <author>
-            <name>かすてら</name>
         </author>
     </entry>
 </feed>
