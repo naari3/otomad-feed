@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-20T12:05:38.296Z</updated>
+    <updated>2022-12-20T13:07:40.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年の5選]]></title>
+        <id>hatenablog://entry/4207112889946539100</id>
+        <link href="https://kotsurend.hatenablog.com/entry/2022/12/20/212958"/>
+        <updated>2022-12-20T12:29:58.000Z</updated>
+        <summary type="html"><![CDATA[" data-en-clipboard="true">プログレっぽいやつ5選(初心者向)
+" data-en-clipboard="true"> 
+" data-en-clipboard="true">DEREK SHERINIAN – The Vortex (feat. Steve Stevens)
+" data-en-clipboard="true">
+youtu.be
+ 
+" data-en-clipboard="true">Seventh Wonder - "The Light"
+" data-en-clipboard="true">
+youtu.be
+ 
+" data-en-clipboard="true">THE FLOWER KINGS - Revolution
+" data-en-clipboard="true">
+youtu.be
+ 
+" data-en-clipboard="true">Polyphia - ABC feat. Sophia Black
+" data-en-clipboard="true">
+youtu.be
+ 
+" data-en-clipboard="true">MUSE - WILL OF THE PEOPLE
+" data-en-clipboard="true">
+youtu.be]]></summary>
+        <author>
+            <name>コツコツだらだら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221218「今年の目標振り返り」]]></title>
         <id>hatenablog://entry/4207112889946559545</id>
