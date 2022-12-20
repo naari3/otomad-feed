@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-20T19:04:00.327Z</updated>
+    <updated>2022-12-20T20:04:07.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28175,18 +28175,6 @@ pic.twitter.com/ZbKjO1FfWI
 続きをみる]]></summary>
         <author>
             <name>微熱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サブで投稿してたやつ　振り返り]]></title>
-        <id>https://note.com/saltlemon/n/n320ca7f0380f</id>
-        <link href="https://note.com/saltlemon/n/n320ca7f0380f"/>
-        <updated>2021-12-21T07:45:48.000Z</updated>
-        <summary type="html"><![CDATA[どうも。塩れもんと申します。底辺動画投稿者ですがサブ垢をいくつか作り投稿してました。こっちもせっかくなんで振り返ろうと思います。どうせ誰も見てないと思うし
-レさレさ
-続きをみる]]></summary>
-        <author>
-            <name>塩れもん</name>
         </author>
     </entry>
 </feed>
