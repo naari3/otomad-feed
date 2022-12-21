@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-21T11:04:04.442Z</updated>
+    <updated>2022-12-21T12:05:14.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#38 12月3週]]></title>
+        <id>hatenablog://entry/4207112889947062175</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2022/12/21/203112"/>
+        <updated>2022-12-21T11:31:12.000Z</updated>
+        <summary type="html"><![CDATA[かなり年末になってきた。恐ろしい。
+急に寒くもなってきた。でも夏より冬の方が好きなので、全然耐えれる。
+ 
+M-1を見た。
+敗者復活の令和ロマンがめちゃくちゃ面白くて、YouTubeでネタを探して見てみたらどれも面白かった。来年は決勝行ってほしい。
+決勝進出コンビでは真空ジェシカ、ロングコートダディ、男性ブランコに注目してた。3組とも面白かった。
+ロコディ、KOCはいつか取るだろうから、早めにM-1優勝して欲しい。M-1KOCの2冠を見てみたい。
+ 
+ぼっち・ざ・ろっく！を見る見ると言ってまだ見れていない。勉強シロイド誕生祭の終わりが近付いているのでしょうがない。
+最終回までには追い付く。残り3日。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Med-1グランプリ2022 あとがき【主催としての所感】【ニコニコメドレーシリーズ Advent Calendar 2022】]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-97.html</id>
