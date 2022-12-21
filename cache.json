@@ -10872,6 +10872,16 @@
       "siteUrl": "https://note.com/aun6june",
       "articles": [
         {
+          "id": "https://note.com/aun6june/n/n4d4614fe096a",
+          "author": null,
+          "description": "この記事は音MADアドベントカレンダーに参加しています。\n      adventar.org  \n続きをみる",
+          "link": "https://note.com/aun6june/n/n4d4614fe096a",
+          "publishedOn": "2022-12-21T10:35:26.000Z",
+          "wordCount": 2579,
+          "title": "音MADでDJをしてみよう",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/93528130/rectangle_large_type_2_12511af4c439398d8864fc56fcc2f9aa.png?width=800"
+        },
+        {
           "id": "https://note.com/aun6june/n/n460722ce58a3",
           "author": null,
           "description": "DJをさせて頂きました。ありがとうございました。\nちょっとミックスのコンセプトとか書いた後、思い出を箇条書きしようと思います。\nミックスの話\n続きをみる",
@@ -15550,6 +15560,16 @@
       "feedUrl": "https://medley26kvocaloid.blog.fc2.com/?xml",
       "siteUrl": "http://medley26kvocaloid.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-97.html",
+          "author": "26K / にとろく",
+          "description": "Med-1グランプリ2022あとがき記事その3。 半年空いちゃった……&nbsp;本記事は「主催としての所感」を記述した記事です。&nbsp;「準備編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html&nbsp;「実行編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html「企画を開催したいあなたへ…」はこちら：↑改めて実行編を読み返したらここと先日の記事にほとんど書いちゃってたので書くことなくな",
+          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-97.html",
+          "publishedOn": "2022-12-21T10:54:00.000Z",
+          "wordCount": 430,
+          "title": "Med-1グランプリ2022 あとがき【主催としての所感】【ニコニコメドレーシリーズ Advent Calendar 2022】",
+          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medley26kvocaloid/Med1End.png"
+        },
         {
           "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-94.html",
           "author": "26K / にとろく",

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-21T10:04:18.355Z</updated>
+    <updated>2022-12-21T11:04:04.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Med-1グランプリ2022 あとがき【主催としての所感】【ニコニコメドレーシリーズ Advent Calendar 2022】]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-97.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-97.html"/>
+        <updated>2022-12-21T10:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Med-1グランプリ2022あとがき記事その3。 半年空いちゃった……&nbsp;本記事は「主催としての所感」を記述した記事です。&nbsp;「準備編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html&nbsp;「実行編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html「企画を開催したいあなたへ…」はこちら：↑改めて実行編を読み返したらここと先日の記事にほとんど書いちゃってたので書くことなくな]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MADでDJをしてみよう]]></title>
+        <id>https://note.com/aun6june/n/n4d4614fe096a</id>
+        <link href="https://note.com/aun6june/n/n4d4614fe096a"/>
+        <updated>2022-12-21T10:35:26.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MADアドベントカレンダーに参加しています。
+      adventar.org  
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[soothe2がすごい　どんどん帯域を削ろう]]></title>
         <id>hatenablog://entry/4207112889946566906</id>
