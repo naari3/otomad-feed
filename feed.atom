@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-21T07:04:05.554Z</updated>
+    <updated>2022-12-21T08:04:55.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28025,27 +28025,6 @@ adventar.org
 失礼しました。思わず松岡修造さんになって…]]></summary>
         <author>
             <name>owatax's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD素材最高齢ランキング]]></title>
-        <id>https://note.com/nototote/n/n58faa4199ab8</id>
-        <link href="https://note.com/nototote/n/n58faa4199ab8"/>
-        <updated>2021-12-21T19:34:27.000Z</updated>
-        <summary type="html"><![CDATA[音MAD Advent Calendarも大詰め、21日目です。ご機嫌いかがでしょうか？
-
-
-
-
-
-
-adventar.org
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>とッくん</name>
         </author>
     </entry>
 </feed>
