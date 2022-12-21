@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-21T09:04:14.293Z</updated>
+    <updated>2022-12-21T10:04:18.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[soothe2がすごい　どんどん帯域を削ろう]]></title>
+        <id>hatenablog://entry/4207112889946566906</id>
+        <link href="https://naari.hatenablog.com/entry/2022/12/21/181615"/>
+        <updated>2022-12-21T09:16:15.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MAD Advent Calendar 2022の19日目の記事です。遅刻しました。
+adventar.org
+
+
+
+みんなが根を詰めた記事しか書いてなくてめっちゃ恐縮！深い話も考え方みたいな話もできないので、すきなプラグインについて書きます。
+概要 tl; dr
+原曲のうち素材の音域と被っている部分を抑制したりするよね
+↑それsoothe2で簡単にできますよ
+困ること
+音MADで使用する曲の大半は世に向けて発売されるタイミングでマスタリングされます。おおよその場合は低音域から高音域までまんべんなく埋まっている状態を目標としてマスタリングされるので、音MADの音声制作時にそのまま素材を置いてしまうと帯域がぶつかってしまい、聞きづらいミックスになってしまいます。特に、音MADにおけるセリフやリードあたりの一番聞かせたいような素材における特徴的な音域は中域であることが多いため、音MADではよくぶつかる問題であると言えそうです。
+原曲とセリフの例　どちらも600hzあたりが一番大きく鳴っていて、このままだとぶつかってしまう！！！
+これまでの対応手
+これに対する対応としてよく挙げられるのは、EQで原曲の中音域帯をあらかじめ削ることです。
+中音域を思い切って削る
+事前に削っておくことで、素材が活躍する音域を開けることができて音MADとして聞かせやすい状態にすることができる、という考え方です。ただ、当たり前ですが素材が占める音域に対してどうしても広めに削ってしまうものだと思います。例えばある素材のレゾナンスは400hz, 420hz, 500hzあたりが目立つけど、別の素材はもっと別の部分にもレゾナンスが存在するので、あらかじめ原曲の300hz ~ 800hzまでを広く削っておく、など。これは楽である一方、原曲を必要以上に小さくしてしまう要因に繋がります。
+また、対策として…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初めてTwitterにお金を払った]]></title>
         <id>hatenablog://entry/4207112889946866255</id>
