@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-22T00:13:45.916Z</updated>
+    <updated>2022-12-22T01:31:12.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28068,31 +28068,6 @@ https://ch.nicovideo.jp/6june/blomaga/ar1702250#-
 続きをみる]]></summary>
         <author>
             <name>rupea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z会永伴録(sm39788215) 告知、本編リファレンス、編集後記]]></title>
-        <id>hatenablog://entry/13574176438045210461</id>
-        <link href="https://onmokosub.hatenablog.com/entry/2021/12/22/213815"/>
-        <updated>2021-12-22T12:38:15.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは❗こちらの合作で色々やったんでリファレンス等書いておきます。あとごちうさ合作の後半の記事意外と書くこと無くて、もしかしたら出ない可能性も、あります。ごめんなさい！
- 
-youtu.be
-youtu.be
-告知のリファレンスとか
-youtu.be
-youtu.be
-youtu.be
-本編のリファレンスとか
-マジで難しかったしやりたいことやりきれなくて泣きそう
-youtu.be
-youtu.be
-youtu.be
-BlenderAeを使ったレンズフレアの焚き方
-BlenderAeというBlenderのアドオンが馬鹿便利で、フレアとか焚くのにクソ便利でという話・・・・
-適当にカメラとライトをAeに転送❗knoll light factoryにライト適用すると、いいよね。]]></summary>
-        <author>
-            <name>ブログ</name>
         </author>
     </entry>
 </feed>
