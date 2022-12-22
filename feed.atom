@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-22T21:04:25.765Z</updated>
+    <updated>2022-12-22T22:04:11.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【月報】2022.11,12【増刊号】]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-96.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-96.html"/>
+        <updated>2022-12-22T21:53:00.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新しい『音MAD×○○』の模索]]></title>
         <id>https://note.com/ecolidelvsvc11/n/nf3ef67761058</id>
