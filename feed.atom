@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-23T10:04:39.075Z</updated>
+    <updated>2022-12-23T11:04:10.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いくよーーーいくいく]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1214.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1214.html"/>
+        <updated>2022-12-23T10:20:28.000Z</updated>
+        <summary type="html"><![CDATA[すっごい雪ふってる！ 荒波です雪なんてゲームじゃ見慣れてるけど、現実で見るのは高校んときの修学旅行以来です地元じゃ山間部を除いて滅多に雪なんて見られず、チラッと降るだけでも大騒ぎになる位なんですが、今回は見事に積もりましたね  14cmも積もったんだって、ほんと100年に1回ってレベルじゃない？いてもたってもいられず外で雪だるまつくって遊んだ手袋もせずに外出たせいで手が冷たすぎてあんま作れなかったけど、その]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【月報】2022.11,12【増刊号】]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-96.html</id>
