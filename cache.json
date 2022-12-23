@@ -6955,22 +6955,7 @@
       "title": "moaji",
       "feedUrl": "https://momomotastes.hatenablog.com/rss",
       "siteUrl": "https://momomotastes.hatenablog.com/",
-      "articles": [
-        {
-          "id": "hatenablog://entry/13574176438039524881",
-          "author": null,
-          "description": "(この記事は、音MAD Advent Calendar 2021に参加しています。)\nadventar.org\n\n　どうやってますか？\n \n　台詞のイントネーションから音階を得て作曲すると言われても正直具体性に欠けるので、私のやってる方法を紹介します。\n　ちなみに、「音MAD Advent Calendar 2018」で既に水無月さんが同じような内容を執筆されていました。残念ながらニコニコ動画のブロマガは現在サービス停止しているのでURLのみの紹介となりますが……。\n\nざっくり説明する台詞イントネーション作曲の作り方\nhttps://ch.nicovideo.jp/6june/blomaga/ar1702250#-\n \n　台詞イントネーション作曲の要はなんといっても台詞を採譜する所にあると思いますが、傍目には、いかにもセンスが必要な作業なんだろうと思われているような気がします。実際センスで無双している御仁もおられる訳ですが、私は最近台詞の耳コピすらやっていません。\n \n　私の手順は以下の通りです。上記の要と言っているのは3の部分に該当し、台詞をモーラで区切って、選定したスケール上の音にチューニングしてから採譜しています。他は音MADやDTMと共通しているので今回はザックリと流します。\n\n曲のBPMを決定する\n音声波形を用意し、タイムストレッチ(台詞合わせ)する\nスケールを選定し、台詞をモーラ単位でチューニングする\n曲のコード進行を決定する\n曲を完成させる\nモーラ - Wikipedia\n \n1. 曲のBPMを決定する\n　曲のBPMを決定します。私は♩=100~130が好きです。この場合は1拍で最大4モーラが入る感じです。\n　　　　｜きょうは｜クリスマス｜イブです｜ね ＿ ＿ ＿｜\n　こういう感じですね。16分音符に合わせて台詞を合わせていく想定です。\n \n2.音声波形を用意…",
-          "link": "https://momomotastes.hatenablog.com/entry/2021/12/24/185014",
-          "publishedOn": "2021-12-24T09:50:14.000Z",
-          "wordCount": 139,
-          "title": "台詞イントネーション作曲、台詞からメロディーを作るのってどうやってる？",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/momomotaste_s/20211219/20211219204502.png",
-            "type": "image/png",
-            "length": "0"
-          }
-        }
-      ]
+      "articles": []
     },
     {
       "title": "麦帳 2冊目",

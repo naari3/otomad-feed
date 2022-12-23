@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-23T21:04:03.463Z</updated>
+    <updated>2022-12-23T22:04:05.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28093,43 +28093,6 @@ www.magika4.com
         <summary type="html"><![CDATA[感想]]></summary>
         <author>
             <name>picm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台詞イントネーション作曲、台詞からメロディーを作るのってどうやってる？]]></title>
-        <id>hatenablog://entry/13574176438039524881</id>
-        <link href="https://momomotastes.hatenablog.com/entry/2021/12/24/185014"/>
-        <updated>2021-12-24T09:50:14.000Z</updated>
-        <summary type="html"><![CDATA[(この記事は、音MAD Advent Calendar 2021に参加しています。)
-adventar.org
-
-　どうやってますか？
- 
-　台詞のイントネーションから音階を得て作曲すると言われても正直具体性に欠けるので、私のやってる方法を紹介します。
-　ちなみに、「音MAD Advent Calendar 2018」で既に水無月さんが同じような内容を執筆されていました。残念ながらニコニコ動画のブロマガは現在サービス停止しているのでURLのみの紹介となりますが……。
-
-ざっくり説明する台詞イントネーション作曲の作り方
-https://ch.nicovideo.jp/6june/blomaga/ar1702250#-
- 
-　台詞イントネーション作曲の要はなんといっても台詞を採譜する所にあると思いますが、傍目には、いかにもセンスが必要な作業なんだろうと思われているような気がします。実際センスで無双している御仁もおられる訳ですが、私は最近台詞の耳コピすらやっていません。
- 
-　私の手順は以下の通りです。上記の要と言っているのは3の部分に該当し、台詞をモーラで区切って、選定したスケール上の音にチューニングしてから採譜しています。他は音MADやDTMと共通しているので今回はザックリと流します。
-
-曲のBPMを決定する
-音声波形を用意し、タイムストレッチ(台詞合わせ)する
-スケールを選定し、台詞をモーラ単位でチューニングする
-曲のコード進行を決定する
-曲を完成させる
-モーラ - Wikipedia
- 
-1. 曲のBPMを決定する
-　曲のBPMを決定します。私は♩=100~130が好きです。この場合は1拍で最大4モーラが入る感じです。
-　　　　｜きょうは｜クリスマス｜イブです｜ね ＿ ＿ ＿｜
-　こういう感じですね。16分音符に合わせて台詞を合わせていく想定です。
- 
-2.音声波形を用意…]]></summary>
-        <author>
-            <name>moaji</name>
         </author>
     </entry>
 </feed>
