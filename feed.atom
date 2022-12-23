@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-22T23:04:19.230Z</updated>
+    <updated>2022-12-23T00:14:16.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28120,21 +28120,6 @@ https://ch.nicovideo.jp/6june/blomaga/ar1702250#-
 2.音声波形を用意…]]></summary>
         <author>
             <name>moaji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動画説明文次第でGoogle画像検索にサムネイルが出せる！]]></title>
-        <id>https://note.com/rupea/n/nf6121d3f4eba</id>
-        <link href="https://note.com/rupea/n/nf6121d3f4eba"/>
-        <updated>2021-12-23T11:05:10.000Z</updated>
-        <summary type="html"><![CDATA[音MAD Advent Calendar 2021の23日目を担当させてもらいました。
-タイトルは馴染みあるように分かりやすい例にしてますが簡単に言えばGoogleの検索結果に表示させやすくする方法です。
-
-音MAD作者の皆さんは普段ニコニコの検索を使って動画を手に取っていると思います。ニコニコの検索は優秀ですよね、新着順に並び変えれますし再生数の多い順でソートできるし色んな探し方ができます。でも皆さんも初めてニコニコを利用した時はニコニコの検索ではなくグーグルの検索からニコニコの動画にたどり着いたって人が多いのではないのでしょうか。
-別に動画に限らず今でも調べものをしたりするときは普段何気なくグーグルの検索を使ってると思います、全世界で利用者が一番多いサイトもGoogleであります。さてこのGoogle検索ですが普通の検索以外にも画像検索や動画検索もあるわけですがその中で疑問に思ったことがあります。
-続きをみる]]></summary>
-        <author>
-            <name>rupea</name>
         </author>
     </entry>
 </feed>
