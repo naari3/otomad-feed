@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-24T02:17:15.894Z</updated>
+    <updated>2022-12-24T03:04:24.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今の天才クリエイターはVtuberに集まってるんだな]]></title>
+        <id>https://anond.hatelabo.jp/20221224114811</id>
+        <link href="https://anond.hatelabo.jp/20221224114811"/>
+        <updated>2022-12-24T02:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Vtuberの配信とか、楽...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いくよーーーいくいく]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1214.html</id>
