@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-24T18:04:22.904Z</updated>
+    <updated>2022-12-24T19:03:59.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28119,24 +28119,6 @@ www.magika4.com
 続きをみる]]></summary>
         <author>
             <name>とッくん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z会永絆録の担当パート解説]]></title>
-        <id>https://note.com/kochi928/n/n4504b015d608</id>
-        <link href="https://note.com/kochi928/n/n4504b015d608"/>
-        <updated>2021-12-25T06:22:33.000Z</updated>
-        <summary type="html"><![CDATA[つい先日、Z会永絆録と言う超絶大規模な音MAD合作を投稿しました。
-
-
-
-
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>こち横</name>
         </author>
     </entry>
 </feed>
