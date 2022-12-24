@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-24T03:04:24.262Z</updated>
+    <updated>2022-12-24T04:06:22.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28093,16 +28093,6 @@ www.magika4.com
 続きをみる]]></summary>
         <author>
             <name>こち横</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲーミングマウスを買った]]></title>
-        <id>https://dumpmc.blog.fc2.com/blog-entry-97.html</id>
-        <link href="https://dumpmc.blog.fc2.com/blog-entry-97.html"/>
-        <updated>2021-12-24T15:19:29.000Z</updated>
-        <summary type="html"><![CDATA[感想]]></summary>
-        <author>
-            <name>picm</name>
         </author>
     </entry>
 </feed>
