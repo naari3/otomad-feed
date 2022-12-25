@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-25T14:04:03.618Z</updated>
+    <updated>2022-12-25T15:05:00.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aviutlの環境をイチから作り直す]]></title>
+        <id>https://ytpmv.info/?p=1590</id>
+        <link href="https://ytpmv.info/how-to-setup-aviutl/"/>
+        <updated>2022-12-25T14:53:38.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう。まいまいです。当記事はAviutlアドベントカレンダー2022に参加しています。最終日に一部の人にしか約立たない記事書いてごめんね♥ 当記事は既にAviutlを使用している人や、過去に使っていたことが […]
+The post Aviutlの環境をイチから作り直す first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年の瀬合作をニコニコで1080pで見る]]></title>
         <id>https://note.com/tanbatu/n/ne63ef25b4476</id>
