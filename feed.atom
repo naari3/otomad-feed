@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-25T15:05:00.716Z</updated>
+    <updated>2022-12-25T16:04:34.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[過去のnote全て編集して音声付けました]]></title>
+        <id>https://note.com/calpisco/n/n9c750cc14714</id>
+        <link href="https://note.com/calpisco/n/n9c750cc14714"/>
+        <updated>2022-12-25T15:30:10.000Z</updated>
+        <summary type="html"><![CDATA[※テキストを読むのが面倒な人はyoutubeの音声版を再生してください
+  
+続きをみる]]></summary>
+        <author>
+            <name>calpisco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aviutlの環境をイチから作り直す]]></title>
         <id>https://ytpmv.info/?p=1590</id>
