@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-24T23:04:06.764Z</updated>
+    <updated>2022-12-25T00:14:50.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27996,37 +27996,6 @@ www.nicovideo.jp
 …]]></summary>
         <author>
             <name>終了済</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当ブログについて(必ずお読みください)]]></title>
-        <id>hatenablog://entry/13574176438046057042</id>
-        <link href="https://8181chttest.hatenablog.com/entry/2021/12/25/202521"/>
-        <updated>2021-12-25T11:25:21.000Z</updated>
-        <summary type="html"><![CDATA[取り急ぎ向け
-Q. 星の子ポロン関連記事の一覧リンクが欲しいんだけど？
-A. 星の子ポロンまとめwikiにまとめてありますので、こちらからご参照ください。俺以外が書いた記事もあります。
-hoshinokoporon.wiki.fc2.com
-Q.記事内のリンクが切れてるんだけど？
-A.お手数ですが、WaybackMachineにリンク先のURL(httpとかで始まるアレ)を入力して残ったアーカイブをご参照ください。スマホの場合は、リンクを長押しするとURLをコピーするメニューが出てくるはずです。
-archive.org
-Q.そういうことじゃないんだけど？
-A.Twitter経由で、@koichilまでご報告ください。
- 
-このブログは何？
-ニコニコ(動画サイト)が運営していた「ユーザーブロマガ」というサービスがありまして…俺はメインの活動地帯がニコニコだったので、サービス同士の導線的にも便利なそれを使って記事を書いてたわけです。
- 
-…が！ユーザーブロマガのサービスが終了してしまい、同時に今まで書いた記事が消えることになりました。
-というわけで、各記事を移行させたのが当ブログになります。
-そのままにしておくと実害がありそうな一部の記事を除き、記事になされた皆さんのコメントも含め、基本的にそのまま移植してありますが、あくまで当時書いたというだけで今読む人にとって価値のあるものとは限らないのですが、そこはご了承ください。
-あと、移行に完全な互換性があるとも限らないので、記事によっては何か表示とかが変なことになってることもあるかもしれません。
- 
-これは移行先なだけ？
-www.magika4.com
-実は絶賛運用中のブログはもう1つ持っているんですが、こっちには移しませんでした。
-もう1つのブログは運用としてはアフィリエイト広告を貼っており、その収入を維持費に当てるというやり方な…]]></summary>
-        <author>
-            <name>汁を染みこませるんだ！ ～落書きメモ～ (2代目)</name>
         </author>
     </entry>
 </feed>
