@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-26T04:04:39.585Z</updated>
+    <updated>2022-12-26T05:04:45.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラウザ版ツイッターのインプレッション表示を消した]]></title>
+        <id>https://note.com/tanbatu/n/n4ecc886ebc50</id>
+        <link href="https://note.com/tanbatu/n/n4ecc886ebc50"/>
+        <updated>2022-12-26T04:09:59.000Z</updated>
+        <summary type="html"><![CDATA[前
+
+続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[過去のnote全て編集して音声付けました]]></title>
         <id>https://note.com/calpisco/n/n9c750cc14714</id>

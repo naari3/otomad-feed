@@ -14435,6 +14435,16 @@
       "siteUrl": "https://note.com/tanbatu",
       "articles": [
         {
+          "id": "https://note.com/tanbatu/n/n4ecc886ebc50",
+          "author": null,
+          "description": "前\n\n続きをみる",
+          "link": "https://note.com/tanbatu/n/n4ecc886ebc50",
+          "publishedOn": "2022-12-26T04:09:59.000Z",
+          "wordCount": 2421,
+          "title": "ブラウザ版ツイッターのインプレッション表示を消した",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/94128813/rectangle_large_type_2_c5093d14ab51b99b3bb04639298fa874.png?width=800"
+        },
+        {
           "id": "https://note.com/tanbatu/n/ne63ef25b4476",
           "author": null,
           "description": "※雑に書いたコードなのであまり信用しないでください\n合作が58分ある（なんで？）関係でニコニコが360pになってしまったので、ニコニコにyoutubeの埋め込みを無理やりねじ込むブックマークレットを書きました。\n続きをみる",
