@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-28T12:05:28.631Z</updated>
+    <updated>2022-12-28T13:06:54.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ちぇんそーまンち 歌詞書き起こし]]></title>
+        <id>https://note.com/miko_ovo/n/ne67f70836017</id>
+        <link href="https://note.com/miko_ovo/n/ne67f70836017"/>
+        <updated>2022-12-28T12:51:08.000Z</updated>
+        <summary type="html"><![CDATA[ちぇんそーまンちの書き起こしです。問題があれば消します。
+  
+続きをみる]]></summary>
+        <author>
+            <name>miko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年の投稿動画を振り返る2022]]></title>
+        <id>https://note.com/saltlemon/n/nbd8cd9f83ab4</id>
+        <link href="https://note.com/saltlemon/n/nbd8cd9f83ab4"/>
+        <updated>2022-12-28T12:12:43.000Z</updated>
+        <summary type="html"><![CDATA[どうも。塩れもんと申します。今年も自己満足になりますが振り返っていきます
+1．凛世融解
+続きをみる]]></summary>
+        <author>
+            <name>塩れもん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nerdtronics2の振り返り⑤ (運営関連/収支報告/反省点など) #ナートロ2]]></title>
         <id>hatenablog://entry/4207112889945539621</id>
