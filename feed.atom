@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-28T22:03:55.556Z</updated>
+    <updated>2022-12-28T23:04:19.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28075,51 +28075,6 @@ YOASOBI「大正浪漫」Official Music Video
 続きをみる]]></summary>
         <author>
             <name>不可逆褐色</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年の目標]]></title>
-        <id>hatenablog://entry/13574176438047347067</id>
-        <link href="https://naari.hatenablog.com/entry/2021/12/29/191726"/>
-        <updated>2021-12-29T10:17:26.000Z</updated>
-        <summary type="html"><![CDATA[昨日振り返ったので、今日は雑に目標を立てる。
-↓去年立てた、今年の目標
-naari.hatenablog.com
-PCの環境をもうちょっとよくする
-録画鯖を作る
-音MADを作る
-
-
-去年1つしか作らなかったので
-YTPMV
-セリフ合わせ
-誘われの音源をちゃんと作る
-
-
-素振りとかもして多少くらいは満足したい
-レーベルとか何かのDIscordサーバーに音源を投げてみる
-なにかのイベントに出たい
-
-
-ちゃんとmix作ったりね
-このブログをちゃんとやる
-
-
-下書きを消費する
-本棚を完成させる
-そして荷解きを完遂する
-継続して生活にちょっと気をつける
-継続して食事に気をつける
-貯金のことを考えてみる
-転職のことを考えてみる
-趣味のプログラミングのプロダクトをもうちょっと真面目にすすめる
-SRE頑張る
-
-
-クラスタ引っ越し
-会社のほうでひとつ技術記事を書く]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
 </feed>
