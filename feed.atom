@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-28T10:04:09.214Z</updated>
+    <updated>2022-12-28T11:04:09.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nerdtronics2の振り返り⑤ (運営関連/収支報告/反省点など) #ナートロ2]]></title>
+        <id>hatenablog://entry/4207112889945539621</id>
+        <link href="https://owatax00.hatenablog.com/entry/2022/12/28/195212"/>
+        <updated>2022-12-28T10:52:12.000Z</updated>
+        <summary type="html"><![CDATA[前略！以下について書きます！！！！！！！
+運営関連
+収支報告
+反省点
+ 
+※関連記事は nerdtronics2タグ より参照ください。
+ 
+
+
+ 
+■運営に関して
+今回のイベント運営に関して、前回と大きく変えたのは「最終的な決定権をほぼ全てowataxの元に集約させた」点です。(運営内で直接謳ってたりはしなかったけど、自然とそうなってました)
+ 
+以前26Kさんのブログで複数人体勢での運営に関する話題が展開されていましたが、
+前回のイベント開催時は結構その弊害が出てたりしたんですよね。
+ 
+具体的には
+「誰かがやってくれるだろう」の精神でタスクが宙に浮く
+運営3人の合意を取るのに時間が掛かるため、ややスピード感に欠ける
+良くも悪くも全体的にゆるく進行してた
+辺り。（改めて書き出すと問題点の数自体は少ないな）
+ 
+ 
+ 
+……前回開催時は初回ということもあり色々手探りだったのと、イベント自体の規模も小さかったのでまぁこれでも問題なかった（かつ、この緩さ自体は快適だった）んですが、いかんせん今回の開催場所はあのMOGRA。
+ 
+絶対に失敗出来ない状況ということもあるため、
+諸々の責任と決定権をowataxへ集約
+
+原則、浮いたタスクは全てowataxが拾うことで取りこぼしの防止
+
+とは言っても全部自分でやりきることは当然出来ないので、各スタッフに適宜作業を振り分け
+決定権を集約することでスピード感の向上
+
+
+
+得意分野はowataxがそのまま管轄しつつ、苦手分野は個別に立てた担当者に原則全権を移譲
+
+フライヤーデザインに関しては全て1時さんに依頼
+
+ロゴデザインに関する連携は1時さん＆ruijiさんで直接連携しつつ進行
+告知動画については全て菅沼さんに依頼
+音出し用のスタジオレンタル、一部グッズのやり取りは全て水無月☆★さんに依頼
+打ち上げ関連のお店選びや予約周りは全てEst…]]></summary>
+        <author>
+            <name>owatax's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nerdtronics2の振り返り④ (時系列の整理) #ナートロ2]]></title>
         <id>hatenablog://entry/4207112889948648595</id>
