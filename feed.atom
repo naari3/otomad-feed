@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-29T17:04:13.694Z</updated>
+    <updated>2022-12-29T18:04:34.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年投稿した動画の振り返り2022]]></title>
+        <id>https://note.com/eroerojpeg/n/n3377d4559f00</id>
+        <link href="https://note.com/eroerojpeg/n/n3377d4559f00"/>
+        <updated>2022-12-29T17:22:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、不可逆褐色です。
+早いものでもう2022年も終わりますね。
+今年投稿した動画は6個でした。
+平均して2か月に1個。たいしたものですね。
+合作にも参加していてバランスもいい。
+結構頑張ったほうだというほかない。
+では、早速振り返っていこうと思います。
+1．4koma-CatPanic!
+続きをみる]]></summary>
+        <author>
+            <name>不可逆褐色</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年作ったやつ振り返り]]></title>
         <id>hatenablog://entry/4207112889949330859</id>
