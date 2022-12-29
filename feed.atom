@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-29T07:04:24.994Z</updated>
+    <updated>2022-12-29T08:04:32.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28070,21 +28070,6 @@ YOASOBI「大正浪漫」Official Music Video
 ・投稿作業(投稿説明文、参加者マイリストの作成など)…]]></summary>
         <author>
             <name>メモタルト</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年投稿した動画の振り返り2021]]></title>
-        <id>https://note.com/eroerojpeg/n/n48436fa0809e</id>
-        <link href="https://note.com/eroerojpeg/n/n48436fa0809e"/>
-        <updated>2021-12-29T19:50:10.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。不可逆褐色です。
-早いものでもう2021年も終わりますね。
-今年の初めくらいににじさんじライバーの配信を見るのにハマってそれから度々音MADを作って投稿したりと、今年は自分にとってはにじさんじの年でした。
-そんな自分が今年投稿した動画は全部で13個でした。平均して月一本くらい…結構作ったな…
-では早速振り返っていこうと思います。
-続きをみる]]></summary>
-        <author>
-            <name>不可逆褐色</name>
         </author>
     </entry>
 </feed>
