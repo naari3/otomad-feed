@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-30T15:04:10.509Z</updated>
+    <updated>2022-12-30T16:04:33.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28002,18 +28002,6 @@ AEを使いたかったのでタイトル落ちの短めの音MADを作りまし
 続きをみる]]></summary>
         <author>
             <name>mega(目が)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[見た2021年秋アニメと満足度]]></title>
-        <id>https://note.com/binetsu0904/n/n3ec58747208e</id>
-        <link href="https://note.com/binetsu0904/n/n3ec58747208e"/>
-        <updated>2021-12-31T03:13:28.000Z</updated>
-        <summary type="html"><![CDATA[前回の記事はこちら
-
-続きをみる]]></summary>
-        <author>
-            <name>微熱</name>
         </author>
     </entry>
 </feed>
