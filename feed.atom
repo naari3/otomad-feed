@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-29T23:04:22.354Z</updated>
+    <updated>2022-12-30T00:14:04.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27919,17 +27919,6 @@ AEを使いたかったのでタイトル落ちの短めの音MADを作りまし
 続きをみる]]></summary>
         <author>
             <name>遺失物届</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日記]]></title>
-        <id>https://note.com/ebideath/n/n56f7d2ae168d</id>
-        <link href="https://note.com/ebideath/n/n56f7d2ae168d"/>
-        <updated>2021-12-30T11:49:27.000Z</updated>
-        <summary type="html"><![CDATA[最近は創作活動っぽいこと全然してないです。今までは生活をあきらめてたから創作に精を出せていたのかも？生活のイベントはほぼ全無視、金も時間も後先考えず創作関連に突っ込んで、ぼろぼろだったけどそれも楽しかった、それがもうない！まーそんな生活してて芽が出たかと言われると今これだから、自分ってその程度なんだなぁと受け入れて気長にやるしかないですね。2022は引退とか臭いことやらんようにしたいです!
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>
