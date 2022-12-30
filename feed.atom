@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-30T12:05:07.740Z</updated>
+    <updated>2022-12-30T13:06:45.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もういくつ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1215.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1215.html"/>
+        <updated>2022-12-30T12:31:54.000Z</updated>
+        <summary type="html"><![CDATA[いろいろなものが終わったり終わろうとしていますね  荒波です死ド・・・最近ですが、ええ、何もしていませんクリスマスはマイクラでケーキ作ってお祝いしました部屋に掃除機もかけましたそんくらいアイプラにフェスガチャ？なるものがきていたのでひいた  mihoさんおれのこと好きか？このあとfranも引けたんだけどkanaだけ来てくれなかった  かーわーいーそー＾＾こじまかなさんごめんよスリクスの人たちはガチャで引かないとレッ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3人で振り返る2022年の出来事と合作③（ウマ娘競奏曲篇）]]></title>
         <id>hatenablog://entry/4207112889949370363</id>
@@ -27950,19 +27960,6 @@ AEを使いたかったのでタイトル落ちの短めの音MADを作りまし
 続きをみる]]></summary>
         <author>
             <name>微熱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日記_2021/12/31「誕生日雑感」]]></title>
-        <id>https://note.com/aru_danshi/n/n2a453148e2ee</id>
-        <link href="https://note.com/aru_danshi/n/n2a453148e2ee"/>
-        <updated>2021-12-31T00:54:10.000Z</updated>
-        <summary type="html"><![CDATA[きっとこの日記が更新される頃には帰省をしており、あまり落ち着いて日記を書ける環境にはないと思うしゆっくりしたいので、先回りをして書いておくことにした。これは12/30の日記も同じである。去年から12/31をインターネット誕生日としている（個人情報的な観点から正確な日付を公開したくないが、なんとなく祝われたい気持ちも隠せないため、とりあえず1年の間に必ず年をとっているという意味で大晦日に設定した）。以下、実際の誕生日を迎えた際に書いていたメモを日記代わりにします。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>遺失物届</name>
         </author>
     </entry>
 </feed>
