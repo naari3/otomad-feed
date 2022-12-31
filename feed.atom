@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-31T03:04:26.152Z</updated>
+    <updated>2022-12-31T04:04:35.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3人で振り返る2022年の出来事と合作④（　　　　篇）]]></title>
+        <id>hatenablog://entry/4207112889949726098</id>
+        <link href="https://crabgot.hatenablog.com/entry/2022/12/31/125048"/>
+        <updated>2022-12-31T03:50:48.000Z</updated>
+        <summary type="html"><![CDATA[本記事は通話によるインタビューを文字に起こした記事となります。
+まだ合作を見てない人は是非合作を見てから！https://www.nicovideo.jp/watch/sm40434189
+ 
+
+この記事に出てくる人
+好きなジョブは忍者。
+www.nicovideo.jp
+ 
+好きなジョブは青魔道士。
+www.nicovideo.jp
+ 
+好きなジョブは風水士。
+www.nicovideo.jp
+「風水士ってどくろイーター倒すとき以外使わなかったな」
+「地形技は確かに楽しくて好き」
+「5ではぶっちゃけその2点が全てですね。FFTでは剣と盾装備できるから好き」
+ 
+「何から喋ればいいんだこれ……発足って那須さんの動画だよね？確か。『ユメヲカケル』で」
+www.nicovideo.jp
+「某鯖で……本当に良くないんだけどこまりさんと僕が定期的にワッカさんの動画を貼って会話するっていう、良くない内輪ノリをしてて…
+俺が（那須さんの）動画を手伝ってたんですけど、作業通話してたんですよ。投稿寸前まで編集してて。その時に手伝ってる過程で悪ノリが生じたんですね。那須さんが頑張ってる間にちょっと手が空いたんで、ワッカを貼って茶化すっていう流れがあって。こまりさんもそうだったんだけど」
+「全然知らなかったんだよね？当時の那須さん。」
+「知らなかったね。知らなかったけど俺たちが貼ってるよく分からんおっさんみたいな認識だったと思う」
+「それを受け入れるってのもすごい」
+「でもFFXの面白さみたいなのを理解してもらってて。『なんかワッカさんで動画作りたいんだよなー』みたいな話になって。こまりさんが上げてたし。
+その時に『おとめっど』で『おとわっか』とかどう？みたいな感じで。『作れんじゃね？合作』みたいな感じで喋ってて」
+「適当でいいから（笑）みたいな」
+「そんな軽いノリだったんだ…」
+「『ちょっと…]]></summary>
+        <author>
+            <name>なんて巨大なカニゴット</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221230「ドキュメント72時間」]]></title>
         <id>hatenablog://entry/4207112889949647224</id>
@@ -27958,19 +27996,6 @@ www.nicovideo.jp
 素材の親和性の高さもさることながら、動画の構成としてもかなり面白いものができそうだということで、テンションが上がっていたのですが、瀬畑黒さんが進捗晒し鯖に音声の進捗を貼ったりTwitterに貼りまくっていたので、投稿するアカウントの性質上、まずは消すところから作業が始…]]></summary>
         <author>
             <name>ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラグとレイン　解説+α]]></title>
-        <id>https://note.com/108_9/n/n9bc94cb2b491</id>
-        <link href="https://note.com/108_9/n/n9bc94cb2b491"/>
-        <updated>2021-12-31T15:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Lixyと申します。今年の2月ごろから「強烈誘拐」という共有アカウント内で活動していました。いくつか参画した作品はあるのですが、当記事は特に僕が中心となって制作いたしました「ラグとレイン」についての解説です。
-
-※この先の文章には、アニメ「serial experiments lain」の核心に迫るネタバレがあります。理解した上でご覧ください。
-続きをみる]]></summary>
-        <author>
-            <name>Lixy</name>
         </author>
     </entry>
 </feed>
