@@ -7036,6 +7036,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889949920050",
+          "author": null,
+          "description": "naari.hatenablog.com\n\nつくったもの/やったこと (wip含む)\nマイリストをぜんぶまとめて見れるやつ\ntauriを使ってマイリストをまとめて見れるクライアントを作りたかった。まだ作ってる途中。\ngithub.com\nOffersHUD\nMinecraftのMOD、fabric用。村人に照準を合わせるだけで取引内容が見れるやつ。\ngithub.com\nnaari.hatenablog.com\nRSSフィード\n音MAD作者のブログとか、純粋に自分が読んでいるブログをosmosfeedというものを使って見るようにした。今更RSSフィードを追っている。\nyamlにデータをまとめるために、今回のデータ構造のためのlinterを作ったりした。\nosmosfeedを使って自分のためのアンテナ(RSSリーダー)を作成する - 名有りさんの日記\n\n\nosmosfeedを使って自分のためのアンテナ(RSSリーダー)を作成する - 名有りさんの日記\n\n\nマンガクロスの作品のRSSフィードを作成できるようになった - 名有りさんの日記\n\n\n\n\nGetting Over It Subtitles\nGetting Over Itの全字幕をまとめたやつ。ゲームデータから直接抜いた。\nnaari3.github.io\ngithub.com\nnaari.hatenablog.com\n@naari3/react-crossword-ja と 最強無敵スーパーウルトラ神神神合作のクロスワード作成\nひさびさにライブラリを作った。日本語に特化したクロスワードのReactのコンポーネント。日本語入力のためのIMEが難しいこととかがわかった。\ngithub.com\nnaari.hatenablog.com\nSpigotのnmsについての理解\nnaari.hatenablog.com\nnaaris\nまたテトリスを実装した。今回はRustで、かつ描画ライブラリのことを気にしながら。\ngithub.com\nminecraft-command-bot\nMinecraftのサーバーのログを食べて、それに反応させてDiscordに何かをしたり、Discordのリアクションをもとにしてrconのコマンドを投げるようなやつ。身内でスカイブロックをやるときに活躍した。\ngithub.com\nnaari.hatenablog.com\nRust + multi arch image + GitHub Actions\nnaari.hatenablog.com\n人生で初めてホッテントリに乗った気がする。\nPowerToys Runのプラグイン Terrariaのwikiを検索する\n半ば無理矢理な感じでPowerToys Runが認識するプラグインを作成する、というやつ。その時仲間内でやってたTerrariaのwikiを検索するためのプラグインを作った。\ngithub.com\nnaari.hatenablog.com\nnaari.hatenablog.com\nUpdate Suppression\ngithub.com\nMinecraft上でStackOverFlowを無理矢理発生するようにして、ブロックのアップデートを強制的に停止するやつ。説明用の記事と動画をちゃんと作ってる。\nssclip\n事前にディレクトリを監視しておき、スクショとかの画像が作成したタイミングでクリップボードにコピーするやつ\ngithub.com\nMinecraftで画像を作成した時にそのまま Ctrl+V とかで各所に共有できるようにするために作った。\nnomifactory-ja\nnomifactoryというmodpackの日本語化をしている。\ngithub.com\ndangerを使ってPRで簡易プレビューみたいなことをしたり、VSCodeのためのプレビュー用拡張機能を作った。\ngithub.com\nまとめ\n今年は趣味色が強い感じ。プログラミングのためのプログラミングというのをあまりやってない(強いて言えばRust + multi arch imageくらい？)。\n仕事の方で色々やってるんだけど、まだ外に出せるような何かを書いていないのでここにも書けてない。来年はそっちもたくさん書けてるといいな～～",
+          "link": "https://naari.hatenablog.com/entry/2022/12/31/211759",
+          "publishedOn": "2022-12-31T12:17:59.000Z",
+          "wordCount": 321,
+          "title": "2022年の振り返り テクい編",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20221231/20221231202344.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20221231/20221231202344.png"
+        },
+        {
           "id": "hatenablog://entry/4207112889949901138",
           "author": null,
           "description": "naari.hatenablog.com\n項目を振り返る\nPCの環境をもうちょっとよくする\nよくなった気がする！！それぞれ理由を持ってアップグレードした。金を掛ける部分に金を掛けたぞ！！！\nCPU\n\n\nAMD Ryzen 5 3600X → AMD Ryzen 9 5900X\nメモリ\n\n\n32GB → 128GB\nグラボ\n\n\nGTX 750ti → RTX 3060ti\n今はゲーミングのモニターがほしい。スーパーマリオワールドとかをやるときに未だにブラウン管のテレビを使ってるんだけど、今のご時世にブラウン管はちょっと重すぎる。既にRTAのトップランナーもゲーミングモニター+良い品質のアップスキャンコンバーターに変えている。僕もこれに乗りたい。\n録画鯖を作る\n作れなかった。来年に期待。\n音MADを作る\nひとつだけ投稿したけど、力を入れたものは投稿に至らなかった。もっと頑張りたい。特に2023年は頑張りたい。\nwww.nicovideo.jp\n今貯めてる183はそれぞれ動画ワークが残っている。大変や。2023年は動画の年になる可能性がある。\n誘われの音源をちゃんと作る\n目標には「素振りとかもして多少くらいは満足したい」とか書いたけど、実際はあまり触れなかった。去年までは雑にDAWを触ることがよくあったけど、今年は依頼以外でDAWを触らなかった気がする。もっとやりたい。\n出したもの↓\nCaramell11111\n49sixさんの荷鞍Recordsから、misskey用の変名義 naari4 で#PARTY ALL-NIGHTに出させて頂いた。前々からアイデアとして存在していた、caramell dansen のhyperflip。ドナルドのランランルーの逆再生を使いたかった。\nsoundcloud.com\nnot seeming!!\nponiyamaさんのLiminal Warp…",
@@ -13884,6 +13899,16 @@
       "feedUrl": "https://note.com/somethingofmok/rss",
       "siteUrl": "https://note.com/somethingofmok",
       "articles": [
+        {
+          "id": "https://note.com/somethingofmok/n/nf417ddedd079",
+          "author": null,
+          "description": "１０選に参加しなかったので、参加してたらこれに入れてたなーのやつ\n簡潔に！！\n①コレハイト・ディスコ\n続きをみる",
+          "link": "https://note.com/somethingofmok/n/nf417ddedd079",
+          "publishedOn": "2022-12-31T12:14:14.000Z",
+          "wordCount": 2821,
+          "title": "かっぱずしの２０２２",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/219ec6d2a837a0ea3658e33556a1e63775bb87e3.png"
+        },
         {
           "id": "https://note.com/somethingofmok/n/ne6a0a46cadd0",
           "author": null,

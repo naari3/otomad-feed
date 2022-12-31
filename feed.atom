@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-31T12:04:34.973Z</updated>
+    <updated>2022-12-31T13:05:41.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年の振り返り テクい編]]></title>
+        <id>hatenablog://entry/4207112889949920050</id>
+        <link href="https://naari.hatenablog.com/entry/2022/12/31/211759"/>
+        <updated>2022-12-31T12:17:59.000Z</updated>
+        <summary type="html"><![CDATA[naari.hatenablog.com
+
+つくったもの/やったこと (wip含む)
+マイリストをぜんぶまとめて見れるやつ
+tauriを使ってマイリストをまとめて見れるクライアントを作りたかった。まだ作ってる途中。
+github.com
+OffersHUD
+MinecraftのMOD、fabric用。村人に照準を合わせるだけで取引内容が見れるやつ。
+github.com
+naari.hatenablog.com
+RSSフィード
+音MAD作者のブログとか、純粋に自分が読んでいるブログをosmosfeedというものを使って見るようにした。今更RSSフィードを追っている。
+yamlにデータをまとめるために、今回のデータ構造のためのlinterを作ったりした。
+osmosfeedを使って自分のためのアンテナ(RSSリーダー)を作成する - 名有りさんの日記
+
+
+osmosfeedを使って自分のためのアンテナ(RSSリーダー)を作成する - 名有りさんの日記
+
+
+マンガクロスの作品のRSSフィードを作成できるようになった - 名有りさんの日記
+
+
+
+
+Getting Over It Subtitles
+Getting Over Itの全字幕をまとめたやつ。ゲームデータから直接抜いた。
+naari3.github.io
+github.com
+naari.hatenablog.com
+@naari3/react-crossword-ja と 最強無敵スーパーウルトラ神神神合作のクロスワード作成
+ひさびさにライブラリを作った。日本語に特化したクロスワードのReactのコンポーネント。日本語入力のためのIMEが難しいこととかがわかった。
+github.com
+naari.hatenablog.com
+Spigotのnmsについての理解
+naari.hatenablog.com
+naaris
+またテトリスを実装した。今回はRustで、かつ描画ライブラリのことを気にしながら。
+github.com
+minecraft-command-bot
+Minecraftのサーバーのログを食べて、それに反応させてDiscordに何かをしたり、Discordのリアクションをもとにしてrconのコマンドを投げるようなやつ。身内でスカイブロックをやるときに活躍した。
+github.com
+naari.hatenablog.com
+Rust + multi arch image + GitHub Actions
+naari.hatenablog.com
+人生で初めてホッテントリに乗った気がする。
+PowerToys Runのプラグイン Terrariaのwikiを検索する
+半ば無理矢理な感じでPowerToys Runが認識するプラグインを作成する、というやつ。その時仲間内でやってたTerrariaのwikiを検索するためのプラグインを作った。
+github.com
+naari.hatenablog.com
+naari.hatenablog.com
+Update Suppression
+github.com
+Minecraft上でStackOverFlowを無理矢理発生するようにして、ブロックのアップデートを強制的に停止するやつ。説明用の記事と動画をちゃんと作ってる。
+ssclip
+事前にディレクトリを監視しておき、スクショとかの画像が作成したタイミングでクリップボードにコピーするやつ
+github.com
+Minecraftで画像を作成した時にそのまま Ctrl+V とかで各所に共有できるようにするために作った。
+nomifactory-ja
+nomifactoryというmodpackの日本語化をしている。
+github.com
+dangerを使ってPRで簡易プレビューみたいなことをしたり、VSCodeのためのプレビュー用拡張機能を作った。
+github.com
+まとめ
+今年は趣味色が強い感じ。プログラミングのためのプログラミングというのをあまりやってない(強いて言えばRust + multi arch imageくらい？)。
+仕事の方で色々やってるんだけど、まだ外に出せるような何かを書いていないのでここにも書けてない。来年はそっちもたくさん書けてるといいな～～]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かっぱずしの２０２２]]></title>
+        <id>https://note.com/somethingofmok/n/nf417ddedd079</id>
+        <link href="https://note.com/somethingofmok/n/nf417ddedd079"/>
+        <updated>2022-12-31T12:14:14.000Z</updated>
+        <summary type="html"><![CDATA[１０選に参加しなかったので、参加してたらこれに入れてたなーのやつ
+簡潔に！！
+①コレハイト・ディスコ
+続きをみる]]></summary>
+        <author>
+            <name>かっぱずしのnote</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年の振り返り]]></title>
         <id>hatenablog://entry/4207112889949901138</id>
