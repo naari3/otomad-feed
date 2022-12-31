@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-31T18:04:20.318Z</updated>
+    <updated>2022-12-31T19:04:04.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28027,17 +28027,6 @@ www.youtube.com…]]></summary>
 続きをみる]]></summary>
         <author>
             <name>片知</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゆゆゆ合作の真実]]></title>
-        <id>https://note.com/binetsu0904/n/n3de279932721</id>
-        <link href="https://note.com/binetsu0904/n/n3de279932721"/>
-        <updated>2022-01-01T06:34:50.000Z</updated>
-        <summary type="html"><![CDATA[音MAD10選1票ありがとうございました！
-続きをみる]]></summary>
-        <author>
-            <name>微熱</name>
         </author>
     </entry>
 </feed>
