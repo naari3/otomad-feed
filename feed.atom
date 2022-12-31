@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-31T02:19:08.260Z</updated>
+    <updated>2022-12-31T03:04:26.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27971,24 +27971,6 @@ www.nicovideo.jp
 続きをみる]]></summary>
         <author>
             <name>Lixy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年の好きな動画]]></title>
-        <id>https://note.com/saltlemon/n/n93abaab37f51</id>
-        <link href="https://note.com/saltlemon/n/n93abaab37f51"/>
-        <updated>2021-12-31T14:28:25.000Z</updated>
-        <summary type="html"><![CDATA[音MAD多め　時系列ぐちゃぐちゃです
-
-
-
-
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>塩れもん</name>
         </author>
     </entry>
 </feed>
