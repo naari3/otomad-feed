@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-31T17:03:58.006Z</updated>
+    <updated>2022-12-31T18:04:20.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28038,24 +28038,6 @@ www.youtube.com…]]></summary>
 続きをみる]]></summary>
         <author>
             <name>微熱</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人作2021]]></title>
-        <id>https://note.com/26435/n/n95b9fa94e68e</id>
-        <link href="https://note.com/26435/n/n95b9fa94e68e"/>
-        <updated>2022-01-01T05:15:44.000Z</updated>
-        <summary type="html"><![CDATA[手抜き
-
-
-
-「投稿動画」 Theasさんの公開マイリスト - ニコニコ投稿動画ですwww.nicovideo.jp
-
-
-
-続きをみる]]></summary>
-        <author>
-            <name>Theas</name>
         </author>
     </entry>
 </feed>
