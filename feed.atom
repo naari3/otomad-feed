@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-31T04:04:35.453Z</updated>
+    <updated>2022-12-31T05:04:12.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27951,51 +27951,6 @@ open.spotify.com
 状況に変化があったのが2月です。いわゆる団体垢である「強烈誘拐」に招待され、動画制作に対してストイックな…]]></summary>
         <author>
             <name>寿司工場</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テレキャスターナムガール(sm38450329)の解説・リファレンスなど]]></title>
-        <id>hatenablog://entry/13574176438047845081</id>
-        <link href="https://onmokosub.hatenablog.com/entry/2022/01/01/010501"/>
-        <updated>2021-12-31T16:05:01.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。去年の三月にこんな動画を作っていたので、主に使ったソフトの技術面を中心に映像を作る上で気を遣った部分、リファレンスなどを紹介していこうと思います。よろしくお願いします。
-www.nicovideo.jp
- 
-
-    
-パート表
-使用ソフト
-本編の解説
-きっかけ
-Blenderでの作業
-質感について
-ライティング
-Aeでの作業
-コンポジット
-イントロ
-キネポ
-開催中！
-コラージュ
-ボツ集
-最後に
-パート表
-基本的に僕が組んでいて、後の部分を手伝ってもらったり埋めてもらったりという感じになっています。お互い口出したりしながら作ってて楽しかったです。
-
-使用ソフト
-After Effects(オンモコスブ,冬眠します)
-Blender(オンモコスブ)
-AviUtl(あるくおすし,オンモコスブ)
-Inkscape(あるくおすし)
-Cinema 4D(冬眠します)
-FireAlpaca(瀬畑黒)
-以下、動画の大部分に当たる自分のBlenderでの作業やAeでの作業を解説していきます。
-本編の解説
-きっかけ
-そもそもこの動画が作られたきっかけの話をしておきますと、さはらさんの「テレキャスターゲイボーイ」が投稿されたのがきっかけで、春休みで時間があったのもあり、瀬畑黒さんが183にしていた「テレキャスタービーボーイ×お仏壇のはせがわ」で作ることになりました。きっかけもあり全体的な質感はテレキャスターゲイボーイを参考に、あとは伸び伸びと作りました。さはらさんの映像がすごすぎる。
-www.nicovideo.jp
-素材の親和性の高さもさることながら、動画の構成としてもかなり面白いものができそうだということで、テンションが上がっていたのですが、瀬畑黒さんが進捗晒し鯖に音声の進捗を貼ったりTwitterに貼りまくっていたので、投稿するアカウントの性質上、まずは消すところから作業が始…]]></summary>
-        <author>
-            <name>ブログ</name>
         </author>
     </entry>
 </feed>
