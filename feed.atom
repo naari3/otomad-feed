@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2022-12-31T10:04:20.978Z</updated>
+    <updated>2022-12-31T11:03:49.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年の振り返り雑]]></title>
+        <id>hatenablog://entry/4207112889949874778</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2022/12/31/193322"/>
+        <updated>2022-12-31T10:33:22.000Z</updated>
+        <summary type="html"><![CDATA[流石に何も書かないのもなぁと思ったので。本当に思いついたことをメモがてら書いていくので読む人のことは考えてません。
+ 
+今年はなんか色々触れることをしようとしてた気がしますね。本たくさん買ったりゲームたくさんやったり。
+例えば映画は52本見たらしい？来年は75本を目標にしておこうかな。
+ここで今年のkaikityou大賞を発表しておけば良いのだと気付いた。
+ 
+映画部門
+『浅草キッド』『エルム街の悪夢(2010年版)』『スウィングガールズ』
+アニメ部門
+『サマータイムレンダ』『凪のあすから』『ラブライブ！スーパースター!!(第二期)』
+ゲーム部門(ここだけ接戦すぎてどうしても削れなかった)
+『MAD RAT DEAD』『ポケットモンスター スカーレット/バイオレット』『スーパーマリオRPG』『星のカービィ 鏡の大迷宮』『ゼルダの伝説 風のタクトHD』『スペースインベーダー　インヴィンシブルコレクション』
+漫画部門(全然読んでなくてこの3つしか候補無かった)
+『呪術廻戦』『対ありでした。 ～お嬢様は格闘ゲームなんてしない～』『よふかしのうた』
+ 
+今書いてて「これ今年だと思ったらもう去年だったわ」がかなり多かった。つまり一年があっという間に過ぎたということなんだと思う。
+来年はもっと時間の意識をちゃんとさせた方が良さそう。
+あと色々見るようにして思ったけど、正直俺こういうスタイル嫌いかも。そこまで好きでもないものに対して好きであるかのように振る舞う場面が多々あったような気がする。
+でも一方で色んなものが理解出来るようになっていく感覚は間違いなく楽しい。
+ 
+大阪と函館に行った。
+大阪はライブのために友人と行って、函館は家族と行った。
+どっちも食べ物が美味しくて良かった。特に函館で食べたラッキーピエロは今年食ったものの中で一番うまいまであるかもしれん。
+でも今年のあらゆるイベン…]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022おわり]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1216.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1216.html"/>
+        <updated>2022-12-31T10:24:22.000Z</updated>
+        <summary type="html"><![CDATA[というわけで今年もおわりですのうのうと生きましたね誰が見ているやらわからないうんちぶろぐですが来年もよろしくおねがいします今年も何もできなかった  何も新しい事ができなかった  来年からどうしようまた来年]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3人で振り返る2022年の出来事と合作④（　　　　篇）]]></title>
         <id>hatenablog://entry/4207112889949726098</id>
