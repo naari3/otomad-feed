@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-01T21:04:02.639Z</updated>
+    <updated>2023-01-01T22:04:07.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27989,19 +27989,6 @@ Minecraftのpluginで、生成されたチャンクのうち99%を削除して�
 最初はチャンク生成時のなにかに合わせて生成を阻害すれば良いかなと思ったんだけど、文献としてあまり妥当なものが見つからなかったのが大変だった気がする。特にpluginだとサーバー側のバニラの生成処理を上書きするのは大変そうだった。わざと同梱しないようにしているらしい。逆にそれも同梱しているものをnms（net.minecraft…]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年の目標]]></title>
-        <id>https://note.com/aun6june/n/n9ec0b620289d</id>
-        <link href="https://note.com/aun6june/n/n9ec0b620289d"/>
-        <updated>2022-01-02T09:31:23.000Z</updated>
-        <summary type="html"><![CDATA[上の方が優先度高いと思います。
-随時更新します。
-・得意料理を開発する
-続きをみる]]></summary>
-        <author>
-            <name>aun6june</name>
         </author>
     </entry>
 </feed>
