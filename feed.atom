@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-01T12:04:54.259Z</updated>
+    <updated>2023-01-01T13:06:18.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あけ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1217.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1217.html"/>
+        <updated>2023-01-01T12:40:04.000Z</updated>
+        <summary type="html"><![CDATA[あけました  荒波です新年になってすぐ鳴神大社へ参拝しておみくじひいてきたさて今年の運勢やいかに末吉なんかやだな・・・初日の出も拝んだし正月っぽいことも大体やったかなさっきSekiroも遊んだし本当に満喫しましたもう思い残すことはない……思い残すことといえば去年の春頃にはじめたアクア＝エリアスⅡが31日をもって終わってしまいました最終ステータスはこんな感じ……と言っても誰も分かんないだろうけど一旦の目標だったア]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年の好きな動画]]></title>
         <id>https://note.com/saltlemon/n/nc85ee46a32dd</id>
