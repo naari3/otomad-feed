@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-01T10:04:34.224Z</updated>
+    <updated>2023-01-01T11:04:34.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27979,16 +27979,6 @@ Minecraftのpluginで、生成されたチャンクのうち99%を削除して�
 続きをみる]]></summary>
         <author>
             <name>かっぱ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5,000記事以上】ニコニコメドレー/音MAD/その他周辺のブロマガのうち収集できたものを公開します]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-75.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-75.html"/>
-        <updated>2022-01-01T22:48:00.000Z</updated>
-        <summary type="html"><![CDATA[※めちゃ長記事です！！！！ご注意ください！！！！あけましておめでとうございます！今年も好き勝手色々なことをしていこうと思いますので、何卒よろしくお願い申し上げます。さて、新年一発目の記事は昨年中ずっと収集していたブロマガ記事の再公開です。（関連記事：http://medley26kvocaloid.blog.fc2.com/blog-entry-67.htmlhttp://medley26kvocaloid.blog.fc2.com/blog-entry-72.html）収集できた記事の大半はこちらの画像か]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
 </feed>
