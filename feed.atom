@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-01T04:04:50.772Z</updated>
+    <updated>2023-01-01T05:06:02.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無名・新人作者は音madのイベントに行くな]]></title>
+        <id>https://note.com/seirontea/n/n087e43b9257c</id>
+        <link href="https://note.com/seirontea/n/n087e43b9257c"/>
+        <updated>2023-01-01T05:00:58.000Z</updated>
+        <summary type="html"><![CDATA[筆者は某イベントに行って金返せってなったし、音madまでもが嫌いになりそうになりました。
+名刺配ってる人と話すのはおすすめしません。こっちは向こうを知ってても向こうは無名作者など眼中にもありません。こっちから紹介しても「あぁ…」で終わりです。向こうも有名作者と話したり、繋がる方がメリットありますし、当然ですね。
+この界隈はまぁまぁ前からあって、トレンドにも乗ったそうなので今有名なのはほぼ古参です。新人作者は絶対に行かないほうが良いです。古参作者、有名作者の馴れ合いの場です。音madのイベントだからといって誰でも楽しめる場ではないことを自覚しておきましょう。
+続きをみる]]></summary>
+        <author>
+            <name>セイロンティー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20221231「誕生日雑感」]]></title>
         <id>hatenablog://entry/4207112889949969073</id>
