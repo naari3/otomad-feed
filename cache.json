@@ -7959,20 +7959,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/13574176438048780758",
-          "author": null,
-          "description": "naari.hatenablog.com\nやったるぞ\n\nつくったもの/やったこと (wip含む)\nppt-undo\nGitHub - naari3/ppt-undo\n個人的にやってるぷよテトで練習をしている時に「今パフェあったよね？」とか言われても時既に遅しでミノを置いてしまったりするんだけど、それを1手戻す(undoする)ためのツールを作ろうとしていた。\nこのために以下のことをやる必要があった。\n7bagの生成ロジックの特定\n\n\nシードの特定\nシードの使われ方を調べる\nすべての生成ロジックの再実装\n以て「ひとつ戻る」を実装する\nこの再実装あたりについては、元々のゲームがあまり素晴らしい管理方法をしていない&自分が上書きしきる方法を思いつけなかったのでネクストミノの置き換えをはじめすべてをこちらの匙加減で書き換える方針で進めたためそうなった。全部の処理を追って実装するのが大変で、結局最後まで実装しきれなかった。一応戻るが、どこかのタイミングで壊れる、みたいな感じ。今だったら作り直せるかも。\nこれに使った要素はこんな感じ。\nWindows API\n\n\nきらい\nRust\n\n\nすき\nCheatEngine\n\n\nロジックを追うためデバッガーとして使った\nかなりすき\nskyish\nGitHub - naari3/skyish\nMinecraftのpluginで、生成されたチャンクのうち99%を削除してスカイブロックっぽく遊ぶために作ったもの。思いつきで作った。\n最初はチャンク生成時のなにかに合わせて生成を阻害すれば良いかなと思ったんだけど、文献としてあまり妥当なものが見つからなかったのが大変だった気がする。特にpluginだとサーバー側のバニラの生成処理を上書きするのは大変そうだった。わざと同梱しないようにしているらしい。逆にそれも同梱しているものをnms（net.minecraft…",
-          "link": "https://naari.hatenablog.com/entry/2022/01/02/225301",
-          "publishedOn": "2022-01-02T13:53:01.000Z",
-          "wordCount": 368,
-          "title": "2021年の振り返り テクい編",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220102/20220102224744.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },
@@ -12477,15 +12463,6 @@
           "wordCount": 2404,
           "title": "現在の音MADを形作る、文脈的に重要な音MAD8本を選んでみる",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/32d4f820f3a0676290868b138dc55bee661126db.jpg"
-        },
-        {
-          "id": "https://note.com/kasutera20/n/n112212cbf077",
-          "author": null,
-          "description": "今年もよろしくお願いします。（ネタバレ注意）\n秋アニメ雑感\n続きをみる",
-          "link": "https://note.com/kasutera20/n/n112212cbf077",
-          "publishedOn": "2022-01-02T13:57:24.000Z",
-          "wordCount": 47,
-          "title": "2021年秋アニメ備忘録"
         }
       ]
     },
