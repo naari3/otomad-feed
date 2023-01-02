@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-02T04:04:34.223Z</updated>
+    <updated>2023-01-02T05:04:13.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年の目標]]></title>
+        <id>https://note.com/26435/n/nebd2d621a348</id>
+        <link href="https://note.com/26435/n/nebd2d621a348"/>
+        <updated>2023-01-02T04:53:32.000Z</updated>
+        <summary type="html"><![CDATA[音MAD
+・今年も10万再生を1つは取る
+・去年より多く投稿する(≒60以上)
+・投稿するときに緊張する癖をなくす
+・誰も使ってない曲を使う
+・音MAD以外から着想を得る
+・練馬アニメーションの音MADを作る
+・作者の視線を気にせずに投稿する
+・去年に引き続き好きなもので音MADを作る
+・二人合作をする
+・イラストを依頼する
+・10選候補マイリスを作り、n選に参加する
+・流行りを食わず嫌いしない
+・逆張りしない
+・上手い作者に嫉妬しない
+・フォロバを恥ずかしがらない
+・自発フォローをする
+・Discord鯖に入る
+続きをみる]]></summary>
+        <author>
+            <name>Theas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年始のご挨拶]]></title>
         <id>hatenablog://entry/4207112889950297127</id>
