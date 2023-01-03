@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-03T22:04:05.652Z</updated>
+    <updated>2023-01-03T23:04:26.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28098,18 +28098,6 @@ The post 音MAD制作とコーデック ～場面に応じて最適なコーデ�
 続きをみる]]></summary>
         <author>
             <name>遺失物届</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凍りそうだ永遠の京都、行こう。　制作後記]]></title>
-        <id>https://note.com/inaho_inadumi/n/n3a830c159078</id>
-        <link href="https://note.com/inaho_inadumi/n/n3a830c159078"/>
-        <updated>2022-01-04T10:40:21.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。手稲.です。今回は「凍りそうだ永遠の京都、行こう。」について感想を交えながら振り返って行こうと思います。（メディアが多いため重いかもしれません。通信環境にお気を付けて閲覧をお願い致します！）
-動画はこちらです。
-続きをみる]]></summary>
-        <author>
-            <name>inaho_inadumi</name>
         </author>
     </entry>
 </feed>
