@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-03T00:13:18.149Z</updated>
+    <updated>2023-01-03T01:31:11.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27973,18 +27973,6 @@ The post 音MAD制作とコーデック ～場面に応じて最適なコーデ�
         <link href="https://note.com/aru_danshi/n/nfadd3d150eb1"/>
         <updated>2022-01-03T13:31:03.000Z</updated>
         <summary type="html"><![CDATA[日記は継続する予定なのですが、7日まで帰省している予定で書きにくい状態にある、そして更新する媒体の変更を検討していることから遅めだったり、短めだったりすると思います 続きをみる]]></summary>
-        <author>
-            <name>遺失物届</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日記_2022/1/2「日付/媒体」]]></title>
-        <id>https://note.com/aru_danshi/n/nf366eba56e9d</id>
-        <link href="https://note.com/aru_danshi/n/nf366eba56e9d"/>
-        <updated>2022-01-03T13:27:56.000Z</updated>
-        <summary type="html"><![CDATA[きのうの日記の日付が2021になっていたので訂正しました。下は証拠です
-
-続きをみる]]></summary>
         <author>
             <name>遺失物届</name>
         </author>
