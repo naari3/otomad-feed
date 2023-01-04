@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-04T10:04:26.125Z</updated>
+    <updated>2023-01-04T11:04:17.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特徴的な素因数分解アルゴリズムを実装してみる]]></title>
+        <id>hatenablog://entry/4207112889951073765</id>
+        <link href="https://inaz2.hatenablog.com/entry/2023/01/04/191300"/>
+        <updated>2023-01-04T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[「単純な素因数分解アルゴリズムを実装してみる」 では、試し割り、Pollard-Rhoアルゴリズム、フェルマー法、Common Factor Attacksといった素因数分解アルゴリズムの実装と評価を行った。
+ここでは、上記以外の素因数分解アルゴリズムをPythonで実装し、一般的なPCで解くことができるbit数などを調べてみる。
+環境
+$ uname -a
+Linux vm-ubuntu64 5.15.0-56-generic #62-Ubuntu SMP Tue Nov 22 19:54:14 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+
+$ lsb_release -a
+No LSB modules are available.
+Distributor ID: Ubuntu
+Description:    Ubuntu 22.04.1 LTS
+Release:        22.04
+Codename:       jammy
+
+$ grep "processor\|model name" /proc/cpuinfo 
+processor   : 0
+model name  : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+processor   : 1
+model name  : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+processor   : 2
+model name  : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+processor   : 3
+model name  : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+素数の生成
+素数とその積については、「単純な素因数分解アルゴリ…]]></summary>
+        <author>
+            <name>ももいろテクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あけおめ]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-98.html</id>

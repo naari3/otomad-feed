@@ -783,7 +783,23 @@
       "title": "ももいろテクノロジー",
       "feedUrl": "https://inaz2.hatenablog.com/rss",
       "siteUrl": "https://inaz2.hatenablog.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "hatenablog://entry/4207112889951073765",
+          "author": null,
+          "description": "「単純な素因数分解アルゴリズムを実装してみる」 では、試し割り、Pollard-Rhoアルゴリズム、フェルマー法、Common Factor Attacksといった素因数分解アルゴリズムの実装と評価を行った。\nここでは、上記以外の素因数分解アルゴリズムをPythonで実装し、一般的なPCで解くことができるbit数などを調べてみる。\n環境\n$ uname -a\nLinux vm-ubuntu64 5.15.0-56-generic #62-Ubuntu SMP Tue Nov 22 19:54:14 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux\n\n$ lsb_release -a\nNo LSB modules are available.\nDistributor ID: Ubuntu\nDescription:    Ubuntu 22.04.1 LTS\nRelease:        22.04\nCodename:       jammy\n\n$ grep \"processor\\|model name\" /proc/cpuinfo \nprocessor   : 0\nmodel name  : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz\nprocessor   : 1\nmodel name  : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz\nprocessor   : 2\nmodel name  : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz\nprocessor   : 3\nmodel name  : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz\n素数の生成\n素数とその積については、「単純な素因数分解アルゴリ…",
+          "link": "https://inaz2.hatenablog.com/entry/2023/01/04/191300",
+          "publishedOn": "2023-01-04T10:13:00.000Z",
+          "wordCount": 1131,
+          "title": "特徴的な素因数分解アルゴリズムを実装してみる",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        }
+      ]
     },
     {
       "title": "遺失物取扱所",
