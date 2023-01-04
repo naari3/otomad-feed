@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-04T18:04:33.315Z</updated>
+    <updated>2023-01-04T19:04:21.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28196,16 +28196,6 @@ The post 音MAD制作とコーデック ～場面に応じて最適なコーデ�
 続きをみる]]></summary>
         <author>
             <name>遺失物届</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さあ始まるざますよ]]></title>
-        <id>https://hiiragidono.blog.fc2.com/blog-entry-1155.html</id>
-        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1155.html"/>
-        <updated>2022-01-05T06:06:30.000Z</updated>
-        <summary type="html"><![CDATA[あけおめ！  荒波です年末年始の空気が好きって話をかつてした記憶がありますが今年はあまりテレビも見なかったし普段通りの引きこもりインターネットをしたせいで、ドライに終わってしまったお正月にいろんなアニメのお正月回を観て無理やりイベント感を出してみたり地元の友人と出かけたりはしたが……年越しマイクラも此度は1人でやりました  悲しすぎる行きつけのカラオケ店が31日で閉店していてすげえショックだったもう2,3年は]]></summary>
-        <author>
-            <name>柊殿</name>
         </author>
     </entry>
 </feed>
