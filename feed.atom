@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-03T23:04:26.836Z</updated>
+    <updated>2023-01-04T00:14:01.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あけおめ]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-98.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-98.html"/>
+        <updated>2023-01-03T23:45:54.000Z</updated>
+        <summary type="html"><![CDATA[今年の抱負&nbsp;「やりたくないことから逃げない」&nbsp;]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230102「志摩スペイン村に行きました」]]></title>
         <id>hatenablog://entry/4207112889950865757</id>
