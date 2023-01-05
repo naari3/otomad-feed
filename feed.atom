@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-05T12:05:37.743Z</updated>
+    <updated>2023-01-05T13:08:37.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -441,6 +441,18 @@ YOー
 yu-yu-yu-only.tumblr.com]]></summary>
         <author>
             <name>ぬる湯ま</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeoLog Project終了]]></title>
+        <id>hatenablog://entry/4207112889951433627</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20230101/p1"/>
+        <updated>2023-01-01T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[GeoLog Project
+「閉鎖された日本ジオシティーズのウェブサイトを、消滅前にできるだけアーカイブ(保存)しようと取り組んだ個人プロジェクト」GeoLog Projectさんが昨年一杯でサービス終了。告知は10月頃から出ていました。
+19年3月のYahoo!ジオシティーズ閉鎖当時に残っていたムネオハウス関係のページがInternet Archiveよりも状態良く保存されており、一部取り切れなかったファイルのサルベージが叶ったりと、GeoLog Projectさんにはお世話になることが度々ありました。感謝の念に堪えません。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
