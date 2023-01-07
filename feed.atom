@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-07T20:04:01.724Z</updated>
+    <updated>2023-01-07T21:04:16.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20230105「お好み焼き」]]></title>
+        <id>hatenablog://entry/4207112889952076572</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/01/08/050339"/>
+        <updated>2023-01-07T20:03:39.000Z</updated>
+        <summary type="html"><![CDATA[本を読み終わってその感想を書こうと思いながら、なかなか読み終えられずにいる。年末年始は三重～広島に帰省していた。広島といえばお好み焼きがある。一番すきな食べ物は？と聞かれたらおそらくお好み焼きだと答えるだろう。めちゃくちゃな好きというわけではなく、まんべんなく色んな食べ物が好きだけど強いて言うなら……くらいのニュアンスがある。ひとつで炭水化物も肉も野菜もとれる完全栄養食的な側面と、すべてが一体となってがっつりと食べることができるあの感じが好きなポイントだったりする。
+ 
+おそらく最もたくさん食べたのは家族で作って食べたそれだろう。あまり店で頻繁に食べていたというわけではないのでおすすめのお店などはないけど、靴を飛ばせばお好み焼き屋に当たるような広島の街並みは当たり前ではないのだなと他県に行くたびに思う。まあ何回か食べたお店でいうと市の中心部にあるへんくつやだろうか。鉄板越しにリアルタイムに提供される愉しみと、向こうで展開されるお店の人の会話だったりから感じる人情もいいですね。
+ 
+特にトッピングのこだわりもなく「肉玉そば」を注文して食べることが多い。小学校ではお好み焼きを作る実習みたいなものがあったのを思い出す。今回の帰省では食べなかったので家でフライパンだけで自作してみたのだけど、存外に綺麗においしくできてよかった。ただやはり1枚ではお腹は満たせないもので、いつも3枚くらい食べてからお腹がいっぱいになる。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ごほっごほ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1218.html</id>
