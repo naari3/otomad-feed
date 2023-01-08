@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-08T14:04:06.133Z</updated>
+    <updated>2023-01-08T15:04:22.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD作者格付けチェック2023の問題を作成した話]]></title>
+        <id>hatenablog://entry/4207112889952362630</id>
+        <link href="https://kotsurend.hatenablog.com/entry/2023/01/08/232845"/>
+        <updated>2023-01-08T14:28:45.000Z</updated>
+        <summary type="html"><![CDATA[" data-en-clipboard="true">2023/1/1の生放送「音MAD作者格付けチェック2023」にて問題作成として裏方参加をしました。今回はなんであんなものが出来たのかという話。
+" data-en-clipboard="true"> 
+" data-en-clipboard="true"> 音MAD Universe is Love TYPE-A音MAD Universe is Love TYPE-B
+
+ 
+
+2022年某日主催の埜村武さんより連絡。
+格付けチェックの出題作品の作成依頼。
+問は「人間が考えたストーリーはどちらか」というもの。
+一つは一から私が考えたストーリー音MAD、
+もう一つは私の冒頭の文章をAIのべりすとに入力し生成されたものを音MADにするというもの。
+この2つの音MADを収録日前までに制作することを依頼されました。
+ 
+はっきり言って最初は断ろうと思っていました。
+私はいわゆる音MADユニバースを意識して作ったことがなかったためです。
+さらにAI版も作成してどちらが私が作ったものか？という問題に仕上げなくてはならない。とんでもなくハードルが高く感じました。
+ 
+しかし私を突き動かしたのは当時引退を考えていた私にもこんな挑戦的な依頼が来るものかという嬉しさと今までにない試みをしようとする運営の意気込みでした。
+ 
+こうして特に深く考えずに思い切ってyesの返信を行うのでした。
+ 
+参加表明からあまり時間を開けず制作が始まりました。今回はAIのべりすとが絡むということなのでAI拓也で有名な六角チョコパイさんをAI監修役として迎えAIに読み込ませるためにも冒頭の脚本を真っ先に書くことから始まりました。
+ 
+文章を書くしかも物語なんて初めてのことだったのでとにかく苦戦いたしました。
+そして出来上がった私の文章がこちら。
+ 
+
+" dat…]]></summary>
+        <author>
+            <name>コツコツだらだら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今後のこと]]></title>
         <id>hatenablog://entry/4207112889952247013</id>
