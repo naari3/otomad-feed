@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-08T20:04:39.892Z</updated>
+    <updated>2023-01-08T21:04:27.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[成人式]]></title>
+        <id>hatenablog://entry/4207112889952409735</id>
+        <link href="https://lixy.hatenablog.com/entry/2023/01/09/%E6%88%90%E4%BA%BA%E5%BC%8F"/>
+        <updated>2023-01-08T20:04:07.000Z</updated>
+        <summary type="html"><![CDATA[どうやら成人式があったみたいです。地元にいないこともあり僕は参加しませんでした(そもそも地元にいても見送ろうと思っていました)。
+基本的に、世の中の表象的な部分は少数派の人間を想定していないのだと思います。単に規定の年齢に達したからといって手放しに喜べない人たちって、僕含め世の中には潜在的にそこそこいるはずなんです。同じ年齢のみんなが、友達が、好きだった人が、高校大学とつつがなく進学していって人生のコマを進めていくなかで、僕だけが1人取り残されているような気がしています。高校も中退して、色んなことに立ち向かえないまま20を迎えた敗走者にお祝いの言葉なんて相応しくありません。
+って自虐しておきながら、僕にとっての10代は正直負けイベントのようなものだったと感じています。あの時の僕はとても頑張っていて、それでも極度の希死念慮を抱えたまま高校生活をまともに送るのは不可能でした。いくらレベルを上げても、9999ダメージの攻撃は耐えられないですよね。きっと。オモリ君みたいに屈しなかったら少し展開が変わってたのかな。
+何にせよ、負けイベントを通過して成人してしまった敗残者、そして脱走者の僕が幸せになることで、いわゆる普通のルートから外れても意外と大丈夫なんだよってみんなに、過去の自分に伝えたいです。]]></summary>
+        <author>
+            <name>空回り</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD作者格付けチェック2023の問題を作成した話]]></title>
         <id>hatenablog://entry/4207112889952362630</id>
@@ -28387,28 +28400,6 @@ The post ffmpegを用いた動画の音声差し替え first appeared on YTPMV.i
 　書いてたら死ぬほど眠くなってきたので寝ます。]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。]]></title>
-        <id>https://ytpmv.info/?p=1131</id>
-        <link href="https://ytpmv.info/encode-and-codec/"/>
-        <updated>2022-01-09T08:37:17.000Z</updated>
-        <summary type="html"><![CDATA[みなさん御機嫌よう。まいまいです。今回は個人的に動画のコーデックについて調べまくってたのでその情報の備忘録がてら音MAD制作におけるコーデックについてまとめていきます。内容間違ってたら指摘してください。 基本的に「なるべ […]
-The post 音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。]]></title>
-        <id>https://ytpmv.info/?p=1131</id>
-        <link href="https://ytpmv.info/encode-and-codec/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e9%259f%25b3mad%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%25a8%25e3%2582%25b3%25e3%2583%25bc%25e3%2583%2587%25e3%2583%2583%25e3%2582%25af-%25ef%25bd%259e%25e5%25a0%25b4%25e9%259d%25a2%25e3%2581%25ab%25e5%25bf%259c%25e3%2581%2598%25e3%2581%25a6%25e6%259c%2580%25e9%2581%25a9%25e3%2581%25aa%25e3%2582%25b3%25e3%2583%25bc"/>
-        <updated>2022-01-09T08:37:17.000Z</updated>
-        <summary type="html"><![CDATA[みなさん御機嫌よう。まいまいです。今回は個人的に動画のコーデックについて調べまくってたのでその情報の備忘録がてら音MAD制作におけるコーデックについてまとめていきます。内容間違ってたら指摘してください。 基本的に「なるべ […]
-The post 音MAD制作とコーデック ～場面に応じて最適なコーデックを追求する。 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
 </feed>
