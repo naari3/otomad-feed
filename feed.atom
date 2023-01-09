@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-09T00:15:18.578Z</updated>
+    <updated>2023-01-09T01:31:32.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28337,28 +28337,6 @@ https://github.blog/2021-09-01-improving-git-protocol-security-github/#how-do-i-
 続きをみる]]></summary>
         <author>
             <name>鳥茶</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ffmpegを用いた動画の音声差し替え]]></title>
-        <id>https://ytpmv.info/?p=1220</id>
-        <link href="https://ytpmv.info/?p=1220"/>
-        <updated>2022-01-09T13:00:21.000Z</updated>
-        <summary type="html"><![CDATA[ffmpegを用いた動画の音声差し替えの方法のメモ
-The post ffmpegを用いた動画の音声差し替え first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ffmpegを用いた動画の音声差し替え]]></title>
-        <id>https://ytpmv.info/?p=1220</id>
-        <link href="https://ytpmv.info/?p=1220&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ffmpeg%25e3%2582%2592%25e7%2594%25a8%25e3%2581%2584%25e3%2581%259f%25e9%259f%25b3%25e5%25a3%25b0%25e5%25b7%25ae%25e3%2581%2597%25e6%259b%25bf%25e3%2581%2588"/>
-        <updated>2022-01-09T13:00:21.000Z</updated>
-        <summary type="html"><![CDATA[ffmpegを用いた動画の音声差し替えの方法のメモ
-The post ffmpegを用いた動画の音声差し替え first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
 </feed>
