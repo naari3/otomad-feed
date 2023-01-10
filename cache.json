@@ -8086,20 +8086,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/13574176438051621276",
-          "author": null,
-          "description": "tl;dr\ngit:// がGitHubで使えなくなった\ngit:// の変わりに https:// を使うようにした\nパブリックなリポジトリ以外に対しての変更の可能性もある\nThe unauthenticated git protocol on port 9418 is no longer supported.\n今朝からRubyのアプリをビルドするジョブが以下のようなエラーを吐くようになった。\nFetching git://github.com/sinatra/sinatra.git\nfatal: remote error: \n  The unauthenticated git protocol on port 9418 is no longer supported.\nPlease see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.\n既に趣旨を伝えるエラーの文言が見えるが、念の為に手元のマシンでも試してみる。\n$ git clone git://github.com/sinatra/sinatra.git\nCloning into 'sinatra'...\nfatal: remote error:\n  The unauthenticated git protocol on port 9418 is no longer supported.\nPlease see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.\n同じ結果だった。\n原因としては GitHub が git プロトコルを明示的に使えないようにしたため。\ngithub.blog\nNo more unauthenticated Git\nOn the Git protocol side, unencrypted git:// offers no integrity or authentication, making it subject to tampering. We expect very few people are still using this protocol, especially given that you can’t push (it’s read-only on GitHub). We’ll be disabling support for this protocol.\n\n\nまだ使っていてすまん…使うのやめます…\nということで、置き換えることにした。\nhttps:// に置き換える\nまず、現状の手順で最小の変更手数になりそうな「ジョブランナー側を変更する」を検討した。unencrypted な git プロトコルと記述があったので、もしかして暗号化される git プロトコルも存在するのでは？と軽く調査したが、見る限りでは見当たらなかった。そのため、各個別の git:// を使用している箇所について対応をする方針で進める。\n今回はpublicなリポジトリに対してのcloneの操作だったので、特に考えることもなく https:// に置き換えることで対応完了とした。\n今回の場合、gitプロトコル経由でリポジトリを取得しているのはGemfile経由のbundle installだったので、Gemfileの先頭あたりに以下の行を追加した。\ngit_source(:github) { |repo| \"https://github.com/#{repo}.git\" }\n\n\n\nその他にも\n先程のgithubのblog曰く、sshのプロトコルかつ鍵経由でやり取りをしている場合であっても古いタイプの鍵を使っている場合は影響を受けるらしい。\n今回の削除方向の変更は具体的には以下の通り。\nDSA keyの対応をすべて削除\n-RSA keys)を使っている場合、SHA-2の署名を使う必要があるように変更\nSSHのアルゴリズムでHMAC-SHA-1と全てのCBCの対応を削除\nもし上記に当てはまる場合は以下の項目を参考にしたほうが良さそう。\nhttps://github.blog/2021-09-01-improving-git-protocol-security-github/#how-do-i-prepare",
-          "link": "https://naari.hatenablog.com/entry/2022/01/11/140137",
-          "publishedOn": "2022-01-11T05:01:37.000Z",
-          "wordCount": 277,
-          "title": "GitHubで `git://` が使えなくなったので `https://` などに置き換える必要があった",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },

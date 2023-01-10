@@ -36576,68 +36576,11 @@ github.com</span>
             </article>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">GitHubで &#x60;git://&#x60; が使えなくなったので &#x60;https://&#x60; などに置き換える必要があった</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/01/11/140137" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>tl;dr
-git:// がGitHubで使えなくなった
-git:// の変わりに https:// を使うようにした
-パブリックなリポジトリ以外に対しての変更の可能性もある
-The unauthenticated git protocol on port 9418 is no longer supported.
-今朝からRubyのアプリをビルドするジョブが以下のようなエラーを吐くようになった。
-Fetching git://github.com/sinatra/sinatra.git
-fatal: remote error: 
-  The unauthenticated git protocol on port 9418 is no longer supported.
-Please see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.
-既に趣旨を伝えるエラーの文言が見えるが、念の為に手元のマシンでも試してみる。
-$ git clone git://github.com/sinatra/sinatra.git
-Cloning into &#x27;sinatra&#x27;...
-fatal: remote error:
-  The unauthenticated git protocol on port 9418 is no longer supported.
-Please see https://github.blog/2021-09-01-improving-git-protocol-security-github/ for more information.
-同じ結果だった。
-原因としては GitHub が git プロトコルを明示的に使えないようにしたため。
-github.blog
-No more unauthenticated Git
-On the Git protocol side, unencrypted git:// offers no integrity or authentication, making it subject to tampering. We expect very few people are still using this protocol, especially given that you can’t push (it’s read-only on GitHub). We’ll be disabling support for this protocol.
-
-
-まだ使っていてすまん…使うのやめます…
-ということで、置き換えることにした。
-https:// に置き換える
-まず、現状の手順で最小の変更手数になりそうな「ジョブランナー側を変更する」を検討した。unencrypted な git プロトコルと記述があったので、もしかして暗号化される git プロトコルも存在するのでは？と軽く調査したが、見る限りでは見当たらなかった。そのため、各個別の git:// を使用している箇所について対応をする方針で進める。
-今回はpublicなリポジトリに対してのcloneの操作だったので、特に考えることもなく https:// に置き換えることで対応完了とした。
-今回の場合、gitプロトコル経由でリポジトリを取得しているのはGemfile経由のbundle installだったので、Gemfileの先頭あたりに以下の行を追加した。
-git_source(:github) { |repo| &quot;https://github.com/#{repo}.git&quot; }
-
-
-
-その他にも
-先程のgithubのblog曰く、sshのプロトコルかつ鍵経由でやり取りをしている場合であっても古いタイプの鍵を使っている場合は影響を受けるらしい。
-今回の削除方向の変更は具体的には以下の通り。
-DSA keyの対応をすべて削除
--RSA keys)を使っている場合、SHA-2の署名を使う必要があるように変更
-SSHのアルゴリズムでHMAC-SHA-1と全てのCBCの対応を削除
-もし上記に当てはまる場合は以下の項目を参考にしたほうが良さそう。
-https://github.blog/2021-09-01-improving-git-protocol-security-github/#how-do-i-prepare</span>
-                  </div>
-                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-enclosure />
-                                  </a>
-              </details>
-            </article>
-        </section>
-      </li>
     </ul>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2023-01-10T16:04:45.391Z">2023-01-10T16:04:45.391Z</time>
+    <time id="build-timestamp" datetime="2023-01-10T17:04:25.396Z">2023-01-10T17:04:25.396Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
