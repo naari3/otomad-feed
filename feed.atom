@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-10T00:15:15.561Z</updated>
+    <updated>2023-01-10T01:32:01.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28376,20 +28376,6 @@ https://github.blog/2021-09-01-improving-git-protocol-security-github/#how-do-i-
 続きをみる]]></summary>
         <author>
             <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イトモブシティ 小ネタなど]]></title>
-        <id>https://note.com/en0t0n0m/n/n9f28ef93044f</id>
-        <link href="https://note.com/en0t0n0m/n/n9f28ef93044f"/>
-        <updated>2022-01-10T12:19:49.000Z</updated>
-        <summary type="html"><![CDATA[どうも、エノトノムと申します。どうぞよしなに。
-先日投稿した動画「イトモブシティ」に出てくる小ネタについて解説していきます。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>エノトノム</name>
         </author>
     </entry>
 </feed>
