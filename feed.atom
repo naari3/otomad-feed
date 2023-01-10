@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-10T20:04:13.504Z</updated>
+    <updated>2023-01-10T21:04:21.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28352,18 +28352,6 @@ github.com]]></summary>
 続きをみる]]></summary>
         <author>
             <name>遺失物届</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合作の映像まとめのウラワザ]]></title>
-        <id>https://note.com/sehatakuro/n/ncbae94ab93bc</id>
-        <link href="https://note.com/sehatakuro/n/ncbae94ab93bc"/>
-        <updated>2022-01-11T08:38:14.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-皆さんは合作の運営や映像まとめをしているときに、投稿直前になって急遽音声がさしかわる、映像の修正が飛んでくるといった経験はありませんか？
-続きをみる]]></summary>
-        <author>
-            <name>瀬畑 黒</name>
         </author>
     </entry>
 </feed>
