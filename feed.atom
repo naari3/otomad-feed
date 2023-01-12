@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-12T02:25:00.393Z</updated>
+    <updated>2023-01-12T03:04:25.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28294,17 +28294,6 @@ github.com]]></summary>
 眠くなってきたから今日はここまで。続き書くかも。]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Twitch】　むねおはうす　fart1　【46歳独身】@YouTube]]></title>
-        <id>hatenablog://entry/13574176438052101683</id>
-        <link href="https://underdefinition.hatenadiary.jp/entry/20220112/p1"/>
-        <updated>2022-01-12T14:59:01.000Z</updated>
-        <summary type="html"><![CDATA[[YouTube@5ch] 【Twitch】　むねおはうす　fart1　【46歳独身】
-タイトルの通り、ゲーム実況主のムネオ(むねおはうす)さんのスレッド。]]></summary>
-        <author>
-            <name>muneo house information</name>
         </author>
     </entry>
 </feed>
