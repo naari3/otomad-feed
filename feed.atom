@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-12T17:12:37.774Z</updated>
+    <updated>2023-01-12T18:05:03.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コピペ作業の効率化]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-109.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-109.html"/>
+        <updated>2023-01-12T17:28:19.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あけましておめでとうございます（激遅）]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-108.html</id>
