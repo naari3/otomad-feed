@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-12T07:04:05.885Z</updated>
+    <updated>2023-01-12T08:05:13.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あけましておめでとうございます（激遅）]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-108.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-108.html"/>
+        <updated>2023-01-12T07:58:19.000Z</updated>
+        <summary type="html"><![CDATA[2022年の雑な振り返りとか]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230110「下書」]]></title>
         <id>hatenablog://entry/4207112889953370126</id>
@@ -64,6 +74,16 @@ www.sony.jp
 ほかに見てみるとトーマ「アザレアの心臓」、さよならポニーテール「天使にふれたよ！」などがあってとても感傷的である。そうして3年経つと充電してもすぐに切れるようになって使わなくなった。代わりにスマホでサブスクを聴くようになり、使うことはなくなった……そう思っていたのだけど、いま充電したら1時間くらい普通に使えているのでびっくりしている。そうして聴きながら書いたのがこの日記である。]]></summary>
         <author>
             <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aeおすすめプラグイン・スクリプト]]></title>
+        <id>https://sehatakuro.github.io/2023/01/12/ae_plugin</id>
+        <link href="https://sehatakuro.github.io/2023/01/12/ae_plugin"/>
+        <updated>2023-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[フォロワーに聞かれたので軽くまとめた。]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>

@@ -14859,6 +14859,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-108.html",
+          "author": "picm",
+          "description": "2022年の雑な振り返りとか",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-108.html",
+          "publishedOn": "2023-01-12T07:58:19.000Z",
+          "wordCount": 144,
+          "title": "あけましておめでとうございます（激遅）",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-107.html",
           "author": "picm",
           "description": "感想",
@@ -16052,6 +16062,16 @@
       "feedUrl": "https://sehatakuro.github.io/feed.xml",
       "siteUrl": "/",
       "articles": [
+        {
+          "id": "https://sehatakuro.github.io/2023/01/12/ae_plugin",
+          "author": null,
+          "description": "フォロワーに聞かれたので軽くまとめた。",
+          "link": "https://sehatakuro.github.io/2023/01/12/ae_plugin",
+          "publishedOn": "2023-01-11T15:00:00.000Z",
+          "wordCount": 157,
+          "title": "Aeおすすめプラグイン・スクリプト",
+          "imageUrl": ""
+        },
         {
           "id": "https://sehatakuro.github.io/2022/12/29/jpeg_game",
           "author": null,
