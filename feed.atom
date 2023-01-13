@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-13T09:04:37.051Z</updated>
+    <updated>2023-01-13T10:04:31.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[柴田さん動画できてない♪]]></title>
+        <id>https://note.com/kari_yadokari/n/n9409f2f228da</id>
+        <link href="https://note.com/kari_yadokari/n/n9409f2f228da"/>
+        <updated>2023-01-13T09:32:39.000Z</updated>
+        <summary type="html"><![CDATA[柴田さん動画できてない♪ 続きをみる]]></summary>
+        <author>
+            <name>yadokari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230112「藤本タツキ『チェンソーマン』」]]></title>
         <id>hatenablog://entry/4207112889953695934</id>
