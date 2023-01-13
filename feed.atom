@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-13T14:04:14.600Z</updated>
+    <updated>2023-01-13T15:04:31.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[短期深夜バイトやった]]></title>
+        <id>https://note.com/howtopourbeer/n/n7ff94c150dd6</id>
+        <link href="https://note.com/howtopourbeer/n/n7ff94c150dd6"/>
+        <updated>2023-01-13T14:55:28.000Z</updated>
+        <summary type="html"><![CDATA[どうも！8bit(読み: はちびっと、やびっと、セックス)です！
+実は、12/24〜12/30までの1週間、短期アルバイトをしていました。なぜバイトをしようと思ったか、それは…
+
+冬休みが、暇だから…
+続きをみる]]></summary>
+        <author>
+            <name>8bit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あけまして音MAD投稿]]></title>
         <id>https://note.com/ssaymds/n/n263d6e83c024</id>
