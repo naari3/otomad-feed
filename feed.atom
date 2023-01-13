@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-13T08:04:53.832Z</updated>
+    <updated>2023-01-13T09:04:37.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28255,45 +28255,6 @@ omocoro.jp
 ・時間が決まっていることでお…]]></summary>
         <author>
             <name>竹達アーカイブ通信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[村人の取引内容をHUDで表示できるmodを作った OffersHUD]]></title>
-        <id>hatenablog://entry/13574176438052506911</id>
-        <link href="https://naari.hatenablog.com/entry/2022/01/14/055947"/>
-        <updated>2022-01-13T20:59:47.000Z</updated>
-        <summary type="html"><![CDATA[OffersHUD
-最初と最後にダウンロードリンクを貼っておきます。
-CurseForge か GitHub からダウンロード出来ます。ぜひ
-https://www.curseforge.com/minecraft/mc-mods/offershud
-github.com
-つくったよ
-村人(など)にフォーカスを当てるだけで何を取り引きできるのか左上に出てくるようになるmodをつくった。
-
-動機としては司書の厳選が主で、狙いのエンチャが出るまでやらなければならないこの作業をかなり簡略化出来るのではないかと思って作り始めた。
-これは便利
-まだexperimental版ということもあって、機能の切り替えとかGUIの位置調整とかそういう設定機能はひとつもない。僕の今後に期待。
-今の所はfabricの 1.17.1, 1.18.1 に対してjarファイルをビルドしていて、つまり 1.17.1, 1.18, 1.18.1 がこのmodを使えることになるはず。
-もし気になったら使ってみてください。バグがあったら必ず僕に教えて下さい。最悪条件とかが分からなくても良いので。お願いします。
-既知の問題
-GitHubのissues が最新の状況。今のところは
-英雄とかいろいろで価格の変動があった時、その価格がうまいこと反映されない
-メニューがない　設定が弄れない
-InventoryHUD+ のポーション表示モードとバッティングしてこのmodのそれが表示されない
-
-
-まあ仕方ない節はあるけど
-大変だった
-「ほんのちょっとだけどmoddingやったことあるし、開発のための環境構築が出来たんだから余裕で作れるでしょ。たぶんVillagerEntityに取引一覧を取得するためのメソッドも生えてるだろうし。」と思って取り組んだが、実はそんなに簡単じゃなかった。
-村人に対して右クリックをすると、サーバーに対して「私はこのエンティティに右クリックをした」という趣旨を伝えるリクエストが流れるが、それに対するレスポンスこそが信頼できる取引一覧であって、それを上手く掴む必要があった。
-↑この一文だけで詳しい人なら「あーパケットを掴まないといけないのね」みたいな勘が働いて理解できるだろうし、開発→公開までの苦労についてはまた別の記事にしようかな。→した。
-naari.hatenablog.com
-きになったらこちらから
-CurseForge か GitHub からダウンロード出来ます。ぜひ
-https://www.curseforge.com/minecraft/mc-mods/offershud
-github.com]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
 </feed>

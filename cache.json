@@ -8104,20 +8104,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/13574176438052506911",
-          "author": null,
-          "description": "OffersHUD\n最初と最後にダウンロードリンクを貼っておきます。\nCurseForge か GitHub からダウンロード出来ます。ぜひ\nhttps://www.curseforge.com/minecraft/mc-mods/offershud\ngithub.com\nつくったよ\n村人(など)にフォーカスを当てるだけで何を取り引きできるのか左上に出てくるようになるmodをつくった。\n\n動機としては司書の厳選が主で、狙いのエンチャが出るまでやらなければならないこの作業をかなり簡略化出来るのではないかと思って作り始めた。\nこれは便利\nまだexperimental版ということもあって、機能の切り替えとかGUIの位置調整とかそういう設定機能はひとつもない。僕の今後に期待。\n今の所はfabricの 1.17.1, 1.18.1 に対してjarファイルをビルドしていて、つまり 1.17.1, 1.18, 1.18.1 がこのmodを使えることになるはず。\nもし気になったら使ってみてください。バグがあったら必ず僕に教えて下さい。最悪条件とかが分からなくても良いので。お願いします。\n既知の問題\nGitHubのissues が最新の状況。今のところは\n英雄とかいろいろで価格の変動があった時、その価格がうまいこと反映されない\nメニューがない　設定が弄れない\nInventoryHUD+ のポーション表示モードとバッティングしてこのmodのそれが表示されない\n\n\nまあ仕方ない節はあるけど\n大変だった\n「ほんのちょっとだけどmoddingやったことあるし、開発のための環境構築が出来たんだから余裕で作れるでしょ。たぶんVillagerEntityに取引一覧を取得するためのメソッドも生えてるだろうし。」と思って取り組んだが、実はそんなに簡単じゃなかった。\n村人に対して右クリックをすると、サーバーに対して「私はこのエンティティに右クリックをした」という趣旨を伝えるリクエストが流れるが、それに対するレスポンスこそが信頼できる取引一覧であって、それを上手く掴む必要があった。\n↑この一文だけで詳しい人なら「あーパケットを掴まないといけないのね」みたいな勘が働いて理解できるだろうし、開発→公開までの苦労についてはまた別の記事にしようかな。→した。\nnaari.hatenablog.com\nきになったらこちらから\nCurseForge か GitHub からダウンロード出来ます。ぜひ\nhttps://www.curseforge.com/minecraft/mc-mods/offershud\ngithub.com",
-          "link": "https://naari.hatenablog.com/entry/2022/01/14/055947",
-          "publishedOn": "2022-01-13T20:59:47.000Z",
-          "wordCount": 160,
-          "title": "村人の取引内容をHUDで表示できるmodを作った OffersHUD",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220114/20220114053941.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },
