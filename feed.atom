@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-14T02:19:36.195Z</updated>
+    <updated>2023-01-14T03:04:29.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28183,19 +28183,6 @@ drive.google.com
 　目指せ世界一収録文字数の多いフォント！]]></summary>
         <author>
             <name>ximcoの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非コント合作　うまぴょい伝説]]></title>
-        <id>https://note.com/kari_yadokari/n/nc6acf0b63d17</id>
-        <link href="https://note.com/kari_yadokari/n/nc6acf0b63d17"/>
-        <updated>2022-01-14T15:00:19.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは～、yadokariですよ。今日はね、ちょっといつもと宗教…趣向を変えてｗ
-yadokariの、ここは、合作後記で～す
-元動画：彦摩呂の自宅レポ！！
-続きをみる]]></summary>
-        <author>
-            <name>yadokari</name>
         </author>
     </entry>
 </feed>
