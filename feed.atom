@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-13T23:04:09.939Z</updated>
+    <updated>2023-01-14T00:13:36.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28196,16 +28196,6 @@ yadokariの、ここは、合作後記で～す
 続きをみる]]></summary>
         <author>
             <name>yadokari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年の音MAD振り返り書こう...]]></title>
-        <id>https://note.com/tojiru/n/n465ad45db5ca</id>
-        <link href="https://note.com/tojiru/n/n465ad45db5ca"/>
-        <updated>2022-01-14T11:19:45.000Z</updated>
-        <summary type="html"><![CDATA[2021年の音MAD振り返り書こうとしたんですけどマジで筆が一ミリも進みません 続きをみる]]></summary>
-        <author>
-            <name>とじーら</name>
         </author>
     </entry>
 </feed>
