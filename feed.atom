@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-14T04:04:29.509Z</updated>
+    <updated>2023-01-14T05:04:22.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -28073,62 +28073,6 @@ note.com
 でもかすてらさん自身がアニメとか曲とかめちゃくちゃ見たり聞い…]]></summary>
         <author>
             <name>竹達アーカイブ通信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公開できるmodを初めて作ったので大変だったところを書いておく]]></title>
-        <id>hatenablog://entry/13574176438052506961</id>
-        <link href="https://naari.hatenablog.com/entry/2022/01/15/015043"/>
-        <updated>2022-01-14T16:50:43.000Z</updated>
-        <summary type="html"><![CDATA[昨日、自作のmodについてのうすい記事を書いた。
-naari.hatenablog.com
-このmodを公開するに至って大変だったことをつらつらとかきます
-fabricのMixinやInjectsの概念についてのドキュメントが少なすぎる
-検索して出る情報が少なすぎる
-村人のgetOffers()を叩くだけだとダメ
-用語: MerchantEntity について
-通信の流れ
-擬似的に右クリックする
-画面上になにかを描画するのが難しい
-1.18になって何故か引数の順番が変わっててワロタ
-modをCurseForgeにpublishする方法
-CurseForge上にプロジェクトを作成する必要があった
-GitHub Actions を利用して公開する
-これも人様の実装を参考にする
-itsmeow/curseforge-upload を使用してCurseForgeに生成物をアップロードする
-game_version がすごく難しい
-人のmodがオープンソースじゃなくて悲しい
-Configを実装しなければならない
-まとめ
-fabricのMixinやInjectsの概念についてのドキュメントが少なすぎる
-fabricにはMixinや、Injectsという概念がある。これは元々のMinecraftのコードに自分の好きな挙動を差し込むことができる。
-たとえば以下のようなコードがあった場合、
-class Example {
-  void blah() {
-    System.out.println("hogefuga");
-  }
-}
-
-
-
-以下のようなコードを書くことができる。
-@Mixin(Example.class)
-abstract class ExampleMixin {
-  @Inject(at = @At("HEAD"), method = "blah")
-  void yo(…]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[うつ病]]></title>
-        <id>https://note.com/ebideath/n/n86890d7ea96a</id>
-        <link href="https://note.com/ebideath/n/n86890d7ea96a"/>
-        <updated>2022-01-14T16:10:13.000Z</updated>
-        <summary type="html"><![CDATA[うつ病
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
 </feed>

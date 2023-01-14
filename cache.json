@@ -8105,20 +8105,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/13574176438052506961",
-          "author": null,
-          "description": "昨日、自作のmodについてのうすい記事を書いた。\nnaari.hatenablog.com\nこのmodを公開するに至って大変だったことをつらつらとかきます\nfabricのMixinやInjectsの概念についてのドキュメントが少なすぎる\n検索して出る情報が少なすぎる\n村人のgetOffers()を叩くだけだとダメ\n用語: MerchantEntity について\n通信の流れ\n擬似的に右クリックする\n画面上になにかを描画するのが難しい\n1.18になって何故か引数の順番が変わっててワロタ\nmodをCurseForgeにpublishする方法\nCurseForge上にプロジェクトを作成する必要があった\nGitHub Actions を利用して公開する\nこれも人様の実装を参考にする\nitsmeow/curseforge-upload を使用してCurseForgeに生成物をアップロードする\ngame_version がすごく難しい\n人のmodがオープンソースじゃなくて悲しい\nConfigを実装しなければならない\nまとめ\nfabricのMixinやInjectsの概念についてのドキュメントが少なすぎる\nfabricにはMixinや、Injectsという概念がある。これは元々のMinecraftのコードに自分の好きな挙動を差し込むことができる。\nたとえば以下のようなコードがあった場合、\nclass Example {\n  void blah() {\n    System.out.println(\"hogefuga\");\n  }\n}\n\n\n\n以下のようなコードを書くことができる。\n@Mixin(Example.class)\nabstract class ExampleMixin {\n  @Inject(at = @At(\"HEAD\"), method = \"blah\")\n  void yo(…",
-          "link": "https://naari.hatenablog.com/entry/2022/01/15/015043",
-          "publishedOn": "2022-01-14T16:50:43.000Z",
-          "wordCount": 659,
-          "title": "公開できるmodを初めて作ったので大変だったところを書いておく",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220115/20220115003628.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },
@@ -11553,15 +11539,6 @@
           "wordCount": 39,
           "title": "心療内科",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/dc1aa2028a33c2c983af2a305f599993a1cee362.jpg"
-        },
-        {
-          "id": "https://note.com/ebideath/n/n86890d7ea96a",
-          "author": null,
-          "description": "うつ病\n続きをみる",
-          "link": "https://note.com/ebideath/n/n86890d7ea96a",
-          "publishedOn": "2022-01-14T16:10:13.000Z",
-          "wordCount": 39,
-          "title": "うつ病"
         }
       ]
     },
