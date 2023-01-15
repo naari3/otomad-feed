@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-15T11:04:07.064Z</updated>
+    <updated>2023-01-15T12:04:35.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年のアニメ5選]]></title>
+        <id>hatenablog://entry/4207112889948707313</id>
+        <link href="https://kasutera2nd.hatenablog.com/entry/2023/01/15/210224"/>
+        <updated>2023-01-15T12:02:24.000Z</updated>
+        <summary type="html"><![CDATA[2022年の振り返りを兼ねて。
+テレビシリーズ・映画合わせて5作。箇条書き。
+ 
+・ぼっち・ざ・ろっく！
+表現の多彩さにおいて、現在の日本の商業アニメの最適解じゃないかと思っている。
+主人公のぼっちちゃんこと後藤ひとりは極度のコミュ障で、焦ると様々なリアクションや被害妄想が繰り出される。
+顔のパーツが崩れたり、体が溶解するのは序の口。劇中でエンドロールが流れ始める（第1話）、劇中にエンドカードが登場する（第3話）、突然実写のペープサートが始まる（第3話）、視界にノイズが入り落書きタッチになる（第4話）、嘔吐する場面でダムの実写映像が流れる（第5話）……これ以降もどんどんエスカレートしていく。
+その鋭く豪快な映像表現は、『彼氏彼女の事情』や『フリクリ』の頃のGAINAX、あるいは『ぱにぽにだっしゅ！』『化物語』辺りのシャフトのエネルギッシュさを想起させられる。
+ドラマ部分の巧みな話運びも素晴らしい。
+原作4コマの行間を埋めるような解釈の広げ方も良かった。
+それに応えるような写実的な日常芝居・背景美術も常に高水準。
+凄いアニメ。
+ 
+・サイバーパンク：エッジランナーズ
+めちゃくちゃアップデートされた『DEAD LEAVES』だ……と思った。
+『DEAD LEAVES』は今石監督の初作品で、バカバカしい下ネタとゴア描写たっぷりの尖ったアニメ。
+グレンラガンやキルラキルも好きだけど、私は今石監督のこういった作品をずっと観たかったので、本当に嬉しかった。
+退廃的で刹那的な世界観で、テレビシリーズではありえないような過激なシーンも多数。
+体制側に踏みにじられ、歯向かいつつも最終的に破滅に向かっていく、というアメリカン・ニューシネマ的なストーリーも、今のテレビシリーズではなかなか観られない気がする。
+特に好きなエピソードは6話。とあるキャラの最期を鮮烈に、ハードに描き切った名エピソード。…]]></summary>
+        <author>
+            <name>茶箪笥の奥</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[治らずの森]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1219.html</id>
