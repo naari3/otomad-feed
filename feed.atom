@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-15T10:04:27.187Z</updated>
+    <updated>2023-01-15T11:04:07.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[治らずの森]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1219.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1219.html"/>
+        <updated>2023-01-15T10:48:33.000Z</updated>
+        <summary type="html"><![CDATA[あれから一週間たつけど一向に回復の兆しがみられない  荒波ですゲームをすると瀕死になる事がわかったので、寝続けて治りが早くなるよう祈ってますが相変わらずの体調特に体を起こすと吐き気がひどいまともな食事も殆どできていません風呂が命がけになってます  頭が痒すぎて眠れないので入らないのも無理なんでこんなに長引いていやがるのでしょうか一日中ボーっと天井を見てるとさまざまな怒りが湧いてくるのを感じてよくないで]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酔った時に出るクソデカ感情は自鯖に吐こう]]></title>
         <id>hatenablog://entry/4207112889954309947</id>
@@ -27887,16 +27897,6 @@ immortalt.hatenablog.com
 続きをみる]]></summary>
         <author>
             <name>粘土31号</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学校、ヤダなー]]></title>
-        <id>https://note.com/kari_yadokari/n/n04680a29edda</id>
-        <link href="https://note.com/kari_yadokari/n/n04680a29edda"/>
-        <updated>2022-01-15T22:41:26.000Z</updated>
-        <summary type="html"><![CDATA[学校、ヤダなー 続きをみる]]></summary>
-        <author>
-            <name>yadokari</name>
         </author>
     </entry>
 </feed>

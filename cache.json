@@ -12485,15 +12485,6 @@
           "wordCount": 36,
           "title": "精神的に参ってるよ",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/52827346/profile_37cb0463ec1ef3962d93c04127643acc.png?fit=bounds&format=jpeg&quality=85&width=330"
-        },
-        {
-          "id": "https://note.com/kari_yadokari/n/n04680a29edda",
-          "author": null,
-          "description": "学校、ヤダなー 続きをみる",
-          "link": "https://note.com/kari_yadokari/n/n04680a29edda",
-          "publishedOn": "2022-01-15T22:41:26.000Z",
-          "wordCount": 39,
-          "title": "学校、ヤダなー"
         }
       ]
     },
@@ -14900,6 +14891,16 @@
       "feedUrl": "https://hiiragidono.blog.fc2.com/?xml",
       "siteUrl": "https://hiiragidono.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://hiiragidono.blog.fc2.com/blog-entry-1219.html",
+          "author": "柊殿",
+          "description": "あれから一週間たつけど一向に回復の兆しがみられない  荒波ですゲームをすると瀕死になる事がわかったので、寝続けて治りが早くなるよう祈ってますが相変わらずの体調特に体を起こすと吐き気がひどいまともな食事も殆どできていません風呂が命がけになってます  頭が痒すぎて眠れないので入らないのも無理なんでこんなに長引いていやがるのでしょうか一日中ボーっと天井を見てるとさまざまな怒りが湧いてくるのを感じてよくないで",
+          "link": "https://hiiragidono.blog.fc2.com/blog-entry-1219.html",
+          "publishedOn": "2023-01-15T10:48:33.000Z",
+          "wordCount": 546,
+          "title": "治らずの森",
+          "imageUrl": null
+        },
         {
           "id": "https://hiiragidono.blog.fc2.com/blog-entry-1218.html",
           "author": "柊殿",
