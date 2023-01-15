@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-15T00:15:14.321Z</updated>
+    <updated>2023-01-15T01:31:32.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27897,33 +27897,6 @@ immortalt.hatenablog.com
         <summary type="html"><![CDATA[学校、ヤダなー 続きをみる]]></summary>
         <author>
             <name>yadokari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD10選で5票以下の音MADn選2021　前夜祭]]></title>
-        <id>https://note.com/sweets_farting/n/n136e6e90384a</id>
-        <link href="https://note.com/sweets_farting/n/n136e6e90384a"/>
-        <updated>2022-01-15T12:30:47.000Z</updated>
-        <summary type="html"><![CDATA[毎年音MADn選 本放送では5時間の枠を設けているのですが、今年は放送できるのが89本と例年より少なくなってます
-これはもったいないぞ、ということで
-前夜祭やります
-続きをみる]]></summary>
-        <author>
-            <name>角煮サイダ一</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD10選で5票以下の音MADn選2021 生放送概要]]></title>
-        <id>https://note.com/sweets_farting/n/nd42ca5edb31f</id>
-        <link href="https://note.com/sweets_farting/n/nd42ca5edb31f"/>
-        <updated>2022-01-15T12:21:09.000Z</updated>
-        <summary type="html"><![CDATA[放送日時
- 2022年1月22日(土)　18:00～23:00　ニコニコ生放送にて放送
-https://live.nicovideo.jp/watch/lv335415520
-
-続きをみる]]></summary>
-        <author>
-            <name>角煮サイダ一</name>
         </author>
     </entry>
 </feed>
