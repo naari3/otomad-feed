@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-15T23:04:17.597Z</updated>
+    <updated>2023-01-16T00:14:25.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27809,19 +27809,6 @@ www.nicovideo.jp
 　考えるのは難しい。考えるのには知識がいるのだけど、知識が思考に胡座をかく場合があるっぽい…]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノルマという言葉の是非について]]></title>
-        <id>https://note.com/26435/n/n600814953892</id>
-        <link href="https://note.com/26435/n/n600814953892"/>
-        <updated>2022-01-16T11:58:40.000Z</updated>
-        <summary type="html"><![CDATA[(この記事は私個人の意見を述べた文章なので嫌と思う方はブラウザバック推奨です。)
-
-
-続きをみる]]></summary>
-        <author>
-            <name>Theas</name>
         </author>
     </entry>
 </feed>
