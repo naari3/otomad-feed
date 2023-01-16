@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-16T22:04:21.463Z</updated>
+    <updated>2023-01-16T23:04:20.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27705,18 +27705,6 @@ note.com
 続きをみる]]></summary>
         <author>
             <name>大腸菌デリバリーサービス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DaVinci Resolve 17で作る音MAD]]></title>
-        <id>https://note.com/em011_/n/n75ad4344ffd6</id>
-        <link href="https://note.com/em011_/n/n75ad4344ffd6"/>
-        <updated>2022-01-17T10:56:26.000Z</updated>
-        <summary type="html"><![CDATA[(2022/02/02更新)
-はじめに
-続きをみる]]></summary>
-        <author>
-            <name>仮</name>
         </author>
     </entry>
 </feed>
