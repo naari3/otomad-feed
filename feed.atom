@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-17T14:04:16.607Z</updated>
+    <updated>2023-01-17T15:04:35.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年3月名鉄ダイヤ改正についての所感]]></title>
+        <id>hatenablog://entry/4207112889955187050</id>
+        <link href="https://rokkan2235500.hatenablog.com/entry/2023/01/17/233551"/>
+        <updated>2023-01-17T14:35:51.000Z</updated>
+        <summary type="html"><![CDATA[＜名古屋鉄道＞3月18日（土）にダイヤ改正を実施します　1月17日14時発表 https://t.co/28h14G8GOb pic.twitter.com/2SzRkhUW8u
+2023年1月17日
+
+
+ 
+ 
+いや～～～名鉄ってダイヤ改正するんですね(すっとぼけ)
+ 
+
+推測で物事を語るのはあまり宜しくないけど名鉄ダイヤ改正やりそうな予感プンプンしてんだよな
+・知立上り高架使用開始(3/21より)
+・諸般のワンマン改造
+・各務原線・知多新線ワンマン設備工事
+・豊川線増便(イオンモール豊川開業)
+・河和線新駅(2023年度中)
+・本線6000撤退による速度向上(？)
+2022年12月20日
+
+
+(ほんとにやるんだ...)
+あ、これ音鉄垢なのでフォローよろしくお願いします。
+ 
+さすがに白紙ダイヤ改正とまでは行かないものの、今回はいろいろ日中の輸送体系にもテコ入れしていて驚きました。
+ 
+一言で言うと、テコ入れられそうな箇所全て入れてるなあという感想でした。ただ、ちゃんと前回減便した中で比較的需要が旺盛な箇所を再増便して補ったりと、ちゃんと実地調査してて私の中では好印象です。
+ 
+約2年前から愛知を離れて京都に住んでいるものの、未だに追ってたりしているので今回は放送面からの視点を加えて所感を述べさせていただきたいと思います。
+ 
+ワンマン運転区間の拡大(各務原線,知多新線)
+
+ 
+長年いつになるかと言わていたこの2路線のワンマン化がついに実施されるようです。
+特に各務原線が終日全列車ワンマンということで、全て犬山(三柿野)～名鉄岐阜の運転ということになりました。特に朝ラッシュはあの「774レ」をはじめいろいろな種別行先が存在しているので取材しなければ...
+ 
+ 
+
+ 
+まさかの「犬山経由岐阜」という行先が消滅する可能性が出てきました。豊川線と尾西線ではそれぞれ国府と津島で…]]></summary>
+        <author>
+            <name>若宮イヴだいすきクラブ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nerdtronics2の関連記事まとめ #ナートロ2]]></title>
         <id>hatenablog://entry/4207112889948947316</id>
@@ -27837,19 +27884,6 @@ note.com
 これ聞いてると、色んな人が…]]></summary>
         <author>
             <name>竹達アーカイブ通信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年の思い出]]></title>
-        <id>https://note.com/ecolidelvsvc11/n/n595b77395366</id>
-        <link href="https://note.com/ecolidelvsvc11/n/n595b77395366"/>
-        <updated>2022-01-18T03:00:04.000Z</updated>
-        <summary type="html"><![CDATA[去年は凄い面白かった。
-音MADもそれ以外も。
-1月
-続きをみる]]></summary>
-        <author>
-            <name>大腸菌デリバリーサービス</name>
         </author>
     </entry>
 </feed>
