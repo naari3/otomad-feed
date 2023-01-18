@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-18T19:04:09.371Z</updated>
+    <updated>2023-01-18T20:04:21.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27710,18 +27710,6 @@ ja.wikipedia.org
 続きをみる]]></summary>
         <author>
             <name>はここれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[きゅうくらりんの手描きMADで用いたイラストの撮影処理法]]></title>
-        <id>https://note.com/sehatakuro/n/na6f3747032e6</id>
-        <link href="https://note.com/sehatakuro/n/na6f3747032e6"/>
-        <updated>2022-01-19T07:36:19.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-  
-続きをみる]]></summary>
-        <author>
-            <name>瀬畑 黒</name>
         </author>
     </entry>
 </feed>
