@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-19T07:04:25.895Z</updated>
+    <updated>2023-01-19T08:04:43.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コンビニでよく買うもの]]></title>
+        <id>https://note.com/aun6june/n/n98a74c7fb10f</id>
+        <link href="https://note.com/aun6june/n/n98a74c7fb10f"/>
+        <updated>2023-01-19T07:13:41.000Z</updated>
+        <summary type="html"><![CDATA[最寄りがセブンイレブンなので片寄ってます。
+・アイブラ5mm
+たばこ。
+前まで8ミリだったけど、ある時5mmしか売ってない時にそれを買って以来何故か5mmで定着した。
+家から数秒のところにあるタバコ屋が廃業してしまったからコンビニまで行かないとダメで面倒。
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230118「映画『その街のこども 劇場版』」]]></title>
         <id>hatenablog://entry/4207112889955479196</id>
