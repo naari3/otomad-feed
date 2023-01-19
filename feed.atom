@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-19T20:04:40.525Z</updated>
+    <updated>2023-01-19T21:04:26.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27639,16 +27639,6 @@ The post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER�
 続きをみる]]></summary>
         <author>
             <name>なめたけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みなづきラジオ_第0回]]></title>
-        <id>https://note.com/aun6june/n/n0d2b321a5603</id>
-        <link href="https://note.com/aun6june/n/n0d2b321a5603"/>
-        <updated>2022-01-20T08:15:52.000Z</updated>
-        <summary type="html"><![CDATA[衝撃のラストが待ち受ける。サウンドをひらく]]></summary>
-        <author>
-            <name>aun6june</name>
         </author>
     </entry>
 </feed>
