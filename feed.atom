@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-19T14:04:11.241Z</updated>
+    <updated>2023-01-19T15:04:33.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adobeと殴り合う事になった人]]></title>
+        <id>https://note.com/emplor_j/n/n334a184af388</id>
+        <link href="https://note.com/emplor_j/n/n334a184af388"/>
+        <updated>2023-01-19T15:03:32.000Z</updated>
+        <summary type="html"><![CDATA[(1/19)イラレの検定がほしいから殴り合うことにしたぜ！！よろしくな！！！！！！！！！！！！！
+
+続きをみる]]></summary>
+        <author>
+            <name>エンプラーJ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コンビニでよく買うもの]]></title>
         <id>https://note.com/aun6june/n/n98a74c7fb10f</id>
@@ -27637,16 +27649,6 @@ The post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER�
         <summary type="html"><![CDATA[衝撃のラストが待ち受ける。サウンドをひらく]]></summary>
         <author>
             <name>aun6june</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「コーヒー」を打ち間違えて「コーホー」になった]]></title>
-        <id>hatenablog://entry/13574176438054613284</id>
-        <link href="https://naari.hatenablog.com/entry/2022/01/20/111807"/>
-        <updated>2022-01-20T02:18:07.000Z</updated>
-        <summary type="html"><![CDATA[おもしろい]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
 </feed>
