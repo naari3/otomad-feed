@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-20T02:28:24.805Z</updated>
+    <updated>2023-01-20T03:06:15.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27627,18 +27627,6 @@ The post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER�
 プロ…]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウマ娘合作Haunted Horseの制作後記]]></title>
-        <id>https://note.com/nametake1/n/n3a66b6408987</id>
-        <link href="https://note.com/nametake1/n/n3a66b6408987"/>
-        <updated>2022-01-20T14:45:15.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-こんにちは、なめたけです。今回はウマ娘合作に提出したHaunted Horseについて映像を作る上で参考にした動画や、パクリ（リスペクト） したところなどを紹介しようと思います。
-続きをみる]]></summary>
-        <author>
-            <name>なめたけ</name>
         </author>
     </entry>
 </feed>
