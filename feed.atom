@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-20T05:04:24.379Z</updated>
+    <updated>2023-01-20T06:04:40.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27541,28 +27541,6 @@ https://www.twitch.tv/videos/1260950431?collection=k…]]></summary>
 続きをみる]]></summary>
         <author>
             <name>はここれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl)]]></title>
-        <id>https://ytpmv.info/?p=1225</id>
-        <link href="https://ytpmv.info/rpptoexo-lyric"/>
-        <updated>2022-01-20T17:28:12.000Z</updated>
-        <summary type="html"><![CDATA[皆さんごきげんよう。まいまいです。 今回は、人力系音MADで多用する表現のリップシンク（歌声に合わせて口の形を変える表現)を一部自動化するPythonスクリプトを作ったので公開します。 今回作ったスクリプトは、Pytho […]
-The post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl) first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl)]]></title>
-        <id>https://ytpmv.info/?p=1225</id>
-        <link href="https://ytpmv.info/rpptoexo-lyric?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2597%25e3%2582%25b7%25e3%2583%25b3%25e3%2582%25af%25e6%2594%25af%25e6%258f%25b4python%25e3%2582%25b9%25e3%2582%25af%25e3%2583%25aa%25e3%2583%2597%25e3%2583%2588-rpptoexolyric-reaper%25e2%2586%2592aviutl"/>
-        <updated>2022-01-20T17:28:12.000Z</updated>
-        <summary type="html"><![CDATA[皆さんごきげんよう。まいまいです。 今回は、人力系音MADで多用する表現のリップシンク（歌声に合わせて口の形を変える表現)を一部自動化するPythonスクリプトを作ったので公開します。 今回作ったスクリプトは、Pytho […]
-The post リップシンク支援Pythonスクリプト RPPtoEXO(Lyric) (REAPER→Aviutl) first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
 </feed>
