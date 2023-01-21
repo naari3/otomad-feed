@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-21T07:04:00.582Z</updated>
+    <updated>2023-01-21T08:04:44.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.58　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
+        <id>hatenablog://entry/4207112889956139502</id>
+        <link href="https://ximco.hatenablog.com/entry/2023/01/21/160704"/>
+        <updated>2023-01-21T07:07:04.000Z</updated>
+        <summary type="html"><![CDATA[ちょっと大事なお話
+さて、そろそろ終焉が近づいてまいりました。　Ximcoです。
+ 
+あと数回の更新で事実上のXim Sansの更新は終了となる可能性があります。
+理由としては以下の通りです。
+ttfフォントの収録可能限界文字数の上限が近づいていること
+製作者である僕Ximcoの別の分野での活動が今後忙しくなり、収益化が見込みづらい活動については規模を縮小したいと考えていること
+そもそもフォントを通してやりたいことや、収録したい文字を大体カバーできてきたこと
+一旦の開発終了ののちの活動についてはその際に再度こちらのブログにて発表したいと思いますが、現状次のようなことを考えています。
+何らかの形で収益化が見込める場合のみ、フォント制作活動を行う
+Xim Sans 自体の改変を自由に行えるものとし、改変を行いたい人の間で有志で製作を行ってもらう（改変後のファイルのReadme等に僕の名前をクレジット表記していただければ改変は歓迎いたします。）
+上記内容に関してはまだ未定ですが、今後無償でのフォント開発に関してはかなり消極的になっていることだけお伝えしておきます。
+ 
+正直なところ、作業量に対して報われる部分が少なく自己満足でしかないものであるため度々周りからも「そろそろやめた方がよいのではないか」といった意見をいただいておりました。個人的にも6万字を超えるフォントを（ほぼ）個人で製作できたことは一つの到達点となって目的を達成したと感じております。
+ 
+また、今後は開発のスピードを大幅に減少し、更新も大きくスパンが空くようになりますのでご了承ください。
+挨拶と本記事の目的
+さて、今回も自作フォント「Xim Sans 手書き風」のバージョン更新のお知らせです。
+ 
+DLはこちらから。↓
+github.com
+サンプル画像
+　↓当フォントのサンプル画像です。色々な言語や文字で「猫」と…]]></summary>
+        <author>
+            <name>ximcoの部屋</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230120「無題」]]></title>
         <id>hatenablog://entry/4207112889956013263</id>
