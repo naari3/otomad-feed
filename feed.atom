@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-21T08:04:44.142Z</updated>
+    <updated>2023-01-21T09:04:14.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#42 1月2週]]></title>
+        <id>hatenablog://entry/4207112889956122206</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/01/21/175737"/>
+        <updated>2023-01-21T08:57:37.000Z</updated>
+        <summary type="html"><![CDATA[今週忙しくて遂に土曜更新になってしまった。
+一応1/9~1/15のことを書きたい。けど記憶が無いな。
+ 
+www.nicovideo.jp
+音MADを投稿した。今月2本目。音モチベが高い。
+ 
+流石に就活から逃げられなくなってきた。攻略法裏技など教えてもらえると助かります。
+ 
+今年初馬券の日経新春杯、キングオブドラゴンに微注目してたのに外してしまった。でも予想は悪くないと思うので、今年はガチです。
+ 
+マジで1週ズレちゃうと記憶も書くこともあんまなかったので、次回はちゃんと日曜日に更新したい。明日ですけど。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自作フォント】Xim Sans Ver. 1.58　配布【バージョン更新のお知らせ】 #Xim_Sans #日本語フォント #フリーフォント]]></title>
         <id>hatenablog://entry/4207112889956139502</id>
