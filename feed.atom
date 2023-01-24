@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-24T13:08:09.838Z</updated>
+    <updated>2023-01-24T14:04:04.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#43 1月3週]]></title>
+        <id>hatenablog://entry/4207112889957250026</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/01/24/222226"/>
+        <updated>2023-01-24T13:22:26.000Z</updated>
+        <summary type="html"><![CDATA[参加した削除合作が投稿された。
+かなり前にサビの歌詞改変だけ考えてたけど先を越されてしまって、没になりそうだった案を使い回した。
+
+削除合作単品です #sm41688983 pic.twitter.com/GRXcPoOjaU
+— nkaoobt (@nkaoobt) 2023年1月23日
+  
+合作も含めていいなら毎週投稿が続いている。別に続ける気は無いんですけど。
+ 
+ポケモン、モチベが無さすぎるとか言ってたけどやっぱりもう1回挑戦したい。とりあえずマスボは踏みたい。
+今月は忙しいしもう終わりがけだから来月からかな。パラドックスも来るし。
+まずは配信環境を整えるところからかなと思ってます。OBS更新してから同時配信プラグインがなんかおかしくなってるので。
+ 
+AJCC、1,2,3,5,7番人気の三連複ボックスを買ったら4→5→3番人気で決着した。107.1倍。
+上位人気の三連複ボックスってとこまでは合ってて、何も考えず上から5頭にすれば良かった。
+先週も食らう負け方をしたけど、今週はもっとやばかった。
+貯運だと思うことにします。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230122「ナナロク社『第二回 あたらしい歌集選考会の記録』」]]></title>
         <id>hatenablog://entry/4207112889956972653</id>
