@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-24T01:31:32.878Z</updated>
+    <updated>2023-01-24T02:23:22.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27521,45 +27521,6 @@ gigazine.net
 *2:prometheusとgrafanaでちゃんとメトリクスを見れる状態にある]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022/01/24]]></title>
-        <id>hatenablog://entry/13574176438056019047</id>
-        <link href="https://kaikityou.hatenablog.com/entry/2022/01/24/231703"/>
-        <updated>2022-01-24T14:17:03.000Z</updated>
-        <summary type="html"><![CDATA[今日はジム行った。ブログでは書いてなかったけど去年ぐらいから通ってます。
-最近トレーニングメニューを変えました。①胸/肩/背と②脚/腕の2つのメニューを一回ごとに分けてやってます。今日は後者の方。
-なんか自分脚の筋肉が結構ある方らしくて、他の部位より重量が重め。逆に心配だったから今日トレーナーさんにフォーム見てもらったんですけど問題無いみたいなので本当に筋肉あるだけっぽい。嬉しい。
-絶対DDRとかの影響だよなぁ。
- 
-あとそうだ。今日の午後の勤務がほんとにしんどかった。
-別に眠気が凄いとかそういうことじゃないんですけど、とにかく気力が起きなかった。
-今の案件のリーダーさんなぁ、前から思ってたけどかなり放任でちょっとしんどいんだよなぁ。自分の立場上仕方ないところはあるのだろうけど他の人達よりもそれが強く目立つので思うところはやっぱりある。
-あと何で人が急に3人も減るんだ。パワーバランス考えてくれ。
-退勤の嬉しさでなぁなぁになっちゃったけど、多分これ向き合わないと行けない問題だと思う。無理矢理にでも一日休むとかしたほうがいいのかも。
- 
-ちょっと試験的にTwitterのアプリをスマホから消しました。最近読んでる本の影響で孤独の時間を減らしたいって考えからです。
-自分が疲れやすいのってデジタルに依存しすぎてるからっていう理由もあるのかなって思った。
-数日試してみて様子見てみようと思います。]]></summary>
-        <author>
-            <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n選メモ書き]]></title>
-        <id>https://note.com/sweets_farting/n/n821ac8d24237</id>
-        <link href="https://note.com/sweets_farting/n/n821ac8d24237"/>
-        <updated>2022-01-24T13:40:42.000Z</updated>
-        <summary type="html"><![CDATA[n選でやった作業一覧をメモ。他の企画にも利用できる箇所があれば御活用ください。
-昨年の年末
-①投票フォーム作成・宣伝
-　本家10選の候補マイリスをそのまま投票してもらう、という趣旨の企画なので、10選のアナウンスがあった頃に宣伝。
-改善点：「公平性の担保のためにユーザーID記載は義務化（匿名投票は無効票にする）」という点を説明記事に記載する。
-　　　　Googleスプレッドシートの共有化の説明も記載。（今回、非共有のスプレッドシートが複数あった）
-続きをみる]]></summary>
-        <author>
-            <name>角煮サイダ一</name>
         </author>
     </entry>
 </feed>
