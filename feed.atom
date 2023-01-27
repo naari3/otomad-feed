@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-27T01:32:09.699Z</updated>
+    <updated>2023-01-27T02:26:04.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メモ_230127]]></title>
+        <id>https://note.com/kokeshi_short/n/n74fa2f01cb53</id>
+        <link href="https://note.com/kokeshi_short/n/n74fa2f01cb53"/>
+        <updated>2023-01-27T02:01:12.000Z</updated>
+        <summary type="html"><![CDATA[4月までの目標
+・30冊
+・Aviutl
+・椿森幸
+・絵
+・和食
+・味噌汁
+・ゼノブレイド3クリア
+・シス150
+・テンペ杖5凸
+・ヒヒ5個
+　グランブルーファンタジーの音MADが全然ないので、今年は作れるといいですね。Aviutlを人並みに扱えるようになったら、刀使ノ巫女のまじめ音MADも作りたいです。
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230125「ふっくらすずめクラブで好きな回」]]></title>
         <id>hatenablog://entry/4207112889957726121</id>
