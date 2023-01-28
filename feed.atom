@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-28T00:13:42.790Z</updated>
+    <updated>2023-01-28T01:31:34.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27655,18 +27655,6 @@ https://www.reddit.com/r/Focusrite/comments/ir8wo6/scarlett_4i4_gen_3_crashes_up
 ので、買い換える必要があるのだが、これもグラボ同様あまり気にしたことのないデバイスなので乗り換え先が見つからない。DTMをやっている関係上、入出力がそれぞれ4以上あり、デバイス内でループバックの機能を持っており、そのルーティングはソフトからできればそれで充分なのだが、その上でかなりの数があるのでどれを選べばよいのかわからない。某定番機材を検討していたが、知り合いが「DirectXがデバイスを掴んでいる時でないとマイクの入力が受け付けられなくなった」と言っており、悩んでしまっている。もしかしたらAIFのドライバを書くのって難しい？おすすめがあったらおしえてください。]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おっぱいでけ〜〜〜（名義公表）]]></title>
-        <id>https://note.com/emplor_j/n/n594852c7752e</id>
-        <link href="https://note.com/emplor_j/n/n594852c7752e"/>
-        <updated>2022-01-28T13:00:08.000Z</updated>
-        <summary type="html"><![CDATA[皆さん
-皆さん
-続きをみる]]></summary>
-        <author>
-            <name>エンプラーJ</name>
         </author>
     </entry>
 </feed>
