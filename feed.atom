@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-28T06:04:33.451Z</updated>
+    <updated>2023-01-28T07:04:09.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27688,21 +27688,6 @@ The post クリップボードからURLを取得しyt-dlpを起動するVBScript
 続きをみる]]></summary>
         <author>
             <name>北</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オーディオインターフェースの調子が悪い]]></title>
-        <id>hatenablog://entry/13574176438057673630</id>
-        <link href="https://naari.hatenablog.com/entry/2022/01/29/035044"/>
-        <updated>2022-01-28T18:50:44.000Z</updated>
-        <summary type="html"><![CDATA[前回AIFについて記事を書いた時はFocusrite Scarlett 2i2 3rd genを使っていたが、これはルーティングの機能を持っていないため、友人に売り払った。今はそのひとつ上のグレードであり、ルーティングの機能も備えているFocusrite Scarlett 4i4 3rd genを使っている。ただ、これがちょっと曲者っぽくて、様々な問題に当たっている。
-1つ目の事象は、入力から0dbを超えた音を入れた際、AIFに再起動が走るというもの。Discordのサーバーでゲームをやっている時、リアクションで大きな声を出す場合があるが、その際によくこれに当たってしまう。事象としてはデバイスの再接続みたいになって、各所出力先を再設定する手間が増える。さらに、極稀にAIFが入出力を全く受け付けなくなることがあって、その場合はサービスマネージャーから Windows Audio Endpoint Builder を再起動してからマシン自体も再起動しなければならない。以下が検索して見つかるredditのpostだが、特に解決には至っていない様子。
-https://www.reddit.com/r/Focusrite/comments/ftj60r/4i4_gen_3_crashesrestarts_on_high_input_volume/
-https://www.reddit.com/r/Focusrite/comments/ir8wo6/scarlett_4i4_gen_3_crashes_upon_loud_volume/
-2つ目の事象は、問題の切り分けが済んでいないのだけれど、Discordで他人の画面共有を閲覧中にのみ自分の音声がクライアントに掴まれなくなるというもの。どうやらエコー除去的な挙動が間に挟まっている？らしく、redditなどでは「エコー除去をオフにしたら喋れるようになった」「ノイズ抑制(Krisp)をオンにしたら喋れるようになった」など、色々な言説がある。自分の場合は後者でどうにか喋れるようになったが、Krispがオンの状態だと笑い声が掻き消されてコミュニケーションが難しくなってしまう。USBマイクの時はこの事象にあたらなかったので、恐らくこのAIFが悪いのだろう。
-ので、買い換える必要があるのだが、これもグラボ同様あまり気にしたことのないデバイスなので乗り換え先が見つからない。DTMをやっている関係上、入出力がそれぞれ4以上あり、デバイス内でループバックの機能を持っており、そのルーティングはソフトからできればそれで充分なのだが、その上でかなりの数があるのでどれを選べばよいのかわからない。某定番機材を検討していたが、知り合いが「DirectXがデバイスを掴んでいる時でないとマイクの入力が受け付けられなくなった」と言っており、悩んでしまっている。もしかしたらAIFのドライバを書くのって難しい？おすすめがあったらおしえてください。]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
 </feed>
