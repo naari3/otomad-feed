@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-29T17:04:03.559Z</updated>
+    <updated>2023-01-29T18:04:33.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27669,28 +27669,6 @@ youtu.be
 続きをみる]]></summary>
         <author>
             <name>北</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリップボードからURLを取得しyt-dlpを起動するVBScript]]></title>
-        <id>https://ytpmv.info/?p=1242</id>
-        <link href="https://ytpmv.info/?p=1242"/>
-        <updated>2022-01-30T05:31:38.000Z</updated>
-        <summary type="html"><![CDATA[みなさんごきげんよう。まいまいです。 Youtubedl使う時って、コマンドいちいち選択して高画質になるようにするの、面倒ですよね。 なのでサイトごとにそれなりに最適化した設定でDLできるように、ワンクリックでDLできる […]
-The post クリップボードからURLを取得しyt-dlpを起動するVBScript first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリップボードからURLを取得しyt-dlpを起動するVBScript]]></title>
-        <id>https://ytpmv.info/?p=1242</id>
-        <link href="https://ytpmv.info/?p=1242&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2582%25af%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2597%25e3%2583%259c%25e3%2583%25bc%25e3%2583%2589%25e3%2581%258b%25e3%2582%2589url%25e3%2582%2592%25e5%258f%2596%25e5%25be%2597%25e3%2581%2597yt-dlp%25e3%2582%2592%25e8%25b5%25b7%25e5%258b%2595%25e3%2581%2599%25e3%2582%258bvbscript"/>
-        <updated>2022-01-30T05:31:38.000Z</updated>
-        <summary type="html"><![CDATA[みなさんごきげんよう。まいまいです。 Youtubedl使う時って、コマンドいちいち選択して高画質になるようにするの、面倒ですよね。 なのでサイトごとにそれなりに最適化した設定でDLできるように、ワンクリックでDLできる […]
-The post クリップボードからURLを取得しyt-dlpを起動するVBScript first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
     <entry>
