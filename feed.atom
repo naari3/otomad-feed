@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-30T13:09:42.668Z</updated>
+    <updated>2023-01-30T14:04:07.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023.1.30 今日は寝袋を使って寝るぞ]]></title>
+        <id>hatenablog://entry/4207112889958925849</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2023/01/30/225525"/>
+        <updated>2023-01-30T13:55:25.000Z</updated>
+        <summary type="html"><![CDATA[先週の仕事がバカ忙しかったのもあって中々疲れてる。
+今の勤務先は二年間ぐらい残業が無かったんですが、先週はあまりにも忙しくて合計5時間程の残業をした。結果論で言うと多分残業しなくても間に合っていた可能性は高かったと思うし週の最初ぐらいでも実はそのことに気付いてたけど、金曜日の自分を苦しめるのが嫌だったので週の最初の自分に頑張らせた。
+個人的には残業自体はどうでも良くて、一緒に仕事をする人がかなり嫌で精神的に来ていたというのが大きい。僕は彼のことをシナモンと呼んでいる。
+特に上下関係がある訳でもないのに僕が指示しないとまともに動いてくれない。常時喋っていてうるさい。退勤時に会社前で彼女とハグし合う。マジでさぁ…
+この程度の奴と同じ仕事をしなきゃいけないというのが非常に苦痛だから今就活を頑張ろうという気持ちが結構ちゃんと湧いてきてるまである。
+ 
+そんな訳で疲れており、今日は自室の布団の上で寝袋を使って寝ようと思う。
+少しでも違った環境に身をおくことでヒーリング効果を得たいなぁという。
+なんならテントとかダンボッチの中みたいな狭所の中で寝たい気持ちもある。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクラの進捗の達成状況を確かめる方法【冒険の時間】]]></title>
+        <id>https://note.com/furadiru_99/n/ne916b714e148</id>
+        <link href="https://note.com/furadiru_99/n/ne916b714e148"/>
+        <updated>2023-01-30T13:50:51.000Z</updated>
+        <summary type="html"><![CDATA[「バックアップファイルを開く」からアクセスすると楽
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[散文、1月。]]></title>
         <id>hatenablog://entry/4207112889958691583</id>
