@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-30T18:04:44.309Z</updated>
+    <updated>2023-01-30T19:04:15.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nmm10_22]]></title>
+        <id>https://note.com/nototote/n/ndee9253282cf</id>
+        <link href="https://note.com/nototote/n/ndee9253282cf"/>
+        <updated>2023-01-30T18:56:17.000Z</updated>
+        <summary type="html"><![CDATA[はじめに？
+
+昨年は任天堂ゲーム全作品の20%くらいを網羅した音MAD動画『Hauntendo Dance』で名をはせ…！ることができなかった三軍音MAD作者のととととさんですが、実はニコニコメドレーシリーズ投稿者でもあるなのでニコメド10選の投票の権利があります。なので、その権利を使うために記事を書きます。
+続きをみる]]></summary>
+        <author>
+            <name>とッくん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.1.30 今日は寝袋を使って寝るぞ]]></title>
         <id>hatenablog://entry/4207112889958925849</id>
