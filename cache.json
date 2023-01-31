@@ -8183,20 +8183,6 @@
             "type": "image/png",
             "length": "0"
           }
-        },
-        {
-          "id": "hatenablog://entry/13574176438058982089",
-          "author": null,
-          "description": "Getting Over Itの字幕をすべて(全言語、全場面のものを)記載したサイトを作った。完全にネタバレありなので、未クリアの人は踏まないほうが良い。\nGetting Over It Subtitles\n↑これ。\n機能として、各Termを言語別で表示/非表示を切り替えられる。また、Termに対して雑なジャンル分けしたので表示するものを絞ることができる。\n動機としては3種類あって、以下のような感じ。\n日本語の字幕と英語で言っていることがズレているように感じることがあり、でも聞き取れるわけもないから文字起こしを頂いた上で意訳が適切なのかどうかを確かめたい\n考察のための足掛かりにしたい\nこれらの文言をいつでも引用することができる状態にしたい\n日本語と英語のズレについては、おそらくプレイしたことのある人で、かつ字幕を見たことがある人なら少し感じるところがあると思う。そもそも日本語としての完成度もちょっと低いし、気になる部分は多かった。例えば、\nMaybe this is what this digital culture is.\nA monstrous mountain of trash,\nthe ash-heap of creativity's fountain.\nA landfill with everything we ever thought of in it\nGrand, infinite, and unsorted.\n\n\nが\n多分これは、このデジタル文化があるものです。\nゴミの巨大な山、\n創造性の噴水の灰ヒープ。\n私たちが今までそれで考えるすべてのものとの埋立\nグランド無限、およびソートされていません。\n\n\nになるのは、なんというかもうちょっとうまい選択肢はあったんじゃないかと思う。みたいな、そういうもの。揚げ足取り。\n考察については単純で、ただただ列挙されているた…",
-          "link": "https://naari.hatenablog.com/entry/2022/02/01/184330",
-          "publishedOn": "2022-02-01T09:43:30.000Z",
-          "wordCount": 199,
-          "title": "Getting Over It with Bennett Foddyの字幕をすべて記載したサイトを作った",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          }
         }
       ]
     },

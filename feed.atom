@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-01-31T21:04:10.926Z</updated>
+    <updated>2023-01-31T22:04:10.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27519,41 +27519,6 @@ nico.ms]]></summary>
 続きをみる]]></summary>
         <author>
             <name>sigloxx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Over It with Bennett Foddyの字幕をすべて記載したサイトを作った]]></title>
-        <id>hatenablog://entry/13574176438058982089</id>
-        <link href="https://naari.hatenablog.com/entry/2022/02/01/184330"/>
-        <updated>2022-02-01T09:43:30.000Z</updated>
-        <summary type="html"><![CDATA[Getting Over Itの字幕をすべて(全言語、全場面のものを)記載したサイトを作った。完全にネタバレありなので、未クリアの人は踏まないほうが良い。
-Getting Over It Subtitles
-↑これ。
-機能として、各Termを言語別で表示/非表示を切り替えられる。また、Termに対して雑なジャンル分けしたので表示するものを絞ることができる。
-動機としては3種類あって、以下のような感じ。
-日本語の字幕と英語で言っていることがズレているように感じることがあり、でも聞き取れるわけもないから文字起こしを頂いた上で意訳が適切なのかどうかを確かめたい
-考察のための足掛かりにしたい
-これらの文言をいつでも引用することができる状態にしたい
-日本語と英語のズレについては、おそらくプレイしたことのある人で、かつ字幕を見たことがある人なら少し感じるところがあると思う。そもそも日本語としての完成度もちょっと低いし、気になる部分は多かった。例えば、
-Maybe this is what this digital culture is.
-A monstrous mountain of trash,
-the ash-heap of creativity's fountain.
-A landfill with everything we ever thought of in it
-Grand, infinite, and unsorted.
-
-
-が
-多分これは、このデジタル文化があるものです。
-ゴミの巨大な山、
-創造性の噴水の灰ヒープ。
-私たちが今までそれで考えるすべてのものとの埋立
-グランド無限、およびソートされていません。
-
-
-になるのは、なんというかもうちょっとうまい選択肢はあったんじゃないかと思う。みたいな、そういうもの。揚げ足取り。
-考察については単純で、ただただ列挙されているた…]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
     <entry>
