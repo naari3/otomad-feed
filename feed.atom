@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-02T08:04:27.752Z</updated>
+    <updated>2023-02-02T09:04:46.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023.2.2 ネカフェに来た]]></title>
+        <id>hatenablog://entry/4207112889959708171</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2023/02/02/175758"/>
+        <updated>2023-02-02T08:57:58.000Z</updated>
+        <summary type="html"><![CDATA[久々にネットカフェに来た。
+新しく来たブランドの店だったので会員登録をする必要があったのだが、有人レジが存在せず、人とやり取りすることなく会員登録をすることが出来た。レジにカメラが付いていて、身分証明書はそこ経由で照合する形式。
+順調に機械化が進んでますね。
+ 
+正直特に何かをしたい訳ではなくただただ時間を潰したかっただけなので、そうなると漫画コーナーをスルーして真っ先にドリンクバーコーナーに向かうしかないのだが、どうやらこのお店はソフトクリームが食べ放題らしい。
+ふと思ったのだが、食べ放題のソフトクリームってハズレの選択になりがちな気がする。
+カラオケ店とかにもたまにあるけど、なんというか磨り潰した氷が全体的に散りばめられている感じがする。シャリシャリする。
+あと全体的に硬めで、食べ終わった後にお腹の中で溜まっている感覚が残る。
+そもそも課金無しの食べ放題とか飲み放題は店の厚意でしかないものだと思うのでそこに対して期待するのも野暮なんだろうけども。カラオケにしてもネットカフェにしても課金メニューの中の食べものはそれなりに美味しいし。
+ 
+実はネット使って作業できたらいいなぁとかちょっと思ってたんだけど、全体的に動作がもっさりしてたり、キーボードの音が意外と大きくてあんまり集中できなかった。
+今後は作業したくなったら家帰ったほうがいいなぁとか思った。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QVC福島-ののじ　KABO-CHOU書き起こし]]></title>
         <id>https://note.com/furadiru_99/n/ne95333b2dae8</id>
