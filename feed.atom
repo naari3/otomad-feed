@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-02T13:08:27.600Z</updated>
+    <updated>2023-02-02T14:04:18.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブルリフTの画像供養]]></title>
+        <id>hatenablog://entry/4207112889959784854</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2023/02/02/224810"/>
+        <updated>2023-02-02T13:48:10.000Z</updated>
+        <summary type="html"><![CDATA[1枚目だけフォトモードの自己撮影。
+かけがえねぇよこのゲーム。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[baka日記]]></title>
+        <id>https://note.com/rayman6847/n/n4bbaf22b6dec</id>
+        <link href="https://note.com/rayman6847/n/n4bbaf22b6dec"/>
+        <updated>2023-02-02T13:36:16.000Z</updated>
+        <summary type="html"><![CDATA[何もありません。昨日の話です。
+コンタクトレンズを買いに家を出ました。
+忘れ物を思い出し、やってきたバスを横目に家まで戻りました。
+次のバスまで待つのも嫌だったので自転車で行くことにしました。
+節約にもなるし。
+賢いな〜ぼかぁ、と思いながらそこそこの距離をヒーコラ言いながら自転車を漕ぎ目的地につきました。
+坂道が多い。
+続きをみる]]></summary>
+        <author>
+            <name>レ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[https://youtu.be/...]]></title>
         <id>https://note.com/nendo31/n/n56b0fa2faf93</id>

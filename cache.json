@@ -6021,6 +6021,21 @@
       "siteUrl": "https://kaikityou.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889959784854",
+          "author": null,
+          "description": "1枚目だけフォトモードの自己撮影。\nかけがえねぇよこのゲーム。",
+          "link": "https://kaikityou.hatenablog.com/entry/2023/02/02/224810",
+          "publishedOn": "2023-02-02T13:48:10.000Z",
+          "wordCount": 265,
+          "title": "ブルリフTの画像供養",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaikityou/20230202/20230202224208.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kaikityou/20230202/20230202224208.jpg"
+        },
+        {
           "id": "hatenablog://entry/4207112889959708171",
           "author": null,
           "description": "久々にネットカフェに来た。\n新しく来たブランドの店だったので会員登録をする必要があったのだが、有人レジが存在せず、人とやり取りすることなく会員登録をすることが出来た。レジにカメラが付いていて、身分証明書はそこ経由で照合する形式。\n順調に機械化が進んでますね。\n \n正直特に何かをしたい訳ではなくただただ時間を潰したかっただけなので、そうなると漫画コーナーをスルーして真っ先にドリンクバーコーナーに向かうしかないのだが、どうやらこのお店はソフトクリームが食べ放題らしい。\nふと思ったのだが、食べ放題のソフトクリームってハズレの選択になりがちな気がする。\nカラオケ店とかにもたまにあるけど、なんというか磨り潰した氷が全体的に散りばめられている感じがする。シャリシャリする。\nあと全体的に硬めで、食べ終わった後にお腹の中で溜まっている感覚が残る。\nそもそも課金無しの食べ放題とか飲み放題は店の厚意でしかないものだと思うのでそこに対して期待するのも野暮なんだろうけども。カラオケにしてもネットカフェにしても課金メニューの中の食べものはそれなりに美味しいし。\n \n実はネット使って作業できたらいいなぁとかちょっと思ってたんだけど、全体的に動作がもっさりしてたり、キーボードの音が意外と大きくてあんまり集中できなかった。\n今後は作業したくなったら家帰ったほうがいいなぁとか思った。",
@@ -13447,6 +13462,16 @@
       "feedUrl": "https://note.com/rayman6847/rss",
       "siteUrl": "https://note.com/rayman6847",
       "articles": [
+        {
+          "id": "https://note.com/rayman6847/n/n4bbaf22b6dec",
+          "author": null,
+          "description": "何もありません。昨日の話です。\nコンタクトレンズを買いに家を出ました。\n忘れ物を思い出し、やってきたバスを横目に家まで戻りました。\n次のバスまで待つのも嫌だったので自転車で行くことにしました。\n節約にもなるし。\n賢いな〜ぼかぁ、と思いながらそこそこの距離をヒーコラ言いながら自転車を漕ぎ目的地につきました。\n坂道が多い。\n続きをみる",
+          "link": "https://note.com/rayman6847/n/n4bbaf22b6dec",
+          "publishedOn": "2023-02-02T13:36:16.000Z",
+          "wordCount": 2365,
+          "title": "baka日記",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f59895d584dd3e733b3856f1a54b97f92cbd4b24.png"
+        },
         {
           "id": "https://note.com/rayman6847/n/n95040175d2c5",
           "author": null,
