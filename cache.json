@@ -16200,6 +16200,16 @@
       "siteUrl": "https://ytpmv.info",
       "articles": [
         {
+          "id": "https://ytpmv.info/?p=1662",
+          "author": "maimai",
+          "description": "皆さんごきげんよう。まいまいです。今回は記事タイトル通り、字幕ファイルを使用して動画や音声ファイルをセリフごとに自動切り抜き・リネームするPythonスクリプトを作成したので紹介し、使用法を解説します。一応exe版も用意 […]\nThe post 字幕ファイルを使って動画を自動切り抜き・リネームするスクリプト first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/subtitlevideosplitter/",
+          "publishedOn": "2023-02-03T13:06:11.000Z",
+          "wordCount": 787,
+          "title": "字幕ファイルを使って動画を自動切り抜き・リネームするスクリプト",
+          "imageUrl": null
+        },
+        {
           "id": "https://ytpmv.info/?p=1590",
           "author": "maimai",
           "description": "皆さんごきげんよう。まいまいです。当記事はAviutlアドベントカレンダー2022に参加しています。最終日に一部の人にしか約立たない記事書いてごめんね♥ 当記事は既にAviutlを使用している人や、過去に使っていたことが […]\nThe post Aviutlの環境をイチから作り直す first appeared on YTPMV.info.",
