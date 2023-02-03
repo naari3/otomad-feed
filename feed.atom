@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-03T00:14:33.146Z</updated>
+    <updated>2023-02-03T01:32:10.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[砂が入った]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1222.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1222.html"/>
+        <updated>2023-02-03T00:16:38.000Z</updated>
+        <summary type="html"><![CDATA[さぶあかでアルハイゼンとれちゃった  荒波ですうれしい！またおもしろお兄さんが一人増えましたゆったり育成中ですが既に強く、スカしたモーションも好みでアクションゲーのキャラとして見てもすごく良いどんなパーティーを組むか考えるのがたのしみです靴に砂が入った･･･螺旋があたらしくなったのでそちらもやってきた上が単体戦寄り、下が集団戦とコンセプトがわかりやすく様々な構成で戦えるたのしいラインナップだとおもう好]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年2月-①】炎]]></title>
         <id>hatenablog://entry/4207112889959855131</id>
