@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-04T15:04:03.549Z</updated>
+    <updated>2023-02-04T16:04:24.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【和訳+解釈】brakence - 5g]]></title>
+        <id>hatenablog://entry/4207112889958912558</id>
+        <link href="https://walkingsushibox.hatenablog.com/entry/brakence-5g"/>
+        <updated>2023-02-04T15:36:07.000Z</updated>
+        <summary type="html"><![CDATA[open.spotify.com
+初めに
+文章書く練習になるかなと思ったので、僕の好きな曲の和訳を作ってみます。
+今回取り上げる曲はbrakenceというアメリカのアーティストが書いた「5g」です。この曲は去年の暮れに出たアルバム「hypochondriac」に収録された曲で、ドリルっぽいドラムとemoっぽいギターリフが絡み合っていてカッコイイ曲です。またところどころに挿入されるサンプルや声ネタが、まるで何かの考えに取りつかれている脳内の様です。
+brakenceはいわゆる「ハイパーポップ」シーンの有力なアーティストとして評価されていますが、ギターや生音のドラムのようなバンドサウンドと位相がバグり散らかしたようなサンプルを使ったビートメイクが特徴的です（素人の自分がこんな風にまとめていいのか？）
+ 
+この曲の歌詞には
+インターネットをはじめとしたメディアや科学技術に対する不信感
+音楽家としての過剰な自意識
+旧友やパートナーとの断絶
+などなどいろいろなテーマが感じられる歌詞になっています。音韻もかっちりハマっているので是非原文の歌詞もじっくり読んでみてください。
+個人的に面白いと思ったのが「悪魔」や「煉獄」といったキリスト教的なメタファーが多用されているところです。インターネットがテーマといえどアメリカの曲ですね。
+おそらくタイトルの5gは5G回線と単位のグラムを掛けています。
+和訳
+[Chorus] x 2
+Baby, don't be my crutch when this shit*1 get gory
+Got that radioactive touch, I'm from purgatory, she heard the story
+I've been wearin' a demon, I've barely been eatin', I'm
+Scrollin' a…]]></summary>
+        <author>
+            <name>寿司工場</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニコニコメドレー制作とかで使えるかもしれないNotionのテンプレート]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-99.html</id>
