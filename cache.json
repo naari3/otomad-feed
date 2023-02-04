@@ -6057,21 +6057,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/13574176438060211309",
-          "author": null,
-          "description": "ほぼきのうと同じ過ごし方だった。早くに起きて書くべきものの構想がかたまり、午後は夜まで労働した。これで3連勤が終了した。繁忙期だったり僕の手際の悪さなどあり、どの日も1～1.5時間くらいの残業があった。とりあえずめでたいのでコンビニで1000円くらいラーメンとかお酒を買ってオリンピックの開会式を見ていた。正直やっているのは正気の沙汰では無いと思うが、何かハプニングとかあったら面白いなくらいの気持ちだった。何も起こらなかった。\n \n \n \n \n　考えたことや感想でなく、生活で起こったことの記述に内容が浸食されていてよくないなと思う（日記とは本来そういうものだが）　なので、企画みたいなことをする。2020年ぐらいに「あ」から始まるボカロ曲ってわりと有名なものが多いのではないか、そのときにぱっと思いついた曲でその人の好みが分かるのではと考えていた。ざっと挙げると以下。作者は略させてもらいました、ごめんなさい。エアプなのでたぶんまだまだあると思います。あったら教えてください\n \n\n　天ノ弱、アスノヨゾラ哨戒班、アルカリレットウセイ、アンハッピーリフレイン、アンノウン・マザーグース、愛言葉、雨とペトラ、アンドロメダアンドロメダ、アヤノの幸福理論、アイロニ、曖昧劣情lover、アストロノーツ、アザレアの亡霊、アンヘル、アップルドットコム、朝を呑む、アノニマスフアンフアレ、アンチサイクロン\n \n　これに関連して、50音でボカロ曲を思いつくままに挙げてみる。調べたりは抜きで、最初に思いついたものを書く。これも2020年くらいに途中までやったけど、案外難しい（タイトルでなく歌詞やメロディーの印象で記憶しているから？）　今回もできる限り埋めます（追記：思いつかないものも普通にあったので諦めました…）\n \n　濁音半濁音は思いついたら書きました、あとタイトルだけ知ってるものも多いのでメロディー知ら…",
-          "link": "https://isitsutbustu-todoke.hatenablog.com/entry/2022/02/05/111706",
-          "publishedOn": "2022-02-05T02:17:06.000Z",
-          "wordCount": 198,
-          "title": "nikki_20220204「50音ボカロチャレンジ」",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
@@ -10944,16 +10929,6 @@
           "wordCount": 165,
           "title": "wordle系ゲームRTA",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/71801575/rectangle_large_type_2_7d8782ceb1732dbc7f0f38f27062b4b8.png?width=800"
-        },
-        {
-          "id": "https://note.com/aru_danshi/n/n7ae4d94106b9",
-          "author": null,
-          "description": "こんにちは。遺失物届です。はてなブログの日記に書いたものですがこちらでも投稿してみます。2020年ぐらいに「あ」から始まるボカロ曲ってわりと有名なものが多いのではないか、そのときにぱっと思いついた曲でその人の好みが分かるのではと考えていました。ざっと挙げると以下。作者は略させてもらいました、ごめんなさい。エアプなのでたぶんまだまだあると思います。あったら教えてください\n\n\n続きをみる",
-          "link": "https://note.com/aru_danshi/n/n7ae4d94106b9",
-          "publishedOn": "2022-02-05T02:31:51.000Z",
-          "wordCount": 121,
-          "title": "ボカロ50音チャレンジ",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/71501267/rectangle_large_type_2_63258e7442201403ef267f117281ca14.jpeg?width=800"
         }
       ]
     },
@@ -15546,6 +15521,16 @@
       "feedUrl": "https://medley26kvocaloid.blog.fc2.com/?xml",
       "siteUrl": "http://medley26kvocaloid.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-99.html",
+          "author": "26K / にとろく",
+          "description": "配布します。https://catkin-almanac-3e9.notion.site/Notion-f13935b1d0c8485b9bee97f554629bf9",
+          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-99.html",
+          "publishedOn": "2023-02-04T14:30:00.000Z",
+          "wordCount": 409,
+          "title": "ニコニコメドレー制作とかで使えるかもしれないNotionのテンプレート",
+          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medley26kvocaloid/17.png"
+        },
         {
           "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-100.html",
           "author": "26K / にとろく",
