@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-08T11:04:36.777Z</updated>
+    <updated>2023-02-08T12:05:40.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#45 2月1週]]></title>
+        <id>hatenablog://entry/4207112889961451969</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/02/08/205403"/>
+        <updated>2023-02-08T11:54:03.000Z</updated>
+        <summary type="html"><![CDATA[デカ就活イベントに行った。その日はモチベ上がったけど今は普通にモチベ0です。
+ 
+楽しいイベントを2月序盤で使い切ってしまって、もう何も無くなった。かなしいね。
+ 
+ポケモンまだシリーズ2潜れてない。育成も出来てない。
+ 
+SoundCloudのアカウントを作ったりアプリを入れたりした。まだあんま分かってない。
+ 
+就活は別記事でしっかりめに書いて、思考を整理したりあわよくば社会人の先輩たちにアドバイスを貰おうとしてたんですけどとりあえず今やるべきことは分かってきたので辞めておきます。頑張ります。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230206「メロンパン」]]></title>
         <id>hatenablog://entry/4207112889961413899</id>
