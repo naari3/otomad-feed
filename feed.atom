@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-09T09:04:24.246Z</updated>
+    <updated>2023-02-09T10:04:28.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『かがみの孤城＜その後の風景＞スペシャル映像付き上映』感想（ネタバレ有） #26Kinema]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-101.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-101.html"/>
+        <updated>2023-02-09T09:47:06.000Z</updated>
+        <summary type="html"><![CDATA[ふと映画を観たくなったので、気になっていた＆そろそろ興行が終わりそうだった『かがみの孤城』を観てきました。ネタバレ注意。]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#45 2月1週]]></title>
         <id>hatenablog://entry/4207112889961451969</id>
