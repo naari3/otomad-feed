@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-09T12:05:41.224Z</updated>
+    <updated>2023-02-09T13:09:03.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[夢の中の話]]></title>
+        <id>https://note.com/108_9/n/n2ea442af5348</id>
+        <link href="https://note.com/108_9/n/n2ea442af5348"/>
+        <updated>2023-02-09T12:20:49.000Z</updated>
+        <summary type="html"><![CDATA[夢の話です。早朝に悲しいこと、イライラすることがあって、衝動的に処方されていた眠剤を1シートぐらい飲みました。規定量は1回1錠なので明らかにODです。
+　夢の中ということもあり、そのあとのことはあまり覚えていないのですが、死ぬつもりはなかったので念の為(？)ODした旨を友人に伝えたらいつの間にか救急車がうちに来ていました。
+　やはり夢の中というものは記憶が断片的になるようで、次に気がついたらそこは病院でした。点滴の他に、よく分からない針を数箇所さされていたような気がします。身体も満足に動かせず、この間に読むための本でも持ってくるべきだったなあなんて考えていました。気がついたらここにいたのでそんなこと言ってもどうしようもないですよね。
+　僕に与えられたベッドは相部屋にあり、白いカーテンで簡易的に各々の場所が作られていました。未だに状況を理解していない僕の方を見ては時々話しかけてくる謎のおじさん2人組と時間をつぶしていたんですが、どうやら彼らは警察官だったようです。こんな仕事もあるんだ。
+　帰りは警察官の2人が家まで送り届けてくれました。 ありがとう。ただただ変な夢でした。
+続きをみる]]></summary>
+        <author>
+            <name>Lixy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『かがみの孤城＜その後の風景＞スペシャル映像付き上映』感想（ネタバレ有） #26Kinema]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-101.html</id>
