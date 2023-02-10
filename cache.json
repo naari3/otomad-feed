@@ -16142,6 +16142,16 @@
       "siteUrl": "https://ytpmv.info",
       "articles": [
         {
+          "id": "https://ytpmv.info/?p=1669",
+          "author": "maimai",
+          "description": "みなさんごきげんよう。まいまいです。今回の記事では、Waifu2x Extension GUIを利用して画像・動画の高画質化を行う方法を紹介していきます。 はじめに 当ブログでは、前々から画像の高画質化に関する記事を紹介 […]\nThe post Waifu2x-Extension-GUIを使って画像の高画質化 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/how-to-use-waifu-2x-gui-ex/",
+          "publishedOn": "2023-02-10T05:21:41.000Z",
+          "wordCount": 800,
+          "title": "Waifu2x-Extension-GUIを使って画像の高画質化",
+          "imageUrl": "https://ytpmv.info/wp-content/uploads/2023/02/06056cbcee000892a930ce658469a44f4a280a98b77a4df3f5aa2d57d19b172d.png"
+        },
+        {
           "id": "https://ytpmv.info/?p=1662",
           "author": "maimai",
           "description": "皆さんごきげんよう。まいまいです。今回は記事タイトル通り、字幕ファイルを使用して動画や音声ファイルをセリフごとに自動切り抜き・リネームするPythonスクリプトを作成したので紹介し、使用法を解説します。一応exe版も用意 […]\nThe post 字幕ファイルを使って動画を自動切り抜き・リネームするスクリプト first appeared on YTPMV.info.",
