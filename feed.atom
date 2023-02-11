@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-11T08:04:40.137Z</updated>
+    <updated>2023-02-11T09:04:18.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もうしわけていどの知見]]></title>
+        <id>https://note.com/negi_teacher/n/n719b2ac711bf</id>
+        <link href="https://note.com/negi_teacher/n/n719b2ac711bf"/>
+        <updated>2023-02-11T08:19:03.000Z</updated>
+        <summary type="html"><![CDATA[塔タコスっつー動画作ったんすけど、映像は普段あんま、やってないような感じにしよ思て、(なんか落ちついたボカロMVみたいなね)
+ほんで申し訳程度の知見つーか知識を一応残しとこかなとね。
+あーのーーーーーほんまぶっちゃけそこまでの作品ではないんすけども、こういうの大事やな思
+↑読まんくてええです長ぇーわコレ
+続きをみる]]></summary>
+        <author>
+            <name>crow丸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[そういや答え合わせ忘れてたわ]]></title>
         <id>hatenablog://entry/4207112889962092484</id>
