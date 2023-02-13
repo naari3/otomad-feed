@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-13T13:12:49.692Z</updated>
+    <updated>2023-02-13T14:07:29.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[sm41789651を振り返る（tech.）]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-111.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-111.html"/>
+        <updated>2023-02-13T13:50:04.000Z</updated>
+        <summary type="html"><![CDATA[技術的な問題]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sm41789651を振り返る（過程）]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-110.html</id>
