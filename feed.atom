@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-13T05:04:29.157Z</updated>
+    <updated>2023-02-13T06:04:51.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20230212「寝逃げ　など」]]></title>
+        <id>hatenablog://entry/4207112889962786359</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/02/13/141948"/>
+        <updated>2023-02-13T05:19:48.000Z</updated>
+        <summary type="html"><![CDATA[土日はずっと逃げていて何もできなかった。寝逃げでリセットし続けていたのだけどそろそろ限界が来ているので日記を書いたら向き合い始めます。よくないんだけど締め切りが過ぎてから本番が来るような感じになっている。
+ 
+ライターのダ・ヴィンチ・恐山氏が運営している大規模discordサーバーこと「みんなで集まりま専科」に2年ほど入っており、そこそこ書き込んでいる。寝逃げしたりして気が滅入っているときに久しぶりにインターネットのいろいろな案件を扱うチャンネルを見て、さらに心が暗くなるなどしていた。かつては自分も意見を言ったり貼ったりしてたけど、定期的に炎上案件の話題などが出てくるのはもう駄目になってしまったと思う　自分が書き込んでいたころとは話してる人も変わっていたし、逆にずっといる人もいてなんかそういうインターネットのいざこざをずっと見ていられるのはすごいなあと思ってしまう。いちどシャットアウトしてしまうともう見るのもつらくなってしまうし、もうそういう環境に慣れてしまった。政治には無関心ではいられないものの、その外は別に知らなくても生きていける案件ばかりなので無理に触れる必要はないと思う。おそらく。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[うそつき！
 https://not...]]></title>
