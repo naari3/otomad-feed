@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-13T12:07:53.871Z</updated>
+    <updated>2023-02-13T13:12:49.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[sm41789651を振り返る（過程）]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-110.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-110.html"/>
+        <updated>2023-02-13T12:58:24.000Z</updated>
+        <summary type="html"><![CDATA[大変ご無沙汰しております]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230212「寝逃げ　など」]]></title>
         <id>hatenablog://entry/4207112889962786359</id>
@@ -27521,20 +27531,6 @@ open.spotify.com
 続きをみる]]></summary>
         <author>
             <name>揉んティぱいぱい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bilibiliで動画上げたりする時用の自分用メモ]]></title>
-        <id>https://note.com/tojiru/n/nd2bbcdb540f4</id>
-        <link href="https://note.com/tojiru/n/nd2bbcdb540f4"/>
-        <updated>2022-02-14T01:11:37.000Z</updated>
-        <summary type="html"><![CDATA[普通に自分用で気が向いた時に適当に更新するだけなのであんま実用性は期待しないでください、この単語も載せてほしいとかあればTwitterとかで言ってください（多分noteのコメント欄はそんな確認しないので）
-あとこれは普通に向こうの人に言われて気付いたんですけど翻訳通す前の日本語も一緒に載せといた方が間違った意味で伝わりづらくなるかもしれない
-私的オールスター：我的全明星（でも普通に私的オールスタータグが使われてるっぽそう）
-
-続きをみる]]></summary>
-        <author>
-            <name>とじーら</name>
         </author>
     </entry>
     <entry>

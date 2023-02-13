@@ -14368,18 +14368,7 @@
       "title": "とじーら",
       "feedUrl": "https://note.com/tojiru/rss",
       "siteUrl": "https://note.com/tojiru",
-      "articles": [
-        {
-          "id": "https://note.com/tojiru/n/nd2bbcdb540f4",
-          "author": null,
-          "description": "普通に自分用で気が向いた時に適当に更新するだけなのであんま実用性は期待しないでください、この単語も載せてほしいとかあればTwitterとかで言ってください（多分noteのコメント欄はそんな確認しないので）\nあとこれは普通に向こうの人に言われて気付いたんですけど翻訳通す前の日本語も一緒に載せといた方が間違った意味で伝わりづらくなるかもしれない\n私的オールスター：我的全明星（でも普通に私的オールスタータグが使われてるっぽそう）\n\n続きをみる",
-          "link": "https://note.com/tojiru/n/nd2bbcdb540f4",
-          "publishedOn": "2022-02-14T01:11:37.000Z",
-          "wordCount": 41,
-          "title": "bilibiliで動画上げたりする時用の自分用メモ",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/72187241/rectangle_large_type_2_6486a4b3eb1ee3c190197f6d99946927.png?width=800"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "とーか",
@@ -14686,6 +14675,16 @@
       "feedUrl": "https://dumpmc.blog.fc2.com/?xml",
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-110.html",
+          "author": "picm",
+          "description": "大変ご無沙汰しております",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-110.html",
+          "publishedOn": "2023-02-13T12:58:24.000Z",
+          "wordCount": 148,
+          "title": "sm41789651を振り返る（過程）",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
         {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-109.html",
           "author": "picm",
