@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-12T23:04:26.521Z</updated>
+    <updated>2023-02-13T00:15:24.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[うそつき！
+https://not...]]></title>
+        <id>https://note.com/kari_yadokari/n/n216161dfb4bc</id>
+        <link href="https://note.com/kari_yadokari/n/n216161dfb4bc"/>
+        <updated>2023-02-13T00:10:07.000Z</updated>
+        <summary type="html"><![CDATA[うそつき！
+https://note.com/kari_yadokari/n/nf1e65e0c37b4 続きをみる]]></summary>
+        <author>
+            <name>yadokari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ひとくちアニメ紹介001．ど根性ガエル 73話B『かんかんアキかんの巻』]]></title>
         <id>hatenablog://entry/4207112889962230973</id>
