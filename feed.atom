@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-15T20:04:16.587Z</updated>
+    <updated>2023-02-15T21:04:21.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27324,28 +27324,6 @@ note.com
 *1:ではTwitterをやめろという話ではある。はい…。]]></summary>
         <author>
             <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Colabの使い方]]></title>
-        <id>https://ytpmv.info/?p=1249</id>
-        <link href="https://ytpmv.info/how-to-use-real-esrgan"/>
-        <updated>2022-02-16T08:10:58.000Z</updated>
-        <summary type="html"><![CDATA[みなさんごきげんよう。まいまいです。 近年、waifu-2xを筆頭として数々のAIを用いた画像高画質化ソフト(以下、画像補間ソフト)が登場しています。 私のようにそれなりに良いPCを使っている人は問題なく実行できますが、 […]
-The post 低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Colabの使い方 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Collabの使い方]]></title>
-        <id>https://ytpmv.info/?p=1249</id>
-        <link href="https://ytpmv.info/how-to-use-real-esrgan?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e4%25bd%258e%25e3%2582%25b9%25e3%2583%259a%25e3%2581%25a7%25e3%2582%2582ai%25e7%2594%25bb%25e5%2583%258f%25e9%25ab%2598%25e7%2594%25bb%25e8%25b3%25aa%25e5%258c%2596%25e3%2582%25bd%25e3%2583%2595%25e3%2583%2588%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%2584%25e3%2581%259f%25e3%2581%2584%25ef%25bc%2581real-esrgangoogle"/>
-        <updated>2022-02-16T08:10:58.000Z</updated>
-        <summary type="html"><![CDATA[みなさんごきげんよう。まいまいです。 近年、waifu-2xを筆頭として数々のAIを用いた画像高画質化ソフト(以下、画像補間ソフト)が登場しています。 私のようにそれなりに良いPCを使っている人は問題なく実行できますが、 […]
-The post 低スペでもAI画像高画質化ソフトを使いたい！Real ESRGAN+Google Collabの使い方 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
     <entry>
