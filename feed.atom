@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-16T07:04:25.504Z</updated>
+    <updated>2023-02-16T08:04:45.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「第1回15秒以下音MAD晒しイベント」とは何だったのか]]></title>
+        <id>https://note.com/nanana555/n/n0e3bf497a92a</id>
+        <link href="https://note.com/nanana555/n/n0e3bf497a92a"/>
+        <updated>2023-02-16T07:23:40.000Z</updated>
+        <summary type="html"><![CDATA[まず
+まずはWikipediaでも見てみましょう。
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ひとくちアニメ紹介002．シスター・プリンセス Re Pure キャラクターズ]]></title>
         <id>hatenablog://entry/4207112889962873521</id>
