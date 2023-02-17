@@ -35206,89 +35206,6 @@ Ximco「おおっ！！」
             </article>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">壺5分切り達成、仕事、などがありました</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/02/18/071407" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>壺をやり続けてきたけど、ついに5分を切ることができた。2018年くらいからやっていた記憶があるので、おおよそ4年来でこの目標を達成できたことになる。
-
-きたああああああああああああああああああああああああああああああああああああああああ pic.twitter.com/N6lLzExEzA
-— なあり (@_naari_) 2022年2月17日
-  
-ただ、途中でやっていない期間も多かったので、実際にやった期間としてはもっと短くなる。3年ぶりくらいに継続して挑戦した結果、5分を切れたという感じ。いや、いずれにせよかなり嬉しい。
-その後もう少しやったらすぐ3秒縮めることができた。こちらは偶然にも動画に撮ってあって、これをYouTubeにあげてみた*1。
-youtu.be
-悪いところを挙げるとこんな感じ。
-各所もたついている
-ピンクのシルクハットがだめ
-バケツがだめ
-スロープのショートカットをしていない
-つまり、まだ安定している状態ではない。まだ様々な見込みがあるので、もう少しだけ挑戦してみようと思う。なんなら4分切ることも可能なように思えてきた。
-技術記事を書いた↓。といってもコードはひとつも出てこないが。
-「秘伝化したJenkinsと共に動いているレガシーなDockerをバージョンアップする」をやった - 名有りさんの日記
-最近、仕事がつらくなってきている。数年間運用されたチームだから様々な種類の負債があるのは仕方がないことだけれど、これらが最近になって一気に露見してきた。チームで地道につぶしているが、ちょっとつらい。インシデントに対する対応を行って、その根本対応となるようなチケットを切り分けて担当してもらう、というのもやっているが、最近はこれも辛い。僕個人の技能としてタスク管理がうまいことできないからだろうか？よくわからん。わからんことばっかりやっていて、わかるようになるのは楽しいが、「負債をほったらかした結果だぞ」と後ろ指を指されている気分になって辛くなっているのかもしれん。
-やることがあるんだけれど、それが手に付かない僕に対してイオンさんが教えてくれたやつ↓
-
-イオンさんに「やらなきゃいけないことに手が付かない時はどうすれば良いか」って聞いたら「やらなきゃいけないことの同種だけど別にやる必要のない、ただ自分の気力が向くことをやるといいんじゃないか」って教えてくれた
-— なあり (@_naari_) 2022年2月16日
-  
-*1:ニコニコ動画もそうだけど、YouTubeも長い尺の動画の扱いには時間がかかるのだなと思った。AV1とやらなのだろう。</span>
-                  </div>
-                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-image />
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">「秘伝化したJenkinsと共に動いているレガシーなDockerをバージョンアップする」をやった</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/02/18/070442" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>仕事でレガシーなEC2インスタンス上にあるレガシーなJenkinsと共に動いているDockerエンジンをアップデートする対応を行った。その際の備忘録を書いておく。
-tl;dr
-状況としては以下の通り
-Jenkinsでのデプロイに使用しているDockerのバージョンが古すぎる
-
-
-17.04
-JenkinsとDockerはEC2インスタンス上で一緒に動いている
-Jenkinsが動いているEC2インスタンスを複製してJenkins Agentとして起動した
-master側のDockerをアップデートし、古いDockerと新しいDockerそれぞれを好きに使い分けられる状態にした
-くわしく
-Jenkinsの上で動いているDockerのバージョンが古すぎるため、新し目のalpineを使用したイメージを扱えない問題が発生していた。詳細は以下を参照してほしいが、ようは musl が扱う新しい命令を runc が対応しきれていない、という問題だった。
-It&#x27;s time to update Docker Engine | GitLab
-Release Notes for Alpine 3.14.0 - Alpine Linux
-インターフェイスが大きく変わるわけでもないし、エイヤでDockerをアップデートしてしまっても良い気がしたが、このJenkinsが場当たり的に管理されてきた経緯もあり、自分自身が全てのJobについて「責任を持って管理できている」と言えるではなかった。そのため、もし問題が発生しても良いようにする方法を考える必要があった。以下のようなものが浮かび、以下のような懸念が浮かんだ。
-AMIのバックアップを取ってからDockerをバージョンアップして、問題があったらバックアップからリストアする
-
-
-別の対応でJobを新しく定義などしており、巻き戻すと新たなコストが発生しかねない
-別インスタンスでDockerを起動して、 DOCKER_HOST をそちらに向け変えることでいつでも切り替えられるようにする
-
-
-たしか別ホスト上のDockerにボリュームってマウントできないよね、既存のJobの要件によっては動かない
-AMIのバックアップ経由でEC2インスタンスを複製し、Jenkins Agentを起動できる環境を用意した上でそちらだけDockerをバージョンアップする
-
-
-これまでのJobがこれまで通りに動くことが期待できる
-Job単位でmaster/Agentを切り替えることも可能
-というわけで新たにJenkins Agentを建てることになった。といってもとても簡単で、masterのJenkinsからAgentの環境にSSHできるようにするだけで良い。一点、ログイン対象のユーザーのログインシェルが指定されていることが必要なので、 jenkins ユーザーを使いまわしたい場合はこれに気をつける必要がある。 $ chsh jenkins -s /bin/bash
-その上で、Job実行時のパラメーターとして実行対象のAgentを切り替える対応も行いたい。Pipelineで作成されていればJenkinsfileに手を入れてもらうだけで良いが、そうでない場合についてはJobの設定でどうにかする必要がある。単一のAgentに縛ることは素のJenkinsで既に達成可能だが、切り替えられるようにする場合は以下のプラグインを使用する。
-Node and Label parameter | Jenkins plugin
-このパラメーターを各Jobに仕込むことで、新しいDockerではJobが失敗してしまった場合に古いDockerが存在するAgentに切り替えて実行する、という対応が可能になる。
-あとは経過観察。すべてが新しいDockerでも問題なく動作して「ほら、エイヤで上げてもよかったじゃん」と笑いながら言えるようになることを期待している。
-本当はこのあたりの杜撰とも言えるJenkinsの状態を見直したいが、それにしてはあまりにも巨大なので、CasCプラグインなどを使ったコード化が充分に行われているJenkinsの作成を進めている。job-dslやDocker下での管理はまずますうまくいきそうなので、個人的にも期待している。</span>
-                  </div>
-                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-image />
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
     </ul>
   </section>
   <section class="daily-content">
@@ -35362,7 +35279,7 @@ Node and Label parameter | Jenkins plugin
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2023-02-17T10:04:16.299Z">2023-02-17T10:04:16.299Z</time>
+    <time id="build-timestamp" datetime="2023-02-17T11:04:26.710Z">2023-02-17T11:04:26.710Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
