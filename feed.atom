@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-17T02:30:23.769Z</updated>
+    <updated>2023-02-17T03:09:57.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -27220,18 +27220,6 @@ Node and Label parameter | Jenkins plugin
 本当はこのあたりの杜撰とも言えるJenkinsの状態を見直したいが、それにしてはあまりにも巨大なので、CasCプラグインなどを使ったコード化が充分に行われているJenkinsの作成を進めている。job-dslやDocker下での管理はまずますうまくいきそうなので、個人的にも期待している。]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界を救う男のショー]]></title>
-        <id>https://note.com/customer_center/n/nf21099ad2c54</id>
-        <link href="https://note.com/customer_center/n/nf21099ad2c54"/>
-        <updated>2022-02-17T15:00:05.000Z</updated>
-        <summary type="html"><![CDATA[某日、日本武道館＿＿＿＿
-
-続きをみる]]></summary>
-        <author>
-            <name>こちらカスタマーセンター</name>
         </author>
     </entry>
     <entry>
