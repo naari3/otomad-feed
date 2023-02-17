@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-17T00:15:43.364Z</updated>
+    <updated>2023-02-17T01:32:59.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[てんてん]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1224.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1224.html"/>
+        <updated>2023-02-17T00:54:19.000Z</updated>
+        <summary type="html"><![CDATA[今日もやっております  荒波ですアルハイゼンもそだってきたし、螺旋も更新されたしってことでサブ垢12層チャレンジいくわよ！これ前期にやったやつだけど今回はこういう構成でやってみましたサブ垢には必ず蛍ちゃんをパーティーに入れる縛りを設けていますが、草蛍は言うまでもなく、風蛍は魈or放浪者サポで使えるし、うちで岩パ組むときは粒子役で岩蛍必須なのでそもそも引っ張りだこなのであったそして今回アルハイゼンを手に入]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「第1回15秒以下音MAD晒しイベント」とは何だったのか]]></title>
         <id>https://note.com/nanana555/n/n0e3bf497a92a</id>
