@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-18T09:04:12.231Z</updated>
+    <updated>2023-02-18T10:04:15.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD作者30人に同じ素材と同じ曲を渡して音MADを作ってもらった]]></title>
+        <id>https://note.com/elminus/n/nd104053aeade</id>
+        <link href="https://note.com/elminus/n/nd104053aeade"/>
+        <updated>2023-02-18T09:27:17.000Z</updated>
+        <summary type="html"><![CDATA[※注意
+続きをみる]]></summary>
+        <author>
+            <name>エルミナス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作業してたら日付変わっちゃったしウンチ]]></title>
         <id>https://note.com/nendo31/n/n253a9b7b81d4</id>
