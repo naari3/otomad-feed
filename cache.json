@@ -8233,21 +8233,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/13574176438065434984",
-          "author": null,
-          "description": "昨日、こんな記事を書いた→ 「僕の心のヤバいやつ」用のRSSフィードを作成した - 名有りさんの日記 が、実はマンガクロスでも連載中*1の潮が舞い子が舞いも見たいことがわかった。ので、やはり実装を適切に抽象化し、複数作品に対して対応できるようにした。\nmangacross-rss\nhttps://naari3.github.io/mangacross-rss/yabai/feed.xml\nhttps://naari3.github.io/mangacross-rss/shiomai/feed.xml\nおそらく事実上は全ての漫画クロス作品に対応できたので、このリポジトリで全部をクロールできるようにする選択肢もあったが、しないようにした。もし他のマンガクロス作品が見たかったらご自分でフォークしてもらうと良さそう。src/main.rs の TARGETS を好きに変えることで達成できると思う。\n*1:本流は別冊少年チャンピオンで連載中",
-          "link": "https://naari.hatenablog.com/entry/2022/02/20/181337",
-          "publishedOn": "2022-02-20T09:13:37.000Z",
-          "wordCount": 109,
-          "title": "マンガクロスの作品のRSSフィードを作成できるようになった",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
