@@ -8188,21 +8188,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/13574176438065232165",
-          "author": null,
-          "description": "https://naari3.github.io/bokuyaba-rss/feed.xml\nGitHub - naari3/bokuyaba-rss\nosmosfeedを使って自分のためのアンテナ(RSSリーダー)を作成する - 名有りさんの日記 でいろいろなRSSフィードを漁るようになったんだけれど、webで読めるタイプのマンガにRSSフィードはあまり無かったりするっぽいかった。ので、それこそosmosfeedよろしくでGitHub Actionsを使用して定期的に僕ヤバを見に行き、記事一覧をRSSフィードにするやつを作った。↑のリンクからどうぞ。\nマンガクロスはSPAっぽくなっていて、アクセスした時にマンガの情報APIを叩く。これに各話、巻についての情報が付いてくるので、これをRSSのフィードにした。アクセスしてjsonをRustっぽく扱うのはふつうにserde, serde_jsonで、RSSフィードを作るためには GitHub - rust-syndication/rss: Library for serializing the RSS web content syndication format を使用した。\nあとはふつうに .github/workflows を設置した。r7kamuraさんの r7k をそのまま持ってきたようなものにした。動きとしては、\nまず tag.yml でmainブランチを監視、Cargo.toml の version が新しくなっていたら新しいタグを作る。\n次に、release.yml で新しいタグの作成を検知して新しいリリースを切る。\n最後に、build-rs.yml で新しいリリースの作成を検知して各OS向けのバイナリを作る。\n追加で1時間に1回バイナリをダウンロードして実行、gh-pagesに公開するやつを仕込んだ。\nのだけれど、GitHub Actionsのタグ/リリース生成に対して、GitHub Actionsが発火してくれなかった。僕のアカウントからのタグ/リリース作成には反応するのに。これが今解決できないのでタグが作成された後にのリリース作成は手動でやっている。これを解決したい。ので、もし知っていたらなにか教えて下しあ。\n(追記)どうやらGitHub Actionsに自動的に付与されるGITHUB_TOKENには特別な制約があるとのことだった。発火したActionからさらに別のActionが発火できないようになっているらしい。\nAutomatic token authentication - GitHub Docs\nWhen you use the repository's GITHUB_TOKEN to perform tasks, events triggered by the GITHUB_TOKEN will not create a new workflow run. This prevents you from accidentally creating recursive workflow runs. For example, if a workflow run pushes code using the repository's GITHUB_TOKEN, a new workflow will not run even when the repository contains a workflow configured to run when push events occur.\n\n\nまあそれはそうかも、よく見るとr7kamuraさんのymlも PERSONAL_ACCESS_TOKEN を指定していたので、そうするようにしたら動くようになった。めでたし。",
-          "link": "https://naari.hatenablog.com/entry/2022/02/20/023656",
-          "publishedOn": "2022-02-19T17:36:56.000Z",
-          "wordCount": 210,
-          "title": "「僕の心のヤバいやつ」用のRSSフィードを作成した",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
@@ -10658,21 +10643,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/x/ximco/20210413/20210413182812.png"
-        },
-        {
-          "id": "hatenablog://entry/13574176438065229309",
-          "author": null,
-          "description": "初めに言っておきます。この記事は途中から最新鋭の文章生成システム「AIのべりすと」によって書かれています。AIのべりすとは色々とスゴいので、皆さんも遊んでみてください。これが最後の版です。\nなお、文中に過激な表現が含まれている可能性がありますが、全てAIのべりすとによる出力であり、私が考えたものではないことにご留意ください。\n \nAIのべりすと「さて、AIのべりすとが贈る『どんなお悩みでも全知全能なAIが的確に解決！行列のできる人生相談所』のお時間です。今日もリスナーの皆さんから頂いた様々なお悩みをstate-of-artな最高の人工知能が解決していきますよ！さぁ、今回のお便りはこちら！」\n突然ですが失礼いたします。音MAD・メドレー・フォント作者のXimcoと申します。\n \n最近何を言ってもちょっとスベっているような気がします。どうしたらいいんでしょうか？AIのべりすと先生、教えて下さい。\n \n \n \n \n \n \n \n \n \n \n \nなぁAIのべりすとよ。もうやめてくれないか。\nこの記事がTwitterに流れてきたやつ皆思ってる。\n「何回も繰り返してれば面白くなると思ってんじゃねえぞ」って。\n \n何ならもうこの文章自体がサムいし。（僕が書いたんだけど）\n \n僕はあなたに勝負をしたいと思う。\n \n勝利条件はただ一つ。僕が考える文章より面白いことを言うことだ。\nじゃないとこのブログ自体がスベって終わりになっちゃうし。\n頼む。面白いことを言ってくれ。このブログをとびっきり面白いモノにしてくれ！\n \n\nさぁ一言！\n \n \nAIのべりすと「（ここからAIの出力）えーっと、まずですね、音MAD・メドレー・フォントの作者さん。あなたのセンスは最高ですよ！私、大好きなんです。あのセンスの良さは誰にも真似できません！是非ともこれからもその感性を大切にして頑張ってくださいね！」\n \n……ふぅ…",
-          "link": "https://ximco.hatenablog.com/entry/2022/02/20/020907",
-          "publishedOn": "2022-02-19T17:09:07.000Z",
-          "wordCount": 152,
-          "title": "私の悩みを解決してくれませんか？（１）-  のコピー （改訂版）",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },

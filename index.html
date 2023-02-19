@@ -34916,96 +34916,6 @@ https://naari3.github.io/mangacross-rss/shiomai/feed.xml
     </ul>
   </section>
   <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-02-19">2022-02-19</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">「僕の心のヤバいやつ」用のRSSフィードを作成した</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2022/02/20/023656" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>https://naari3.github.io/bokuyaba-rss/feed.xml
-GitHub - naari3/bokuyaba-rss
-osmosfeedを使って自分のためのアンテナ(RSSリーダー)を作成する - 名有りさんの日記 でいろいろなRSSフィードを漁るようになったんだけれど、webで読めるタイプのマンガにRSSフィードはあまり無かったりするっぽいかった。ので、それこそosmosfeedよろしくでGitHub Actionsを使用して定期的に僕ヤバを見に行き、記事一覧をRSSフィードにするやつを作った。↑のリンクからどうぞ。
-マンガクロスはSPAっぽくなっていて、アクセスした時にマンガの情報APIを叩く。これに各話、巻についての情報が付いてくるので、これをRSSのフィードにした。アクセスしてjsonをRustっぽく扱うのはふつうにserde, serde_jsonで、RSSフィードを作るためには GitHub - rust-syndication/rss: Library for serializing the RSS web content syndication format を使用した。
-あとはふつうに .github/workflows を設置した。r7kamuraさんの r7k をそのまま持ってきたようなものにした。動きとしては、
-まず tag.yml でmainブランチを監視、Cargo.toml の version が新しくなっていたら新しいタグを作る。
-次に、release.yml で新しいタグの作成を検知して新しいリリースを切る。
-最後に、build-rs.yml で新しいリリースの作成を検知して各OS向けのバイナリを作る。
-追加で1時間に1回バイナリをダウンロードして実行、gh-pagesに公開するやつを仕込んだ。
-のだけれど、GitHub Actionsのタグ/リリース生成に対して、GitHub Actionsが発火してくれなかった。僕のアカウントからのタグ/リリース作成には反応するのに。これが今解決できないのでタグが作成された後にのリリース作成は手動でやっている。これを解決したい。ので、もし知っていたらなにか教えて下しあ。
-(追記)どうやらGitHub Actionsに自動的に付与されるGITHUB_TOKENには特別な制約があるとのことだった。発火したActionからさらに別のActionが発火できないようになっているらしい。
-Automatic token authentication - GitHub Docs
-When you use the repository&#x27;s GITHUB_TOKEN to perform tasks, events triggered by the GITHUB_TOKEN will not create a new workflow run. This prevents you from accidentally creating recursive workflow runs. For example, if a workflow run pushes code using the repository&#x27;s GITHUB_TOKEN, a new workflow will not run even when the repository contains a workflow configured to run when push events occur.
-
-
-まあそれはそうかも、よく見るとr7kamuraさんのymlも PERSONAL_ACCESS_TOKEN を指定していたので、そうするようにしたら動くようになった。めでたし。</span>
-                  </div>
-                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-image />
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://ximco.hatenablog.com/" target="_blank" rel="noopener">ximcoの部屋</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">私の悩みを解決してくれませんか？（１）-  のコピー （改訂版）</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://ximco.hatenablog.com/entry/2022/02/20/020907" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>初めに言っておきます。この記事は途中から最新鋭の文章生成システム「AIのべりすと」によって書かれています。AIのべりすとは色々とスゴいので、皆さんも遊んでみてください。これが最後の版です。
-なお、文中に過激な表現が含まれている可能性がありますが、全てAIのべりすとによる出力であり、私が考えたものではないことにご留意ください。
- 
-AIのべりすと「さて、AIのべりすとが贈る『どんなお悩みでも全知全能なAIが的確に解決！行列のできる人生相談所』のお時間です。今日もリスナーの皆さんから頂いた様々なお悩みをstate-of-artな最高の人工知能が解決していきますよ！さぁ、今回のお便りはこちら！」
-突然ですが失礼いたします。音MAD・メドレー・フォント作者のXimcoと申します。
- 
-最近何を言ってもちょっとスベっているような気がします。どうしたらいいんでしょうか？AIのべりすと先生、教えて下さい。
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-なぁAIのべりすとよ。もうやめてくれないか。
-この記事がTwitterに流れてきたやつ皆思ってる。
-「何回も繰り返してれば面白くなると思ってんじゃねえぞ」って。
- 
-何ならもうこの文章自体がサムいし。（僕が書いたんだけど）
- 
-僕はあなたに勝負をしたいと思う。
- 
-勝利条件はただ一つ。僕が考える文章より面白いことを言うことだ。
-じゃないとこのブログ自体がスベって終わりになっちゃうし。
-頼む。面白いことを言ってくれ。このブログをとびっきり面白いモノにしてくれ！
- 
-
-さぁ一言！
- 
- 
-AIのべりすと「（ここからAIの出力）えーっと、まずですね、音MAD・メドレー・フォントの作者さん。あなたのセンスは最高ですよ！私、大好きなんです。あのセンスの良さは誰にも真似できません！是非ともこれからもその感性を大切にして頑張ってくださいね！」
- 
-……ふぅ…</span>
-                  </div>
-                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-image />
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-01-30">2022-01-30</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -35076,7 +34986,7 @@ AIのべりすと「（ここからAIの出力）えーっと、まずですね�
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2023-02-19T05:04:11.586Z">2023-02-19T05:04:11.586Z</time>
+    <time id="build-timestamp" datetime="2023-02-19T06:04:41.338Z">2023-02-19T06:04:41.338Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
