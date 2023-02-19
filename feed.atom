@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-19T10:04:27.908Z</updated>
+    <updated>2023-02-19T11:04:11.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ひとくちアニメ紹介003．まかせてイルか！]]></title>
+        <id>hatenablog://entry/4207112889962614838</id>
+        <link href="https://kasutera2nd.hatenablog.com/entry/2023/02/19/195206"/>
+        <updated>2023-02-19T10:52:06.000Z</updated>
+        <summary type="html"><![CDATA[『こどものおもちゃ』『おじゃる丸』『ギャグマンガ日和』などの大地丙太郎監督の自主制作アニメ。ちなみに原作も大地監督。制作は新海誠監督作品で有名な『コミックス・ウェーブ・フィルム』。
+鎌倉で便利屋を営む訳アリの3姉妹が主人公。学校には通わず、自給自足で生活している。ある日、『不登校の少年を学校に行かせる』という難しい依頼を受ける。その少年・陸は、自由に憧れ便利屋でバイトするのだが……というストーリー。
+ポップな絵柄に似合わず、『自由・自立とは何か』といったシビアなテーマを扱い、『自由な選択には相応の責任やハードさがある』という、かなり厳しめなメッセージを突き付けてくる。
+反面、大地監督作品らしいハイテンションな演出・アニメートは見ているだけで楽しい。ブルーグラス風のBGMに乗せて軽快にストーリーが進み、そこまで悲壮感を感じずに視聴できる。
+亜細亜堂やGAINAXが協力している作画面も良い。劇場版クラスの有名アニメーターが多数参加しており、作画のクオリティは折り紙つき。
+中でも見逃せないのが手話作画。
+主要キャラのひとり、碧は手話でコミュニケーションをとる「ろう者」である。
+手描きアニメで手話を取り入れるのはかなり難しく、そういった作品は現在でも数えるほどしかない。*1
+大地監督曰く、『カンフーのようでカッコいい』から取り入れたらしい。*2
+なにぶんメッセージが濃ゆいので好き嫌いは分かれそうだけど、幸せに元気に生きる3姉妹の姿を見ると、自分も何かやらねばならない、そんな気分にさせてくれる良作です。
+animestore.docomo.ne.jp
+www.b-ch.com
+
+*1:ぱっと思いつくのは、『映画 聲の形（2016）』『王様ランキング（2021～2022）』辺り
+*2:https://togetter.com/li/670712]]></summary>
+        <author>
+            <name>茶箪笥の奥</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年2月-③】豆乳レビュー]]></title>
         <id>hatenablog://entry/4207112889964565822</id>
