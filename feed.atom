@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-20T00:15:51.905Z</updated>
+    <updated>2023-02-20T01:32:42.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AviUtlにおける三色分解]]></title>
+        <id>https://note.com/rubr/n/n5202fbc2c74f</id>
+        <link href="https://note.com/rubr/n/n5202fbc2c74f"/>
+        <updated>2023-02-20T01:12:25.000Z</updated>
+        <summary type="html"><![CDATA[AviUtlで素材の色をCMYに分解して、色ずれを一色ずつ制御する、ということをしてみたかったのですが、調べてみても単純に分解するだけのプラグインは見つかりませんでした。
+そこでAviUtlの拡張編集標準の機能でそれができないかと試してみたところ、ちょうど良いと思える方法が見つかったので共有しようと思います。
+方法
+続きをみる]]></summary>
+        <author>
+            <name>R___Va</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230219「最近見た動画」]]></title>
         <id>hatenablog://entry/4207112889964716029</id>

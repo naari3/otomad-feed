@@ -13378,6 +13378,16 @@
       "siteUrl": "https://note.com/rubr",
       "articles": [
         {
+          "id": "https://note.com/rubr/n/n5202fbc2c74f",
+          "author": null,
+          "description": "AviUtlで素材の色をCMYに分解して、色ずれを一色ずつ制御する、ということをしてみたかったのですが、調べてみても単純に分解するだけのプラグインは見つかりませんでした。\nそこでAviUtlの拡張編集標準の機能でそれができないかと試してみたところ、ちょうど良いと思える方法が見つかったので共有しようと思います。\n方法\n続きをみる",
+          "link": "https://note.com/rubr/n/n5202fbc2c74f",
+          "publishedOn": "2023-02-20T01:12:25.000Z",
+          "wordCount": 2352,
+          "title": "AviUtlにおける三色分解",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/98457009/rectangle_large_type_2_318e5b32ca11c0af2cb6ccd2258b19c4.png?width=800"
+        },
+        {
           "id": "https://note.com/rubr/n/nc44ddfe950ce",
           "author": null,
           "description": "フォー垢は独特の言葉を使うことがよくあります。私はその中の「霧宮」という人名のような言葉がずっと気になっていました。しかし、今「もしかしてこの人物を指しているのではないか？」と思う方が見つかったので解説させていただきます。\nいきなり紹介しますが、この方です。\n続きをみる",
