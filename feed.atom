@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-20T06:04:57.896Z</updated>
+    <updated>2023-02-20T07:04:36.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26913,18 +26913,6 @@ TwitterのわかめRさんが先月2022年1月に「#リプで来た単語でロ
 続きをみる]]></summary>
         <author>
             <name>R___Va</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adobe製品のインストールで「必要なアップデート」というエラーが出る]]></title>
-        <id>https://note.com/aun6june/n/nb30794868370</id>
-        <link href="https://note.com/aun6june/n/nb30794868370"/>
-        <updated>2022-02-20T18:58:30.000Z</updated>
-        <summary type="html"><![CDATA[先日仕事でAfter Effectsのバージョンを2018(15.0.0)に下げる必要があり、インストーラーを起動しようとしたところ「必要なアップデート」と表示されインストールができない状況になった。
-こんなウィンドウが出て先に進めない
-続きをみる]]></summary>
-        <author>
-            <name>aun6june</name>
         </author>
     </entry>
     <entry>
