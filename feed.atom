@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-23T10:04:38.673Z</updated>
+    <updated>2023-02-23T11:04:13.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterアカウントを新しく作...]]></title>
+        <id>https://note.com/euro3/n/n0ed7cdb93ad2</id>
+        <link href="https://note.com/euro3/n/n0ed7cdb93ad2"/>
+        <updated>2023-02-23T10:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Twitterアカウントを新しく作りました
+公開垢です
+リプライ送ります
+なんでもはしないです
+ギヌー
+@euro_iroiro 続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RAID構成済みNEC Express 5800/T110g-SにLinuxを導入しようとして失敗した時の対処備忘録]]></title>
         <id>https://ytpmv.info/?p=1688</id>
