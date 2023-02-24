@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-24T13:08:49.829Z</updated>
+    <updated>2023-02-24T14:04:32.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人力ボーカロイドの解説をする、東郷さんと友奈ちゃん]]></title>
+        <id>https://note.com/binetsu0904/n/n41c86c6afd5d</id>
+        <link href="https://note.com/binetsu0904/n/n41c86c6afd5d"/>
+        <updated>2023-02-24T13:41:41.000Z</updated>
+        <summary type="html"><![CDATA[去年投稿した「カラオケにいく、東郷さんと友奈ちゃん」を例に人力ボーカロイドについて、僕の知識の範囲で説明します。
+  
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四則演算_ランキング.txt]]></title>
         <id>https://note.com/nano_87g/n/n83548883717f</id>
