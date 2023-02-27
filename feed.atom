@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-26T23:04:40.493Z</updated>
+    <updated>2023-02-27T00:15:23.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26710,17 +26710,6 @@ nico.ms
 続きをみる]]></summary>
         <author>
             <name>タフ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心療内科]]></title>
-        <id>https://note.com/ebideath/n/n008bceb36111</id>
-        <link href="https://note.com/ebideath/n/n008bceb36111"/>
-        <updated>2022-02-27T11:05:35.000Z</updated>
-        <summary type="html"><![CDATA[仕事で脳みそが破壊され動けないほど苦しくなったので心療内科に行ったら鬱の薬が出たので飲んでます 
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
     <entry>
