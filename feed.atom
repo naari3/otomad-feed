@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-28T14:04:19.830Z</updated>
+    <updated>2023-02-28T15:04:33.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[楽しい世界旅行]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1226.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1226.html"/>
+        <updated>2023-02-28T14:58:45.000Z</updated>
+        <summary type="html"><![CDATA[かなり久々にインスコした  荒波です何年ぶりって位にこのキャラ引っ張りだしてみるとインベントリが凄えしょうもなかったこれはクリスマスイベントで木に飾る用のやつですね……間違いないさて、メインの斬りでインしてみたけれど、アーケインリバーとかやる気ないし懐かしマップでも巡るかと思って台湾へGOするとウィークリー要素が追加されていたなんとあの「地下鉄は現在工事中です」的なセリフを言う為だけに存在していたNPCテ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナートロ2で配ったヤツのはなし]]></title>
+        <id>https://note.com/nototote/n/n2b44cba4aa40</id>
+        <link href="https://note.com/nototote/n/n2b44cba4aa40"/>
+        <updated>2023-02-28T14:49:53.000Z</updated>
+        <summary type="html"><![CDATA[2022年12月初旬、日本全国の極悪人100人強がエケヘベレに集合したイベントで、名刺代わりにと散らばしたコンビニ印刷のペーパー。
+あれの話をします。
+こんなやつ。
+続きをみる]]></summary>
+        <author>
+            <name>とッくん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音きりすってもう使ってる人流石にい...]]></title>
         <id>https://note.com/nendo31/n/n4a238186b387</id>
