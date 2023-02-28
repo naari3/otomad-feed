@@ -14099,7 +14099,18 @@
       "title": "鳥茶",
       "feedUrl": "https://note.com/toricha_bard/rss",
       "siteUrl": "https://note.com/toricha_bard",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/toricha_bard/n/n1bd85a082a78",
+          "author": null,
+          "description": "こんにちは。最近三沢ネタを使う人がちらほら見られたので、三沢広之の真面目な解説とネタになった経緯をウルトラマンネクサス未視聴の方でも分かるように書きたいと思います。(ネクサスの重大なネタバレを含む)\n1.三沢広之って？\n続きをみる",
+          "link": "https://note.com/toricha_bard/n/n1bd85a082a78",
+          "publishedOn": "2023-02-28T12:03:38.000Z",
+          "wordCount": 2258,
+          "title": "三沢広之の真面目な解説とネタになった理由",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/99136081/rectangle_large_type_2_c580da4b3d85c88460c8f25d6ab48790.jpeg?width=800"
+        }
+      ]
     },
     {
       "title": "とそちか",

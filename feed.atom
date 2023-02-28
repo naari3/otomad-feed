@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-02-28T11:04:14.978Z</updated>
+    <updated>2023-02-28T12:06:03.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三沢広之の真面目な解説とネタになった理由]]></title>
+        <id>https://note.com/toricha_bard/n/n1bd85a082a78</id>
+        <link href="https://note.com/toricha_bard/n/n1bd85a082a78"/>
+        <updated>2023-02-28T12:03:38.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。最近三沢ネタを使う人がちらほら見られたので、三沢広之の真面目な解説とネタになった経緯をウルトラマンネクサス未視聴の方でも分かるように書きたいと思います。(ネクサスの重大なネタバレを含む)
+1.三沢広之って？
+続きをみる]]></summary>
+        <author>
+            <name>鳥茶</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年2月-④】U]]></title>
         <id>hatenablog://entry/4207112889966620679</id>
