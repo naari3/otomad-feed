@@ -16,6 +16,48 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2023-03-02">2023-03-02</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://example.com/feed/feed.xml" target="_blank" rel="noopener">n5g</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">misskeyioがいっぱいいっぱいなのでmemosを試す</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://example.com/posts/2023/02/memos/" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>misskey.ioがいっぱいいっぱいで繋がらなくなっちゃったので、代わりに自分がなんかメモを投稿する用の奴用意しないとなあと思っていたら
+memosというマイクロブログ風にメモ投稿して公開が出来る、オープンソースで自分のサーバーにデプロイして自由に使える奴があったので、これを自分のサーバー（oracle cloud無料枠）にデプロイした
+ここで見れる、無料ドメインで適当にやってるので、そのうちしぬかも
+memosの使い勝手 #
+まあまあ、よさそう…いや、どうかな…
+各投稿の固定リンク、存在はしてるんだけど、パブリックの投稿一覧から投稿の固定リンクに飛ぶリンクが無いので不便だと思う
+リアクション絵文字欲しいね、まあmemosはそういう用途向けのアプリではないだろうから無いのは妥当だけど…
+戻るや進むがうまく働かない時があるっぽい、というかページ移動したい時のアクセスがちょっと悪い
+YouTubeのリンクとか貼っても、埋め込みプレイヤーどころか、カード化（OGP）もされないね、それはまあまあいいか…よくないけど…
+APIがあって、簡単だったので、自作のブラウザ拡張機能ボタンからmisskeyに投稿する拡張機能をmemosにも対応させた、うまくいった
+デプロイするのに大変だったこと #
+docker-compose.yml一つで楽に出来そうだなーって感じだったんだけど、ネット上に公開する際に、
+Nginxのバーチャルホストを使ったリバースプロキシDockerをこのページ参考にして作ったんだけど、
+さらにそれをちょっと使いやすいように改変して、これで動くなと思ってたんだけど、その改変設定だと問題が色々起きて、色々修正して、なんとかなった
+proxy_passの末尾、スラッシュがありなしで動作が変わるらしくて、罠だなと思った、スラッシュなしで正常に動いた
+改変 #
+まだ改変してないけど
+オープンソースなので改変出来る、コードどんなんか見てなくて俺がいじれるかレベルかしらんけど、というか
+今docker-compose使ってmemos公式のイメージからそのまま起動させてるだけなんだけど、ここから改変する場合のベストプラクティスってなんだろう
+変更を加えた独自のイメージを作ってやるのがよさそうだけど、あんまりイメージの作り方よく分かってないな、まともにやった事ないな
+開発環境で元のイメージからコンテナ起動させてコンテナ内で中身いじって、それでいじったコンテナから独自のイメージ作成して、それをアップロードして本番環境でpullしてコンテナ再起動みたいな感じか？
+改変やる気は…まあ、あとで…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2023-03-01">2023-03-01</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -35381,7 +35423,7 @@ Discordで離していて輻輳制御の話がでてきた
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2023-03-01T18:04:40.269Z">2023-03-01T18:04:40.269Z</time>
+    <time id="build-timestamp" datetime="2023-03-01T19:04:21.286Z">2023-03-01T19:04:21.286Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

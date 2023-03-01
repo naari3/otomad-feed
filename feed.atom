@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-01T18:04:40.341Z</updated>
+    <updated>2023-03-01T19:04:21.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[misskeyioがいっぱいいっぱいなのでmemosを試す]]></title>
+        <id>https://example.com/posts/2023/02/memos/</id>
+        <link href="https://example.com/posts/2023/02/memos/"/>
+        <updated>2023-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[misskey.ioがいっぱいいっぱいで繋がらなくなっちゃったので、代わりに自分がなんかメモを投稿する用の奴用意しないとなあと思っていたら
+memosというマイクロブログ風にメモ投稿して公開が出来る、オープンソースで自分のサーバーにデプロイして自由に使える奴があったので、これを自分のサーバー（oracle cloud無料枠）にデプロイした
+ここで見れる、無料ドメインで適当にやってるので、そのうちしぬかも
+memosの使い勝手 #
+まあまあ、よさそう…いや、どうかな…
+各投稿の固定リンク、存在はしてるんだけど、パブリックの投稿一覧から投稿の固定リンクに飛ぶリンクが無いので不便だと思う
+リアクション絵文字欲しいね、まあmemosはそういう用途向けのアプリではないだろうから無いのは妥当だけど…
+戻るや進むがうまく働かない時があるっぽい、というかページ移動したい時のアクセスがちょっと悪い
+YouTubeのリンクとか貼っても、埋め込みプレイヤーどころか、カード化（OGP）もされないね、それはまあまあいいか…よくないけど…
+APIがあって、簡単だったので、自作のブラウザ拡張機能ボタンからmisskeyに投稿する拡張機能をmemosにも対応させた、うまくいった
+デプロイするのに大変だったこと #
+docker-compose.yml一つで楽に出来そうだなーって感じだったんだけど、ネット上に公開する際に、
+Nginxのバーチャルホストを使ったリバースプロキシDockerをこのページ参考にして作ったんだけど、
+さらにそれをちょっと使いやすいように改変して、これで動くなと思ってたんだけど、その改変設定だと問題が色々起きて、色々修正して、なんとかなった
+proxy_passの末尾、スラッシュがありなしで動作が変わるらしくて、罠だなと思った、スラッシュなしで正常に動いた
+改変 #
+まだ改変してないけど
+オープンソースなので改変出来る、コードどんなんか見てなくて俺がいじれるかレベルかしらんけど、というか
+今docker-compose使ってmemos公式のイメージからそのまま起動させてるだけなんだけど、ここから改変する場合のベストプラクティスってなんだろう
+変更を加えた独自のイメージを作ってやるのがよさそうだけど、あんまりイメージの作り方よく分かってないな、まともにやった事ないな
+開発環境で元のイメージからコンテナ起動させてコンテナ内で中身いじって、それでいじったコンテナから独自のイメージ作成して、それをアップロードして本番環境でpullしてコンテナ再起動みたいな感じか？
+改変やる気は…まあ、あとで…]]></summary>
+        <author>
+            <name>n5g</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初めて招待制の合作に参加した話]]></title>
         <id>https://note.com/saltlemon/n/nf5f25d3ff93e</id>
