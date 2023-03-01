@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-01T17:04:37.727Z</updated>
+    <updated>2023-03-01T18:04:40.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -93,6 +93,59 @@
 続きをみる]]></summary>
         <author>
             <name>鳥茶</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年2月に俺が見たよかったYouTube]]></title>
+        <id>https://example.com/posts/2023/02/2023-02-mybest-youtube/</id>
+        <link href="https://example.com/posts/2023/02/2023-02-mybest-youtube/"/>
+        <updated>2023-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ふと、2月末だなあ、まとめようかなあ、と思い付いたのでやる
+1月に見た奴も混じってる
+全部埋め込みプレイヤー表示するとページ表示重くなると思うので埋め込みは一部だけ
+[Genshin 2023 New Years Program] I've Never Forgotten 【我不曾忘记】
+よかった
+
+Tribe Attacker 10 people
+楽しそう
+
+monkey turn
+かっこよすぎ
+【ブルアカ】4th PV
+エモすぎ
+何ひとつ知らない…ですよ。の正体 〜あーいとぅいまてん！だけを一生やり続ける理由〜
+ストイックすぎる
+【ポレン10】 最終試合
+ちょうぜつ試合すぎる、おつかれさまでした
+
+cicada ft. 星界
+いいね
+『Humanity』公式リビールトレーラー | PS4 / PSVR / PS5 / PS VR2
+いいね
+マジカルエミ OPフル/「不思議色ハピネス」小幡洋子
+いいね
+Superman Quadruple Performance !? [Pump It Up Fiesta EX]
+かっこいい
+
+Unwelcome School X "Gotoh-san your c*ck is so huge!" | osu!
+感動～
+【崩壊：スターレイル】白露 キャラクターPV 「乾燥注意報」
+あっかんべーかわいい
+へブバン　無人島ゲームオーバー集
+タイトルがよかったと思う
+【天啓パラドクス】エルシャダイ　コラボ 記念PV
+そんなコラボしていいんだ、新録してたので新鮮だった
+AIにピカチュウの料理方法聞いたらかなりヤベえ答え帰ってきたBing
+すごい、ヤバい
+
+New Dress !!
+かわいい
+
+【ブルアカ】ミユがリズムよく出てくるだけ
+かわいい
+以上、おわり]]></summary>
+        <author>
+            <name>n5g</name>
         </author>
     </entry>
     <entry>
