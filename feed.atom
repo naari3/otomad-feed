@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-01T15:04:23.935Z</updated>
+    <updated>2023-03-01T16:04:40.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[初めて招待制の合作に参加した話]]></title>
+        <id>https://note.com/saltlemon/n/nf5f25d3ff93e</id>
+        <link href="https://note.com/saltlemon/n/nf5f25d3ff93e"/>
+        <updated>2023-03-01T15:10:07.000Z</updated>
+        <summary type="html"><![CDATA[元気してっか～？塩れもんです
+さて、先日投稿されたこちらの合作、もう見られましたでしょうか
+  
+続きをみる]]></summary>
+        <author>
+            <name>塩れもん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高木の偽アカウントで腹よじれる]]></title>
         <id>https://note.com/nendo31/n/n49426cac22d9</id>
