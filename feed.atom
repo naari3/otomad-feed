@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-02T03:11:33.871Z</updated>
+    <updated>2023-03-02T04:04:27.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021年の音MAD界隈の流行を振り返る（上半期）]]></title>
+        <id>https://note.com/mark_fry/n/n9cd21a12d650</id>
+        <link href="https://note.com/mark_fry/n/n9cd21a12d650"/>
+        <updated>2023-03-02T03:19:19.000Z</updated>
+        <summary type="html"><![CDATA[昨年に一時期公開していた記事の下書きが残っていたので軽く修正して投稿しようと思います（今更ですが）。主観的な記述が多いと思われますがご容赦ください。
+リンクを貼りまくったのでスマホだとまともに見られないかもしれません。
+・２０２１年１月
+続きをみる]]></summary>
+        <author>
+            <name>sigloxx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[misskeyioがいっぱいいっぱいなのでmemosを試す]]></title>
         <id>https://example.com/posts/2023/02/memos/</id>

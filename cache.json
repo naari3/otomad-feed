@@ -12780,7 +12780,18 @@
       "title": "sigloxx",
       "feedUrl": "https://note.com/mark_fry/rss",
       "siteUrl": "https://note.com/mark_fry",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/mark_fry/n/n9cd21a12d650",
+          "author": null,
+          "description": "昨年に一時期公開していた記事の下書きが残っていたので軽く修正して投稿しようと思います（今更ですが）。主観的な記述が多いと思われますがご容赦ください。\nリンクを貼りまくったのでスマホだとまともに見られないかもしれません。\n・２０２１年１月\n続きをみる",
+          "link": "https://note.com/mark_fry/n/n9cd21a12d650",
+          "publishedOn": "2023-03-02T03:19:19.000Z",
+          "wordCount": 7545,
+          "title": "2021年の音MAD界隈の流行を振り返る（上半期）",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f3457b58e12ff935dab3fbd08a785e1e2457188e.png"
+        }
+      ]
     },
     {
       "title": "mega(目が)",
