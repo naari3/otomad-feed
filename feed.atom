@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-04T01:32:28.146Z</updated>
+    <updated>2023-03-04T02:27:21.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26977,22 +26977,6 @@ Ableton Live の Vocoder の Formant が高めな音を含んでいるサブベ�
 スレ画の初出は不明ですが、この記事作成時に行った画像検索では、2022年1月8日東京中日スポーツ配信の記事「[https://www.chunichi.co.jp/article_photo_chuspo/list?article_id=397076&pid=1870092:title=鈴木宗男議員、北方領土問題で岸田首相に日露首脳会談を要望 「プーチンさんは日本を理解している」」で同じ画像が掲載されているのを確認しました。]]></summary>
         <author>
             <name>muneo house information</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空いた時間を使ってExcelでVBAを使わずにWordleを作ってみた]]></title>
-        <id>https://note.com/calpisco/n/ncf2c86e450a0</id>
-        <link href="https://note.com/calpisco/n/ncf2c86e450a0"/>
-        <updated>2022-03-04T13:56:42.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。
-一昔前に『ExcelでVBAを使わずにドラクエを作ってみた』というのが流行ってたのを覚えている人はいますか？（調べたら２年前でそんな昔じゃなかった）
-最近仕事中Excelを使う機会が多くなったので、Excelを触っていたらふとそれを思い出し、
-Wordleぐらいなら自分でも関数だけで作れるのでは？
-と思い立ったので、作ってみました。
-
-続きをみる]]></summary>
-        <author>
-            <name>calpisco</name>
         </author>
     </entry>
     <entry>
