@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-04T03:05:28.882Z</updated>
+    <updated>2023-03-04T04:04:37.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[耐えられるかな]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1227.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1227.html"/>
+        <updated>2023-03-04T03:36:19.000Z</updated>
+        <summary type="html"><![CDATA[このイベント考えたのおれ？まだ初日なのにかわいさ（とミラV飲んでたせい）で気失うところだったいいのか？ こんな俺得な絡みが存在してスクロースもコレイも大好き  緑髪だし二人とも似たもの同士の陰キャだからちょっと通じ合う所もあるのかな友達になれるといいね、なれるといいよねもちろんモンドに来たという事はコレアンバーいいのか？ こんな眼福があってエウルアが出てきた時は修羅場を覚悟したが、なんか普通に知り合い]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2023/02]]></title>
         <id>hatenablog://entry/4207112889968223194</id>
