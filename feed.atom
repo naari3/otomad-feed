@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-08T08:05:04.311Z</updated>
+    <updated>2023-03-08T09:04:37.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[富山県人は今緩やかに（？）流行って...]]></title>
+        <id>https://note.com/nendo31/n/n977556c369fe</id>
+        <link href="https://note.com/nendo31/n/n977556c369fe"/>
+        <updated>2023-03-08T08:09:02.000Z</updated>
+        <summary type="html"><![CDATA[富山県人は今緩やかに（？）流行ってることでコンテンツが持ってると思ってるから、急に爆発的に流行ったらもう終わりだと思ってる
+要は界隈外の作者はあまり増えすぎないでほしい 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230305「カネコアヤノ『カネコアヤノ ⼤阪城ホールワンマンショー 2023』」]]></title>
         <id>hatenablog://entry/4207112889969203226</id>
