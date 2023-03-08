@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-08T20:04:25.396Z</updated>
+    <updated>2023-03-08T21:04:25.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26381,19 +26381,6 @@ First Note…音楽について
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蓬莱道化師について後書き]]></title>
-        <id>https://note.com/watu_note/n/n503f116cb0d3</id>
-        <link href="https://note.com/watu_note/n/n503f116cb0d3"/>
-        <updated>2022-03-09T08:13:08.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、わっつーです。久々にnote書きます。なので誤字脱字などあったら許して()
-
-
-続きをみる]]></summary>
-        <author>
-            <name>わっつー</name>
         </author>
     </entry>
     <entry>
