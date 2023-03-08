@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-08T11:04:14.928Z</updated>
+    <updated>2023-03-08T12:05:48.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26414,16 +26414,6 @@ First Note…音楽について
 　眠りから醒めて起きたのは朝の7時くらいで、これを書きながら相対性理論の「ムーンライト銀河」を聴いていたけど妙にいまの感情に合っているような気がした。タイトルの「生活」は「ライフ」と読んでほしいです。おやすみなさい。]]></summary>
         <author>
             <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玉転がし]]></title>
-        <id>https://sehatakuro.github.io/2022/03/09/game1</id>
-        <link href="https://sehatakuro.github.io/2022/03/09/game1"/>
-        <updated>2022-03-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[矢印キーを使ってボールを操作するゲームです。]]></summary>
-        <author>
-            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>
