@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-09T18:04:45.757Z</updated>
+    <updated>2023-03-09T19:04:17.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26307,19 +26307,6 @@ vを
         <summary type="html"><![CDATA[Spaceキーもしくは左クリックを使ってジャンプをして、飛んでくる核を避けるゲームです。]]></summary>
         <author>
             <name>気合い気合い気合い</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ゾロリRTA]たからさがしバンジー研究]]></title>
-        <id>https://note.com/howtopourbeer/n/n51c6dab2d915</id>
-        <link href="https://note.com/howtopourbeer/n/n51c6dab2d915"/>
-        <updated>2022-03-10T06:06:24.000Z</updated>
-        <summary type="html"><![CDATA[概要
-どうも皆さんヤビットでーす．もう2022年も3月に入りましたが皆さん元気にしていますか．私は元気です
-さて，先月はRTA in Japanのサブイベント的なやつがたくさん開催されていてとても面白かったですね．スーパースクリブルノーツのRTAが特に面白かったので皆さんもぜひ見てほしいんですけれども，
-続きをみる]]></summary>
-        <author>
-            <name>8bit</name>
         </author>
     </entry>
     <entry>
