@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-10T21:04:21.676Z</updated>
+    <updated>2023-03-10T22:04:27.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VBAD]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1228.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1228.html"/>
+        <updated>2023-03-10T21:35:41.000Z</updated>
+        <summary type="html"><![CDATA[ミラVまた箱買いして毎日ミラVバッド入ってる  荒波ですろくでもない！コレ飲んでから寝るともう二度と目が覚めないんじゃないかと恐ろしくなりますさいきんは作業中に流しとくBGVとして全く興味ないボイスドラマを流したり、東方ボーカルをきいてみたり、いろいろと懐かしさを感じるもの達に触れているこの頃ですいやまあ、ずっとやってるけどちゃんと聴いてみると案外面白いのがあって良いんだよね～何いってんのってカンジだけ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【企画告知】1フレーズ制限音MADイベント 開催します！]]></title>
         <id>https://note.com/banfuture9/n/n34b0d2932f20</id>
