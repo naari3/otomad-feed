@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-11T12:04:59.451Z</updated>
+    <updated>2023-03-11T13:06:31.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[モーリー好きだけど頬ブク好きじゃない]]></title>
+        <id>https://note.com/nendo31/n/ndb925fb7fdd5</id>
+        <link href="https://note.com/nendo31/n/ndb925fb7fdd5"/>
+        <updated>2023-03-11T12:37:15.000Z</updated>
+        <summary type="html"><![CDATA[モーリー好きだけど頬ブク好きじゃない 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230310「記憶たち」]]></title>
         <id>hatenablog://entry/4207112889970375115</id>
@@ -26289,36 +26299,6 @@ vを
         <summary type="html"><![CDATA[こちらは『ニコニコ十五周年漂流記』の解説記事・その5です。92-107曲目の解説をしています。ラスト！その1（1～31曲目）⇒http://medley26kvocaloid.blog.fc2.com/blog-entry-73.htmlその2（32～57曲目）⇒http://medley26kvocaloid.blog.fc2.com/blog-entry-74.htmlその3（57～71曲目）⇒http://medley26kvocaloid.blog.fc2.com/blog-entry-76.htmlその4（72～91曲目）⇒http://medley26kvocaloid.blog.fc2.com/blog-entry-77.html]]></summary>
         <author>
             <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/?】ニコニコ十五周年漂流記　解説記事]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-77.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-77.html"/>
-        <updated>2022-03-12T00:56:50.000Z</updated>
-        <summary type="html"><![CDATA[こちらは『ニコニコ十五周年漂流記』の解説記事・その4です。57-71曲目の解説をしています。その1（1～31曲目）⇒http://medley26kvocaloid.blog.fc2.com/blog-entry-73.htmlその2（32～57曲目）⇒http://medley26kvocaloid.blog.fc2.com/blog-entry-74.htmlその3（57～71曲目）⇒http://medley26kvocaloid.blog.fc2.com/blog-entry-76.html]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ままならない]]></title>
-        <id>https://note.com/ecolidelvsvc11/n/n598aebe6476f</id>
-        <link href="https://note.com/ecolidelvsvc11/n/n598aebe6476f"/>
-        <updated>2022-03-12T00:43:23.000Z</updated>
-        <summary type="html"><![CDATA[思うようにいかなさすぎる。
-ままならない事が多過ぎる。
-「ままならない」って言葉の響きの面白さに気づくのにこんなに時間がかかってしまうほど、色々上手くいってない。
-今年に入って就活でクソ忙しくなり始めた矢先、音MADの合作に何故か呼ばれまくる。
-しかもかなり規模が大きい合作や、話題を生みそうな合作、普通にメチャクチャ参加したい合作など断りたくないものばかりだ。
-結果として全部断ったり参加の返事を待ってもらったりと一切参加はしていない。
-1、2年前なら合作に呼ばれて内心喜んで飛び跳ねて天井を突き破っていたのだろうが今は苦々しい顔で苦々しい返事をするのが精一杯だ。
-つくづく音MADを作り始めるのが遅かったと思う。あと1、2年早ければ忙しくなる前に上記みたいな合作たちに迷わず参加出来ただろうに…
-話はメチャクチャ変わるがウマ娘の育成もままならない。ゴールドシチーというウマ娘を最近がんばって育成しているのだがジャパンカップのオグリキャップにどうしても勝てない。金スキル3つ積んでもステータスが盛りきれなくてギリギリ負けてしまう。
-自分はウマ娘の育成が下手なのでB+が関の山なのだが普通にAとかSとかのウマ娘を育ててる人達はどうやってそこまでステータスを盛ってるのか本当に教えて欲しい。ご指導ご鞭撻のほどよろしくお願いします。
-続きをみる]]></summary>
-        <author>
-            <name>大腸菌デリバリーサービス</name>
         </author>
     </entry>
     <entry>
