@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-11T13:06:31.825Z</updated>
+    <updated>2023-03-11T14:04:06.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウマ娘疾奏曲 ～青天のグランドスラム～ 参加しました]]></title>
+        <id>https://note.com/takoo/n/n3410caefd8d5</id>
+        <link href="https://note.com/takoo/n/n3410caefd8d5"/>
+        <updated>2023-03-11T13:17:54.000Z</updated>
+        <summary type="html"><![CDATA[本編
+niconico:
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モーリー好きだけど頬ブク好きじゃない]]></title>
         <id>https://note.com/nendo31/n/ndb925fb7fdd5</id>
