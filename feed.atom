@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-12T13:06:40.112Z</updated>
+    <updated>2023-03-12T14:04:08.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazonアソシエイト・プログラム]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-112.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-112.html"/>
+        <updated>2023-03-12T13:55:19.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年3月-②】動画レポとかゲームの感想とか]]></title>
         <id>hatenablog://entry/4207112889970831474</id>
