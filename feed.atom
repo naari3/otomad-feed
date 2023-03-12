@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-12T06:04:20.551Z</updated>
+    <updated>2023-03-12T07:04:21.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[動画投稿を始めてから現在まで(最終回)]]></title>
+        <id>https://note.com/nesu/n/na027013684c5</id>
+        <link href="https://note.com/nesu/n/na027013684c5"/>
+        <updated>2023-03-12T06:44:19.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。nesuです。「動画投稿を始めてから現在まで(最終回)」をやっていきたいと思います。この記事で「現在」に到達します。包み隠さず書いていきますので今回もよろしくお願いします。
+それでは最終回はじまり～。
+続きをみる]]></summary>
+        <author>
+            <name>nesu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【衝撃】画像でわかる！？9割が納得する心理テスト！！！]]></title>
         <id>https://note.com/cmblg/n/n64b359304895</id>
