@@ -11106,6 +11106,16 @@
       "siteUrl": "https://note.com/binetsu0904",
       "articles": [
         {
+          "id": "https://note.com/binetsu0904/n/n890d66ba755e",
+          "author": null,
+          "description": "前シーズの感想はこちら\n\n続きをみる",
+          "link": "https://note.com/binetsu0904/n/n890d66ba755e",
+          "publishedOn": "2023-03-13T00:35:52.000Z",
+          "wordCount": 2568,
+          "title": "見た2022年秋アニメ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/100091767/rectangle_large_type_2_43180ff2ef1643eec291fb4390d52316.png?width=800"
+        },
+        {
           "id": "https://note.com/binetsu0904/n/n41c86c6afd5d",
           "author": null,
           "description": "去年投稿した「カラオケにいく、東郷さんと友奈ちゃん」を例に人力ボーカロイドについて、僕の知識の範囲で説明します。\n  \n続きをみる",
@@ -11512,16 +11522,6 @@
           "wordCount": 49,
           "title": "1級四字熟語表（意味付き）PDFプレゼントはこちら",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/74472183/rectangle_large_type_2_94fe446e2c6767b318100bad3dc21509.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/dokozonosyake/n/n282a4e6171e9",
-          "author": null,
-          "description": "一気に暖かくなってきましたね。今年の春は春寒料峭という言葉を知らないようです。まぁ僕の住んでいるところだけかもしれませんが。\n自己採95点という無残な結果となった初挑戦、R3-3の試験からおよそ1ヶ月が経過しました。この1ヶ月間は割と忙しく、漢字学習は1級四字熟語をまとめたり配当漢字表を眺めたりということしかできませんでしたが、学校の定期考査や模試ラッシュが一段落したため、ここから次回R4-1の試験に向けてギアを上げていこうと思います。\n続きをみる",
-          "link": "https://note.com/dokozonosyake/n/n282a4e6171e9",
-          "publishedOn": "2022-03-13T13:09:53.000Z",
-          "wordCount": 52,
-          "title": "漢検1級R4-1で初合格へ　残り98日",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/7cec58ad5eda860981d11a4cf113f18e542cf2ca.jpg"
         }
       ]
     },
@@ -14297,16 +14297,6 @@
           "wordCount": 76,
           "title": "2021年以前に投稿した動画を振り返る",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6aced83939f2ca02fbfbd1bba9905008454cf0df.jpg"
-        },
-        {
-          "id": "https://note.com/takoo/n/nedaacfa3c90c",
-          "author": null,
-          "description": "REAPER+Nameryを使用した音声切り分け - ユッ記REAPERとNameryを使用した音声切り分けを解説します 従来の音声切り分けはsound engine freeを使用taiuo443.hatenablog.com \nこの記事をベースに、自分なりの音声切り分けについて書こうと思います。\n続きをみる",
-          "link": "https://note.com/takoo/n/nedaacfa3c90c",
-          "publishedOn": "2022-03-13T12:22:58.000Z",
-          "wordCount": 146,
-          "title": "REAPER+Pythonを使用した音声切り分け(たいうおさんの記事を受けて)",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9f7db2d041515a242c5dec0707ecbd250249b3a7.jpg"
         }
       ]
     },
@@ -14814,6 +14804,16 @@
       "feedUrl": "https://hiiragidono.blog.fc2.com/?xml",
       "siteUrl": "https://hiiragidono.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://hiiragidono.blog.fc2.com/blog-entry-1229.html",
+          "author": "柊殿",
+          "description": "昼夜逆転が行き過ぎて昼ごはんまで食えそう  荒波ですけさ停電があったライトがチカチカしてStalker（責任の方）かな？ と思った次の瞬間明かりもPCの電源も全部切れたちょうど作業していた動画の編集データは吹き飛んだし、強制終了したPCの具合も気になるし、ダル～～とか言いながら仰向けになってましたまだ外が真っ暗でなにも見えず、例のごとくスマホの充電もゼロだったので本当に何もできる事がなかったこの部屋はほんとうに",
+          "link": "https://hiiragidono.blog.fc2.com/blog-entry-1229.html",
+          "publishedOn": "2023-03-13T01:21:32.000Z",
+          "wordCount": 550,
+          "title": "ぶっつり",
+          "imageUrl": null
+        },
         {
           "id": "https://hiiragidono.blog.fc2.com/blog-entry-1228.html",
           "author": "柊殿",

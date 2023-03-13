@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-13T00:14:34.118Z</updated>
+    <updated>2023-03-13T01:31:33.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ぶっつり]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1229.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1229.html"/>
+        <updated>2023-03-13T01:21:32.000Z</updated>
+        <summary type="html"><![CDATA[昼夜逆転が行き過ぎて昼ごはんまで食えそう  荒波ですけさ停電があったライトがチカチカしてStalker（責任の方）かな？ と思った次の瞬間明かりもPCの電源も全部切れたちょうど作業していた動画の編集データは吹き飛んだし、強制終了したPCの具合も気になるし、ダル～～とか言いながら仰向けになってましたまだ外が真っ暗でなにも見えず、例のごとくスマホの充電もゼロだったので本当に何もできる事がなかったこの部屋はほんとうに]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[見た2022年秋アニメ]]></title>
+        <id>https://note.com/binetsu0904/n/n890d66ba755e</id>
+        <link href="https://note.com/binetsu0904/n/n890d66ba755e"/>
+        <updated>2023-03-13T00:35:52.000Z</updated>
+        <summary type="html"><![CDATA[前シーズの感想はこちら
+
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazonアソシエイト・プログラム]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-112.html</id>
@@ -26287,30 +26309,6 @@ www.densu.jp
         <summary type="html"><![CDATA[界隈ZONEみたいな動画がみたいし作りたい。 続きをみる]]></summary>
         <author>
             <name>🈂行</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漢検1級R4-1で初合格へ　残り98日]]></title>
-        <id>https://note.com/dokozonosyake/n/n282a4e6171e9</id>
-        <link href="https://note.com/dokozonosyake/n/n282a4e6171e9"/>
-        <updated>2022-03-13T13:09:53.000Z</updated>
-        <summary type="html"><![CDATA[一気に暖かくなってきましたね。今年の春は春寒料峭という言葉を知らないようです。まぁ僕の住んでいるところだけかもしれませんが。
-自己採95点という無残な結果となった初挑戦、R3-3の試験からおよそ1ヶ月が経過しました。この1ヶ月間は割と忙しく、漢字学習は1級四字熟語をまとめたり配当漢字表を眺めたりということしかできませんでしたが、学校の定期考査や模試ラッシュが一段落したため、ここから次回R4-1の試験に向けてギアを上げていこうと思います。
-続きをみる]]></summary>
-        <author>
-            <name>しゃけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REAPER+Pythonを使用した音声切り分け(たいうおさんの記事を受けて)]]></title>
-        <id>https://note.com/takoo/n/nedaacfa3c90c</id>
-        <link href="https://note.com/takoo/n/nedaacfa3c90c"/>
-        <updated>2022-03-13T12:22:58.000Z</updated>
-        <summary type="html"><![CDATA[REAPER+Nameryを使用した音声切り分け - ユッ記REAPERとNameryを使用した音声切り分けを解説します 従来の音声切り分けはsound engine freeを使用taiuo443.hatenablog.com 
-この記事をベースに、自分なりの音声切り分けについて書こうと思います。
-続きをみる]]></summary>
-        <author>
-            <name>たこーちき</name>
         </author>
     </entry>
     <entry>
