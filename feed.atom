@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-13T14:04:46.522Z</updated>
+    <updated>2023-03-13T15:04:29.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230312_おすすめ]]></title>
+        <id>https://note.com/kokeshi_short/n/n570345397e8d</id>
+        <link href="https://note.com/kokeshi_short/n/n570345397e8d"/>
+        <updated>2023-03-13T14:33:34.000Z</updated>
+        <summary type="html"><![CDATA[10個
+https://nico.ms/sm41790560
+ポテトのノイズが味を出してます(油は無味では？)
+呑み込まれる感覚があります
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コ氏さんは富山県人素材について語れ...]]></title>
         <id>https://note.com/nendo31/n/nb7c7def46897</id>
