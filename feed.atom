@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-14T11:04:33.152Z</updated>
+    <updated>2023-03-14T12:05:55.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今日上げたやつ、思ってたより伸びが...]]></title>
+        <id>https://note.com/nendo31/n/n7837fb4d4139</id>
+        <link href="https://note.com/nendo31/n/n7837fb4d4139"/>
+        <updated>2023-03-14T11:14:32.000Z</updated>
+        <summary type="html"><![CDATA[今日上げたやつ、思ってたより伸びが良くていぃーね
+やっぱりニコレポ連携必要 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニュースみたいなうんこばっかりだな]]></title>
         <id>https://note.com/nendo31/n/n4333bec5369a</id>
