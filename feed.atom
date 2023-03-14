@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-14T16:04:58.072Z</updated>
+    <updated>2023-03-14T17:06:50.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[晒し系インフルエンサーについての雑感]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n59bddad32f0b</id>
+        <link href="https://note.com/dou_akagane_cu/n/n59bddad32f0b"/>
+        <updated>2023-03-14T16:18:15.000Z</updated>
+        <summary type="html"><![CDATA[サムネを見てわかる通り、晒し系インフルエンサーの問題は今に始まったことではない。
+この前までアフィリエイトが問題視されており、今度は晒し系インフルエンサーですか、問題視してる方も晒し系インフルエンサーみたいな考えに陥らないか不安です(みんな第二のガレンとか第二のコㇾコㇾになろうとしてない？大丈夫？)
+多くの人が晒し系インフルエンサーについて疑問視しており、それが昨日一気に爆発したような感じですが、それがなんの成果も得られなかったことは周知の事実です。
+続きをみる]]></summary>
+        <author>
+            <name>梅晞あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ページビュー21年目記録]]></title>
         <id>hatenablog://entry/4207112889967710351</id>
