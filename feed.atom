@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-15T05:04:23.144Z</updated>
+    <updated>2023-03-15T06:04:59.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[歩たんのテレビ出演を探したいけど、...]]></title>
+        <id>https://note.com/nendo31/n/n7f351a6af16c</id>
+        <link href="https://note.com/nendo31/n/n7f351a6af16c"/>
+        <updated>2023-03-15T05:56:41.000Z</updated>
+        <summary type="html"><![CDATA[歩たんのテレビ出演を探したいけど、どう探せばいいんだ
+他の芸能人と違って出演情報があまり残ってないし 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[晒し系インフルエンサーについての雑感]]></title>
         <id>https://note.com/dou_akagane_cu/n/n59bddad32f0b</id>
