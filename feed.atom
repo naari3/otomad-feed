@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-15T20:04:28.996Z</updated>
+    <updated>2023-03-15T21:04:18.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26198,24 +26198,6 @@ synodos.jp
 倉庫で労働をしていると周辺の環境上、子供が前を通って話し声が聴こえることが多い。子供、といっても幼児から中学生まで様々だが、特に小学生の話し方はどれだけ流暢でも「周囲の人間からこの話し方を学んだんだろうな」と思わせる付け焼刃感があって面白いと感じる。なぜだろう。年相応に見えなかったり、さながらつぎはぎのパッチワークみたく、どこかに一貫性のなさみたいなのがあるのかもしれない。結果として長くなりました。おやすみなさい。]]></summary>
         <author>
             <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REAPERのVST（プラグイン）導入の方法]]></title>
-        <id>https://note.com/furadiru_99/n/n6c17e63cb3e0</id>
-        <link href="https://note.com/furadiru_99/n/n6c17e63cb3e0"/>
-        <updated>2022-03-16T08:30:46.000Z</updated>
-        <summary type="html"><![CDATA[GlaceVerb（リバーブがかかるらしい）
-ttp://web.archive.org/web/20071025055925/www.dasample.com/index.php?show=glaceverb
-BuzMaxi3（マキシマイザーらしい）
-ttp://www.vstplanet.com/Effects/Dynamic6.htm
-YOUWASHOCK！（音圧が高くなるらしい）
-ttps://sites.google.com/site/youwashockvst/
-
-ダウンロード後に解凍かインストールしたものをC:\Program Files (x86)\Steinberg\Vstpluginsに入れる（または勝手に入ってる）
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
         </author>
     </entry>
     <entry>
