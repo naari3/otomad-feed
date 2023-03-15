@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-15T14:04:41.039Z</updated>
+    <updated>2023-03-15T15:04:22.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#50 3月2週]]></title>
+        <id>hatenablog://entry/4207112889970434836</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/03/16/000322"/>
+        <updated>2023-03-15T15:03:22.000Z</updated>
+        <summary type="html"><![CDATA[今週は新しいゲームを色々やった。
+前に買ってなかなか始められずにいた7 Days to End with Youをやった。だいぶ難しかったし多分ゲームの100%の楽しさは味わえてないと思うけど、十分楽しめた。
+7 Days...のおかげでゲームモチベが高まって、IndieWorldで気になってたMoncageを買った。めっちゃ面白かった。メダル回収以外は全部やった。クリア後にパブサしたら「ゴロゴアみたいだった」みたいなツイートが多くて、ゴロゴアも気になってきてる。
+Baba Is YouとかMoncageみたいな変な？パズルゲーム、他にもあれば教えてください。
+Inscriptionも気になったけど怖いらしいのでやめました。
+ 
+土曜日出掛けたらめっちゃ暑くてびっくりした。半袖の人もいた。冬が終わってしまう。悲しい。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇和島でソメイヨシノが開花]]></title>
+        <id>hatenablog://entry/4207112889971769579</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20230315/Someiyoshino"/>
+        <updated>2023-03-15T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[【速報】宇和島市がソメイヨシノ開花宣言　全国で２番目 (愛媛新聞ONLINE)
+本日、宇和島市から開花宣言が出ました。昨日14日の東京に次いで全国で二番目。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歩たんのテレビ出演を探したいけど、...]]></title>
         <id>https://note.com/nendo31/n/n7f351a6af16c</id>
