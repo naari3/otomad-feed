@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-17T19:04:17.745Z</updated>
+    <updated>2023-03-17T20:04:20.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26084,20 +26084,6 @@ youtu.be
 *1:これは決して依頼に問題があったというわけではなく、完全に自分が悪い一件だった]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Rhythm Heaven Remix Editor"(RHRE)の詳しいつかいかた]]></title>
-        <id>https://note.com/near_rhythm/n/ne8e4a5b24e09</id>
-        <link href="https://note.com/near_rhythm/n/ne8e4a5b24e09"/>
-        <updated>2022-03-18T08:01:08.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。Nearです。
-執筆が遅くてすみません…！！
-今回はRHREの詳しい使い方について解説しようと思います。
-前回の準備編をご覧になった方は、既にRHREをダウンロードされていることと思いますので、導入方法については省略します。まだダウンロードされていないという方は、準備編の記事をご覧ください。
-続きをみる]]></summary>
-        <author>
-            <name>Near</name>
         </author>
     </entry>
     <entry>
