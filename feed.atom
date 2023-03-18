@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-18T11:04:14.236Z</updated>
+    <updated>2023-03-18T12:04:50.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230318_良いものなのでメモ]]></title>
+        <id>https://note.com/kokeshi_short/n/ndd5fc35eae9d</id>
+        <link href="https://note.com/kokeshi_short/n/ndd5fc35eae9d"/>
+        <updated>2023-03-18T11:24:54.000Z</updated>
+        <summary type="html"><![CDATA[カレーに醤油いれる
+シチューに味噌いれる
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消しゴムマジックで消してやるのサ！]]></title>
         <id>https://note.com/cmblg/n/n066a24a13a5f</id>
