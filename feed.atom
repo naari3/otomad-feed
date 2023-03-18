@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-18T04:04:20.439Z</updated>
+    <updated>2023-03-18T05:04:13.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[結亜ナルUTAU音源配布所]]></title>
+        <id>https://note.com/yuusyaasisutanto/n/n071af8d0e1ef</id>
+        <link href="https://note.com/yuusyaasisutanto/n/n071af8d0e1ef"/>
+        <updated>2023-03-18T04:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Underground
+続きをみる]]></summary>
+        <author>
+            <name>ゆうしゃアシスタント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#50 3月2週]]></title>
         <id>hatenablog://entry/4207112889970434836</id>
