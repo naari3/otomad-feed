@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-19T03:05:53.608Z</updated>
+    <updated>2023-03-19T04:04:26.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[たのむよ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1230.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1230.html"/>
+        <updated>2023-03-19T03:59:53.000Z</updated>
+        <summary type="html"><![CDATA[新しい螺旋うんこすぎて涙でてくる上超EZ下くそな一番おもんないタイプの構成かつ、1間の水アビス+3間のウェネトに対応するため限られたパーティーしか使えない為やりがいもくそもないそんなに超開花してほしいのか･･･遺跡サーペントもそうだったけどなんで地面に潜るボスを螺旋におくんですかね・・・画像の構成で初挑戦したけどウェネトがどうしても間に合わなくて一旦あきらめ放置してましたで、けさ再挑戦して動きに合わせ詰め]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『ぼっち・ざ・ろっく！』2話の写実とデフォルメ]]></title>
         <id>hatenablog://entry/4207112889971455295</id>
