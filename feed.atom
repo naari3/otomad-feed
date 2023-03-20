@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-20T10:04:26.162Z</updated>
+    <updated>2023-03-20T11:04:32.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【雑記】AviutlからAfter effectsに移行したこと、オススメのスクリプトとか]]></title>
+        <id>hatenablog://entry/4207112889973149889</id>
+        <link href="https://crabgot.hatenablog.com/entry/2023/03/20/192050"/>
+        <updated>2023-03-20T10:20:50.000Z</updated>
+        <summary type="html"><![CDATA[移行にあたっての記録です。
+Aviutlでやっていた編集、After effects（以下AE）に移行したことで更に発展できたこと、特に役立った拡張などをここに残しておきます（記憶が消えるので）
+移行にあたって
+2018年の3月から投稿をしていたのでAviutlとの付き合いは今年で5年目になります。
+テキストを分解して動かす編集が主だったので大量のオブジェクトを管理することが常で、これはちゃんと使用ソフトを考えたほうが良いぞと思い至った次第です。
+あとその作風なら絶対AEでやったほうが良いと色んな人に言われたので引き込まれた形でもあります。
+現在は部分的にAviutlで補う形で、ほとんどAEで編集しています。
+10割AEというわけにはいきませんでした。というか便利な部分はちゃんと使ったほうが良い。グリッドに添って左右反転とかはAviutlのほうがいいです。
+「自分の作風なら移行したほうが効率いいのでは…？」と悩んでる方の一助になれば幸いです。
+導入
+taket-a.hateblo.jp
+これを見てください。
+ 
+-完-
+ 
+いやほんまに書こうと思ってたこと大体書いてありました。さすがです。
+ 
+■ショートカット
+多分調べたらいい感じにまとめてるサイトあると思うので調べるのは君に任せた
+でもいっぱいありすぎてどれが重要やねんになると思うので抜粋します。
+ 
+・よく使うショートカット
+U　…キーフレームが打たれているパラメーターだけ表示
+P　…【位置】を開く。Placeでおぼえた。
+S　…【スケール】を開く。Scaleでおぼえた。
+T　…【不透明度】を開く。Toumeidoでおぼえた。多分違う。
+R　…【回転】を開く。Rotationでおぼえた。合ってるか分からん。
+A　…【アンカーポイント】を開く。Anchor。そのまんま。
+ 
+・覚えといた方がいいショートカット
+Ctrl …]]></summary>
+        <author>
+            <name>なんて巨大なカニゴット</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年3月-③】良]]></title>
         <id>hatenablog://entry/4207112889973043824</id>
