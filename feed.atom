@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-20T12:06:24.643Z</updated>
+    <updated>2023-03-20T13:08:51.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[白って200色あるらしいから白文字で記事書いてみた！]]></title>
+        <id>https://note.com/cmblg/n/n6fdebf3eebc2</id>
+        <link href="https://note.com/cmblg/n/n6fdebf3eebc2"/>
+        <updated>2023-03-20T12:46:14.000Z</updated>
+        <summary type="html"><![CDATA[ㅤ
+ㅤㅤ
+ㅤㅤ
+ㅤㅤ
+ㅤㅤ
+ㅤㅤ
+ㅤㅤ
+ㅤ
+ㅤㅤ
+ㅤㅤ
+ㅤㅤㅤ
+ㅤㅤ
+ㅤㅤ
+ㅤㅤ
+ㅤ
+続きをみる]]></summary>
+        <author>
+            <name>Camille</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑記】AviutlからAfter effectsに移行したこと、オススメのスクリプトとか]]></title>
         <id>hatenablog://entry/4207112889973149889</id>
