@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-20T20:04:37.703Z</updated>
+    <updated>2023-03-20T21:04:21.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -26008,18 +26008,6 @@ Spigotで使えるプラグインを作成する際、spigot-api に依存する
 続きをみる]]></summary>
         <author>
             <name>雨天雨衣</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お徳用プチエピソード集]]></title>
-        <id>https://note.com/ssaymds/n/n76518d475ed2</id>
-        <link href="https://note.com/ssaymds/n/n76518d475ed2"/>
-        <updated>2022-03-21T08:21:54.000Z</updated>
-        <summary type="html"><![CDATA[単体で載せるほど長くもないお話を1本のnoteにまとめてみました
-どれが好きだったか教えてね😏😏😏😏
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
     <entry>
