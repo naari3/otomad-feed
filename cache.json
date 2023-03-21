@@ -8023,21 +8023,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220326/20220326034705.png"
-        },
-        {
-          "id": "hatenablog://entry/13574176438075377291",
-          "author": null,
-          "description": "Javaのエコシステムをわからない所から頑張って諸々覚えた。半分はべつにvscodeの話ではないが、今回のじぶんの環境がvscodeだったのでそのようにタイトルに付けることにした。\ntl; dr\nもちろんBuildToolsを使用してビルドをする必要がある\nJava Decompilerをインストールする\n\n\nSpigot APIは --generate-sources して *-sources.jar を入れると良い\n--remapped してmapsを考慮したビルドを行うようにする\nなにか問題が起きたときはちょっと待つか、WSL2を使う？？\nnmsへの依存を複数バージョンにまたがって実現できるようにするには\nnmsって何、という人向けセクション\n知っていれば飛ばしてください。\nSpigotで使えるプラグインを作成する際、spigot-api に依存することになる。これはSpigotのうち、開発者に対して大まかな互換性の保証をもてる範囲のAPIだけを集めたものとなる。主に org.bukkit.* (以下bukkit)が対象。では、この「範囲」というのはどういう意味なのか？についてだが、まずは下のレイヤーから順番に説明する。\nまず最初に来るのが net.minecraft.server (これの頭文字をとってnms。以降もnmsと表記する)。こちらはバニラのMinecraftのサーバーを起動する時に動作するプログラムとおおよそ同じものだと捉えてよいものとなる。これはバージョンアップごとに大きく変動する可能性があり*1、サーバーに対して変更を加えたい開発者からすると直接追従するだけで大きな労力となり得る。\nこれをどうにかするために、まずは好きな挙動を差し込めるようにしようとしたのが org.bukkit.craftbukkit.* (以下craftbukkit)で、これはM…",
-          "link": "https://naari.hatenablog.com/entry/2022/03/22/004725",
-          "publishedOn": "2022-03-21T15:47:25.000Z",
-          "wordCount": 383,
-          "title": "Visual Studio CodeでSpigotのnms依存なプラグイン開発を行うには",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
