@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-22T00:12:58.269Z</updated>
+    <updated>2023-03-22T01:30:56.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25929,18 +25929,6 @@ SSSS.GRIDMAN（2018） #08「対・立」
 彼女のキャラを知っているとかなり暗喩的に見えてきます。]]></summary>
         <author>
             <name>茶箪笥の奥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REAPERでMIDIファイルを読み込む方法]]></title>
-        <id>https://note.com/furadiru_99/n/n60365861b72d</id>
-        <link href="https://note.com/furadiru_99/n/n60365861b72d"/>
-        <updated>2022-03-22T12:55:26.000Z</updated>
-        <summary type="html"><![CDATA[MIDIファイルに連動してピッチが変わるらしい。
-￥REAPERの画面に.midファイルをD＆Dする。
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
         </author>
     </entry>
     <entry>
