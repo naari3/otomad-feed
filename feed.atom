@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-26T12:04:52.891Z</updated>
+    <updated>2023-03-26T13:05:49.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[はっくしゅん]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1231.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1231.html"/>
+        <updated>2023-03-26T12:16:36.000Z</updated>
+        <summary type="html"><![CDATA[なぜか風邪ひきました  荒波ですここ2、3日ずっと鼻をかみながら天井を見て過ごしていますなのでとくに言うことはない  何もしていません！！！！友人がチョコットランド復帰してたうけるぐっでい]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ニコパーク」 パペロン担当パートの使用・参考動画一覧と簡単な解説 (Oshama Scramble!～新宝島)]]></title>
         <id>http://papelon.livedoor.blog/archives/9173317.html</id>
