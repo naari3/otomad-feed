@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-27T14:14:17.965Z</updated>
+    <updated>2023-03-27T15:04:23.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230328_非後悔]]></title>
+        <id>https://note.com/kokeshi_short/n/nad12a8707a56</id>
+        <link href="https://note.com/kokeshi_short/n/nad12a8707a56"/>
+        <updated>2023-03-27T15:03:43.000Z</updated>
+        <summary type="html"><![CDATA[みなさん音MADを保存する癖をつけましょう
+自分はnico downloader使ってます
+
+
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週記#52 3月4週]]></title>
+        <id>hatenablog://entry/4207112889975354405</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/03/27/235113"/>
+        <updated>2023-03-27T14:51:13.000Z</updated>
+        <summary type="html"><![CDATA[コロナ前以来4年振り？に熊本に来ている。
+Twitterに写真上げたりしてるのでまた見といてください。
+ 
+深夜ラジオを聴いてるんだけど、期間ギリギリになってからタイムフリーで聴くことがよくある。
+今回もそうしようと思ってたけど、「そもそも熊本でオールナイトニッポン聴けるのか...？」ってことに家を出てから気付いた。最悪Spotifyで聴くかな〜、とか思ってたけど結局普通に聴けたので良かった。
+「霜降り明星」で検索しても何も出なくて焦ったけど、「オールナイトニッポン」で検索したら出てきた。全曜日「オールナイトニッポン」で登録されてた。
+ちなみに確実に熊本では聴けない上に一週間経つと合法で聴く手段が無くなるだましうちは神戸にいるうちに聴いていた。危なかった。
+ 
+熊本駅の近くにある麦わらストアにも行った。行くまで存在を知らなかったからたまたま見つけられてラッキーだった。
+
+くまモンもいる。かわいい。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230324「赤の他人と最高のセッションする奴」]]></title>
         <id>hatenablog://entry/4207112889975200776</id>
