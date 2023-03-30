@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-30T16:04:27.149Z</updated>
+    <updated>2023-03-30T17:04:18.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MADのためのビブラートの作り方 複数の方法]]></title>
+        <id>https://ytpmv.info/?p=1716</id>
+        <link href="https://ytpmv.info/otomad-vibrato/"/>
+        <updated>2023-03-30T16:31:22.000Z</updated>
+        <summary type="html"><![CDATA[はじめに みなさんごきげんよう。まいまいです。今回の記事では音MADで時々使われる技法のビブラートについて詳しく作り方を解説していきます。単純な技法なので様々な作成方法があります。思いつく限り紹介しますが出来上がるものは […]
+The post 音MADのためのビブラートの作り方 複数の方法 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【月報】2023.03]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-103.html</id>
