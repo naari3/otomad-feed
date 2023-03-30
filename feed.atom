@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-03-30T15:04:25.321Z</updated>
+    <updated>2023-03-30T16:04:27.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【月報】2023.03]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-103.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-103.html"/>
+        <updated>2023-03-30T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[サムネを作ることが低カロリーじゃないなってことに気付いたので今月からやめます！！！！！！！！！！！続けることに主眼を置いています　つまりはこれからもどうぞよろしくね]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運命を変える最高のパワースポット紹介]]></title>
         <id>https://note.com/cmblg/n/n620c72e65550</id>
