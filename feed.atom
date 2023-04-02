@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-04-02T02:17:26.667Z</updated>
+    <updated>2023-04-02T03:04:25.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近思ったこと]]></title>
+        <id>hatenablog://entry/4207112889977146341</id>
+        <link href="https://naari.hatenablog.com/entry/2023/04/02/113304"/>
+        <updated>2023-04-02T02:33:04.000Z</updated>
+        <summary type="html"><![CDATA[それぞれのセクションに繋がりはなく、独立した文章なので注意！
+nerdtronics(音楽イベントシリーズ)は音MADを「大っぴらにし辛い趣味」として捉えながらも好き続けた人にとって、単に良い音響で音MADを聞くこと以上に大きな意味のある環境なんじゃないかと思う。フロアに居た人々はこのイベントに足を運びたくなるほどに音MADが好きで、なんらかのネタに対して大きな声を出せるくらいには音MADに詳しい。そんな人間が箱いっぱいに入っていて、五感全てでその熱量を体感できる。ここまでして音MADに対する肯定を貰える環境って他に無い。
+個人的に、音MADを趣味としていることをそんなにたくさん下卑らなくてもいいんじゃないかなと思っている。この界隈自体の問題とか、音MADという行為自体の問題とか、考えるべきことはたくさんあるんだけど、それを抜きにして考えてみても他の二次創作系界隈に比べて後ろめたいもののように扱っている例をよく見る気がする。
+多分だけど、ニコニコ動画が2chのVIP派生みたいな文脈だったために発生した嫌儲的な意識が根深いっぽい気がしている。金銭の発生に関わらず、目立つのはやめよう*1とか、そういう方向に思想が動いていた結果なのかなあ。これについてはもう時代も変わったのだし、どこかのタイミングで誰かがある程度吹っ切れてみても面白いんじゃないかなと思っている。なんなら音MADで副次的にお金を得ようとする動きがあっても別に良さそう。現状を見るに音MADを主体として稼ごうとするのはあまりにも非効率っぽいし、非現実的らしいし、だとすれば現実的なところではなにか大きく言われるようなことはないんじゃないか？
+音楽の二次創作ってかなり楽観的に見られている気がするが、実際はどうなんだろう。古くはアーメンブレイクとか、hiphop系統のビートとか、最近だとhyperflipとか。dariaco…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[anond:20230401174443]]></title>
         <id>https://anond.hatelabo.jp/20230402032037</id>
@@ -25785,16 +25799,6 @@ Reactで日本語のクロスワードを扱うことができる @naari3/react-
 これはむかーし作ってたプロジェクトファイルを掘り起こしたもので、メインみたいな声の部分だけ完成していたので昨日でそれ以外を埋めた感じ。まず既にかなり完成されている音声にサンプルを乗っける作業になるのだが、これはやはりかなり楽しかった。どれだけやってもベースが凄いので、ずっと凄いままなの…]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MASHUP】メルティダンス【メルティランドナイトメア × YONA YONA DANCE】]]></title>
-        <id>https://sehatakuro.github.io/2022/04/03/mashup</id>
-        <link href="https://sehatakuro.github.io/2022/04/03/mashup"/>
-        <updated>2022-04-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[にゃあにめ · 【MASHUP】メルティダンス【メルティランドナイトメア × YONA YONA DANCE】]]></summary>
-        <author>
-            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>
