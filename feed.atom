@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-04-03T04:04:36.697Z</updated>
+    <updated>2023-04-03T05:04:49.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[？]]></title>
+        <id>https://note.com/nano_87g/n/n44c4920a76fc</id>
+        <link href="https://note.com/nano_87g/n/n44c4920a76fc"/>
+        <updated>2023-04-03T04:23:27.000Z</updated>
+        <summary type="html"><![CDATA[「無体受料験付中」だ！フルネーム？
+続きをみる]]></summary>
+        <author>
+            <name>なのはなぐらむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近思ったこと]]></title>
         <id>hatenablog://entry/4207112889977146341</id>
