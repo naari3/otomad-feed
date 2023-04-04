@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-04-04T15:04:35.793Z</updated>
+    <updated>2023-04-04T16:04:41.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -234,6 +234,16 @@ The post 音MADのためのビブラートの作り方 複数の方法 first app
         <summary type="html"><![CDATA[サムネを作ることが低カロリーじゃないなってことに気付いたので今月からやめます！！！！！！！！！！！続けることに主眼を置いています　つまりはこれからもどうぞよろしくね]]></summary>
         <author>
             <name>26K / にとろく</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HYPERFLIP OVERTURE - 舟をこぐ]]></title>
+        <id>https://sehatakuro.github.io/2023/03/31/hyperflip_overture</id>
+        <link href="https://sehatakuro.github.io/2023/03/31/hyperflip_overture"/>
+        <updated>2023-03-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[にゃあにめ · 舟をこぐ]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>
