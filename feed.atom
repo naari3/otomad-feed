@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-04-14T13:05:37.207Z</updated>
+    <updated>2023-04-14T14:04:17.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[衣/雨/天/雨/の/作/合/ー/ラ/ナ/ョ/リ]]></title>
+        <id>https://note.com/rainy_raincoat/n/nfd77553db417</id>
+        <link href="https://note.com/rainy_raincoat/n/nfd77553db417"/>
+        <updated>2023-04-14T13:56:09.000Z</updated>
+        <summary type="html"><![CDATA[どうも音に合わせて左右反転する雨天雨衣です
+間接的とはいえ内容が内容なのでちょっと空間を置きます
+
+
+続きをみる]]></summary>
+        <author>
+            <name>雨天雨衣</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[僕の考えたゲーム「SNSカードゲーム」の草案]]></title>
         <id>https://note.com/aun6june/n/n0ee6096b7c0d</id>
@@ -405,6 +419,16 @@ so-vits-svcはディープフェイク的な声の模倣である一方、既存
 続きをみる]]></summary>
         <author>
             <name>Anzato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3DCG]]></title>
+        <id>https://sehatakuro.github.io/2023/04/07/3DCG</id>
+        <link href="https://sehatakuro.github.io/2023/04/07/3DCG"/>
+        <updated>2023-04-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sorry, your browser doesn't support embedded videos.]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>
