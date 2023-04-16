@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-04-16T01:32:15.953Z</updated>
+    <updated>2023-04-16T02:19:58.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -25456,18 +25456,6 @@ Mother、FE、悪魔城とより取り見取り。どれからやりましょう
 OS故障が原因であるため、OSを初期化するしかないらしい。（ベスト電器で買ったのでそこで修理を依頼、修理費２万ほど）
 その際、データが消えるというのでAOSのデータ復旧サービスを利用した。
 復旧費約５万円！うせやろ！？（データを入れる外付けHDDは別費）
-続きをみる]]></summary>
-        <author>
-            <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BB素材を作る方法]]></title>
-        <id>https://note.com/furadiru_99/n/n77a0bd5611aa</id>
-        <link href="https://note.com/furadiru_99/n/n77a0bd5611aa"/>
-        <updated>2022-04-16T14:07:51.000Z</updated>
-        <summary type="html"><![CDATA[切り抜く動画をPNGやBMPで連番出力する。（プラグイン必須）
-
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
