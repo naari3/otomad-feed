@@ -9333,6 +9333,21 @@
       "siteUrl": "https://underdefinition.hatenadiary.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/4207112889983104124",
+          "author": null,
+          "description": "muneohouse.net\n管理人のhightimeさんから連絡を頂きました。「原因は自宅サーバのHDDのMBR破損、復旧時期未定」とのこと。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20230416/p1",
+          "publishedOn": "2023-04-16T14:59:01.000Z",
+          "wordCount": 930,
+          "title": "muneohouse.net 停止中",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/u/underdefinition/20230422/20230422063039.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/u/underdefinition/20230422/20230422063039.jpg"
+        },
+        {
           "id": "hatenablog://entry/4207112889971769579",
           "author": null,
           "description": "【速報】宇和島市がソメイヨシノ開花宣言　全国で２番目 (愛媛新聞ONLINE)\n本日、宇和島市から開花宣言が出ました。昨日14日の東京に次いで全国で二番目。",
