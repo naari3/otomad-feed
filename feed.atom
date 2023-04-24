@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-04-24T14:04:37.364Z</updated>
+    <updated>2023-04-24T15:04:47.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『映画大好きポンポさん』感想（ネタバレ有） #26Kinema]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-104.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-104.html"/>
+        <updated>2023-04-24T14:24:28.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ツイッターログ 4月15-23]]></title>
         <id>hatenablog://entry/4207112889984212495</id>
