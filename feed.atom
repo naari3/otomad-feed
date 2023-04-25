@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-04-25T08:04:49.966Z</updated>
+    <updated>2023-04-25T09:04:53.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[僕がニコニコメドレーを作る理由4選]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-105.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-105.html"/>
+        <updated>2023-04-25T09:03:34.000Z</updated>
+        <summary type="html"><![CDATA[「音楽」「インターネット」「物語性」「パズル」の4つです。順に掘り下げてみましょう。なお、今回他者の介在については極力触れないものとします。（例：好きなことやコンテンツを他人に表現できる、メドレーを合作に使ってもらう、等）ではLet's Go!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230424「無題」]]></title>
         <id>hatenablog://entry/4207112889984277791</id>
