@@ -7723,21 +7723,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220430/20220430201517.png"
-        },
-        {
-          "id": "hatenablog://entry/13574176438086830023",
-          "author": null,
-          "description": "ずっとSoundtoysのプラグインが原因だと思っていたAbleton Liveのクラッシュが、ちゃんと追ってみると実はそうではなかったという話。\n割と前からTwitterで騒いでいたようにずっと困っていたんだけど、今回M3や荷鞍のための制作に対してちゃんと支障をきたしていたので真面目に調べてみた。\n\nAbleton liveにSoundtoysのプラグイン入れてつけっぱにしてたらぜったいこれなる pic.twitter.com/sfmOwUxjIJ\n— なあり (@_naari_) 2021年2月14日\n  \n\nsoundtoysのプラグインには、一定時間ごとにDAWを閉じるという画期的な機能がついています\n— なあり (@_naari_) 2021年10月23日\n  \nまず、Soundtoysがわるいという先入観を捨て、クラッシュ時に生成されるメモリダンプを確認する。\nこんなファイル↓\n\n見つけたらこれをWinDbg Previewに突っ込む。\nここにdmpファイルを入れる\n\nそしたら 0:000> の横にある空欄に !analyze -v を入れてEnterを叩く。\nすると、以下のような結果が得られる\n\nこのうち注目すべきは赤線を引いた箇所で、ここを見るとどういった例外がどこで起きているのかが分かる。今回の場合は MeldaProductionAudioPluginKernelV1164 って書いてありますね…………………アクセス違反を起こしている……freeした後に触っちゃったのだろうか………………\nもしかすると、Soundtoysのプラグインが大きく目立っていたのはプラグインホストであるAbleton Liveが落ちたからであって、Ableton Liveを落とすと同時に大きく目立っていたわけではなかったのかもしれない。ずっと疑っててごめん。\nで、実際にAbleton Liveがクラッシュしないようにする必要があるわけだけれど、まず最初に問題となっているプラグインのアップデートを試してみる。こういった問題がアップデートによって解決されることはけっこうある。MeldaProductionAudioPluginKernelV1164 というのはMeldaProductionのバンドルに入っているプラグインから共通で参照されるdllらしい。ということでバンドル自体をアップデートしたら、無事クラッシュが再現しなくなった。ずっと起動し続けていても落ちなくなった。めでたし。\n詳細な再現手順を作成することはできなかったので、なにかの相性問題なのか、またはプラグイン自体にそういったバグがあるのか、詳細はわからなかった。が、定期的な更新がある限り、古いプラグインを使い続けていること自体が何らかの原因になることは確かにあるので、いつか必ずやってくる嫌な事象に当たりたくなければアップデートし続ける必要があるのだと思う。\nその上で、やはり推測ではなく計測が大事だということもよくわかった。特に思い込みは怖いので、一度冷静になる必要があるのだろう。",
-          "link": "https://naari.hatenablog.com/entry/2022/04/28/023243",
-          "publishedOn": "2022-04-27T17:32:43.000Z",
-          "wordCount": 141,
-          "title": "まともにクラッシュダンプを読んだらAbleton Liveのクラッシュを止めることができた",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220428/20220428023103.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220428/20220428023103.png"
         }
       ]
     },
