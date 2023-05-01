@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-01T11:04:02.998Z</updated>
+    <updated>2023-05-01T12:05:41.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -24577,16 +24577,6 @@ youtu.be]]></summary>
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>KZ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022春音楽]]></title>
-        <id>https://sehatakuro.github.io/2022/05/02/favmusic</id>
-        <link href="https://sehatakuro.github.io/2022/05/02/favmusic"/>
-        <updated>2022-05-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近Spotifyのプレイリストで毎月の好きな曲を作るのが流行ってるらしいので、ぼくも真似しよと思ってやってみようと思います。]]></summary>
-        <author>
-            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>
