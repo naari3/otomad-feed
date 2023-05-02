@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-02T09:04:20.544Z</updated>
+    <updated>2023-05-02T10:04:29.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#57 4月4週]]></title>
+        <id>hatenablog://entry/4207575160645349882</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/05/02/181235"/>
+        <updated>2023-05-02T09:12:35.000Z</updated>
+        <summary type="html"><![CDATA[音MADを投稿した。見てね。
+www.nicovideo.jp
+REAPERの動画編集機能が神すぎて、1日で動画が出来た。便利。
+5月末にも投稿したい。
+ 
+モンストがまだ続いている。
+
+
+超獣神祭で強い奴らを引けた。ラッキー。
+ 
+天皇賞・春、久々に当たった。
+1000円が8000円になって、今年の収支もプラスになった。ディープボンドありがとう。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2023/04]]></title>
         <id>hatenablog://entry/4207575160645313139</id>
