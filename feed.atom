@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-03T00:13:22.819Z</updated>
+    <updated>2023-05-03T01:31:25.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[行くぜ、ニコニコ超会議]]></title>
+        <id>https://note.com/dokozonosyake/n/n9070c57a0fda</id>
+        <link href="https://note.com/dokozonosyake/n/n9070c57a0fda"/>
+        <updated>2023-05-03T00:04:35.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、しゃけです。
+昔いた音MAD界隈からすっかり離れてしまい、ニコ動を観る機会も激減していた今日このごろ。
+ニコニコ超会議の存在は5、6年前から知っていたものの、故郷滋賀県から参戦するには厳しいものがありました。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230501「サッカーと私にまつわるいくつかの断片」]]></title>
         <id>hatenablog://entry/4207575160645483804</id>
