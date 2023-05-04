@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-04T11:04:08.106Z</updated>
+    <updated>2023-05-04T12:05:11.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[otoFAに描いてあるもの]]></title>
+        <id>https://note.com/wake_otomad/n/ndaa3f16b4312</id>
+        <link href="https://note.com/wake_otomad/n/ndaa3f16b4312"/>
+        <updated>2023-05-04T11:59:04.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+４月末からイラストの練習を兼ねて「音MADを投稿しているアカウントを絵にしたファンアート」を描いています。だいぶ溜まってきたので元ネタとかをここに書きます
+続きをみる]]></summary>
+        <author>
+            <name>ゎけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無機物や犬が歌う！？ Vocalizerの使い方]]></title>
         <id>https://ytpmv.info/?p=1753</id>
