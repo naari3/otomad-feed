@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-04T23:04:40.278Z</updated>
+    <updated>2023-05-05T00:12:55.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[そうだ、デスクDIYしよう。]]></title>
+        <id>https://note.com/dokozonosyake/n/nc7041f744fa0</id>
+        <link href="https://note.com/dokozonosyake/n/nc7041f744fa0"/>
+        <updated>2023-05-04T23:29:07.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、しゃけです。
+僕が神奈川県に引っ越して1ヶ月弱くらい経ちました。そろそろ慣れてきた頃です。
+新生活なんて無いものだらけのところから始まっていくものですが、そのひとつがデスクですよ。
+今はニトリの小さな折りたたみデスクを使っているのですが、なにしろ勉強も作業も食事も兼用の状態。スペースも狭いし、ずっとこれでいくわけにもいかない。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[otoFAに描いてあるもの]]></title>
         <id>https://note.com/wake_otomad/n/ndaa3f16b4312</id>
