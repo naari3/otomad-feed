@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-07T12:05:02.870Z</updated>
+    <updated>2023-05-07T13:04:19.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[着工できなかった音MADアイデアを晒す回]]></title>
+        <id>https://note.com/fourangle/n/na4e5970e1b0a</id>
+        <link href="https://note.com/fourangle/n/na4e5970e1b0a"/>
+        <updated>2023-05-07T12:45:12.000Z</updated>
+        <summary type="html"><![CDATA[四角です。前回ちょっと落ち込んでる記事だったので申し訳ないですが、ちょっと延長線上にもある記事です。けど今回の内容自体はそこまで落ち込んでるやつではないので気楽に見て頂いても構いません。
+実際の初投稿から8年、ニコニコ初投稿から6年を過ごしてるなか、本当に沢山「作りたい！」と強烈に思ってしまうアイデアがいくつがあります。ただし、能力不足で欲しい表現ができないのを恐れて着工すらできなかったものがだいたいです。そんなかでは今までも「これはやりたいな～」ってなってるやつもいますが、表現力が整った最近はまた時間とやる気の不足に恐れてまた手を出せずに眠らせてる状態です。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わかさぎ姫のコスプレ産卵AVクラウドファンディングについて]]></title>
         <id>https://note.com/oouc2/n/nf09490caf2a6</id>
