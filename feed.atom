@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-09T01:31:16.182Z</updated>
+    <updated>2023-05-09T02:18:15.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なにもしてないのに]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1238.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1238.html"/>
+        <updated>2023-05-09T02:05:56.000Z</updated>
+        <summary type="html"><![CDATA[なんもしてないのにインターネットがちょっと壊れます  荒波です今週もなにもしていない・・・ひさびさにヴァーレンやったらくそ楽しくなっちゃってそれだけやってました特にコメントする事もないあのゲーム気付いたら時間溶けてる系だから一旦クリアした後の虚無感すごいんですよねまたすぐ別のプレイはじめちゃうんだけどもとか言ってる間に1週間っすよ  ニートの辛いとこね絆のアリルなにげに観てるけど2クールあんのかって位話]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230508「さよならポニーテールにカバーしてほしい曲」]]></title>
         <id>hatenablog://entry/4207575160646997804</id>
