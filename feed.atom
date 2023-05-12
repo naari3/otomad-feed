@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-12T07:03:59.933Z</updated>
+    <updated>2023-05-12T08:04:50.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[豆から挽く、「ちょっと良いめ」なコーヒー生活]]></title>
+        <id>https://note.com/dokozonosyake/n/ne9473f237ec1</id>
+        <link href="https://note.com/dokozonosyake/n/ne9473f237ec1"/>
+        <updated>2023-05-12T07:29:03.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。最近身の回りをおしゃれにすることにハマっているしゃけです。嫌味にならない程度にしないとね。
+今回のチャレンジは「コーヒーを豆から挽いて淹れてみよう」です。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年の音MAD10選今更コメント書く]]></title>
         <id>hatenablog://entry/4207575160648097658</id>
