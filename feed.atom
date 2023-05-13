@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-13T14:04:20.271Z</updated>
+    <updated>2023-05-13T15:04:04.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【音MDM天 特別番組】音MAD史 第1話「音MADの幕開け ～インターネットの海は我々を受け入れた～」]]></title>
+        <id>hatenablog://entry/4207575160648630426</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20230513/p1"/>
+        <updated>2023-05-13T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[音MAD DREAM MATCH -天-【音MDM天】 (@otoMDM) / Twitter
+今年、ニコニコの所謂"音MAD"界隈で開催されるイベント「音MAD DREAM MATCH -天-」に併せて制作された特別番組の第一回。音MADの歴史の一部としてムネオハウスが紹介されていました。また映像中では「yabaiyo PV」及び2002年4月2日放送 日本テレビ系「ズームイン!SUPER」でのモーリー・ロバートソン氏のコメントが流れていました。
+(2001年 Hatten ar Dinの話題から)
+
+そして2002年3月、ムネオハウスが誕生します。
+
+2ちゃんねるのテクノ板に突如建てられた「アシッドハウス=ムネオハウス」というスレッド。そこにて、日本の政治家である鈴木宗男氏が違法に建てたかもしれない、とされる北海道のある建物、通称「ムネオハウス」に関する証人喚問での答弁をサンプリングした楽曲が投稿されました。それは音MADのセリフ合わせそのものであり、その後も有志によって「テクノミュージックX政治家」という異色の組み合わせの楽曲がつくられていきます。これらの楽曲に心動かされた2ちゃんねる住民達は、多くの板やサイトにまでムーブメントを広げ、フラッシュ動画も制作されていきます。当時、まだインターネットが今ほど身近ではなかった時代に、テレビでも取り上げられるほどの一大コンテンツへと昇華させていったのです。
+
+そしてその手法は、より今日に近い形に変貌を遂げていきます。
+(以下、2003年の巫女みこナースの話題に続く)
+【音MDM天 特別番組】音MAD史 第1話 - 2023/5/13(土) 21:00開始 - ニコニコ生放送(12:00頃～)
+この他にも、17分頃、2004年の"接点T"の話題で「『荻野ハウス』『荻野ラップ』など、ムネオハウスの流れを継承しつつ、既存曲と組み合わせるような音MADとしての基礎が出来上がっていくのです。」、21分頃の2007年4月の話題の中「外山恒一の動画も投稿され、ニコニコ動画で「政見MAD」というムネオハウスを彷彿とさせるジャンルも出てきます」といった形での言及がありました。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230512「入手したCD雑記」]]></title>
         <id>hatenablog://entry/4207575160648353176</id>
