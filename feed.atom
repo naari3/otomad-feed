@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-14T08:04:14.602Z</updated>
+    <updated>2023-05-14T09:04:20.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニコニコ動画の非表示投稿者を完全に消すStylusコード]]></title>
+        <id>https://note.com/tanbatu/n/nadb0853b3ea2</id>
+        <link href="https://note.com/tanbatu/n/nadb0853b3ea2"/>
+        <updated>2023-05-14T08:57:22.000Z</updated>
+        <summary type="html"><![CDATA[div[data-muted]{    display:none;}
+前後
+続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2023年5月-②】悪夢ボコボコTV]]></title>
+        <id>hatenablog://entry/4207575160648819100</id>
+        <link href="https://crabgot.hatenablog.com/entry/2023/05/14/175713"/>
+        <updated>2023-05-14T08:57:13.000Z</updated>
+        <summary type="html"><![CDATA[悪夢
+気持ち悪い夢を見ました。なのでツッコミを入れることでボコボコにします。
+2023/05/10 12:36
+めちゃくちゃ怖い夢
+町全体で呪いが発生し、人間がどんどん衰弱していく
+呪いは衰弱させるだけでなく実体化して人間を襲うし、直接殺しに来る
+自分と兄弟だけは無事で家の中で立て籠もることになる
+でも家族はどんどん弱っていくし、呪いを消しに来た僧侶（バナナマン日村）もあと一歩のところで敗北し倒れる
+呪いは壁から刀が飛び出して頭を突き刺しに来るし、壁を腐敗させて強行突破してくる
+鍵を締めてもあらゆる場所から出現する
+死にかけの日村さんに「どうすることもできないんですか！？」と聞いてもこうなってしまっては諦めるしか無いと言われ絶望
+最後に残ったセーフルームにいる兄弟に事情を説明しに戻ると、兄弟も衰弱していた
+どうしようもなくそのまま眠るように倒れて、そこで夢が終わった
+夢だからこんなもんメチャクチャですよ。重箱の隅突いてやりますからね
+呪いは衰弱させるだけでなく実体化して人間を襲うし、直接殺しに来る
+実体化すんな！アホ！
+呪いを消しに来た僧侶（バナナマン日村）もあと一歩のところで敗北し倒れる
+なんで日村が僧侶やってんだよ
+あと負けんなよ
+呪いは壁から刀が飛び出して頭を突き刺しに来るし、壁を腐敗させて強行突破してくる
+結構物理で攻めてくるんだね。あとここに書いてないけど確かこの腐敗させる技、壁に「呪」って文字が浮かび上がってからボゴーン！って壁がくだけてたんだよね。表現がバカすぎるだろ
+死にかけの日村さんに「どうすることもできないんですか！？」と聞いてもこうなってしまっては諦めるしか無いと言われ絶望
+俺も俺で日村さんに頼りすぎるなよ
+どうしようもなくそのまま眠るように倒れて、そこで夢が終わった
+悲しい。
+ 
+雑魚がよ、二度と俺の夢を怖くするなよ
+ 
+ 
+じゃ！]]></summary>
+        <author>
+            <name>なんて巨大なカニゴット</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【音MDM天 特別番組】音MAD史 第1話「音MADの幕開け ～インターネットの海は我々を受け入れた～」]]></title>
         <id>hatenablog://entry/4207575160648630426</id>
