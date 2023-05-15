@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-15T10:04:13.456Z</updated>
+    <updated>2023-05-15T11:04:15.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ごめお]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1239.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1239.html"/>
+        <updated>2023-05-15T10:04:51.000Z</updated>
+        <summary type="html"><![CDATA[elinにそなえて一度ノースティリスへ帰ってきました  荒波です最後にちゃんと遊んだのは3年ほど前だったらしい  はやいものでで、ぬるめたキャラ作って遊んでたデータで引き続きやる事にまず、たぶん当時未登場だったごめさんに来ていただきました28歳みたいですが気にしないでくださいどのペットにするか悩んだけど、前衛二人に魔法使い＋ガンナーちあきってPTだったので後衛からいい感じに投擲とデバフで支援してくれるパペット]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230515「R18ライブコメントbotで好きなツイート」]]></title>
         <id>hatenablog://entry/4207575160648989265</id>
