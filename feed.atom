@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-18T15:04:13.698Z</updated>
+    <updated>2023-05-18T16:04:19.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上半期の良さげ動画　たくさん選]]></title>
+        <id>https://note.com/qreg/n/n915d81059eb3</id>
+        <link href="https://note.com/qreg/n/n915d81059eb3"/>
+        <updated>2023-05-18T15:31:59.000Z</updated>
+        <summary type="html"><![CDATA[書きます！書きたくなったので
+5月で上半期のまとめみたいな事していいのかな まあいっか だいたい上半期だよね
+今年は新着順で音MADが追えているので、既に10選候補マイリスが10個埋まっています。いいことだ
+続きをみる]]></summary>
+        <author>
+            <name>くれがしら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[複垢の話]]></title>
         <id>https://note.com/sweets_farting/n/n65ea5f32e87c</id>
