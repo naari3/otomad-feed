@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-23T13:05:42.002Z</updated>
+    <updated>2023-05-23T14:04:29.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#60 5月3週]]></title>
+        <id>hatenablog://entry/820878482935003362</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/05/23/222144"/>
+        <updated>2023-05-23T13:21:44.000Z</updated>
+        <summary type="html"><![CDATA[参加した合作が投稿された。見てね。バズってるパートの一個前です。
+www.nicovideo.jp
+ 
+この週末はずっと音MAD関連の作業をしていた。REAPERのTipsを2つ得たので共有しておきます。俺以外みんな知ってそう。
+・「アイテム内の選択範囲をコピー」のショートカットキー設定をすると……便利！
+・タイムラインのとこでコロコロしたら横方向に拡大・縮小されるけど、トラックパネル？のとこでコロコロすると縦に動く（マウスホイールを転がすのってなんかそれっぽい名前無いんですかね）
+2つ目のやつ、画面に収まりきらないトラック数になることが年一くらいでしかないので気付きませんでした。
+細かいテクニックとかVSTとかのことならともかく、9年目にもなってこんな基本操作っぽいことでもまだ知らないことがあるの、面白いですね。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【企画告知】この曲俺しか知らないでしょ音MADイベント2 開催します！]]></title>
         <id>https://note.com/banfuture9/n/nd4b5c29dfdc3</id>
