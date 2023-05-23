@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-23T05:03:58.088Z</updated>
+    <updated>2023-05-23T06:04:41.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230523_名]]></title>
+        <id>https://note.com/kokeshi_short/n/nc89096e4ffec</id>
+        <link href="https://note.com/kokeshi_short/n/nc89096e4ffec"/>
+        <updated>2023-05-23T05:38:34.000Z</updated>
+        <summary type="html"><![CDATA[名前の由来について
+こけしです。
+由来は️『日常』の回路ショート君です。音MADを投稿するようになるまではTwitterではこの名前だった気がします。
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苦尽甘来ってなに？]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1240.html</id>
