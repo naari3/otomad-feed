@@ -7393,36 +7393,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220605/20220605223836.png"
-        },
-        {
-          "id": "hatenablog://entry/13574176438096940203",
-          "author": null,
-          "description": "身内でTerrariaが流行っている。このゲームは知っておかなければならないことが無限に存在し、特にハードモード以降はTerraria Japan Wikiに頼り切りにならなければやっていくことができない。で、PowerToys Runでプラグインを作ることができればかなり丁度良いのではないか？となって、調べたらどうやらいけそうだったので作った。PowerToys Runでプラグインを作るための記事はこちらでどうぞ。\nこんな感じのプラグインになった。Terraria Japan Wikiの検索結果をそのまま表示した上で、項目を選択するとデフォルトのブラウザでページが開くようになる。\n\nGitHub Releasesにて配布中。Terrariaプレイヤーはぜひとも使ってみてください。\nGitHub - naari3/terraria-japan-wiki-PowerToysRun: PowerToys Run Plugin for Terraria Japan Wiki Search\nPowerToys Runのプラグインを自作する - 名有りさんの日記\nプラグイン制作についての記事は↑で書いた。\n自分で作ったものを褒めるのもなんだけれど、まじで便利。ほんとうに便利で、これがないとTerrariaをやりたくないというくらいにはなっている。なくてはならないプラグインとなってしまった。\nPowerToys Runのプラグイン制作はマジで可能性を感じるので、何か必要に応じて作っていきたいね。",
-          "link": "https://naari.hatenablog.com/entry/2022/05/29/141049",
-          "publishedOn": "2022-05-29T05:10:49.000Z",
-          "wordCount": 127,
-          "title": "Terrariaの日本語Wikiを検索するPowerToys Runのプラグインを作った",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220529/20220529132636.gif",
-            "type": "image/gif",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20220529/20220529132636.gif"
-        },
-        {
-          "id": "hatenablog://entry/13574176438096880557",
-          "author": null,
-          "description": "Microsoftが出しているPowerToysというユーティリティ集が存在する。便利なユーティリティが集合したものだが、詳細についてはこちらを見て欲しい。\n今回はこの中のPowerToys Runに注目する。PowerToys Runとは、ショートカットキーによって検索窓を表示してくれる機能で、macOSのSpotlightのWindows版と想像してくれるとわかりやすいと思う。\n\nこの検索結果一覧は様々な種類があり、例えば ファイル/フォルダの検索や、そのまま標準ブラウザを開いてくれる機能、VSCodeのワークスペースを検索する機能などがある。これらは、内部ではPluginとして個別に実装されている。\nPowerToys/src/modules/launcher/Plugins at main · microsoft/PowerToys · GitHub\nこれが、以下のパスに設置されている。\nC:\\Program Files\\PowerToys\\modules\\launcher\\Plugins\nこれに対し、自分で好きな実装を施したプラグインを作るのが今回の目的。\nその前に\n現時点でサードパーティ製のプラグインはunsupportedなもので、扱いについては現在もこちらのissueで議論され続けているので、もしかしたら急にすべてが壊れるかもしれない。しかし、好意的な方向には見えるのでそんなに大きく事が変わることはないはず。\nかんたんなプラグインを作る\nまず、Pluginsの依存する各種ライブラリを用意するところから始める。以下の4つが対象だが、2022年5月29日現在はNuGet等には公開されていない*1ので PowerToys を自分でビルドするか、PowerToysインストール後に C:\\Program Files\\PowerToys\\modules\\launcher…",
-          "link": "https://naari.hatenablog.com/entry/2022/05/29/141028",
-          "publishedOn": "2022-05-29T05:10:28.000Z",
-          "wordCount": 494,
-          "title": "PowerToys Runのプラグインを自作する",
-          "enclosure": {
-            "url": "https://docs.microsoft.com/ja-jp/windows/images/pt-powerrun-demo.gif",
-            "type": "image/gif",
-            "length": "0"
-          },
-          "imageUrl": "https://docs.microsoft.com/ja-jp/windows/images/pt-powerrun-demo.gif"
         }
       ]
     },
