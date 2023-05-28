@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-28T15:04:33.058Z</updated>
+    <updated>2023-05-28T16:04:33.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230529_ごー]]></title>
+        <id>https://note.com/kokeshi_short/n/n04d0dbf35f05</id>
+        <link href="https://note.com/kokeshi_short/n/n04d0dbf35f05"/>
+        <updated>2023-05-28T15:49:11.000Z</updated>
+        <summary type="html"><![CDATA[毎日10秒進捗あっても2週間で140秒しか進まないことに気付きました。本格的にまずい！
+今作ってる進捗は出さない方がいいな
+自分がもし見る側だったら楽しみが減っちゃうから
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年5月-④】話2]]></title>
         <id>hatenablog://entry/820878482936358464</id>
