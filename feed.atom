@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-05-29T16:04:25.001Z</updated>
+    <updated>2023-05-29T17:04:22.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今後のついて]]></title>
+        <id>https://note.com/fourangle/n/nc160bc09197a</id>
+        <link href="https://note.com/fourangle/n/nc160bc09197a"/>
+        <updated>2023-05-29T16:34:15.000Z</updated>
+        <summary type="html"><![CDATA[今からは活動を「落ち着かせる」のが一番の目標にするつもりです。もう皆さん気づいてるかもしれませんが自分はサガの10選入りからずっと色々浮かんでずっと空振っていましたが、その迷走をいい加減やめるのが今からの第一のやりたいことです。
+実はここまで界隈への業績作りに粘ったのは理由がありはしました。私自身が海外勢であり、みんなと自由に会えることができずである「ネット生命体」と言っても過言ではないためずっと「何かで自分を表現していないと界隈から忘れされるのは時間の問題」と思い込んでいたからです。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウォーターメロン]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1241.html</id>
