@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-02T19:04:06.397Z</updated>
+    <updated>2023-06-02T20:04:43.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -24246,25 +24246,6 @@ $ curl 'https://util.quals.beginners.seccon.jp/util/ping' -H 'Content-Type: appl
         <updated>2022-06-03T11:49:12.000Z</updated>
         <summary type="html"><![CDATA[こんばんは。まさかの1日で連投です。
 今度は 隼(はやぶさ)413号さん制作の「準１級四字熟語９１６」から、意味・解説を付記した表のご紹介です。本当は1週間くらいで完成させるつもりだったのですが、学校生活との兼ね合いもあって少し遅れてしまいました。
-続きをみる]]></summary>
-        <author>
-            <name>しゃけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常用漢字の表外読み（ほぼ）一覧  プレゼントはこちら]]></title>
-        <id>https://note.com/dokozonosyake/n/nde14780b52ce</id>
-        <link href="https://note.com/dokozonosyake/n/nde14780b52ce"/>
-        <updated>2022-06-03T07:54:06.000Z</updated>
-        <summary type="html"><![CDATA[本試験まであと2週間強といったところですが、いかがお過ごしでしょうか。
-今回はしゃけオリジナル資料のご紹介です。
-準1級精選演習に付属していた「常用漢字の表内外音訓表」から表外読みの一覧を作りました。
-内容は訓読みが2441問、音読みが603問となっています。
-送り仮名が同じものは1問に統合し、複数の答えを設ける仕様にしています。
-（例：諧う・・・かなう/ととのう）
-送り仮名がある訓読みについて、語幹が同じものは一つに省略した場合があります。
-（例：哀しい「かなしい」と 哀しむ「かなしむ」）
-このデータはQuizletでも学習することができます。こちらもぜひご利用ください。
 続きをみる]]></summary>
         <author>
             <name>しゃけ</name>
