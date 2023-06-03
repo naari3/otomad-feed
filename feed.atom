@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-03T14:03:54.815Z</updated>
+    <updated>2023-06-03T15:03:57.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[尿々糞々(にょにょぷんぷん)]]></title>
+        <id>https://note.com/ssaymds/n/nbd50c4894977</id>
+        <link href="https://note.com/ssaymds/n/nbd50c4894977"/>
+        <updated>2023-06-03T14:03:32.000Z</updated>
+        <summary type="html"><![CDATA[巨大挨拶で申し訳ありません、こんにちはておつくと申します
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ておつく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年6月-①】良かった動画を振り返ろう（2023年4月, 5月）]]></title>
         <id>hatenablog://entry/820878482938395580</id>
