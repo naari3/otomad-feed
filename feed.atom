@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-04T06:04:43.792Z</updated>
+    <updated>2023-06-04T07:04:06.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[体調崩壊太郎の1週]]></title>
+        <id>https://note.com/fourangle/n/nacd3884a3e0d</id>
+        <link href="https://note.com/fourangle/n/nacd3884a3e0d"/>
+        <updated>2023-06-04T06:16:24.000Z</updated>
+        <summary type="html"><![CDATA[5.29普通に休みで、5.30なんとなく会社に行ってきたら週末にうちの部屋に泊まって行った親から父親が酷い風邪にあったと連絡。なんとなく大丈夫でしょうと思ったけど明日の朝すぐ喉が痛めてきた。
+5.31日が特に〆切とかのわけじゃないが協力社から「早く提出しないと私達大変なことになりますので」って凄い圧力かけられた書類を提出しようとした日。何故か中年の幹部急しかいない部署に配置された離れ離れな新参の私は、電算上の提出に慣れてないみんなのかわりにこれを任された。当然ベテランも難しがる仕事を自分が完璧にこなせるわけがなく検討だけ1日中を過ごした。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尿々糞々(にょにょぷんぷん)]]></title>
         <id>https://note.com/ssaymds/n/nbd50c4894977</id>
@@ -24293,16 +24305,6 @@ $ curl 'https://util.quals.beginners.seccon.jp/util/ping' -H 'Content-Type: appl
 続きをみる]]></summary>
         <author>
             <name>しゃけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぷくぷく]]></title>
-        <id>https://hiiragidono.blog.fc2.com/blog-entry-1179.html</id>
-        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1179.html"/>
-        <updated>2022-06-04T18:39:39.000Z</updated>
-        <summary type="html"><![CDATA[新クエストなかなか眼福でよかった煙緋changが主役でうれしい未だにデートイベントのない彼女だが（めちゃめちゃデートしたい……）メイン級クエストで二度もメインを張るとはなかなかの待遇をされているな大好きなので会えれば会えるほど良いですにしてもお前らそんな表情豊かだったのって位いい顔するのでスクショがとまりませんでした顔芸どんどん増えてきてる気がする  かわいいね肝心のストーリーは謎まみれだけどおもしろかっ]]></summary>
-        <author>
-            <name>柊殿</name>
         </author>
     </entry>
     <entry>
