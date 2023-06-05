@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-05T15:04:14.815Z</updated>
+    <updated>2023-06-05T16:04:25.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[これが本当のグラデュエーションnote]]></title>
+        <id>https://note.com/ssaymds/n/n44f5668941fd</id>
+        <link href="https://note.com/ssaymds/n/n44f5668941fd"/>
+        <updated>2023-06-05T15:19:42.000Z</updated>
+        <summary type="html"><![CDATA[最近面白かった事は、夜テレビ見てたらクイズ番組が終わった直後別のクイズ番組が始まった事です
+こんにちは、ておつくです
+続きをみる]]></summary>
+        <author>
+            <name>ておつく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帝京平成大学の話]]></title>
         <id>https://note.com/sweets_farting/n/ndf03d092fd76</id>
