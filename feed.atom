@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-05T10:04:19.049Z</updated>
+    <updated>2023-06-05T11:04:01.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[じめ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1243.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1243.html"/>
+        <updated>2023-06-05T10:35:35.000Z</updated>
+        <summary type="html"><![CDATA[このまえサンドバッグで鍛えたヒーラーちゃん、誰にするか悩んだ結果、ヒーラーっぽいという理由で七倉さんになりましたそのうち育てるつもりで留守番させてた妖精さんのれおちゃんも加わり賑やかになってきた装備供給がおっつきませんちょっとの間改宗してオパ子も仲間にするつもりなんだけどマジでジェノパしまくるなどして装備集めせねばやる事が無限にある今週はボーっと動画みたり寝たりする時間が長かったななんもしてね～で]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230604「読書日記（漫画編）」]]></title>
         <id>hatenablog://entry/820878482938690110</id>
