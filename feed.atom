@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-10T14:04:21.448Z</updated>
+    <updated>2023-06-10T15:04:00.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230610_わ]]></title>
+        <id>https://note.com/kokeshi_short/n/ndb9499276f80</id>
+        <link href="https://note.com/kokeshi_short/n/ndb9499276f80"/>
+        <updated>2023-06-10T14:23:53.000Z</updated>
+        <summary type="html"><![CDATA[音声3分の1できました！
+ブロッコリーを煮ます！
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年6月-②】口内炎2023]]></title>
         <id>hatenablog://entry/820878482940492990</id>
