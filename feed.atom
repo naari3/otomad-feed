@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-15T12:05:28.268Z</updated>
+    <updated>2023-06-15T13:06:35.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[◆%□さんがいなくなってから寂しさ...]]></title>
+        <id>https://note.com/nendo31/n/n3e4420dd5579</id>
+        <link href="https://note.com/nendo31/n/n3e4420dd5579"/>
+        <updated>2023-06-15T12:29:25.000Z</updated>
+        <summary type="html"><![CDATA[◆%□さんがいなくなってから寂しさが溜まる
+復帰の予定とかって焼きライス一切ないんですか 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sm42355023 について]]></title>
         <id>hatenablog://entry/820878482941812087</id>
