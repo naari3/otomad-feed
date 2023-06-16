@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-16T15:04:01.603Z</updated>
+    <updated>2023-06-16T16:04:17.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【告知】ボカコレ×音MAD投稿祭　開催のお知らせ]]></title>
+        <id>https://note.com/elminus/n/na25a0bb4f7ce</id>
+        <link href="https://note.com/elminus/n/na25a0bb4f7ce"/>
+        <updated>2023-06-16T15:05:49.000Z</updated>
+        <summary type="html"><![CDATA[今年の夏に開催されるボカコレ2023Summerに合わせ、イベントを開催しようと思います。
+企画概要
+続きをみる]]></summary>
+        <author>
+            <name>エルミナス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#63 6月2週]]></title>
         <id>hatenablog://entry/820878482941629201</id>
