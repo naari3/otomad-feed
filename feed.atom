@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-18T14:04:02.775Z</updated>
+    <updated>2023-06-18T15:04:05.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[懲罰(CHO BATSU)]]></title>
+        <id>hatenablog://entry/820878482942764420</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20230618/p1"/>
+        <updated>2023-06-18T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[ogane - YouTube
+ogane (@ogane) / Twitter
+本日YouTubeで公開。今年３月までのガーシー議員(当時)の問題で注目された参院懲罰委員会での委員長としての発言がサンプリングされていました。
+
+https://www.youtube.com/watch?v=zr5cVUhJoHk:embeded]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仕事中の思考]]></title>
         <id>hatenablog://entry/820878482942511117</id>
