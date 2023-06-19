@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-19T06:05:13.056Z</updated>
+    <updated>2023-06-19T07:05:20.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[この曲音MADイベ2]]></title>
+        <id>https://example.com/posts/2023/06/konokyoku2/</id>
+        <link href="https://example.com/posts/2023/06/konokyoku2/"/>
+        <updated>2023-06-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[説明 #
+この曲俺しか知らないでしょ音MADイベント2
+ってイベントがあって、イベントに参加するのが好きなので、参加した
+なんか適当な垢で投稿するか、という感じの俺の気分の判断（？）になったので、投稿イベントに雑な投稿用の垢（？）で投稿した
+マジで俺しか知らないだろって曲で作るよりある程度この曲で音MAD作りたいんだよなって思ってたのがある奴で作っていった
+このイベント、曲を当てられると、その曲を使用した理由・経緯について語る権利が与えられるらしい（？）
+ので語るか
+48350 (sm42373048) #
+使用曲 #
+De Grandi - 94120 Groove
+この曲使った理由 #
+好きな曲なので
+俺はピッポピッポした音が好きなのと、なんか良い感じのリズム感でドッドッドドッドッドしてる曲が好きで
+これはそれを兼ね備えているから俺この曲好きなんだと思う
+この曲知った経緯 #
+たぶん最初Soundcloudで誰かのlike欄見ててSunareht - HyulだったかLe Dom - CUBだったかを聞いてクラブっぽいノリ（？）のBye-Productみてえな曲で面白い俺好みの曲だなと思って
+それらのアーティストがリリースしてるParadoxe Clubの他の奴聞いてて、De Grandi - 94120 Grooveに出会ったと思う
+De Grandiに関してもParadoxe Clubに関してもそれ以外はよく知らねえ
+制作 #
+素材はこのシーン面白いなと思って、前に別の曲で合わせてたんだけど、それが放置されてるので、まあいいかと思って同じ素材で作った、この曲にハマりそうだったので
+この動画のタイトル決める時に、元の94120の意味知らねえんだけど、とりあえずシャミ子の語呂合わせにするかと思って「4350」にしたけど「48350」の方が文字数も合うし、そっちの方がいい…]]></summary>
+        <author>
+            <name>n5g</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[膣]]></title>
         <id>https://note.com/ebideath/n/n39a1c6321a79</id>
