@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-19T13:06:31.864Z</updated>
+    <updated>2023-06-19T14:04:17.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[がりがり]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1245.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1245.html"/>
+        <updated>2023-06-19T13:42:38.000Z</updated>
+        <summary type="html"><![CDATA[ガーリアンズとかいうサンガリアの炭酸飲料がマジでうまかった  荒波ですたまたま自販機で見かけたけどコレどこで売ってるんですかね･･･魔術師ギルドではペットの魔法をアップグレードしてもらえますそろそろ頃合いかなと思い、さきなに魔力の集積をおぼえてもらった魔力が200を超え立派な魔法使いとなった彼女にはふさわしいじゃろうそう、仲間たちの強化もちまちま進んどりますのでねさきなママのステータス  先週から言うほど上]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[この曲音MADイベ2]]></title>
         <id>https://example.com/posts/2023/06/konokyoku2/</id>
