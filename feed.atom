@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-20T12:05:25.395Z</updated>
+    <updated>2023-06-20T13:06:14.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230620_しゃ]]></title>
+        <id>https://note.com/kokeshi_short/n/n33f516523b1e</id>
+        <link href="https://note.com/kokeshi_short/n/n33f516523b1e"/>
+        <updated>2023-06-20T12:04:53.000Z</updated>
+        <summary type="html"><![CDATA[少し悲しいお知らせがあるぜ…。 みんなに伝えなくてはならない…。どうかわかってくれ…。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD合作進行管理用Notionテンプレート を作りました]]></title>
         <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-109.html</id>
