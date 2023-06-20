@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-20T11:04:25.796Z</updated>
+    <updated>2023-06-20T12:05:25.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD合作進行管理用Notionテンプレート を作りました]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-109.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-109.html"/>
+        <updated>2023-06-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[そして配布します。https://catkin-almanac-3e9.notion.site/MAD-Notion-49ff2dca2a41424c9ff6df46d9db3b27?pvs=4※このページを使用したことにより発生したいかなる問題や不都合について26Kは責任を負いませんが、質問や要望等ありましたらお気軽に@26K_(Twitter,Discord共通)までご一報ください。]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230620「無題」]]></title>
         <id>hatenablog://entry/820878482943042602</id>
