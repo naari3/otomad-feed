@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-21T00:14:58.514Z</updated>
+    <updated>2023-06-21T01:31:54.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[https://youtu.be/...]]></title>
+        <id>https://note.com/nendo31/n/n5a15661dc2c8</id>
+        <link href="https://note.com/nendo31/n/n5a15661dc2c8"/>
+        <updated>2023-06-21T01:24:15.000Z</updated>
+        <summary type="html"><![CDATA[https://youtu.be/xW2hhvlEKf8
+一応、貼っときますね、一応 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[230620_しゃ]]></title>
         <id>https://note.com/kokeshi_short/n/n33f516523b1e</id>
