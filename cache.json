@@ -7963,6 +7963,21 @@
       "siteUrl": "https://ruiji.hatenablog.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/820878482946117142",
+          "author": null,
+          "description": "オートシェイプ - ブログ名 - コピー (2) - コピー",
+          "link": "https://ruiji.hatenablog.jp/entry/20230701/1688140239",
+          "publishedOn": "2023-06-30T15:50:39.000Z",
+          "wordCount": 307,
+          "title": "オートシェイプ",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/r/ruijiiii/20230701/20230701004934.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/r/ruijiiii/20230701/20230701004934.png"
+        },
+        {
           "id": "hatenablog://entry/820878482942511117",
           "author": null,
           "description": "まじでいつもこんなん\n \n\n\n \n \n \n\n \n \n \n\n \n \n \n\n \n!!\n \n\n \n\n \n\n \n \n \n\n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n\n \n \n \n\n \n!!\n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n!!\n \n\nzukan.pokemon.co.jp",
@@ -13241,6 +13256,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-115.html",
+          "author": "picm",
+          "description": "アホ",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-115.html",
+          "publishedOn": "2023-06-30T15:30:00.000Z",
+          "wordCount": 143,
+          "title": "クラウドワークスの出金に失敗し続けたときの話",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-114.html",
           "author": "picm",
           "description": "ンァッーーーー！！コードの耳コピが難しすぎます！！！！！！！！！！",
@@ -14004,6 +14029,16 @@
       "feedUrl": "https://medley26kvocaloid.blog.fc2.com/?xml",
       "siteUrl": "http://medley26kvocaloid.blog.fc2.com/",
       "articles": [
+        {
+          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-110.html",
+          "author": "26K / にとろく",
+          "description": "今月も月報を書いている場合ではないのだけど、先月始めて失敗したのが悔しかったので先に書きます。くそ～～～～～～",
+          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-110.html",
+          "publishedOn": "2023-06-30T15:21:00.000Z",
+          "wordCount": 477,
+          "title": "【月報】2023.06",
+          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medley26kvocaloid/2qYpGm0vSCaVuV3MlKz-AA.jpg"
+        },
         {
           "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-109.html",
           "author": "26K / にとろく",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-06-30T15:04:18.335Z</updated>
+    <updated>2023-06-30T16:04:23.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オートシェイプ]]></title>
+        <id>hatenablog://entry/820878482946117142</id>
+        <link href="https://ruiji.hatenablog.jp/entry/20230701/1688140239"/>
+        <updated>2023-06-30T15:50:39.000Z</updated>
+        <summary type="html"><![CDATA[オートシェイプ - ブログ名 - コピー (2) - コピー]]></summary>
+        <author>
+            <name>ブログ名 - コピー (2) - コピー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クラウドワークスの出金に失敗し続けたときの話]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-115.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-115.html"/>
+        <updated>2023-06-30T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アホ]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【月報】2023.06]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-110.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-110.html"/>
+        <updated>2023-06-30T15:21:00.000Z</updated>
+        <summary type="html"><![CDATA[今月も月報を書いている場合ではないのだけど、先月始めて失敗したのが悔しかったので先に書きます。くそ～～～～～～]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#65 6月4週]]></title>
         <id>hatenablog://entry/820878482945418864</id>
