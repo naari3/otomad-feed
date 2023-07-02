@@ -909,6 +909,21 @@
       "siteUrl": "https://erutufnab.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/820878482946495432",
+          "author": null,
+          "description": "Discordの自分のサーバーで毎日書いていた短めの日記をちょっと修正してまとめました。いまは飽きてしまって書いてません。また始めなきゃ……。\n \nBaN長 — 2023/05/31 00:24\n文章を読む時にかなり目が滑って困っていたのですが、一旦エディタにコピーして自分が読みやすいタイミングで改行を入れていくと読みやすいことを発見しました。\nでも紙の本はどうしよう。音読は疲れるし時間掛かるからあんまり有効じゃないんだよな～。\n \nBaN長 — 2023/06/01 01:32\n今日はサンプルを並べてガバを作る時間がありました。\n参考にする曲を置いて音MADみたいな気持ちで作ると何らかの形にはなりますが、カッコ良いかというと、うーんという感じで難しいです。\n良い感じになるようにしたいですね。\n \nBaN長 — 2023/06/01 23:27\n今日は週1で外に出る日でした。正直な話、会話とかの調子が良い時と悪い時があって、今日は結構悪めでした。通学に時間が掛かるのであんまりちゃんとご飯を食べないのも悪い気がしますね。\n新任の准教授の話を聞く90分があったのですが、これはかなり良い話をしてくれる人で良かったですね。\nおもろい研究の話を聞いて、僕は研究を真面目にやっとらん体たらくですが、将来的に研究をやれる機会はあるといえばあるので、おもろそうな方向に行けたら良いなって思いました。\n \nBaN長 — 2023/06/03 00:17\n今日は高校の友達と映画を見に行きました。マルサの女です。\n根拠無いけどなんかおもろそうという理由で伊丹十三作品に興味があって見に行ったのですが、めっちゃ良かったです。最初、ちょっと80年代的わざとらしさが強いかも？と感じたけど、別にそうでも無かった。\n音楽がカッコ良い！それ含め音の演出がとても良く、無音の扱い方もカッコ良かった。\n劇の構造上はマル…",
+          "link": "https://erutufnab.hatenablog.com/entry/2023/07/02/142743",
+          "publishedOn": "2023-07-02T05:27:43.000Z",
+          "wordCount": 421,
+          "title": "ショート日報 2023.05.30～2023.06.18",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/820878482936575022",
           "author": null,
           "description": "けっこう何かしたなと思ったのに（まずこのレベルの抽象的な感覚で日々を生活しているのもどうかと思う）、いつ寝たのかもわからない内に気絶して25時くらいに目が覚めたら昼飯に餃子の王将を食べに行ったことしか記憶がなくなっていた。流石に焦る。\n　だんだん思い返してみて、なんかBandcampを探ってたような気がするという所まで取り戻す。こういう1日の終わりにぜんぶが曖昧になってしまっているような感覚は何度も経験があり、大抵インターネットしかやっていなかった日にこうなる。逆に言えばブラウザの履歴にすべて残っているということなので、これを見返すことで今日の活動を復元してみよう。以下、履歴の抜粋とそれに対する感想。\n8:51:50 mstdn.jp\n何時に起きたのかも覚えてないのだが、起き抜け一発目にマストドンを見てることはわかった。マストドン大好き！\n9:36:03\nlive.nicovideo.jp\nアトリエReinaの5月の配信が来てることに気付き、見た。アトリエReinaのために声グラのチャンネル会員になってる。絵の巨匠さんいらっしゃい良いコーナーだよね。\n9:53:01～10:52:04 ハードコア・テクノ起点でダンスミュージック関連のこと調べてる\n1時間くらいやってるのにこの間の記憶がガチで無くてすごい。以前買ったハードコア・テクノ・ガイドブックを最近読んでいたので、それ関連のnoteを読みながら紹介されているレーベル・音源・アーティストを調べ、近年のハードコア・リバイバルにNina Kravitz等のDJでのプレイが影響していることを把握し、Nina Kravitzが6月にまた来日することを知って、履歴が途絶えている。\nたぶんここで王将食いに行ってます。\n読んだ記事\nnote.com\nGreater Than One好きなんだよな～\ntabi-labo.com\nDOMMUN…",
@@ -5141,21 +5156,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220123/20220123054655.jpg"
-        },
-        {
-          "id": "hatenablog://entry/4207112889895493541",
-          "author": null,
-          "description": "きょうも起きたら夕方で、読書会だったりに参加していたらいまの午前1時になるなど。マシュマロが来てました。ありがとうございます。これですね\n \n\n \nyoutu.be\n \n　投稿した音madにかんするコメントが来たことはたぶんなかったので、うれしく思います。投稿したときにあまり言及とかしなかったんですけど、いっとき何回も見ていたこの2つのmadがリファレンス？としてあります。どちらも尊敬している…。vaporwaveっぽいところとか個人的に気に入っていますね。あとは最後のナイトルーティンのダンス、元の速度をいじらなくても曲と一致したのも面白かった。ここだけずっとループして見たい。\n \nnico.ms\n \nnico.ms\n \n　あとはほかのlost in the rythmのmadなどもわりと見ましたね…。なので影響があります。いま再生順でソートすると「Lost in the 笑点」「Lost In 田中さん」「Lost in チノ」と並んでいるのでうれしい。前から見ていたmadだったので。\n \n\n\n2022.7.03AM2:00現在\n\n\n\n \nnico.ms\n \nnico.ms\n \n　タグで検索してみたところこの曲を題材にしたmadって少なくて、その気になれば1時間で全部見れるくらいの量だったりする。もともとエレクトロスイングは好きゆえ、この曲も前から好きでした。作ろうと思ったのは本当に思い付きで理由とかはないです…。最初をバナナの川柳から始めたのは、ほかのオモコロmadに負けんぞみたいな宣戦布告的な気持ち（？）もあるかも。こまりさんやメガペンさんにTwitterで引用されていて驚いていた。考えだけあって着手は全くしていないのだけど、音madは今年のうちにもう1本くらいあげたいです。基本マイペースなんですが見てもらえるとうれしいですね。おやすみなさい。",
-          "link": "https://isitsutbustu-todoke.hatenablog.com/entry/2022/07/03/020431",
-          "publishedOn": "2022-07-02T17:04:31.000Z",
-          "wordCount": 268,
-          "title": "nikki_20220702「マシュマロ_lost in 原宿」",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220703/20220703015733.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/isitsutbustu_todoke/20220703/20220703015733.png"
         }
       ]
     },
@@ -6598,6 +6598,21 @@
       "feedUrl": "https://naari.hatenablog.com/rss",
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
+        {
+          "id": "hatenablog://entry/820878482946504457",
+          "author": null,
+          "description": "Twitterというサービスは難しいだろう、という自分の考えを一旦ここにまとめてみる。身内向け記事で、この記事内では何も解決していない。\nまず、技術要件的にTwitterというサービスはとても複雑で、そこらの企業がサッと真似できるようなサービスではない。小さい範囲で見ればなにかのフレームワークのチュートリアルでやるような話にも見えるが、これを莫大な数字とともに動作を担保していく、というのはとても大変な話だろう。\n以下に例を挙げてみる。\nはちゃめちゃに莫大すぎる桁の数のツイートをどう保存するのか？\n\n\nManhattanという名前のTwitter用分散データベースを新規に作成、用意している\n\n\nref: Manhattan, our real-time, multi-tenant distributed database for Twitter scale\n1秒間にとんでもない数がポストされるであろうツイートを、どうやって即時でみんなのTLに反映しているのか？\n\n\nイベント処理専用の機構を用意している\n\n\nref: Processing billions of events in real time at Twitter\nなぜ様々な種類の検索クエリを投げてもすぐにレスポンスが返ってくるのか？\n\n\nElasticsearchのクラスタを筆頭に複数の小さなサービスからなる機能群を用意している\n\n\nref: Stability and scalability for search\nblog.twitter.com のInfrastructureに存在する記事を見ていると、基本的にはスケーラビリティを確保し、コスト面やメンテナビリティにも気を遣いながら、技術的に正しくアプローチしようといった基本的な姿勢が伺える。また、既存の環境でさし当たった問題に対して真っ当かつ専門性も高めに新しい…",
+          "link": "https://naari.hatenablog.com/entry/2023/07/02/141042",
+          "publishedOn": "2023-07-02T05:10:42.000Z",
+          "wordCount": 472,
+          "title": "■",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
         {
           "id": "hatenablog://entry/820878482938665592",
           "author": null,
@@ -12769,6 +12784,16 @@
       "feedUrl": "https://note.com/tanbatu/rss",
       "siteUrl": "https://note.com/tanbatu",
       "articles": [
+        {
+          "id": "https://note.com/tanbatu/n/n73e7d1dfb797",
+          "author": null,
+          "description": "ニコニコには現在でもエコノミーモードという機能があり、一般会員は指定された時間になると画質が自動的に360pに変更される上、30分以上の動画はプレミアム会員関係なく360pに圧縮されるというバカタレすぎ機能が残っています。\n私は基本音MADをニコニコ動画で見ているのですが、最近は派手な映像表現が多い影響で画面が乱雑になる事が多々あります。正直YouTubeで見ても良いのですが、コメントで面白みが変わってくるのとタグ巡回の便利さで仲々手放せない状況です。\n続きをみる",
+          "link": "https://note.com/tanbatu/n/n73e7d1dfb797",
+          "publishedOn": "2023-07-02T05:03:47.000Z",
+          "wordCount": 2432,
+          "title": "ニコニコ動画にYouTubeを埋め込んで無理やりエコノミーを回避してみる",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/109758476/rectangle_large_type_2_b4e093381ac20f6907fa58cb1a64c8ef.png?width=800"
+        },
         {
           "id": "https://note.com/tanbatu/n/nadb0853b3ea2",
           "author": null,
