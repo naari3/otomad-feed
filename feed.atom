@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-03T17:04:39.121Z</updated>
+    <updated>2023-07-03T18:04:59.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[汚言]]></title>
+        <id>https://note.com/aun6june/n/n32a86e9fac00</id>
+        <link href="https://note.com/aun6june/n/n32a86e9fac00"/>
+        <updated>2023-07-03T17:49:23.000Z</updated>
+        <summary type="html"><![CDATA[最近忙しい。
+仕事で長尺の映像を作りつつ別の映像も同時進行で作ってて大変。
+仕事以外でも作らないといけないものとか、動かさないといけない企画が沢山あってパンク寸前なんだけど何とかやってます。
+今も寝ないといけないのに寝れなくて、ぐんぐんグルトを買いに自販機まで歩いてたら月がめちゃ綺麗に黄色く輝いてるのを見て、小便みたいだな〜って思いました。
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夢日記]]></title>
         <id>https://note.com/klunakapa/n/n8b106a1a2459</id>
