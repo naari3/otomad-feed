@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-03T06:05:26.419Z</updated>
+    <updated>2023-07-03T07:04:26.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ありすぎ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1248.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1248.html"/>
+        <updated>2023-07-03T06:30:50.000Z</updated>
+        <summary type="html"><![CDATA[おんしはまっことかわええのう！！！！！フォンテーヌの足音がだいぶ聞こえてきましたね新キャラいっぱい出てきてたけど、銃持ってる狩人様みたいなネーチャンとても欲しい銃パリィしてえ～またエナドリ箱買いしてもうたしかもモンエナ  贅を尽くす春アニメだいたいみおわった  やっぱアリスギアと江戸前エルフがさいこうでしたねスキップとローファーもよかった  青春ものは苦手な要素が多くてあまり見れないんだけど、これはあん]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ショート日報 2023.05.30～2023.06.18]]></title>
         <id>hatenablog://entry/820878482946495432</id>
