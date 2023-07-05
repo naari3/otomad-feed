@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-05T09:05:08.992Z</updated>
+    <updated>2023-07-05T10:04:59.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『悪気はなかったんじゃ』についてのいろいろ]]></title>
+        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-111.html</id>
+        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-111.html"/>
+        <updated>2023-07-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ねこ鍋梅雨が未だ明けなかったので、BaN長さんの「この曲俺しか知らないでしょ音MADイベント2」に参加しました。企画詳細はコチラ↓特定早くな～い？と思って試しにSoundHound（Shazamみたいなアプリ）にこの音MADを聞かせてみたらちゃんと曲名が出てきちゃいました。そりゃ秒で特定されるね。（ペナルティーとしてですが）折角動画についての文章を書く機会が出来たので諸々記事に起こしてみます。文字数はそんなにないです。]]></summary>
+        <author>
+            <name>26K / にとろく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230705「Twitter」]]></title>
         <id>hatenablog://entry/820878482947284652</id>
