@@ -179,7 +179,7 @@ sources:
   # FC2 blog
   - href: https://dumpmc.blog.fc2.com/?xml
   - href: https://hiiragidono.blog.fc2.com/?xml
-  - href: https://medley26kvocaloid.blog.fc2.com/?xml
+  # - href: https://medley26kvocaloid.blog.fc2.com/?xml
   # others
   - href: https://anond.hatelabo.jp/keyword/%E9%9F%B3MAD?mode=rss
   - href: https://n5g.pages.dev/feed/feed.xml
