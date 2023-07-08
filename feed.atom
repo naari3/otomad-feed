@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-08T12:05:44.264Z</updated>
+    <updated>2023-07-08T13:07:16.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[デザインフォントより汎用性の高い高品質フォントをまず手に入れようの会]]></title>
+        <id>https://ytpmv.info/?p=1788</id>
+        <link href="https://ytpmv.info/good-fonts/"/>
+        <updated>2023-07-08T12:36:54.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう。まいまいです。この記事では私の思想を広める記事を書いていきます(笑) 動画作成において必要なものは沢山ありますが、その中の一つにフォントがあります。 このブログを閲覧してくれる音MAD作者の皆さんは、 […]
+The post デザインフォントより汎用性の高い高品質フォントをまず手に入れようの会 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#66 7月1週]]></title>
         <id>hatenablog://entry/820878482948005915</id>
@@ -771,6 +782,17 @@ youtu.be
 続きをみる]]></summary>
         <author>
             <name>阿保草</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サイトロゴを更新しました]]></title>
+        <id>https://ytpmv.info/?p=1777</id>
+        <link href="https://ytpmv.info/1777/"/>
+        <updated>2023-06-23T14:13:35.000Z</updated>
+        <summary type="html"><![CDATA[知り合いに依頼してロゴを作ってもらいました。イカしてる YTPMVでよく用いられる図形を使った表現をイメージして作ってもらいました。 作者はaaa_5sさんです。 詳細は、https://linktr.ee/aaa_5s […]
+The post サイトロゴを更新しました first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>
@@ -7077,6 +7099,17 @@ dailyportalz.jp
 @euro_iroiro 続きをみる]]></summary>
         <author>
             <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAID構成済みNEC Express 5800/T110g-SにLinuxを導入しようとして失敗した時の対処備忘録]]></title>
+        <id>https://ytpmv.info/?p=1688</id>
+        <link href="https://ytpmv.info/1688/"/>
+        <updated>2023-02-22T18:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Linux入れるくらいチョチョイのちょいでしょ～とか思ってたらガッツリ嵌ったので備忘録として残しておきます。画像もないし行き当たりばったりで対応してたので参考にならないかもしれません。 概要 問題：RAID構成済みのNE […]
+The post RAID構成済みNEC Express 5800/T110g-SにLinuxを導入しようとして失敗した時の対処備忘録 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
         </author>
     </entry>
     <entry>
