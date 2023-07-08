@@ -2,18 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-06T08:05:05.047Z</updated>
+    <updated>2023-07-08T03:40:11.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[『悪気はなかったんじゃ』についてのいろいろ]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-111.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-111.html"/>
-        <updated>2023-07-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ねこ鍋梅雨が未だ明けなかったので、BaN長さんの「この曲俺しか知らないでしょ音MADイベント2」に参加しました。企画詳細はコチラ↓特定早くな～い？と思って試しにSoundHound（Shazamみたいなアプリ）にこの音MADを聞かせてみたらちゃんと曲名が出てきちゃいました。そりゃ秒で特定されるね。（ペナルティーとしてですが）折角動画についての文章を書く機会が出来たので諸々記事に起こしてみます。文字数はそんなにないです。]]></summary>
+        <title type="html"><![CDATA[【2023年7月-1】Twitter、生きてくれ]]></title>
+        <id>hatenablog://entry/820878482948046252</id>
+        <link href="https://crabgot.hatenablog.com/entry/2023/07/08/101336"/>
+        <updated>2023-07-08T01:13:36.000Z</updated>
+        <summary type="html"><![CDATA[もう後戻りは出来んぞ
+注ぎ方を忘れちまったからな
+ 
+Twitterが…大変なことになってるよ！
+大変なことになってるけど色んな人が言ってるようにオタクの大移動と完全にTwitterと同じシステムで動いてるよりマシなSNSが生まれない限りTwitterにとどまり続けることになるんでしょうね。移住先としていろんな提案は出たけどTwitterの代用になるものはないので…
+でも一応連絡先とか置いとくか。怖いのはTwitterが完全に死んだとき親しい人と連絡が取れないことだから…
+@comariai@misskey.io　←Misskey
+@comari_ ←Discord
+Thredsも一応アカウント作ったけどあそこに定住することはまあないないんじゃないかな～…と思ってる
+今後整備されたらもしかしたらって感じですね
+ 
+そんなこんなで混乱の最中、Discordは今後も確実に使うコミュニケーションツールなので色んな人にフレンド飛ばしたり個人鯖にお邪魔したりしてます。かくいう俺も個人鯖を一部に公開した。
+今までの日記の形態は「誰にも見せてない鯖のメモ帳から記憶を引き出しながら書く」というスタイルだったのだけれど、今週は個人鯖の参加者であれば誰でも見られるところに書いた日記からそのまま引用することにしてる。何が違うかと言えば、メモを書く段階で誰かに見られているのでそれなりに見れる推敲をやったことですね。これはかなり効果あったと思う。誰にも見られてないとこからブログに出力すると変なエッセンスを足しがちだったので…
+ 
+そんな感じの日記の週です今回は。
+ 
+日記
+2023/07/03 11:46
+気分が落ち込むたびにポケモン起動してる
+対人やってると頭おかしくなるんだけど、この感覚を快感だと脳が勘違いしてる
+ 
+
+2023/07/04 09:34
+ペンギンは行動生態学的に一夫一妻で行動する…]]></summary>
         <author>
-            <name>26K / にとろく</name>
+            <name>なんて巨大なカニゴット</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sm41808713で使ったセリフ重ねるやつ]]></title>
+        <id>https://note.com/54654658/n/ne95bb560117c</id>
+        <link href="https://note.com/54654658/n/ne95bb560117c"/>
+        <updated>2023-07-06T15:33:19.000Z</updated>
+        <summary type="html"><![CDATA[ニコ生でほめてくださってとても嬉しかったのでnoteを書いちゃうよ
+みんなひみつにしてよ～
+続きをみる]]></summary>
+        <author>
+            <name>きゅう</name>
         </author>
     </entry>
     <entry>
@@ -287,16 +322,6 @@ www.nic…]]></summary>
         <summary type="html"><![CDATA[アホ]]></summary>
         <author>
             <name>picm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【月報】2023.06]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-110.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-110.html"/>
-        <updated>2023-06-30T15:21:00.000Z</updated>
-        <summary type="html"><![CDATA[今月も月報を書いている場合ではないのだけど、先月始めて失敗したのが悔しかったので先に書きます。くそ～～～～～～]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -786,16 +811,6 @@ The post サイトロゴを更新しました first appeared on YTPMV.info.]]></
 続きをみる]]></summary>
         <author>
             <name>こけし</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MAD合作進行管理用Notionテンプレート を作りました]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-109.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-109.html"/>
-        <updated>2023-06-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[そして配布します。https://catkin-almanac-3e9.notion.site/MAD-Notion-49ff2dca2a41424c9ff6df46d9db3b27?pvs=4※このページを使用したことにより発生したいかなる問題や不都合について26Kは責任を負いませんが、質問や要望等ありましたらお気軽に@26K_(Twitter,Discord共通)までご一報ください。]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -2101,16 +2116,6 @@ noteで書いていたころは内省的な話を多くしていて（なので�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【月報のなりそこない】2023.05]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-108.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-108.html"/>
-        <updated>2023-05-25T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[月報の追加ルール：翌月10日までに書き上げられなかった場合、その時点で問答無用で公開]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[230525_うわー]]></title>
         <id>https://note.com/kokeshi_short/n/nb2c2a56ebb80</id>
         <link href="https://note.com/kokeshi_short/n/nb2c2a56ebb80"/>
@@ -2749,16 +2754,6 @@ Twitterの観測範囲ではそこそこ話題になっていたカップラー�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[naisho]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-107.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-107.html"/>
-        <updated>2023-05-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この記事はブロとも、もしくはパスワードを知っている方のみ閲覧できます]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[わかさぎ姫のコスプレ産卵AVクラウドファンディングについて]]></title>
         <id>https://note.com/oouc2/n/nf09490caf2a6</id>
         <link href="https://note.com/oouc2/n/nf09490caf2a6"/>
@@ -3365,16 +3360,6 @@ www.nicovideo.jp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【月報】2023.04]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-106.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-106.html"/>
-        <updated>2023-04-29T23:35:00.000Z</updated>
-        <summary type="html"><![CDATA[やりたくないことから逃げない……やりたくないことから逃げない……]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[nikki_20230429「muji／寂しいけど好きな歌を」]]></title>
         <id>hatenablog://entry/4207112889985468382</id>
         <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/04/29/102533"/>
@@ -3482,16 +3467,6 @@ www.youtube.com
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[僕がニコニコメドレーを作る理由4選]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-105.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-105.html"/>
-        <updated>2023-04-25T09:03:34.000Z</updated>
-        <summary type="html"><![CDATA[「音楽」「インターネット」「物語性」「パズル」の4つです。順に掘り下げてみましょう。なお、今回他者の介在については極力触れないものとします。（例：好きなことやコンテンツを他人に表現できる、メドレーを合作に使ってもらう、等）ではLet's Go!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[nikki_20230424「無題」]]></title>
         <id>hatenablog://entry/4207112889984277791</id>
         <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/04/25/064803"/>
@@ -3505,16 +3480,6 @@ www.youtube.com
 小学生くらいの頃はその頃流行っていた曲が世界にある曲のすべて、みたいな感覚があったことを思い出した。いまになってみるとそんなわけがなくて10年以上前でもいい曲ばかりだし、なんというか流行っている曲って運の部分もかなり大きいんだろうなという気がしてくる。学校からの帰り道に町の電気屋さんみたいな小規模なお店があって、ある日その前に在庫処分みたいに無料で持って行っていい物品がたくさん置かれていた。いま考えると、お店というよりは家でいらなくなったものだったのかもしれない。その中に回転式のCDラックがあったのを不意に思い出した。とても歩いて持って帰れるような体積でもないし必要もなかったのだけど、いまになってあれが欲しくなっている。]]></summary>
         <author>
             <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『映画大好きポンポさん』感想（ネタバレ有） #26Kinema]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-104.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-104.html"/>
-        <updated>2023-04-24T14:24:28.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -4711,16 +4676,6 @@ Dome It Yourself!!
 The post 音MADのためのビブラートの作り方 複数の方法 first appeared on YTPMV.info.]]></summary>
         <author>
             <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【月報】2023.03]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-103.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-103.html"/>
-        <updated>2023-03-30T15:25:00.000Z</updated>
-        <summary type="html"><![CDATA[サムネを作ることが低カロリーじゃないなってことに気付いたので今月からやめます！！！！！！！！！！！続けることに主眼を置いています　つまりはこれからもどうぞよろしくね]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -6627,16 +6582,6 @@ Q25
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【月報】2023.02]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-102.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-102.html"/>
-        <updated>2023-03-01T11:36:00.000Z</updated>
-        <summary type="html"><![CDATA[/*今月（先月？）もサムネが間に合ってない！けど出しちゃいます！*/]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[楽しい世界旅行]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1226.html</id>
         <link href="https://hiiragidono.blog.fc2.com/blog-entry-1226.html"/>
@@ -8035,16 +7980,6 @@ The post Waifu2x-Extension-GUIを使って画像の高画質化 first appeared o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[『かがみの孤城＜その後の風景＞スペシャル映像付き上映』感想（ネタバレ有） #26Kinema]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-101.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-101.html"/>
-        <updated>2023-02-09T09:47:06.000Z</updated>
-        <summary type="html"><![CDATA[ふと映画を観たくなったので、気になっていた＆そろそろ興行が終わりそうだった『かがみの孤城』を観てきました。ネタバレ注意。]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[週記#45 2月1週]]></title>
         <id>hatenablog://entry/4207112889961451969</id>
         <link href="https://nkaoobt.hatenablog.com/entry/2023/02/08/205403"/>
@@ -8249,16 +8184,6 @@ I've been wearin' a demon, I've barely been eatin', I'm
 Scrollin' a…]]></summary>
         <author>
             <name>寿司工場</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ニコニコメドレー制作とかで使えるかもしれないNotionのテンプレート]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-99.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-99.html"/>
-        <updated>2023-02-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[配布します。https://catkin-almanac-3e9.notion.site/Notion-f13935b1d0c8485b9bee97f554629bf9]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -8665,16 +8590,6 @@ www.itmedia.co.jp
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【月報】2023.01]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-100.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-100.html"/>
-        <updated>2023-02-01T14:12:00.000Z</updated>
-        <summary type="html"><![CDATA[/*ここにサムネ！まだないけど一旦公開しちゃいます！*/]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -10881,16 +10796,6 @@ model name  : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[あけおめ]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-98.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-98.html"/>
-        <updated>2023-01-03T23:45:54.000Z</updated>
-        <summary type="html"><![CDATA[今年の抱負&nbsp;「やりたくないことから逃げない」&nbsp;]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[nikki_20230102「志摩スペイン村に行きました」]]></title>
         <id>hatenablog://entry/4207112889950865757</id>
         <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/01/04/002826"/>
@@ -12061,16 +11966,6 @@ https://note.com/eroerojpeg/n/nc0e8bcf0f4b9
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【月報】2022.11,12【増刊号】]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-96.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-96.html"/>
-        <updated>2022-12-22T21:53:00.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新しい『音MAD×○○』の模索]]></title>
         <id>https://note.com/ecolidelvsvc11/n/nf3ef67761058</id>
         <link href="https://note.com/ecolidelvsvc11/n/nf3ef67761058"/>
@@ -12190,16 +12085,6 @@ M-1を見た。
 最終回までには追い付く。残り3日。]]></summary>
         <author>
             <name>音MADとポケモンと私</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Med-1グランプリ2022 あとがき【主催としての所感】【ニコニコメドレーシリーズ Advent Calendar 2022】]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-97.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-97.html"/>
-        <updated>2022-12-21T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Med-1グランプリ2022あとがき記事その3。 半年空いちゃった……&nbsp;本記事は「主催としての所感」を記述した記事です。&nbsp;「準備編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html&nbsp;「実行編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html「企画を開催したいあなたへ…」はこちら：↑改めて実行編を読み返したらここと先日の記事にほとんど書いちゃってたので書くことなくな]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -12488,26 +12373,6 @@ Cobut…]]></summary>
 続きをみる]]></summary>
         <author>
             <name>四角</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なーどにとろくす2合作 奮闘記 #ナートロ2]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-94.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-94.html"/>
-        <updated>2022-12-18T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[なーどにとろくす2合作　#ナートロ2こちらは感想記事。]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なーどにとろくす2合作 解説付きパート表 #ナートロ2]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-93.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-93.html"/>
-        <updated>2022-12-18T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[なーどにとろくす2合作　#ナートロ2こちらは解説付きパート表記事。]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -13153,16 +13018,6 @@ www.nicovideo.jp
 時間的には水無月さんのDJのはずだし、影莉…]]></summary>
         <author>
             <name>竹達アーカイブ通信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「〝複数人体制〟による合作/企画運営」の弱点【音MAD Advent Calendar 2022】]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-92.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-92.html"/>
-        <updated>2022-12-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -16833,16 +16688,6 @@ RedMuffleR『*sigh*』
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[自己紹介]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-91.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-91.html"/>
-        <updated>2022-11-01T01:44:30.000Z</updated>
-        <summary type="html"><![CDATA[自分語りと懺悔と自戒しかないので、読まなくていい記事です。]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[週記#31 10月4週]]></title>
         <id>hatenablog://entry/4207112889932652816</id>
         <link href="https://nkaoobt.hatenablog.com/entry/2022/11/01/103303"/>
@@ -16867,16 +16712,6 @@ radikoのタイムフリー期間は過ぎてるけどSpotifyでは聴けると�
 馬券は外れたけどPPVだと思えば満足です。負けて全く悔しくないのは初めてかもしれない。]]></summary>
         <author>
             <name>音MADとポケモンと私</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【月報】2022.10]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-90.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-90.html"/>
-        <updated>2022-10-31T17:48:00.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -17191,16 +17026,6 @@ TA-Track
 続きをみる]]></summary>
         <author>
             <name>しゃけ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『VOCALIFE EX祭』に出演しました #ボカライフ]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-89.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-89.html"/>
-        <updated>2022-10-23T12:48:49.000Z</updated>
-        <summary type="html"><![CDATA[VOCALIFE EX祭、お疲れ様でした。]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -17539,16 +17364,6 @@ Cygames
 当然だが商用利…]]></summary>
         <author>
             <name>ximcoの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インターネット人は衝突を忌避し過ぎていないか？という話]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-88.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-88.html"/>
-        <updated>2022-10-19T18:05:02.000Z</updated>
-        <summary type="html"><![CDATA[こんな怪しい自己啓発セミナーみたいな記事を書くのめっちゃ嫌なんですけど、それでも書きたい気持ちが上回ってしまったのでメモとして残しておきます。この記事を一言で言うとお互い思っていることを正直に喋った方が結果的に上手くいくことが多いんじゃないか…？です。ただこの一文じゃ色々とまとめきれないしアレコレ考えていたら文字の分量が膨れ上がってしまったので記事に起こした、といういきさつです。]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -18744,16 +18559,6 @@ Twitterは今日からシャットアウトしてます。Discordだけはログ
 続きをみる]]></summary>
         <author>
             <name>ておつく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【月報】2022.09]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-87.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-87.html"/>
-        <updated>2022-09-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -20417,16 +20222,6 @@ note.com
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【月報】2022.08]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-86.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-86.html"/>
-        <updated>2022-08-29T15:07:00.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[週記#22 8月4週]]></title>
         <id>hatenablog://entry/4207112889913144498</id>
         <link href="https://nkaoobt.hatenablog.com/entry/2022/08/29/223622"/>
@@ -21481,16 +21276,6 @@ ViacomCBS, Inc., James Doohan, Marc Okrand
         <summary type="html"><![CDATA[今週もはらがみしかしてない  やばい実はすたるかーもやっていたが特に書くことはない今回ついに通しで9☆げっと前回で攻略法を確立できたのがよかったですね圧倒的成長を実感する俺もなさゆさゆ、平蔵と徐々に持ち駒を増やしてはいますが結局どっちかは将軍様に頼るしかないのが辛いところうわぁがんばろう辛いといえばベネットと雲菫の凸を進めたくてちょろっとガチャしたら辛炎が完凸しましたほかには雲菫ちゃんが一人きました引]]></summary>
         <author>
             <name>柊殿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『クエストクリア!!』あとがき]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-84.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-84.html"/>
-        <updated>2022-08-06T03:10:25.000Z</updated>
-        <summary type="html"><![CDATA[関係者の皆様お疲れ様でした！本当に疲れているので殴り書きですが、このメドレーの制作、ならびに『UDK姉貴のゲームパーティー☆ -Happy 30th Birthday-』の運営をして思ったことを書いていきますねこ鍋ねこ鍋]]></summary>
-        <author>
-            <name>26K / にとろく</name>
         </author>
     </entry>
     <entry>
@@ -22833,26 +22618,6 @@ March 12, 2017
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Med-1グランプリ2022 あとがき【実行編】]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html"/>
-        <updated>2022-07-16T05:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Med-1グランプリ2022あとがき記事その2。本記事は「実行編」を記述した記事です。「準備編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html「主催としての所感」はこちら：（今書いてるよ）「企画を開催したいあなたへ…」はこちら：（今書いてるよ）]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Med-1グランプリ2022 あとがき【準備編】]]></title>
-        <id>http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html</id>
-        <link href="http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html"/>
-        <updated>2022-07-16T03:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Med-1グランプリ2022、無事終了しましたね。関係者の皆様、参加者の皆様、そして視聴者の皆様、本当にありがとうございました。「まだ観てない！」という方は急いで作品や放送を観てください。本記事は「準備編」の記事です。「実行編」はこちら：（今書いてるよ）「主催としての所感」はこちら：（今書いてるよ）「企画を開催したいあなたへ…」はこちら：（今書いてるよ）作品一覧はこちら：【ニコニコ動画】Med-1%E3%82%B0%E3%83]]></summary>
-        <author>
-            <name>26K / にとろく</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[雑記]]></title>
         <id>hatenablog://entry/4207112889898832166</id>
         <link href="https://naari.hatenablog.com/entry/2022/07/16/080426"/>
@@ -23454,31 +23219,6 @@ MEGAWEBや青海展示場が完全に無くなってた。お台場の新陳代�
 拳銃は無理でもジョーカークラスのクソ貧弱野郎なら何とかならないものだろうか。]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nikki_20220707「コンビニと憧れ」]]></title>
-        <id>hatenablog://entry/4207112889897094703</id>
-        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/07/08/063238"/>
-        <updated>2022-07-07T21:32:38.000Z</updated>
-        <summary type="html"><![CDATA[七夕だったらしい。たびたび七夕ゼリーが話題になるけど、僕は食べたことがあるのかしらん。ひなまつりの給食で菱餅を模した三層のカップゼリーが出たのは覚えているけど、七夕はなかったかもしれない。代わりに本当にちょっとしかない三色のそうめんが出ていた気がする。この日はここ数週間ちまちまやっていた発表があって終わった。ちまちま、といっても半分くらいは前日の昼～発表直前まで睡眠時間1時間でぶっ通して間に合わせた。七夕の願いとして「どうか間に合うか、発表自体が延期になりますように」と願っていたが潰れることはなく、それなりにやって終わった。慣れないブラックコーヒーで脳に鞭を入れてやったので、かなり疲れてお酒を飲んでから21時くらいに入眠したのでした。たっぷり寝るつもりだったのだけど、7時間で目が覚め二度寝も無理っぽかったのでいまこうして朝に日記を書いている。何か食べたらまた眠くなるとおもわれる。
- 
-　前も書いたけどブラックコーヒーの500ml入りなどを日常的に飲み干している人は本当にすごいというか、自分には絶対にできない芸当（カフェインに弱い）である。それでもコンビニの棚にはいろんな種類のコーヒーが並んでいて、需要って様々だなと思ったりする。中高ではあまり利用する機会が少なかったけど、コピーだったり電子決済のチャージ・チケット発券などで今はコンビニにすっかり慣れてしまった。かつては菓子パンとかラーメンなどの総菜へ謎の憧れを抱いていたものだが、どんどんそれが無くなっていくようで寂しい。大きくなるのは憧れとかをなくして現実を知って行くことなんだろうなあとコンビニへ行くたびに考えている。おやすみなさい。]]></summary>
-        <author>
-            <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人魚のキャラクターのコスプレ産卵AVを撮影したい]]></title>
-        <id>https://note.com/oouc2/n/na640614ca4cd</id>
-        <link href="https://note.com/oouc2/n/na640614ca4cd"/>
-        <updated>2022-07-07T15:30:03.000Z</updated>
-        <summary type="html"><![CDATA[厳密には、「東方projectのキャラクターわかさぎ姫のコスプレ産卵ロマンポルノ映画を撮影したい」というのが正しいです。
-まぁツッコミどころしかない出だしですが、どうしてこんなことを思うようになったかの経緯を書いていこうと思います。
-
-続きをみる]]></summary>
-        <author>
-            <name>大内乙打</name>
         </author>
     </entry>
     <entry>

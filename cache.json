@@ -193,6 +193,21 @@
       "siteUrl": "https://crabgot.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/820878482948046252",
+          "author": null,
+          "description": "もう後戻りは出来んぞ\n注ぎ方を忘れちまったからな\n \nTwitterが…大変なことになってるよ！\n大変なことになってるけど色んな人が言ってるようにオタクの大移動と完全にTwitterと同じシステムで動いてるよりマシなSNSが生まれない限りTwitterにとどまり続けることになるんでしょうね。移住先としていろんな提案は出たけどTwitterの代用になるものはないので…\nでも一応連絡先とか置いとくか。怖いのはTwitterが完全に死んだとき親しい人と連絡が取れないことだから…\n@comariai@misskey.io　←Misskey\n@comari_ ←Discord\nThredsも一応アカウント作ったけどあそこに定住することはまあないないんじゃないかな～…と思ってる\n今後整備されたらもしかしたらって感じですね\n \nそんなこんなで混乱の最中、Discordは今後も確実に使うコミュニケーションツールなので色んな人にフレンド飛ばしたり個人鯖にお邪魔したりしてます。かくいう俺も個人鯖を一部に公開した。\n今までの日記の形態は「誰にも見せてない鯖のメモ帳から記憶を引き出しながら書く」というスタイルだったのだけれど、今週は個人鯖の参加者であれば誰でも見られるところに書いた日記からそのまま引用することにしてる。何が違うかと言えば、メモを書く段階で誰かに見られているのでそれなりに見れる推敲をやったことですね。これはかなり効果あったと思う。誰にも見られてないとこからブログに出力すると変なエッセンスを足しがちだったので…\n \nそんな感じの日記の週です今回は。\n \n日記\n2023/07/03 11:46\n気分が落ち込むたびにポケモン起動してる\n対人やってると頭おかしくなるんだけど、この感覚を快感だと脳が勘違いしてる\n \n\n2023/07/04 09:34\nペンギンは行動生態学的に一夫一妻で行動する…",
+          "link": "https://crabgot.hatenablog.com/entry/2023/07/08/101336",
+          "publishedOn": "2023-07-08T01:13:36.000Z",
+          "wordCount": 326,
+          "title": "【2023年7月-1】Twitter、生きてくれ",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/comariai/20230708/20230708085901.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/comariai/20230708/20230708085901.jpg"
+        },
+        {
           "id": "hatenablog://entry/820878482946251130",
           "author": null,
           "description": "やってるかい\n \n6月\nwww.nicovideo.jp\nチルっぽい雰囲気の動画、いいですね！全体的に映像の色調が落ち着いてるのも良い…\nそして「この曲俺しか知らないでしょ音MADイベント2」、新しい発見のあるイベント！\nこの記事を書いてる段階ではまだ梅雨は明けてません！レッツ参加！\n \n---\nwww.nicovideo.jp\n音の厚みが凄い！わかめラの音って良いよな～\nテキストの色も好みですね…蛍光色が好きなので…\n \n---\nwww.nicovideo.jp\n音作り頑張っててめっちゃえらい！サビ？のとこで間にｲﾘｱﾑｯ挟んでるのが可愛いね\n一瞬だけ迫真空手部のサンドキャニオンになるの面白い\n \n---\nwww.nicovideo.jp\nめっっっっっちゃ好き！216番道路の音MADの醍醐味って00:40あたりのラップ部分だと思ってて、ここで畳み掛けてくれると超嬉しくって感動で…\n作りて～～！！\n \n---\nwww.nicovideo.jp\n何の素材だよって感じの連続があって面白い\n \n最近気づいたというわけでもないけど俺GM先生とか関内兄貴のリスペクト好きなんだろうなと改めて思いました\n \n---\nwww.nicovideo.jp\n変な動画\n \n---\nwww.nicovideo.jp\nうるせ～\n \n---\nwww.nicovideo.jp\n最高すぎ\nこうありたい\n人生も動画も\n \n---\nwww.nicovideo.jp\n00:21～\n \n---\nwww.nicovideo.jp\n伊藤潤二作品の不気味さをふんだんに活かした動画！！\n「淵に食われてる！」が良い…\n \n---\nwww.nicovideo.jp\n最悪\n \n---\nwww.nicovideo.jp\n元がミュージカルっぽいセリフ？なのもあってかメロディアスなセリフ合わせ！可愛いですね\n \n---\nwww.nic…",
@@ -5111,21 +5126,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/4207112889897094703",
-          "author": null,
-          "description": "七夕だったらしい。たびたび七夕ゼリーが話題になるけど、僕は食べたことがあるのかしらん。ひなまつりの給食で菱餅を模した三層のカップゼリーが出たのは覚えているけど、七夕はなかったかもしれない。代わりに本当にちょっとしかない三色のそうめんが出ていた気がする。この日はここ数週間ちまちまやっていた発表があって終わった。ちまちま、といっても半分くらいは前日の昼～発表直前まで睡眠時間1時間でぶっ通して間に合わせた。七夕の願いとして「どうか間に合うか、発表自体が延期になりますように」と願っていたが潰れることはなく、それなりにやって終わった。慣れないブラックコーヒーで脳に鞭を入れてやったので、かなり疲れてお酒を飲んでから21時くらいに入眠したのでした。たっぷり寝るつもりだったのだけど、7時間で目が覚め二度寝も無理っぽかったのでいまこうして朝に日記を書いている。何か食べたらまた眠くなるとおもわれる。\n \n　前も書いたけどブラックコーヒーの500ml入りなどを日常的に飲み干している人は本当にすごいというか、自分には絶対にできない芸当（カフェインに弱い）である。それでもコンビニの棚にはいろんな種類のコーヒーが並んでいて、需要って様々だなと思ったりする。中高ではあまり利用する機会が少なかったけど、コピーだったり電子決済のチャージ・チケット発券などで今はコンビニにすっかり慣れてしまった。かつては菓子パンとかラーメンなどの総菜へ謎の憧れを抱いていたものだが、どんどんそれが無くなっていくようで寂しい。大きくなるのは憧れとかをなくして現実を知って行くことなんだろうなあとコンビニへ行くたびに考えている。おやすみなさい。",
-          "link": "https://isitsutbustu-todoke.hatenablog.com/entry/2022/07/08/063238",
-          "publishedOn": "2022-07-07T21:32:38.000Z",
-          "wordCount": 239,
-          "title": "nikki_20220707「コンビニと憧れ」",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
@@ -9344,7 +9344,18 @@
       "title": "きゅう",
       "feedUrl": "https://note.com/54654658/rss",
       "siteUrl": "https://note.com/54654658",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/54654658/n/ne95bb560117c",
+          "author": null,
+          "description": "ニコ生でほめてくださってとても嬉しかったのでnoteを書いちゃうよ\nみんなひみつにしてよ～\n続きをみる",
+          "link": "https://note.com/54654658/n/ne95bb560117c",
+          "publishedOn": "2023-07-06T15:33:19.000Z",
+          "wordCount": 2523,
+          "title": "sm41808713で使ったセリフ重ねるやつ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/110143091/rectangle_large_type_2_f8390dec19dcf93c275071df65bfe9f5.png?width=800"
+        }
+      ]
     },
     {
       "title": "動かない鳥のアイコンの民",
@@ -11898,16 +11909,6 @@
           "wordCount": 2437,
           "title": "ボカロMVに出てくるかわいい女の子ランキング",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/88579741/rectangle_large_type_2_93aa072bcfd806c1cfea021e63bb7f68.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/oouc2/n/na640614ca4cd",
-          "author": null,
-          "description": "厳密には、「東方projectのキャラクターわかさぎ姫のコスプレ産卵ロマンポルノ映画を撮影したい」というのが正しいです。\nまぁツッコミどころしかない出だしですが、どうしてこんなことを思うようになったかの経緯を書いていこうと思います。\n\n続きをみる",
-          "link": "https://note.com/oouc2/n/na640614ca4cd",
-          "publishedOn": "2022-07-07T15:30:03.000Z",
-          "wordCount": 2857,
-          "title": "人魚のキャラクターのコスプレ産卵AVを撮影したい",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/82072550/rectangle_large_type_2_fbdc322421407070001d792196e41164.png?width=800"
         }
       ]
     },
@@ -13865,293 +13866,6 @@
           "publishedOn": "2022-07-09T13:26:28.000Z",
           "wordCount": 533,
           "title": "たじたじ",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "ニコメド総研 : [26K]",
-      "feedUrl": "https://medley26kvocaloid.blog.fc2.com/?xml",
-      "siteUrl": "http://medley26kvocaloid.blog.fc2.com/",
-      "articles": [
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-111.html",
-          "author": "26K / にとろく",
-          "description": "ねこ鍋梅雨が未だ明けなかったので、BaN長さんの「この曲俺しか知らないでしょ音MADイベント2」に参加しました。企画詳細はコチラ↓特定早くな～い？と思って試しにSoundHound（Shazamみたいなアプリ）にこの音MADを聞かせてみたらちゃんと曲名が出てきちゃいました。そりゃ秒で特定されるね。（ペナルティーとしてですが）折角動画についての文章を書く機会が出来たので諸々記事に起こしてみます。文字数はそんなにないです。",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-111.html",
-          "publishedOn": "2023-07-05T10:00:00.000Z",
-          "wordCount": 410,
-          "title": "『悪気はなかったんじゃ』についてのいろいろ",
-          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medley26kvocaloid/thumb_01.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-110.html",
-          "author": "26K / にとろく",
-          "description": "今月も月報を書いている場合ではないのだけど、先月始めて失敗したのが悔しかったので先に書きます。くそ～～～～～～",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-110.html",
-          "publishedOn": "2023-06-30T15:21:00.000Z",
-          "wordCount": 477,
-          "title": "【月報】2023.06",
-          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medley26kvocaloid/2qYpGm0vSCaVuV3MlKz-AA.jpg"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-109.html",
-          "author": "26K / にとろく",
-          "description": "そして配布します。https://catkin-almanac-3e9.notion.site/MAD-Notion-49ff2dca2a41424c9ff6df46d9db3b27?pvs=4※このページを使用したことにより発生したいかなる問題や不都合について26Kは責任を負いませんが、質問や要望等ありましたらお気軽に@26K_(Twitter,Discord共通)までご一報ください。",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-109.html",
-          "publishedOn": "2023-06-20T12:00:00.000Z",
-          "wordCount": 405,
-          "title": "音MAD合作進行管理用Notionテンプレート を作りました",
-          "imageUrl": "https://blog-imgs-170.fc2.com/m/e/d/medley26kvocaloid/madnotion.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-108.html",
-          "author": "26K / にとろく",
-          "description": "月報の追加ルール：翌月10日までに書き上げられなかった場合、その時点で問答無用で公開",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-108.html",
-          "publishedOn": "2023-05-25T16:40:00.000Z",
-          "wordCount": 420,
-          "title": "【月報のなりそこない】2023.05",
-          "imageUrl": "//static.fc2.com/image/sh_design/no_image/no_image_300x300.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-107.html",
-          "author": "26K / にとろく",
-          "description": "この記事はブロとも、もしくはパスワードを知っている方のみ閲覧できます",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-107.html",
-          "publishedOn": "2023-05-07T11:00:00.000Z",
-          "wordCount": 360,
-          "title": "naisho",
-          "imageUrl": "https://cdn.discordapp.com/attachments/803304605449977917/1032357327917039746/26K_icon_02.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-106.html",
-          "author": "26K / にとろく",
-          "description": "やりたくないことから逃げない……やりたくないことから逃げない……",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-106.html",
-          "publishedOn": "2023-04-29T23:35:00.000Z",
-          "wordCount": 473,
-          "title": "【月報】2023.04",
-          "imageUrl": "https://blog-imgs-165.fc2.com/m/e/d/medley26kvocaloid/QuyXbU4vQuiS071U9NaAGw.jpg"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-105.html",
-          "author": "26K / にとろく",
-          "description": "「音楽」「インターネット」「物語性」「パズル」の4つです。順に掘り下げてみましょう。なお、今回他者の介在については極力触れないものとします。（例：好きなことやコンテンツを他人に表現できる、メドレーを合作に使ってもらう、等）ではLet's Go!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-105.html",
-          "publishedOn": "2023-04-25T09:03:34.000Z",
-          "wordCount": 400,
-          "title": "僕がニコニコメドレーを作る理由4選",
-          "imageUrl": "//static.fc2.com/image/sh_design/no_image/no_image_300x300.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-104.html",
-          "author": "26K / にとろく",
-          "description": "...",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-104.html",
-          "publishedOn": "2023-04-24T14:24:28.000Z",
-          "wordCount": 408,
-          "title": "『映画大好きポンポさん』感想（ネタバレ有） #26Kinema",
-          "imageUrl": "https://blog-imgs-165.fc2.com/m/e/d/medley26kvocaloid/20230424_195317.jpg"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-103.html",
-          "author": "26K / にとろく",
-          "description": "サムネを作ることが低カロリーじゃないなってことに気付いたので今月からやめます！！！！！！！！！！！続けることに主眼を置いています　つまりはこれからもどうぞよろしくね",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-103.html",
-          "publishedOn": "2023-03-30T15:25:00.000Z",
-          "wordCount": 434,
-          "title": "【月報】2023.03",
-          "imageUrl": "//static.fc2.com/image/sh_design/no_image/no_image_300x300.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-102.html",
-          "author": "26K / にとろく",
-          "description": "/*今月（先月？）もサムネが間に合ってない！けど出しちゃいます！*/",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-102.html",
-          "publishedOn": "2023-03-01T11:36:00.000Z",
-          "wordCount": 527,
-          "title": "【月報】2023.02",
-          "imageUrl": "//static.fc2.com/image/sh_design/no_image/no_image_300x300.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-101.html",
-          "author": "26K / にとろく",
-          "description": "ふと映画を観たくなったので、気になっていた＆そろそろ興行が終わりそうだった『かがみの孤城』を観てきました。ネタバレ注意。",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-101.html",
-          "publishedOn": "2023-02-09T09:47:06.000Z",
-          "wordCount": 399,
-          "title": "『かがみの孤城＜その後の風景＞スペシャル映像付き上映』感想（ネタバレ有） #26Kinema",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medley26kvocaloid/20230209_130515.jpg"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-99.html",
-          "author": "26K / にとろく",
-          "description": "配布します。https://catkin-almanac-3e9.notion.site/Notion-f13935b1d0c8485b9bee97f554629bf9",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-99.html",
-          "publishedOn": "2023-02-04T14:30:00.000Z",
-          "wordCount": 409,
-          "title": "ニコニコメドレー制作とかで使えるかもしれないNotionのテンプレート",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medley26kvocaloid/17.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-100.html",
-          "author": "26K / にとろく",
-          "description": "/*ここにサムネ！まだないけど一旦公開しちゃいます！*/",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-100.html",
-          "publishedOn": "2023-02-01T14:12:00.000Z",
-          "wordCount": 498,
-          "title": "【月報】2023.01",
-          "imageUrl": "//static.fc2.com/image/sh_design/no_image/no_image_300x300.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-98.html",
-          "author": "26K / にとろく",
-          "description": "今年の抱負&nbsp;「やりたくないことから逃げない」&nbsp;",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-98.html",
-          "publishedOn": "2023-01-03T23:45:54.000Z",
-          "wordCount": 433,
-          "title": "あけおめ",
-          "imageUrl": "//static.fc2.com/image/sh_design/no_image/no_image_300x300.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-96.html",
-          "author": "26K / にとろく",
-          "description": "...",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-96.html",
-          "publishedOn": "2022-12-22T21:53:00.000Z",
-          "wordCount": 549,
-          "title": "【月報】2022.11,12【増刊号】",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medley26kvocaloid/20221223064902a45.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-97.html",
-          "author": "26K / にとろく",
-          "description": "Med-1グランプリ2022あとがき記事その3。 半年空いちゃった……&nbsp;本記事は「主催としての所感」を記述した記事です。&nbsp;「準備編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html&nbsp;「実行編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html「企画を開催したいあなたへ…」はこちら：↑改めて実行編を読み返したらここと先日の記事にほとんど書いちゃってたので書くことなくな",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-97.html",
-          "publishedOn": "2022-12-21T10:54:00.000Z",
-          "wordCount": 430,
-          "title": "Med-1グランプリ2022 あとがき【主催としての所感】【ニコニコメドレーシリーズ Advent Calendar 2022】",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medley26kvocaloid/Med1End.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-94.html",
-          "author": "26K / にとろく",
-          "description": "なーどにとろくす2合作　#ナートロ2こちらは感想記事。",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-94.html",
-          "publishedOn": "2022-12-18T07:50:00.000Z",
-          "wordCount": 491,
-          "title": "なーどにとろくす2合作 奮闘記 #ナートロ2",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medley26kvocaloid/thumb2.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-93.html",
-          "author": "26K / にとろく",
-          "description": "なーどにとろくす2合作　#ナートロ2こちらは解説付きパート表記事。",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-93.html",
-          "publishedOn": "2022-12-18T07:50:00.000Z",
-          "wordCount": 545,
-          "title": "なーどにとろくす2合作 解説付きパート表 #ナートロ2",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medley26kvocaloid/thumb1.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-92.html",
-          "author": "26K / にとろく",
-          "description": "...",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-92.html",
-          "publishedOn": "2022-12-14T10:00:00.000Z",
-          "wordCount": 513,
-          "title": "「〝複数人体制〟による合作/企画運営」の弱点【音MAD Advent Calendar 2022】",
-          "imageUrl": "https://blog-imgs-160.fc2.com/m/e/d/medley26kvocaloid/otoMADAdventCalender_Thumb_02.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-91.html",
-          "author": "26K / にとろく",
-          "description": "自分語りと懺悔と自戒しかないので、読まなくていい記事です。",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-91.html",
-          "publishedOn": "2022-11-01T01:44:30.000Z",
-          "wordCount": 390,
-          "title": "自己紹介",
-          "imageUrl": "//static.fc2.com/image/sh_design/no_image/no_image_300x300.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-90.html",
-          "author": "26K / にとろく",
-          "description": "...",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-90.html",
-          "publishedOn": "2022-10-31T17:48:00.000Z",
-          "wordCount": 478,
-          "title": "【月報】2022.10",
-          "imageUrl": "https://blog-imgs-151.fc2.com/m/e/d/medley26kvocaloid/202210.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-89.html",
-          "author": "26K / にとろく",
-          "description": "VOCALIFE EX祭、お疲れ様でした。",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-89.html",
-          "publishedOn": "2022-10-23T12:48:49.000Z",
-          "wordCount": 416,
-          "title": "『VOCALIFE EX祭』に出演しました #ボカライフ",
-          "imageUrl": "https://blog-imgs-151.fc2.com/m/e/d/medley26kvocaloid/SetList.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-88.html",
-          "author": "26K / にとろく",
-          "description": "こんな怪しい自己啓発セミナーみたいな記事を書くのめっちゃ嫌なんですけど、それでも書きたい気持ちが上回ってしまったのでメモとして残しておきます。この記事を一言で言うとお互い思っていることを正直に喋った方が結果的に上手くいくことが多いんじゃないか…？です。ただこの一文じゃ色々とまとめきれないしアレコレ考えていたら文字の分量が膨れ上がってしまったので記事に起こした、といういきさつです。",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-88.html",
-          "publishedOn": "2022-10-19T18:05:02.000Z",
-          "wordCount": 383,
-          "title": "インターネット人は衝突を忌避し過ぎていないか？という話",
-          "imageUrl": "//static.fc2.com/image/sh_design/no_image/no_image_300x300.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-87.html",
-          "author": "26K / にとろく",
-          "description": "...",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-87.html",
-          "publishedOn": "2022-09-30T09:00:00.000Z",
-          "wordCount": 482,
-          "title": "【月報】2022.09",
-          "imageUrl": "https://blog-imgs-151.fc2.com/m/e/d/medley26kvocaloid/202209.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-86.html",
-          "author": "26K / にとろく",
-          "description": "...",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-86.html",
-          "publishedOn": "2022-08-29T15:07:00.000Z",
-          "wordCount": 452,
-          "title": "【月報】2022.08",
-          "imageUrl": "https://blog-imgs-151.fc2.com/m/e/d/medley26kvocaloid/202208.png"
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-84.html",
-          "author": "26K / にとろく",
-          "description": "関係者の皆様お疲れ様でした！本当に疲れているので殴り書きですが、このメドレーの制作、ならびに『UDK姉貴のゲームパーティー☆ -Happy 30th Birthday-』の運営をして思ったことを書いていきますねこ鍋ねこ鍋",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-84.html",
-          "publishedOn": "2022-08-06T03:10:25.000Z",
-          "wordCount": 419,
-          "title": "『クエストクリア!!』あとがき",
-          "imageUrl": null
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html",
-          "author": "26K / にとろく",
-          "description": "Med-1グランプリ2022あとがき記事その2。本記事は「実行編」を記述した記事です。「準備編」はこちら：http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html「主催としての所感」はこちら：（今書いてるよ）「企画を開催したいあなたへ…」はこちら：（今書いてるよ）",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-83.html",
-          "publishedOn": "2022-07-16T05:49:00.000Z",
-          "wordCount": 455,
-          "title": "Med-1グランプリ2022 あとがき【実行編】",
-          "imageUrl": null
-        },
-        {
-          "id": "http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html",
-          "author": "26K / にとろく",
-          "description": "Med-1グランプリ2022、無事終了しましたね。関係者の皆様、参加者の皆様、そして視聴者の皆様、本当にありがとうございました。「まだ観てない！」という方は急いで作品や放送を観てください。本記事は「準備編」の記事です。「実行編」はこちら：（今書いてるよ）「主催としての所感」はこちら：（今書いてるよ）「企画を開催したいあなたへ…」はこちら：（今書いてるよ）作品一覧はこちら：【ニコニコ動画】Med-1%E3%82%B0%E3%83",
-          "link": "http://medley26kvocaloid.blog.fc2.com/blog-entry-80.html",
-          "publishedOn": "2022-07-16T03:03:00.000Z",
-          "wordCount": 408,
-          "title": "Med-1グランプリ2022 あとがき【準備編】",
           "imageUrl": null
         }
       ]
