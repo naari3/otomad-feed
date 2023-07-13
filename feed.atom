@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-13T03:15:11.606Z</updated>
+    <updated>2023-07-13T04:04:36.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230713_ひょ]]></title>
+        <id>https://note.com/kokeshi_short/n/nc659f7f1c9e7</id>
+        <link href="https://note.com/kokeshi_short/n/nc659f7f1c9e7"/>
+        <updated>2023-07-13T03:49:54.000Z</updated>
+        <summary type="html"><![CDATA[夏です。
+夏は郷愁を感じる要素が多すぎて困ります。
+「郷愁が押し寄せる」→「殺される」
+ってよく表現しちゃうから夏はなおさら大変だー。
+起きて窓の外を見る、殺される。外に出る、殺される。雲がある、殺される。雲がない、殺される。なんなら暑さも涼しさも殺しうる。夕方、もちろん殺される。帰宅して窓の外を見て、夕焼け。ここで完全に息の根を止められる。夜はその死体。
+
+？
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ものすごくあつい]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1250.html</id>
@@ -22994,37 +23011,6 @@ ONEPIECE無料公開第1弾が終わった。
 お笑いが好き、くらいは知ってたけどまさか向上委員会を見てるとは思わなかった。]]></summary>
         <author>
             <name>音MADとポケモンと私</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【合作】DINAMIX DIAGRAM に参加しました]]></title>
-        <id>hatenablog://entry/4207112889898781038</id>
-        <link href="https://owatax00.hatenablog.com/entry/2022/07/14/002840"/>
-        <updated>2022-07-13T15:28:40.000Z</updated>
-        <summary type="html"><![CDATA[【合作】DINAMIX DIAGRAM
-大変な途中下車シリーズ15周年記念合作、「DINAMIX DIAGRAM」に僭越ながら参加させてもらいました。
-……いやこんな記念合作に門外漢が参加しちゃって大丈夫なんですか！？大丈夫なんですよね！？ありがとうございます！（？？？）
-動画を作るのも久しぶりでしたが、後記を書くのはもっと久しぶりなのでラフな感じで行きましょう。
- 
-■はじめに
-合作に招待してもらったは良いものの実際どんな動画を作れば良いんだ…？と悩みまくりました。兎にも角にも下車と下車以外だと勝手が違いすぎるんですね。
-例えばアニメMAD等であれば元素材の時点で一つの「映像作品」として完成しているので切り貼りするだけでもある程度の形になるんですが、下車MADはまず素材の収集から始めなければならず。*1
-今回の合作では有り難いことに音声・映像ともに素材を提供してもらえた為かなり楽をさせてもらっているのですが、これを一から収録している下車作者の方々には頭が上がらないです。偉すぎる。
- 
-■構想/構成
-映像・音声ともに意識したのは「not下車作者だからこそ出来ることをやろう」でした。シンプルですね。
-なぜ下車の記念合作に下車作者でない自分を招待してもらえたのかと考えてみると、もし逆の立場だったら合作内のスパイス的な役割を期待して招待するだろうなと。*2
-ということで、
-下車の音声と言えば激しい刻みとキビキビした台詞合わせだよな
-⇒最低限の刻みと自然な(人間の発話に近い)台詞合わせで構成
-
-全体的にパキッとした画作りの動画が多い気がする
-⇒ぼかしを多めに用いて柔らかめの画で構成
-みたいな感じでイメージしてました。
-技術面で言えば自分より上手い人がゴロゴロ居る合作なので、自分の比較的得意な分野に寄せつつどうにか戦ってます。*3
-映像・音声ともに穏やか目な造りになりましたが、結果的…]]></summary>
-        <author>
-            <name>owatax's blog</name>
         </author>
     </entry>
     <entry>
