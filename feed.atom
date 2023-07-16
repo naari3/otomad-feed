@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-16T16:04:40.394Z</updated>
+    <updated>2023-07-16T17:04:22.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[sm42488979のお話]]></title>
+        <id>https://note.com/tojiru/n/n5c2079424111</id>
+        <link href="https://note.com/tojiru/n/n5c2079424111"/>
+        <updated>2023-07-16T16:26:08.000Z</updated>
+        <summary type="html"><![CDATA[noteではご無沙汰しております、とじーらと申します
+この記事ではこちらの動画の話をしてますので先にご視聴ください！
+続きをみる]]></summary>
+        <author>
+            <name>とじーら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[液タブを買いました]]></title>
         <id>hatenablog://entry/820878482950156055</id>
