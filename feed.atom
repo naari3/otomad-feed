@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-19T13:06:31.363Z</updated>
+    <updated>2023-07-19T14:05:04.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoogleDriveで動画ファイルを共有する方法]]></title>
+        <id>https://note.com/furadiru_99/n/nc7a1f56bdddf</id>
+        <link href="https://note.com/furadiru_99/n/nc7a1f56bdddf"/>
+        <updated>2023-07-19T13:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Googleアカウントを取得しブラウザからアプリのドライブを選ぶ
+Googleアカウントは無料で取得できます
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲスかめさんまじでnote毎日投稿...]]></title>
         <id>https://note.com/nendo31/n/ne0fe4fbe2d65</id>
