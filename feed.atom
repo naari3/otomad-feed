@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-21T06:05:00.960Z</updated>
+    <updated>2023-07-21T07:04:35.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[こ、こんなゆるいんかよ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1252.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1252.html"/>
+        <updated>2023-07-21T06:59:10.000Z</updated>
+        <summary type="html"><![CDATA[それじゃ行きましょう混沌三神の二柱目、フリージア戦ですもうご覧の通り猛烈な速さで攻撃してくるやばい猫近づいて引っ掻くだけなのに速すぎて対処が難しいというシンプルな強敵この速度を逆手にとって酸の水たまりを踏ませるのがおなじみの攻略法だけど、今回は別のやり方として前衛数名に出血カウンターがついた防具を着せて自滅させる作戦で行くことにしたで、結局有効だったのかも分からぬままあっという間に撃破いや、血は出]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[過去のnoteを修正しました]]></title>
         <id>https://note.com/calpisco/n/n1fcfcda38451</id>
