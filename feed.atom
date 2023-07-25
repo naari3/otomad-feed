@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-25T03:04:55.311Z</updated>
+    <updated>2023-07-25T04:04:28.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230725_かめかもつ（えのかめ]]></title>
+        <id>https://note.com/kokeshi_short/n/n3d01af5cf86a</id>
+        <link href="https://note.com/kokeshi_short/n/n3d01af5cf86a"/>
+        <updated>2023-07-25T03:30:13.000Z</updated>
+        <summary type="html"><![CDATA[ポケモンスリープ始めました。頑張るぞー！
+最近得た知見なんですけど、アラームの時刻を30分早くセットして、その30分を二度寝に当てると幸せになれます。
+昼寝は起きた時が不快だから30分くらいに抑えたいんですけど、ポケモンスリープが1時間30分からしか記録されないからつらいです。
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あついね～]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1253.html</id>
