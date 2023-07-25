@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-25T12:05:48.766Z</updated>
+    <updated>2023-07-25T13:07:41.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニコレポ連携の廃止が音MADにかな...]]></title>
+        <id>https://note.com/tanbatu/n/n211ce9f476ba</id>
+        <link href="https://note.com/tanbatu/n/n211ce9f476ba"/>
+        <updated>2023-07-25T12:44:19.000Z</updated>
+        <summary type="html"><![CDATA[ニコレポ連携の廃止が音MADにかなりの影響を与えているかも
+今まで「投稿→FFがマイリス等して自動ツイート→FFのFFがそれを見て更にマイリス→ランキングに載ってさらに伸びる」という様な流れだったので根本から変わりそう　というか自分自身タグ巡回はすべきと感じるこの頃 続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[230725_かめかもつ（えのかめ]]></title>
         <id>https://note.com/kokeshi_short/n/n3d01af5cf86a</id>
