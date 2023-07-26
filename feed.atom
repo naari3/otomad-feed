@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-26T15:04:30.908Z</updated>
+    <updated>2023-07-26T16:05:09.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自作PC（1/2）]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-116.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-116.html"/>
+        <updated>2023-07-26T15:47:42.000Z</updated>
+        <summary type="html"><![CDATA[初めて自作PCしたときの記録]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニコレポ連携の廃止が音MADにかな...]]></title>
         <id>https://note.com/tanbatu/n/n211ce9f476ba</id>
