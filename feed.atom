@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-30T11:04:05.814Z</updated>
+    <updated>2023-07-30T12:05:25.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#70 7月4週 色々見た]]></title>
+        <id>hatenablog://entry/820878482954022988</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/07/30/203648"/>
+        <updated>2023-07-30T11:36:48.000Z</updated>
+        <summary type="html"><![CDATA[今期はドラマを色々見ている。
+VIVANT、ハヤブサ消防団、トリリオンゲームを見ている。
+人に勧められてVIVANTを見たらドラマモチベが爆発してしまった。かなりダントツでVIVANTが面白い。
+考察をするのも読むのも楽しい。
+ 
+君たちはどう生きるかを見に行った。多分映画館で見る初ジブリ？
+正直難しくてよく分かんなかった。ジブリってそんなもんなのかな。
+直近見た2本がコナンとすずめの戸締まりだったのでより難しく感じてしまっているのかもしれない。
+鳥の声と話し方がかなり想像と違った。
+ 
+結局マスボに上げてからランクマ全然潜れないまま月末になってしまった。
+ただパーティ組み直してちょっとだけ潜ってみたら開幕3連勝出来たから来月はこのパーティで走りまくってみる。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[道化師協奏会 ~後日談~ 初めてのオリメド合作]]></title>
         <id>https://note.com/watu_note/n/n52839a2d5c72</id>
