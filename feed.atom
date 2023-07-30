@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-30T14:04:48.044Z</updated>
+    <updated>2023-07-30T15:04:42.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近買って良かったもの まとめ！]]></title>
+        <id>https://note.com/no_produce/n/nd67141896c33</id>
+        <link href="https://note.com/no_produce/n/nd67141896c33"/>
+        <updated>2023-07-30T14:02:23.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！担当無しと申します！
+今日は最近買って「良かったな〜」って思ったものをまとめてみました！
+続きをみる]]></summary>
+        <author>
+            <name>担当無し</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#70 7月4週 色々見た]]></title>
         <id>hatenablog://entry/820878482954022988</id>
