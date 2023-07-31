@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-07-31T04:04:45.367Z</updated>
+    <updated>2023-07-31T05:04:25.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[すのぶれ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1254.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1254.html"/>
+        <updated>2023-07-31T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[このまえサービス開始したスノウブレイクとかいうゲームに最近ハマってるネプテューヌやブルアカのシューターがあったらなぁという僕の妄想でしかなかったゲームが急に出てきてだいぶ混乱しています女の子があんまり可愛くないのが玉に瑕だけどそこには目を瞑れるくらいにはゲームとして面白くできてるほとんど美少女Warframe  スキルが地味でだいぶシューター寄りだけどもリフとフリティアに用意されてる配布スキンがめっちゃ僕好]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20230731「オレンジ牛にゅうの作り方」]]></title>
         <id>hatenablog://entry/820878482954089275</id>
