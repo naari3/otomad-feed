@@ -6325,21 +6325,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/4207112889907884115",
-          "author": null,
-          "description": "C依存のあるプロジェクトのビルドが難しい\nRustはビルトインでクロスコンパイルをサポートしている。以下のようにすることでクロスコンパイル可能となっている。\nrustup target add aarch64-unknown-linux-musl\ncargo build --target aarch64-unknown-linux-musl\nしかし、これではビルドできない場合がある。依存するcrateのビルド時、C言語への依存があった場合はC言語のビルドに必要なツールチェイン(コンパイラとリンカ)を揃える必要がある。\nwarning: cc: error: unrecognized command-line option `-arch`\nerror: failed to run custom build command for `wasmtime-fiber`\nCaused by:\n  ...\n  running \"cc\" ...\nzig cc を利用する\n従来は clang や llvm-ar を追加でインストールする必要があったが、最近話題になっているzigを使うことでこれを回避することができる。\nZig Makes Rust Cross-compilation Just Work · Um, actually...\n具体的には、次のようなwrapperを用意し、\n#!/bin/sh\n/path-to-zig/zig cc -target aarch64-linux $@\n\n\n\n以下のようにリンカ/ビルド時に利用する。\n[target.aarch64-unknown-linux-musl]\nlinker = \"/path-to-wrapper/zcc\"\nCC=\"/path-to-wrapper/zcc\" cargo build --target aarch64-unkn…",
-          "link": "https://naari.hatenablog.com/entry/2022/08/12/091404",
-          "publishedOn": "2022-08-12T00:14:04.000Z",
-          "wordCount": 503,
-          "title": "cargo-zigbuildで簡単にクロスコンパイルする / マルチアーキテクチャ対応のイメージ作成に利用する",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
