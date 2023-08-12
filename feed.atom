@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-12T00:12:13.783Z</updated>
+    <updated>2023-08-12T01:22:09.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人によっては作りながら構成考えてる...]]></title>
+        <id>https://note.com/nendo31/n/n158dc03ccae6</id>
+        <link href="https://note.com/nendo31/n/n158dc03ccae6"/>
+        <updated>2023-08-12T01:16:31.000Z</updated>
+        <summary type="html"><![CDATA[人によっては作りながら構成考えてるって人もいるらしい
+自分は同じく頭の中で先に完成させてる 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5ch（旧2ch）関係の歴史をまとめてみた（改訂版）@はてな匿名ダイアリー]]></title>
         <id>hatenablog://entry/820878482957473653</id>
