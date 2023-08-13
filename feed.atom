@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-13T17:04:19.802Z</updated>
+    <updated>2023-08-13T18:04:24.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -22385,16 +22385,6 @@ Unicode提案中の絶滅動物の絵文字などを追加。
         <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/08/14/154418"/>
         <updated>2022-08-14T06:44:18.000Z</updated>
         <summary type="html"><![CDATA[帰省先で大場ビルというスタァライトを彷彿とさせるビル名があったので撮ってしまった。となりにあるG線という喫茶店は訪れたことがある。古くて好きです。]]></summary>
-        <author>
-            <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[enikki_20220810]]></title>
-        <id>hatenablog://entry/4207112889908622021</id>
-        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/08/14/145200"/>
-        <updated>2022-08-14T05:52:00.000Z</updated>
-        <summary type="html"><![CDATA[溜めてしまった。ここ数日は帰省している間に少しずつ書いたものなので、実際に毎日書いているわけではない。]]></summary>
         <author>
             <name>遺失物取扱所</name>
         </author>
