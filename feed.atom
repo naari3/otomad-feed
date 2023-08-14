@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-14T03:04:15.827Z</updated>
+    <updated>2023-08-14T04:04:41.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -22342,21 +22342,6 @@ Unicode提案中の絶滅動物の絵文字などを追加。
 文字…]]></summary>
         <author>
             <name>ximcoの部屋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tidalcyclesでスネアフィルインをなんか上手いことできないかななんて]]></title>
-        <id>https://note.com/zejin/n/n4dd62af59cd4</id>
-        <link href="https://note.com/zejin/n/n4dd62af59cd4"/>
-        <updated>2022-08-14T15:31:00.000Z</updated>
-        <summary type="html"><![CDATA[自己流です　これがベストなやり方じゃぁ全然ないかもしれないけど
-4小節に一回、スネア連打するコードになります　gainとかで書き換えるとかもありますが、なんとなくスッキリしてるかなと思ったので
-最近見つけた（？）ので、使っていくうちにgainの方がいいじゃん…ってなるかもわかりません
-まぁメモ程度に
-下に書いてあるしがない作例たちは、多分デフォルトのサンプルとかしか使ってないので、そのままコピペで多分いけます
-続きをみる]]></summary>
-        <author>
-            <name>ぜじん</name>
         </author>
     </entry>
     <entry>
