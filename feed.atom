@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-19T11:04:19.327Z</updated>
+    <updated>2023-08-19T12:04:52.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アオーン]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1258.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1258.html"/>
+        <updated>2023-08-19T11:41:49.000Z</updated>
+        <summary type="html"><![CDATA[フォンテーヌが来る前にやってた東方鬼形獣かなり久々にガッツリ東方やりましたがたのしかった霊夢口悪すぎけっこう難しくてクリアまで結構かかってしまったが、動物霊システムがバカすぎてこれ使いこなせたら楽にクリアできるというか弾幕避けるゲームじゃなくなるカワウソ霊が周りの弾消し続けてくれるおかげでラスボスのラスト2スペカなんかぼっ立ちで取れるし……魔理沙でクリアしたあとオオカミ妖夢をやってみたら更にクソ簡単]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年7月14日～2023年8月18日　日記一覧]]></title>
         <id>hatenablog://entry/820878482959747658</id>
