@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-21T21:04:26.821Z</updated>
+    <updated>2023-08-21T22:04:26.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[M-1グランプリに出れませんでした]]></title>
+        <id>https://note.com/ssaymds/n/nd2eb04a7b846</id>
+        <link href="https://note.com/ssaymds/n/nd2eb04a7b846"/>
+        <updated>2023-08-21T21:03:43.000Z</updated>
+        <summary type="html"><![CDATA[どうせ死ぬのに我慢という行為を行うみなさんこんにちは
+以前よりTwitterにてM-1グランプリに出たいという旨を発信していましたが、遂に出られない事が決まっていました
+続きをみる]]></summary>
+        <author>
+            <name>ておつく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUSU野菜タオル書き起こし]]></title>
         <id>https://note.com/furadiru_99/n/n4b24dbc8201c</id>
