@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-22T05:04:18.469Z</updated>
+    <updated>2023-08-22T06:04:31.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -22426,16 +22426,6 @@ etc…
 皆様の参加をお待ちしております。]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nikki_20220822]]></title>
-        <id>hatenablog://entry/4207112889911093022</id>
-        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2022/08/23/022720"/>
-        <updated>2022-08-22T17:27:20.000Z</updated>
-        <summary type="html"><![CDATA[nikki_20220822 - 遺失物取扱所]]></summary>
-        <author>
-            <name>遺失物取扱所</name>
         </author>
     </entry>
     <entry>
