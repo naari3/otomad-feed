@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-26T15:04:36.129Z</updated>
+    <updated>2023-08-26T16:04:35.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[やりたかった音MAD企画(案)]]></title>
+        <id>https://note.com/fourangle/n/nac1e18583a02</id>
+        <link href="https://note.com/fourangle/n/nac1e18583a02"/>
+        <updated>2023-08-26T15:24:50.000Z</updated>
+        <summary type="html"><![CDATA[ふざけた動画すら出せんぐらい深刻な創作欲不足でもうやれなさそうなので書きます。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニコニコで音MAD伸ばしたいならい...]]></title>
         <id>https://note.com/tanbatu/n/nad6d58a4a07e</id>
