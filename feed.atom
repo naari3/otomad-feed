@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-26T12:04:35.374Z</updated>
+    <updated>2023-08-26T13:04:36.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニコニコで音MAD伸ばしたいならい...]]></title>
+        <id>https://note.com/tanbatu/n/nad6d58a4a07e</id>
+        <link href="https://note.com/tanbatu/n/nad6d58a4a07e"/>
+        <updated>2023-08-26T12:09:53.000Z</updated>
+        <summary type="html"><![CDATA[ニコニコで音MAD伸ばしたいならいいね率等を考えるよりも、一度ツイッターでバズらせてリンク誘導した方が楽 続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#73 8月3週 半沢直樹]]></title>
         <id>hatenablog://entry/820878482961896981</id>
