@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-26T01:22:05.160Z</updated>
+    <updated>2023-08-26T02:06:59.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラッスンゴレライズ衝撃の真実]]></title>
+        <id>https://note.com/customer_center/n/ncdfd8d07fc4e</id>
+        <link href="https://note.com/customer_center/n/ncdfd8d07fc4e"/>
+        <updated>2023-08-26T02:00:01.000Z</updated>
+        <summary type="html"><![CDATA[皆さんは かつて一世を風靡した この2人コンビを知っているだろうか？
+
+続きをみる]]></summary>
+        <author>
+            <name>こちらカスタマーセンター</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年8月-4】]]></title>
         <id>hatenablog://entry/820878482961424711</id>
