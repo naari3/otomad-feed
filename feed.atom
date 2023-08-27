@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-08-27T14:04:31.290Z</updated>
+    <updated>2023-08-27T15:04:13.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[N2を主催して]]></title>
+        <id>https://note.com/euro3/n/n22efb555f48b</id>
+        <link href="https://note.com/euro3/n/n22efb555f48b"/>
+        <updated>2023-08-27T14:41:19.000Z</updated>
+        <summary type="html"><![CDATA[どうも、最近健康的な人間になるため四苦八苦しているユーロです。
+今回は森久保乃々単独合作「N2」を主催の経験を通しての備忘録を書いていこうと思います。ちなみにこれを書いている時点で発足して1ヶ月程しか経ってません。リアルタイムで書いているという訳です。忘れっぽいから書いとかないといざ書くってなったら書けなさそうだからご理解願います。
+
+1.発足
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[vending,machine,Candela,]]></title>
         <id>hatenablog://entry/820878482960767877</id>
@@ -22469,18 +22483,6 @@ tl;drにも書いたけど、HKEY_LOCAL_MACHINE\SOFTWARE\VST にある VSTPlugin
 続きをみる]]></summary>
         <author>
             <name>ぜじん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォーしてくれたら～系のアカウントの研究記録（画像編その1）]]></title>
-        <id>https://note.com/rubr/n/n41f3af8f4e34</id>
-        <link href="https://note.com/rubr/n/n41f3af8f4e34"/>
-        <updated>2022-08-28T02:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Twitterをやっている方なら、一度は「フォーしてくれたら～」というようなプロフィールのアカウントを見た事があると思います。怪しいアカウントなので、「使われている画像もどこかから無断転載してきたものなのでは」と思う方も多いのではないでしょうか。無断かどうかは置いておいて転載されたものだと仮定すると、やはり元の画像を探してみたくなるものです。
-そこで私は元画像を特定しようと試みました。Googleの画像から検索する機能を利用するのです。
-続きをみる]]></summary>
-        <author>
-            <name>R___Va</name>
         </author>
     </entry>
     <entry>
