@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-09-07T18:04:49.068Z</updated>
+    <updated>2023-09-07T19:04:43.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[230908_キキーーー]]></title>
+        <id>https://note.com/kokeshi_short/n/n458774b8ace9</id>
+        <link href="https://note.com/kokeshi_short/n/n458774b8ace9"/>
+        <updated>2023-09-07T18:53:51.000Z</updated>
+        <summary type="html"><![CDATA[今年の松岡生誕祭に合わせてなにか作りたいなーって思ってました。
+  
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.09.07 メンタルやられてる時、日記書きがち]]></title>
         <id>hatenablog://entry/820878482965566727</id>
