@@ -13276,6 +13276,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://sehatakuro.github.io/2023/09/07/FavHolo",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://sehatakuro.github.io/2023/09/07/FavHolo",
+          "publishedOn": "2023-09-06T15:00:00.000Z",
+          "wordCount": 67,
+          "title": "【合作】FavHoloMædⅣ Amethyst",
+          "imageUrl": ""
+        },
+        {
           "id": "https://sehatakuro.github.io/2023/04/07/3DCG",
           "author": null,
           "description": "Sorry, your browser doesn't support embedded videos.",
@@ -13294,6 +13304,26 @@
           "wordCount": 84,
           "title": "HYPERFLIP OVERTURE - 舟をこぐ",
           "imageUrl": "/works/hyperflip_overture.jpg"
+        },
+        {
+          "id": "https://sehatakuro.github.io/2023/02/18/minamitorisima",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://sehatakuro.github.io/2023/02/18/minamitorisima",
+          "publishedOn": "2023-02-17T15:00:00.000Z",
+          "wordCount": 65,
+          "title": "【必見】ボム兵の戦場にまつわる衝撃の真実が明らかに！【合作】",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://sehatakuro.github.io/2023/01/29/hanjou",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://sehatakuro.github.io/2023/01/29/hanjou",
+          "publishedOn": "2023-01-28T15:00:00.000Z",
+          "wordCount": 66,
+          "title": "【悲報】はんじょう、何者かに勝手に合作にされてしまう……【2023/01/29】",
+          "imageUrl": ""
         },
         {
           "id": "https://sehatakuro.github.io/2023/01/27/moshrace",
