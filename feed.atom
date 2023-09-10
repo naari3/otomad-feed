@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-09-10T07:04:25.706Z</updated>
+    <updated>2023-09-10T08:04:57.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[君たちはゲムのMADができるか]]></title>
+        <id>https://note.com/nototote/n/nff10be1b9fcc</id>
+        <link href="https://note.com/nototote/n/nff10be1b9fcc"/>
+        <updated>2023-09-10T07:41:36.000Z</updated>
+        <summary type="html"><![CDATA[僕は主催です！
+  
+続きをみる]]></summary>
+        <author>
+            <name>とッくん@マリ●ペデ●ア管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#75 8月5週 VIVANTが面白い2]]></title>
         <id>hatenablog://entry/820878482966145857</id>
