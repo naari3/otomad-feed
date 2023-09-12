@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-09-12T16:04:59.730Z</updated>
+    <updated>2023-09-12T17:04:30.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[◆%□さん住んでるとこそんな遠くな...]]></title>
+        <id>https://note.com/nendo31/n/n8d887da36167</id>
+        <link href="https://note.com/nendo31/n/n8d887da36167"/>
+        <updated>2023-09-12T16:52:22.000Z</updated>
+        <summary type="html"><![CDATA[◆%□さん住んでるとこそんな遠くなさそうな気がするしいつかエンカしてみたいかも 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感動する真島茂樹合作ボー７スの単品振り返り]]></title>
         <id>https://note.com/dou_akagane_cu/n/nf508932ba4cb</id>
