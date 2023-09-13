@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-09-13T11:04:27.465Z</updated>
+    <updated>2023-09-13T12:05:43.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スクショはもはや無価値だってはっきりわかんだね]]></title>
+        <id>https://note.com/furadiru_99/n/n0fe2ba9759f5</id>
+        <link href="https://note.com/furadiru_99/n/n0fe2ba9759f5"/>
+        <updated>2023-09-13T11:57:14.000Z</updated>
+        <summary type="html"><![CDATA[そうでもないかも　知らんけど
+
+ブラウザでF12を押すと開発者モードに飛びます
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[激ウケ、激スベリ]]></title>
+        <id>https://note.com/ssaymds/n/nc6368de6e539</id>
+        <link href="https://note.com/ssaymds/n/nc6368de6e539"/>
+        <updated>2023-09-13T11:42:34.000Z</updated>
+        <summary type="html"><![CDATA[小学生の頃、
+授業が早めに終わった時に時間潰しのため先生が提言し
+続きをみる]]></summary>
+        <author>
+            <name>ておつく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆%□さん住んでるとこそんな遠くな...]]></title>
         <id>https://note.com/nendo31/n/n8d887da36167</id>
