@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-09-21T09:04:42.891Z</updated>
+    <updated>2023-09-21T10:05:10.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【閲覧注意】おすすめ動画(直取り編)]]></title>
+        <id>https://note.com/aun6june/n/n9294f4a7230e</id>
+        <link href="https://note.com/aun6june/n/n9294f4a7230e"/>
+        <updated>2023-09-21T09:04:38.000Z</updated>
+        <summary type="html"><![CDATA[普通にダメな人はダメだと思います。
+直撮り編です。
+・エリア51
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[彼女が時事ネタに疎すぎて嫌になってきた]]></title>
         <id>https://anond.hatelabo.jp/20230921003353</id>
