@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-09-22T21:04:15.838Z</updated>
+    <updated>2023-09-22T22:04:36.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自分とは]]></title>
+        <id>https://note.com/tomoshige_note/n/n648c0c6159ba</id>
+        <link href="https://note.com/tomoshige_note/n/n648c0c6159ba"/>
+        <updated>2023-09-22T22:00:02.000Z</updated>
+        <summary type="html"><![CDATA[最近、ありがたいことに色々な企画に声をかけてもらって関わらせていただいていますが、僕個人としてはそこまで自分に価値があるとは思えません。
+2016年末頃に音MADを作り始め、そこからやりたいこと、自分が聞きたい曲をMADに落とし込んで、ついでにニコニコに投稿して…気が付けばもうすぐ作者歴も9年目を迎えようとしています。恐ろしい。
+音MADに関して、途中から人力に対しての熱量が高くなっていき、人力さえできれば僕はそれでいいか…と感じるようになりました。映像も作らなくていいやと考えるようになっていきました。「音」MADなので音を聴いてもらえば僕としては十分です。
+僕はいわゆるチュートリアル動画とか、誰かがやっていることを真似できないタイプの人間です。見ても理解できないというか、覚えていられないと言ったほうが正しいでしょうか。
+自分で模索していった中でこれいいじゃん！となったもの以外はほとんど覚えていられません。バカ。(でも動画構成はトレースできるんだよな、バカか？)
+最初はREAPERの存在すら知らず、うっすら覚えていたSoundfontとDominoを使って音MADを作っていました。最初の1年くらいはおそらくそうだったと思います。セリフももちろん後から付け足すなんて思いつかないのでいちいちSoundfontにしてDominoで並べて…とめちゃくちゃ効率の悪い作り方をしていました。バカですね。
+REAPERに移行したのは「クッキー☆の戦場」からだったと思います。そこからようやく他の人と同じスタートラインに立てました。
+救いだったのが人よりは多少相対音感があるらしく、音合わせに関してはそこまで苦労しなかったことです。救いでなかったのは「音合わせがなんとなくできるからセリフ合わせはいいや」の精神になってしまったことでしょうか。
+続きをみる]]></summary>
+        <author>
+            <name>ともしげ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023.09.22 うわーお日記]]></title>
         <id>hatenablog://entry/820878482969820191</id>
@@ -22605,18 +22623,6 @@ www.notion.so
 続きをみる]]></summary>
         <author>
             <name>丹波津</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【牛報】イカ淫夢、牛牛]]></title>
-        <id>https://note.com/ssaymds/n/n05d6be2cbd63</id>
-        <link href="https://note.com/ssaymds/n/n05d6be2cbd63"/>
-        <updated>2022-09-23T09:12:24.000Z</updated>
-        <summary type="html"><![CDATA[どうせ死ぬのにしょしんしゃクラゲと戦ってナワバトラーのランク上げ作業やってるみなさんこんにちは
-イカ淫夢出しました、見てない方は↓からどうぞ
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
     <entry>
