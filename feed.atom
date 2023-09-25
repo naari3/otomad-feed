@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-09-25T03:04:19.487Z</updated>
+    <updated>2023-09-25T04:04:35.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OPの話と感想]]></title>
+        <id>https://note.com/wakigeurikire/n/nb3633e9c783f</id>
+        <link href="https://note.com/wakigeurikire/n/nb3633e9c783f"/>
+        <updated>2023-09-25T03:07:45.000Z</updated>
+        <summary type="html"><![CDATA[3年ぶりにnoteにログインしました（アドレス認証でめちゃくちゃ手こずった）
+  
+続きをみる]]></summary>
+        <author>
+            <name>さはらです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女の子がかわいい合作のあるひとつの妄想]]></title>
         <id>https://note.com/euro3/n/n74e09bf2ba36</id>
