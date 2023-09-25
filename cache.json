@@ -7452,23 +7452,7 @@
       "title": "ユッ記",
       "feedUrl": "https://taiuo443.hatenablog.com/rss",
       "siteUrl": "https://taiuo443.hatenablog.com/",
-      "articles": [
-        {
-          "id": "hatenablog://entry/4207112889921980949",
-          "author": null,
-          "description": "皆さん、Notion（ノーション）をご存知でしょうか。\n通話でこれを聞いても、「知らない」「聞いたことはある」くらいの反応か、もしくは「ノーション！？」と聞き返されてしまうことが多かったです。\n\n \nしかし、使いこなせるようになるとスーパー便利ツールなので、紹介記事を書くことにしました。\nNotionユーザーが増えると、色々と話が早くなるのでできるだけ普及させたいなあという個人的な思いがあります。\n10月4日に投稿予定の咲合作2でもスプレッドシートの代わりに、Notionを使って進行されていました。めっちゃ便利です！\nwww.nicovideo.jp\n音MADラジオの公式サイトもNotionで作成されていますね。\notomad.notion.site\n \n \n上記の例を含めて用途は多岐に渡り、それをすべて書くととっても大変なので、\n今回は映像リファレンスを記録するツールとしての使い方を紹介します！\n \n \n手順\nワークスペースを作成\n映像リファレンス用のページを作成\nデータベースを作成\n拡張機能Save to Notionを使って動画をデータベースに追加\nデータベースの内容をカスタマイズ\n \n1.ワークスペースを作成\nまずはアカウントを作成して、ワークスペースを作成するところまでやってみましょう。\nワークスペースとはNotionのページ管理の最上位層です。\n今回は個人的に使用するアーカイブ用のワークスペースを作成します。\n細かいことはあんまり気にしないでください。\n気をつけた方がいいのは、合作とかのプロジェクトを立ち上げる際にはワークスペースは分けておいた方がいいです。\n \nそれでは、アカウントを作成しましょう。\n\nwww.notion.so\nどんどん進めてください。\n以下の画面まできたら、右側の自分のためにを選択。\n\n\n\n余談ですが、プロジェクトで使用する時もチームと一緒…",
-          "link": "https://taiuo443.hatenablog.com/entry/2022/09/26/184130",
-          "publishedOn": "2022-09-26T09:41:30.000Z",
-          "wordCount": 364,
-          "title": "映像リファレンス記録ツールとしてのNotionの活用方法",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/t/taiuo/20220926/20220926184025.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/t/taiuo/20220926/20220926184025.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "竹達アーカイブ通信",
@@ -10844,16 +10828,6 @@
           "wordCount": 1180,
           "title": "柴田元ネタ解説をやろうと考えてる",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/27344339/profile_64ac54451aef1283b8d1f77361f9cb33.jpg?fit=bounds&format=jpeg&quality=85&width=330"
-        },
-        {
-          "id": "https://note.com/nendo31/n/n2dbe9fc714d2",
-          "author": null,
-          "description": "300万円獲得したわよ\n続きをみる",
-          "link": "https://note.com/nendo31/n/n2dbe9fc714d2",
-          "publishedOn": "2022-09-26T09:58:05.000Z",
-          "wordCount": 2311,
-          "title": "明日の夕飯これにならないかな",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/87521061/rectangle_large_type_2_85f44f4bd5f372d07123e0d169544052.png?width=800"
         }
       ]
     },
