@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-09-30T14:04:16.255Z</updated>
+    <updated>2023-09-30T15:04:21.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#78 9月3週 音MDM天を見た]]></title>
+        <id>hatenablog://entry/820878482971992935</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/09/30/233056"/>
+        <updated>2023-09-30T14:30:56.000Z</updated>
+        <summary type="html"><![CDATA[音MDM天を見た。
+TSで見たけど一応投票はしてみた。
+放課後おたずねものプロデューサーズ、FLAME KEEPER、8116°、スネ夫芸能事務所、決勝はFLAME KEEPERでした。
+DのM、SOUL'd OUTとDiggy-MO'が結び付いてないレベルでも見てて楽しいからSOUL'd OUT好きなら堪んないだろうなあ、と思う。
+チェンソーマン、アニメまでしか追えてないんですけどマキマさんってラスボスなんですか？パワーって死ぬんですか？]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[私もこれからnoteを投稿する際に...]]></title>
         <id>https://note.com/tanbatu/n/n2648f31fcb09</id>
