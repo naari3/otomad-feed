@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-01T14:04:14.698Z</updated>
+    <updated>2023-10-01T15:04:24.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[雑多　編集後記]]></title>
+        <id>https://note.com/sweets_farting/n/n0b52af38969b</id>
+        <link href="https://note.com/sweets_farting/n/n0b52af38969b"/>
+        <updated>2023-10-01T14:21:27.000Z</updated>
+        <summary type="html"><![CDATA[頬蜂projectで投稿した動画群の編集後記
+頬蜂projectとは当時(2019年ごろ)、音MAD界隈は匿名団体アカウントブームだったんですが、どこにも誘われなかった自分がムカついて作った匿名団体アカウントです
+しかし、コミュ障すぎて誰も誘えなかった結果実質個人垢になってしまった悲しきアカウントです
+続きをみる]]></summary>
+        <author>
+            <name>角煮サイダ一</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20231001「無題」]]></title>
         <id>hatenablog://entry/820878482972039184</id>
