@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-02T10:04:41.606Z</updated>
+    <updated>2023-10-02T11:04:29.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10月2日の日記]]></title>
+        <id>https://note.com/nano_87g/n/n701d2c430848</id>
+        <link href="https://note.com/nano_87g/n/n701d2c430848"/>
+        <updated>2023-10-02T10:03:55.000Z</updated>
+        <summary type="html"><![CDATA[うろちょろしました あとは反省を少し！
+でも今回はほんのちょっとの目的があります！まずはこちらのメモをご覧下さい
+
+
+続きをみる]]></summary>
+        <author>
+            <name>なのはなぐらむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雑多　編集後記]]></title>
         <id>https://note.com/sweets_farting/n/n0b52af38969b</id>
