@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-05T14:04:27.445Z</updated>
+    <updated>2023-10-05T15:04:45.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アシッドハウス=ムネオハウス@TECHNO]]></title>
+        <id>hatenablog://entry/820878482973274405</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20231005/p1"/>
+        <updated>2023-10-05T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[[テクノ＠5ch] アシッドハウス=ムネオハウス
+本日昼前頃、5ちゃんねるテクノ板にスレッドが立っていました。テクノ板に立つムネオハウスの新規スレとしては2005年9月の「muneo house」スレ以来18年ぶりとなります。
+以下はスレッドより>>1さんの主張。
+
+
+0001TR-774 2023/10/05(木) 11:46:05.30ID:???
+
+最近本人が騒がしいので、
+[テクノ＠5ch] アシッドハウス=ムネオハウス]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近Davinci Resolve...]]></title>
         <id>https://note.com/tanbatu/n/n299a903c369c</id>
