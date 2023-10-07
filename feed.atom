@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-07T10:04:29.481Z</updated>
+    <updated>2023-10-07T11:04:23.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD界隈におけるディレクター業務って何？]]></title>
+        <id>https://note.com/nomuratakeshi/n/n4f86d1f4dec4</id>
+        <link href="https://note.com/nomuratakeshi/n/n4f86d1f4dec4"/>
+        <updated>2023-10-07T10:52:20.000Z</updated>
+        <summary type="html"><![CDATA[音MAD作者は本来音MADを作る
+音MAD界隈において音MAD作者は音MADを制作することが本業です。なので本来ディレクター業務は通る道ではないでしょう。
+続きをみる]]></summary>
+        <author>
+            <name>埜村武</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年9月-4】仰]]></title>
         <id>hatenablog://entry/820878482973600252</id>
