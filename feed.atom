@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-08T15:04:18.322Z</updated>
+    <updated>2023-10-08T16:04:32.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スプライト味のちんちん]]></title>
+        <id>https://note.com/ssaymds/n/n275dfd04a54f</id>
+        <link href="https://note.com/ssaymds/n/n275dfd04a54f"/>
+        <updated>2023-10-08T15:33:19.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>ておつく</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【PC移行】ReaperへのWaves Gold(V9)の導入で躓いたメモ（解決済）]]></title>
         <id>hatenablog://entry/820878482974073782</id>
