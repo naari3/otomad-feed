@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-11T15:04:09.947Z</updated>
+    <updated>2023-10-11T16:04:52.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[QVC福島のキャラクターグッズ購入！]]></title>
+        <id>https://note.com/furadiru_99/n/n522acdfc51d1</id>
+        <link href="https://note.com/furadiru_99/n/n522acdfc51d1"/>
+        <updated>2023-10-11T15:18:29.000Z</updated>
+        <summary type="html"><![CDATA[サラダおろし、大根スリスリ、ハイブリットソースライサー（とメーカーが同じもの）、CHOP-CHOP（とほぼ同じもの）
+
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近況(2023/10/11)]]></title>
         <id>hatenablog://entry/820878482974776859</id>
