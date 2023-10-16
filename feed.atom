@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-16T00:13:48.371Z</updated>
+    <updated>2023-10-16T01:26:46.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1年分]]></title>
+        <id>https://note.com/qreg/n/n7d3dc03430a9</id>
+        <link href="https://note.com/qreg/n/n7d3dc03430a9"/>
+        <updated>2023-10-16T00:55:49.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは
+ここ1年で投稿した動画を見ていろいろ言います
+こういうのって年末にやるべきかも　まあいいか
+いきます
+続きをみる]]></summary>
+        <author>
+            <name>くれがしら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100ドル（アンヘル）が伸びまくっ...]]></title>
         <id>https://note.com/tanbatu/n/n698e81418d00</id>
