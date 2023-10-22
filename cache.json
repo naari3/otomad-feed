@@ -8840,6 +8840,16 @@
       "siteUrl": "https://note.com/fourangle",
       "articles": [
         {
+          "id": "https://note.com/fourangle/n/ne8f47829ef8d",
+          "author": null,
+          "description": "□お久しぶりです。\n四角です。去年やってた動画紹介企画である「韓国音MAD特集」の第二弾を開催いたします。自分的に色々忙しくなり開催できるか迷ったのですが、去年の機材トラブルが凄い惜しかったのでリベンジしてみたいなってことと、あと普通に皆さんと音MADを見る時間をもう一回持てたらいいなと思ったので、本格再開することになりました。\n続きをみる",
+          "link": "https://note.com/fourangle/n/ne8f47829ef8d",
+          "publishedOn": "2023-10-22T12:38:46.000Z",
+          "wordCount": 2541,
+          "title": "動画紹介企画「#韓国音MAD特集・第二弾」開催のお知らせ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/119602802/rectangle_large_type_2_a8e55c3de0d8178235028ede983a6d49.png?width=800"
+        },
+        {
           "id": "https://note.com/fourangle/n/nac1e18583a02",
           "author": null,
           "description": "ふざけた動画すら出せんぐらい深刻な創作欲不足でもうやれなさそうなので書きます。\n\n\n続きをみる",
@@ -11016,16 +11026,6 @@
           "wordCount": 2378,
           "title": "AI拓也のはなし",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/90253098/rectangle_large_type_2_b967c7057bbdbbea663de3898fd8edfa.png?width=800"
-        },
-        {
-          "id": "https://note.com/ssaymds/n/neab06a090822",
-          "author": null,
-          "description": "こんにちは\nAIのべりすとのプレミアムプランに加入したので試しに漫才の台本を作らせてみる事にしました\n(AIのべりすと初心者につき見よう見まねです)\n続きをみる",
-          "link": "https://note.com/ssaymds/n/neab06a090822",
-          "publishedOn": "2022-10-23T00:17:25.000Z",
-          "wordCount": 2492,
-          "title": "AIを使ってオズワルドの新作漫才を作らせてみる",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/89569400/rectangle_large_type_2_02a99a9dcee18124856f6ad48d12c33f.jpeg?width=800"
         }
       ]
     },

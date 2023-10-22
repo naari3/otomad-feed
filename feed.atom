@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-22T12:05:19.907Z</updated>
+    <updated>2023-10-22T13:04:36.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[動画紹介企画「#韓国音MAD特集・第二弾」開催のお知らせ]]></title>
+        <id>https://note.com/fourangle/n/ne8f47829ef8d</id>
+        <link href="https://note.com/fourangle/n/ne8f47829ef8d"/>
+        <updated>2023-10-22T12:38:46.000Z</updated>
+        <summary type="html"><![CDATA[□お久しぶりです。
+四角です。去年やってた動画紹介企画である「韓国音MAD特集」の第二弾を開催いたします。自分的に色々忙しくなり開催できるか迷ったのですが、去年の機材トラブルが凄い惜しかったのでリベンジしてみたいなってことと、あと普通に皆さんと音MADを見る時間をもう一回持てたらいいなと思ったので、本格再開することになりました。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#82 10月3週 ワンダー]]></title>
         <id>hatenablog://entry/6801883189052537897</id>
@@ -22143,19 +22155,6 @@ TA-Track
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIを使ってオズワルドの新作漫才を作らせてみる]]></title>
-        <id>https://note.com/ssaymds/n/neab06a090822</id>
-        <link href="https://note.com/ssaymds/n/neab06a090822"/>
-        <updated>2022-10-23T00:17:25.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは
-AIのべりすとのプレミアムプランに加入したので試しに漫才の台本を作らせてみる事にしました
-(AIのべりすと初心者につき見よう見まねです)
-続きをみる]]></summary>
-        <author>
-            <name>ておつく</name>
         </author>
     </entry>
     <entry>
