@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-25T09:04:40.178Z</updated>
+    <updated>2023-10-25T10:04:43.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VST導入方法]]></title>
+        <id>hatenablog://entry/6801883189053318898</id>
+        <link href="https://fear443243.hatenablog.com/entry/2023/10/25/183734"/>
+        <updated>2023-10-25T09:37:34.000Z</updated>
+        <summary type="html"><![CDATA[本記事では、VSTプラグインをREAPERにインストールする方法を記載します。
+maimaiさんの記事から一部流用させていただいている部分がございます。
+[汎用説明記事] REAPERでのVSTの導入方法 - YTPMV.info
+ 
+そもそもVSTとは？
+音を加工したり、エフェクトをかけたりするためのものです。
+ 
+事前準備
+まずは、C¥ProgramFiles¥上に、「VSTPlugIns」というフォルダを作っておきましょう。
+
+ 
+次に、このVSTPlugInsというフォルダのことをREAPER君に認識してもらいます。
+①Ctrl + P を押して、環境設定画面を開く。
+②左のメニューから「VST」をクリックし、表示された画面にある
+　「Edit path list…」をクリックする。
+
+ 
+③表示メニュー内にある「Add path」をクリック。
+
+④さっき作成した「VSTPlugIn」フォルダを選択し、OKをクリック。
+
+ 
+以上で事前準備は完了です。
+ 
+インストール方法
+REAPERへのVSTのインストール方法は、大きく分けて3種類あります。
+ 
+①dllファイルを所定のフォルダへ突っ込めば、
+　それだけでインストールが完了するタイプ
+②インストーラー(exeファイル）を起動して、インストールするタイプ
+③会員登録して、ポータルアプリをインストールしたあとに、
+　プラグインをインストールするタイプ
+ 
+上から順に解説していきます。
+ 
+①dllファイルを所定のフォルダへ突っ込めば、それだけでインストールが完了するタイプ
+ 
+「サイトからDLしたzipを解凍したら、dllファイルとtxtファイルくらいしか入ってなかった」
+というようなものがこれに当たります。（W1 Limiterなど）
+この場合は簡単です。
+先ほど作成した「VSTPlugin」というフォルダに、D…]]></summary>
+        <author>
+            <name>NiVE（にヴぇ）派</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[こいつをたおせー]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1270.html</id>
