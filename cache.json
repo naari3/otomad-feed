@@ -5726,21 +5726,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/4207112889930892569",
-          "author": null,
-          "description": "ツイートで済みそうなブログ記事リンク集\njavascript:(()=>{ let url = new URL(location.href); url.host = \"www.nicochart.jp\"; url.protocol = \"http:\"; location.href = url.toString(); })()\n\n\n\n思いついたタイミングで衝撃が走った。何故これを10年前に用意しておかなかったんだ。僕はこういう簡単すぎることこそコードにしてない節があって、そういうところなんだよなという感じ。\nところで自分のブックマークバーはブックマークレット専用バーみたいになっている。「ブックマークバーにはよく使うサイトやサービスを置いておくものだ」という一般的なノウハウがあるが、そんなサイトであればChromeのアドレスバーから対象のドメイン名頭数文字を入れるだけでそのサイトが出てくる。たとえば Ctrl + T → nico → Enter のようなコマンドで nicovideo.jp にアクセスできる、など。なので個人的にそのような用途をしておらず、代わりに前述の使い方をするようになった。\nブックマークバーにあるアイテムに愚直な名前をつけ続けているとバーが埋まってどうしようもなくなる。なので今回を機会にちょっとだけ短い名前を付けるようにした*1。半角ｶﾅを使うだけで00年代のような雰囲気になるのがちょっとおもしろい。\n\n*1:一回フォルダにまとめることも考えたけど2クリックになってしまうのでやめた",
-          "link": "https://naari.hatenablog.com/entry/2022/10/26/074730",
-          "publishedOn": "2022-10-25T22:47:30.000Z",
-          "wordCount": 297,
-          "title": "何故僕はニコニコ動画の視聴ページからニコニコチャートにすぐ飛ぶためのブックマークレットを何故10年前に作っておかなかったのか",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20221026/20221026073428.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20221026/20221026073428.png"
         }
       ]
     },

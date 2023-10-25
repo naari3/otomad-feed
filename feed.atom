@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-25T10:04:43.370Z</updated>
+    <updated>2023-10-25T11:04:06.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -22036,25 +22036,6 @@ note.com
 The post [汎用説明記事] Pythonの導入 first appeared on YTPMV.info.]]></summary>
         <author>
             <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[何故僕はニコニコ動画の視聴ページからニコニコチャートにすぐ飛ぶためのブックマークレットを何故10年前に作っておかなかったのか]]></title>
-        <id>hatenablog://entry/4207112889930892569</id>
-        <link href="https://naari.hatenablog.com/entry/2022/10/26/074730"/>
-        <updated>2022-10-25T22:47:30.000Z</updated>
-        <summary type="html"><![CDATA[ツイートで済みそうなブログ記事リンク集
-javascript:(()=>{ let url = new URL(location.href); url.host = "www.nicochart.jp"; url.protocol = "http:"; location.href = url.toString(); })()
-
-
-
-思いついたタイミングで衝撃が走った。何故これを10年前に用意しておかなかったんだ。僕はこういう簡単すぎることこそコードにしてない節があって、そういうところなんだよなという感じ。
-ところで自分のブックマークバーはブックマークレット専用バーみたいになっている。「ブックマークバーにはよく使うサイトやサービスを置いておくものだ」という一般的なノウハウがあるが、そんなサイトであればChromeのアドレスバーから対象のドメイン名頭数文字を入れるだけでそのサイトが出てくる。たとえば Ctrl + T → nico → Enter のようなコマンドで nicovideo.jp にアクセスできる、など。なので個人的にそのような用途をしておらず、代わりに前述の使い方をするようになった。
-ブックマークバーにあるアイテムに愚直な名前をつけ続けているとバーが埋まってどうしようもなくなる。なので今回を機会にちょっとだけ短い名前を付けるようにした*1。半角ｶﾅを使うだけで00年代のような雰囲気になるのがちょっとおもしろい。
-
-*1:一回フォルダにまとめることも考えたけど2クリックになってしまうのでやめた]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
     <entry>
