@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-10-26T14:04:32.427Z</updated>
+    <updated>2023-10-26T15:04:37.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[津島雄二氏 死去 93歳]]></title>
+        <id>hatenablog://entry/6801883189053597048</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20231026/News"/>
+        <updated>2023-10-26T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[津島雄二氏が死去　93歳、元厚相 (日本経済新聞)
+厚相や自民党税制調査会長などを務めた元衆院議員の津島雄二（つしま・ゆうじ）氏が10月25日午後7時35分、老衰のため東京都内の病院で死去した。93歳だった。
+
+旧大蔵省の官僚を経て、1976年衆院選で自民党から旧青森1区に出馬して初当選。2009年の政界引退まで11期務めた。
+
+1990年に海部俊樹内閣の厚相として初入閣。2000年に森喜朗内閣で2度目の厚相に就いたほか、党旧橋本派（平成研究会）の会長職を継承し、津島派を率いた。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メモリ関連?エラー]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-118.html</id>
