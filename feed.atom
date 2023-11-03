@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-03T14:04:30.906Z</updated>
+    <updated>2023-11-03T15:04:16.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【制作後記】女の子がかわいい合作（変わるかもしれません）【音MDM】]]></title>
+        <id>https://note.com/aun6june/n/n6bc9c349fed6</id>
+        <link href="https://note.com/aun6june/n/n6bc9c349fed6"/>
+        <updated>2023-11-03T14:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Aquariusが制作し、音MDM天で放送された動画、女の子がかわいい合作（変わるかもしれません）について、制作の経緯などを記載します。
+なお、この記事は水無月☆★とメスシリンダー(@mesushirinda)の2人で共著している記事になります。
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年11月-1】そろそろ自惚れてもいいらしい]]></title>
         <id>hatenablog://entry/6801883189055639200</id>
