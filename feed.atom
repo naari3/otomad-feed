@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-04T12:05:18.566Z</updated>
+    <updated>2023-11-04T13:04:04.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MDM天 二〇二〇からの使者 ~後日談編~]]></title>
+        <id>https://note.com/watu_note/n/n04f3fb2b7790</id>
+        <link href="https://note.com/watu_note/n/n04f3fb2b7790"/>
+        <updated>2023-11-04T12:07:08.000Z</updated>
+        <summary type="html"><![CDATA[※この記事は「熱戦！戦う英雄たち ～地獄からの使者と異世界からの道化師～」の動画のネタバレが含まれます。
+未視聴の方は先に視聴してから記事を読むことをおすすめします
+続きをみる]]></summary>
+        <author>
+            <name>わっつー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#83 10月4週 GUは店舗にXSを置いて欲しい]]></title>
         <id>hatenablog://entry/6801883189055090047</id>
