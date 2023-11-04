@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-04T22:04:27.772Z</updated>
+    <updated>2023-11-04T23:04:23.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -21889,18 +21889,6 @@ youtu.be
 The post [汎用説明記事] ffmpegの導入とパスの通し方 first appeared on YTPMV.info.]]></summary>
         <author>
             <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AviUtlメモ】「ハーフトーン風」でテキストをドット化させる]]></title>
-        <id>https://note.com/futon_is_god/n/n1d394792f8d8</id>
-        <link href="https://note.com/futon_is_god/n/n1d394792f8d8"/>
-        <updated>2022-11-05T10:19:31.000Z</updated>
-        <summary type="html"><![CDATA[もっといい方法あるのかもしれないですけど、折角見つけたのでメモしておきます
-↓今回使用しているスクリプトの導入方法はこれ見ればわかると思います
-続きをみる]]></summary>
-        <author>
-            <name>片知</name>
         </author>
     </entry>
     <entry>
