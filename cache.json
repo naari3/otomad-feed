@@ -7774,7 +7774,18 @@
       "title": "動かない鳥のアイコンの民",
       "feedUrl": "https://note.com/anochan/rss",
       "siteUrl": "https://note.com/anochan",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/anochan/n/nf99975cd15b1",
+          "author": null,
+          "description": "Peppina ramen mod Discordには解決方法書いてあったけど、Peppina Ramenに同梱されている日本語MODがエラーを吐いており起動できなかったので記録。\nPeppinaちゃん使いたいという下心で導入しよう！\n続きをみる",
+          "link": "https://note.com/anochan/n/nf99975cd15b1",
+          "publishedOn": "2023-11-05T19:48:55.000Z",
+          "wordCount": 2790,
+          "title": "[2023/11]Pizza Tower / Peppina Ramen MOD導入と導入する際のERROR in action number 1...に関して",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/763c830ef7c489b63993aaf8425be92d8d328c87.png"
+        }
+      ]
     },
     {
       "title": "Anzato",

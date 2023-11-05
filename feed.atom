@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-05T19:04:18.708Z</updated>
+    <updated>2023-11-05T20:04:04.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[2023/11]Pizza Tower / Peppina Ramen MOD導入と導入する際のERROR in action number 1...に関して]]></title>
+        <id>https://note.com/anochan/n/nf99975cd15b1</id>
+        <link href="https://note.com/anochan/n/nf99975cd15b1"/>
+        <updated>2023-11-05T19:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Peppina ramen mod Discordには解決方法書いてあったけど、Peppina Ramenに同梱されている日本語MODがエラーを吐いており起動できなかったので記録。
+Peppinaちゃん使いたいという下心で導入しよう！
+続きをみる]]></summary>
+        <author>
+            <name>動かない鳥のアイコンの民</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑記】良かった動画を振り返ろう（2023年10月）]]></title>
         <id>hatenablog://entry/6801883189056022442</id>
