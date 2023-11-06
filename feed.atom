@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-06T09:04:35.418Z</updated>
+    <updated>2023-11-06T10:04:56.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マシマシ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1272.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1272.html"/>
+        <updated>2023-11-06T10:01:44.000Z</updated>
+        <summary type="html"><![CDATA[11月から夏イベがはじまった狂気のゲーム、スノウブレイクもう周りでプレーしてるのは僕だけになってしまいましたがここへ来て生死をかけた戦いに臨んできてますねなんたって水着スキンが4,5人分くらい増えたからね特にマーシルの水着がクッソきわどくてブログに貼れないレベル水着はぜんぜん興味ないけど、一応マーシルが一番好きなので新規実装の☆5マーシルとモチ武器を引いた･･･けどキャラが好きというだけでこのデザインはあん]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2023/11]Pizza Tower / Peppina Ramen MOD導入と導入する際のERROR in action number 1...に関して]]></title>
         <id>https://note.com/anochan/n/nf99975cd15b1</id>
