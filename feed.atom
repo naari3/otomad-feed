@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-08T09:04:13.126Z</updated>
+    <updated>2023-11-08T10:04:50.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD制作の際に使っているソフトとかサイトとか諸々の話]]></title>
+        <id>https://note.com/saltlemon/n/nda2f9273db28</id>
+        <link href="https://note.com/saltlemon/n/nda2f9273db28"/>
+        <updated>2023-11-08T09:31:04.000Z</updated>
+        <summary type="html"><![CDATA[どうも。塩れもんです。「音MADスタートダッシュ」なる企画があり、それに伴っていろんな作者さんが記事を書いていらっしゃるので便乗してみることにしました。
+あらかじめ言っておきますがここで紹介するのは超超初心者向けです。たぶんほとんどの音MAD作者さんはほぼほぼ知ってると思います。
+また、私は音声も映像も下手すぎる上にパソコン全然詳しくないので参考にしないでください。間違っている情報も多いと思います。「こういうのもあるのね」くらいに見ていただければと思います。
+続きをみる]]></summary>
+        <author>
+            <name>塩れもん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マシマシ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1272.html</id>
