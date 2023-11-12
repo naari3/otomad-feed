@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-12T14:17:40.358Z</updated>
+    <updated>2023-11-12T15:04:07.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【音Q】出題のねらい（第1回、第2回）]]></title>
+        <id>https://note.com/anzato/n/nfb09921a4bef</id>
+        <link href="https://note.com/anzato/n/nfb09921a4bef"/>
+        <updated>2023-11-12T14:18:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+続きをみる]]></summary>
+        <author>
+            <name>Anzato</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生放送SE一覧（随時更新）]]></title>
         <id>https://note.com/futon_is_god/n/n5d2f272610fb</id>
