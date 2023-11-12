@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-12T06:04:18.815Z</updated>
+    <updated>2023-11-12T07:04:20.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#84 11月1週 日本シリーズ面白かった]]></title>
+        <id>hatenablog://entry/6801883189058168346</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/11/12/153636"/>
+        <updated>2023-11-12T06:36:36.000Z</updated>
+        <summary type="html"><![CDATA[阪神日本一！！！やったーーー！！！
+6戦目負けた時はもうダメだと思った。
+青柳の好投もノイジーの3ランも予想外だった。
+結局リーグ優勝もCS突破も日本一も全部見れたので良かった。
+最後まで分からない、めっちゃ面白い日本シリーズだった。勝ったからそう思うだけかもだけど。
+5局くらいで同時に日本一特番やってそれぞれ別の選手のインタビューやってたので大変だった。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[だから俺は献血に行く]]></title>
         <id>https://note.com/nanana555/n/n126e0e82f377</id>
