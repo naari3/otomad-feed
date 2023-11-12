@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-12T21:03:52.505Z</updated>
+    <updated>2023-11-12T22:03:57.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【#音スタダ】人力の種類について【歌わせよう】]]></title>
+        <id>https://note.com/euro3/n/n58df8c239f45</id>
+        <link href="https://note.com/euro3/n/n58df8c239f45"/>
+        <updated>2023-11-12T21:44:46.000Z</updated>
+        <summary type="html"><![CDATA[じおｓｇひおｐｓだうｇふぃあぢすごい０う、犬の鳴き真似bot先生です。
+マジです。
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【音Q】出題のねらい（第1回、第2回）]]></title>
         <id>https://note.com/anzato/n/nfb09921a4bef</id>
