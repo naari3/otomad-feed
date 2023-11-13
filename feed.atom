@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-13T12:05:37.468Z</updated>
+    <updated>2023-11-13T13:05:25.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フリーナフラッパーズ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1273.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1273.html"/>
+        <updated>2023-11-13T12:18:18.000Z</updated>
+        <summary type="html"><![CDATA[ようこそフリーナちゃん･･･かわいいねえ･･･これから可愛がってあげるからねぇ･･･以下、ちょい魔神任務ねたばれあり]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#音スタダ】人力の種類について【歌わせよう】]]></title>
         <id>https://note.com/euro3/n/n58df8c239f45</id>
