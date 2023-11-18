@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-18T21:03:54.176Z</updated>
+    <updated>2023-11-18T22:03:58.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -265,6 +265,18 @@ https://youtu.be/HwAPLk_sQ3w
 5局くらいで同時に日本一特番やってそれぞれ別の選手のインタビューやってたので大変だった。]]></summary>
         <author>
             <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MAD史 #0 ～アナログとデジタルの狭間～]]></title>
+        <id>hatenablog://entry/6801883189059921373</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20231111/p1"/>
+        <updated>2023-11-11T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[音MAD史 #0 ～アナログとデジタルの狭間～ - YouTube
+Posts with replies by 神長タクミ／秋田最期のローカルタレント (@studiovk_info) / X
+本年5月から9月の間にニコニコ生放送で配信された音MAD DREAM MATCH特別企画「音MAD史」が詳しく扱わなかったニコニコ以前の歴史を紹介する動画。同企画でナレーターを努めた神長タクミ氏のYouTubeチャンネルで公開。7:44頃より1999年の2ちゃんねる開設以降の出来事が読み上げられる中、ムネオハウスもピックアップされていました。以下該当部分のスクリーンショット。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
