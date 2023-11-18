@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-18T17:04:06.495Z</updated>
+    <updated>2023-11-18T18:04:11.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自分でも3本えらんでみました]]></title>
+        <id>https://note.com/yabaiwayo/n/n4dbd5e3131b7</id>
+        <link href="https://note.com/yabaiwayo/n/n4dbd5e3131b7"/>
+        <updated>2023-11-18T17:43:01.000Z</updated>
+        <summary type="html"><![CDATA[結果発表を間近に控えた遊理3選。
+投票開始から2か月経ち、投票も締め切りました。
+準備なんもしてないので正直延期したいです。
+もし、自分が3本選ぶならという感じで選んでみました。
+続きをみる]]></summary>
+        <author>
+            <name>プリコネの年末年始はヤバイわよ！</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年11月-3】ゼブライカ気の毒すぎる]]></title>
         <id>hatenablog://entry/6801883189058652045</id>
