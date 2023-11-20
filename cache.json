@@ -5203,6 +5203,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/6801883189060425801",
+          "author": null,
+          "description": "25歳の誕生日を無事に迎えることができた。このあいだおじいちゃんが死んでからずっと1年生きることが素晴らしいことに思えてどうしようもなく、実際にちゃんとこの日は嬉しかった。昔だったら 20,november をやりにいって喜びを消費していたのだと思うけど、もう弐寺はやってないのでゲーセンには行かなかった。\nただ、だからといって具体的になにか特別なイベントが発生するわけでもなく*1、寝る前にマリオワンダーの続きでもやろうかな～とか思ってたんですが……↓↓↓\n思い出から始めます\n当時*2、ヘボコンというものが開催されていて、その紹介動画に使われていた曲の正体がどうしても知りたくて探し当てたのがアルバム Hercelot - Wakeup Fakepop で、そのアルバムの他の曲も含めて当時聞いていた音楽の形態と全く違う、本当に凄いものが並んでいたのでめちゃくちゃ驚いていた覚えがある。\nmaltinerecords.cs8.biz\nそもそも無料で音楽のバイナリを手に入れることについて、にこさうんどかyoutubemp3あたりか、もっと英語なサイトで勝手に落とすくらいしか体験がなくて、「こんなにすごいものを正式に無料で手に入れられるのか」という驚きもあってとても強く記憶に残っているアルバムだった。また、そこから周辺情報を調べたタイミングが、自分がはじめて Maltine Records を認識したタイミングだったりした。で、当然新しいアルバムを聞き、すごいな～とか思ったり、周辺にあるリリースを探したりするんだけど、ちょうど Wakeup Fakepop の真下にあったものが bo en - pale machine だった。\nmaltinerecords.cs8.biz\nさっきのアルバムの真下にあるから同じ方向性を期待したら全然そうではなく、ただとても意外性があり、あまりにもミュー…",
+          "link": "https://naari.hatenablog.com/entry/2023/11/21/025151",
+          "publishedOn": "2023-11-20T17:51:51.000Z",
+          "wordCount": 638,
+          "title": "誕生日を迎えた　2023/11/21 と 2023/11/22 が楽しみすぎる",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/820878482946504457",
           "author": null,
           "description": "Twitterというサービスは難しいだろう、という自分の考えを一旦ここにまとめてみる。身内向け記事で、この記事内では何も解決していない。\nまず、技術要件的にTwitterというサービスはとても複雑で、そこらの企業がサッと真似できるようなサービスではない。小さい範囲で見ればなにかのフレームワークのチュートリアルでやるような話にも見えるが、これを莫大な数字とともに動作を担保していく、というのはとても大変な話だろう。\n以下に例を挙げてみる。\nはちゃめちゃに莫大すぎる桁の数のツイートをどう保存するのか？\n\n\nManhattanという名前のTwitter用分散データベースを新規に作成、用意している\n\n\nref: Manhattan, our real-time, multi-tenant distributed database for Twitter scale\n1秒間にとんでもない数がポストされるであろうツイートを、どうやって即時でみんなのTLに反映しているのか？\n\n\nイベント処理専用の機構を用意している\n\n\nref: Processing billions of events in real time at Twitter\nなぜ様々な種類の検索クエリを投げてもすぐにレスポンスが返ってくるのか？\n\n\nElasticsearchのクラスタを筆頭に複数の小さなサービスからなる機能群を用意している\n\n\nref: Stability and scalability for search\nblog.twitter.com のInfrastructureに存在する記事を見ていると、基本的にはスケーラビリティを確保し、コスト面やメンテナビリティにも気を遣いながら、技術的に正しくアプローチしようといった基本的な姿勢が伺える。また、既存の環境でさし当たった問題に対して真っ当かつ専門性も高めに新しい…",
