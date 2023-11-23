@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-23T15:04:25.913Z</updated>
+    <updated>2023-11-23T16:04:17.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[俺をこう呼ぶ人はこういう人]]></title>
+        <id>https://note.com/hory_nico/n/n14c57e2ca968</id>
+        <link href="https://note.com/hory_nico/n/n14c57e2ca968"/>
+        <updated>2023-11-23T15:09:30.000Z</updated>
+        <summary type="html"><![CDATA[１．ホーリィさん
+こう呼ぶ人が最も多い。俺のことをよく知らない人や初対面の人。ただし仲が良くても基本みんな「さん」付けで呼んでくる。
+
+続きをみる]]></summary>
+        <author>
+            <name>ホーリィ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki20231123]]></title>
         <id>hatenablog://entry/6801883189060959084</id>
