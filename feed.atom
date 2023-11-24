@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-24T13:05:08.691Z</updated>
+    <updated>2023-11-24T14:04:09.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20231124]]></title>
+        <id>hatenablog://entry/6801883189061432734</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/11/24/225343"/>
+        <updated>2023-11-24T13:53:43.000Z</updated>
+        <summary type="html"><![CDATA[タイムラインを見ていたらイスラエルとパレスチナの紛争について死体の映っている動画が流れてきて見てしまった。もちろん露悪的なものではなく平和を願う旨のツイートだったので問題はないのだけどショックだった。ここ数日ふいにいま起こっている戦争のことを思い出して悲しくなり、タイムラインのツイートぜんぶばからしく思えてスマホをポンと投げて横になるようなことが何回かあった。本当にそうとしか言えないのだけど戦争に抗議するとともに世界が平和であることを祈るほかない。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週記#86 11月3週 ゲームとかテレビとか]]></title>
         <id>hatenablog://entry/6801883189059430068</id>
