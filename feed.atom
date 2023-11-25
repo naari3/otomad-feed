@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-25T04:04:16.009Z</updated>
+    <updated>2023-11-25T05:04:13.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6分]]></title>
+        <id>https://note.com/aun6june/n/n79a8dcb5711c</id>
+        <link href="https://note.com/aun6june/n/n79a8dcb5711c"/>
+        <updated>2023-11-25T04:43:28.000Z</updated>
+        <summary type="html"><![CDATA[サウンドをひらく]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6分Ⅳ]]></title>
         <id>https://note.com/klunakapa/n/ncd9d49aea329</id>
