@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-27T16:04:21.812Z</updated>
+    <updated>2023-11-27T17:04:16.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20231128]]></title>
+        <id>hatenablog://entry/6801883189062256369</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/11/28/014752"/>
+        <updated>2023-11-27T16:47:52.000Z</updated>
+        <summary type="html"><![CDATA[きのうの日記を忘れたが、補おうとするとぐずぐずになっていくので飛ばす。温泉むすめにはクリスマスソングである「おんくり」という曲があり、タイトルからしてそうなんだけど温泉とクリスマスというあまり関係ないものを結びつけた結果ほぼクリスマス要素だけが残っており、コテコテのクリスマスアニソンになってるのが良いということをツイートした。このコンテンツのキャラソン自体、けっこうそういうところがあると思う。というのも前の日記にも書いたようにたくさんいる彼女たちのなかで、ひとりにフォーカスしたキャラソンが作られるというのは貴重な供給であり、ほぼただ一回の機会としてそのキャラクターのすべてを込めたものが作られることになる。ぜんぶ聴いたわけではないがそういう真摯さがあるようで、さながら密室をやる短編、アリバイをやる短編、みたいにそれぞれのテーマが設定されたミステリ短編集を読むのに似た気持ちよさがあるということを考えていた。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウオオオオ何もしたくない]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1275.html</id>
