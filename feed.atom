@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-11-28T19:04:10.438Z</updated>
+    <updated>2023-11-28T20:04:20.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20231129]]></title>
+        <id>hatenablog://entry/6801883189062516948</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/11/29/040814"/>
+        <updated>2023-11-28T19:08:14.000Z</updated>
+        <summary type="html"><![CDATA[夕食もたべずに夕方に寝て深夜に起きるのを3日連続くらいでやっていて、セブンイレブンで買ってきた豚ラーメンを食べるタイミングを掴めずに消費期限が過ぎてしまった。わりと食べることがあのラーメンだが、ちょっと前に高くなったぶんクオリティが上がっていてうれしい。お店のだと多すぎるのであれくらいがちょうどいい説がある。少し前にあるyoutuberが話題になったとき、誰それみたいな反応をいくつか見かけてびっくりした。熱心な視聴者ではないが、登録者が700万人いる人たちでさえ話題になってもそんな反応をちらほら見るものなのだ。そうならば1000万人いるような人でさえ、知らない人は知らないはずなのである。おそらく2億人の登録者がいたとしても怪しくて、たとえばMr.Beastを知らない人もいるのだろう。わたしの親なんかはそれに該当すると思う。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『プロトコル・オブ・ヒューマニティ』を読もう！]]></title>
         <id>hatenablog://entry/6801883189062404014</id>
