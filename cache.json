@@ -1378,6 +1378,21 @@
       "siteUrl": "https://isitsutbustu-todoke.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/6801883189063244038",
+          "author": null,
+          "description": "白金ディスコを聴きながら暗い明け方にゴミを捨てに行った。なにをしているんだろうと思った。",
+          "link": "https://isitsutbustu-todoke.hatenablog.com/entry/2023/12/01/210528",
+          "publishedOn": "2023-12-01T12:05:28.000Z",
+          "wordCount": 347,
+          "title": "nikki_20231201",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/6801883189062857988",
           "author": null,
           "description": "乱数表の数字には法則がない。法則というのはそれを当てはめれば必ず結果が予測できるようなものである。たとえば2,4,8,16…という数列があったとして、1024の隣に次に何が来るかという結果は「2の倍数が並んでいる」という法則にしたがえば2048であると予測できる。しかし乱数表の数字には法則がない。つまりある数字の隣になにが来るかの結果は予測できない。ここで乱数表の数字に対してひとつの法則を考える。「法則がないという法則」である。これを当てはめると、ある数字の隣にくるものはいかなる数字でもよいことになる。たとえば1万番目の数字の隣に来るものを予測するには、「法則がないという法則」に従って好きな数字を言えばよい。すると乱数表の1番目を1人目、2番目を2人目、3番目を3人目、n番目をn人目として自由に数字を言わせても乱数表ができることになる。しかし、仮に全員が出した並びがたまたまある法則を持っていたらどうなるか。",
@@ -5371,6 +5386,21 @@
       "feedUrl": "https://nkaoobt.hatenablog.com/rss",
       "siteUrl": "https://nkaoobt.hatenablog.com/",
       "articles": [
+        {
+          "id": "hatenablog://entry/6801883189063238493",
+          "author": null,
+          "description": "M-1グランプリ3回戦全ネタ、全部見た。\n準決勝組以外だとナユタ、家族チャーハンが面白かった。\n他にも面白いコンビいっぱいいてまだまだ知らない芸人多いな〜、ってなった。\n準決勝組だとななまがりが面白かった。決勝来て欲しい。\n令和ロマンの3回戦振り返り、非公開になってて悲しかった。持ってる人いたら連絡ください。\n真空令和ロコディオズワルドななまがりら辺を応援しています。YouTubeにあがってるのを見てるだけとはいえ、予選からこんなしっかり追ってるM-1は初めてなので楽しみ。",
+          "link": "https://nkaoobt.hatenablog.com/entry/2023/12/01/211000",
+          "publishedOn": "2023-12-01T12:10:00.000Z",
+          "wordCount": 454,
+          "title": "週記#87 11月4週 3回戦",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
         {
           "id": "hatenablog://entry/6801883189059430068",
           "author": null,

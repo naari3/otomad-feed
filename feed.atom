@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-01T12:05:28.912Z</updated>
+    <updated>2023-12-01T13:05:52.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#87 11月4週 3回戦]]></title>
+        <id>hatenablog://entry/6801883189063238493</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2023/12/01/211000"/>
+        <updated>2023-12-01T12:10:00.000Z</updated>
+        <summary type="html"><![CDATA[M-1グランプリ3回戦全ネタ、全部見た。
+準決勝組以外だとナユタ、家族チャーハンが面白かった。
+他にも面白いコンビいっぱいいてまだまだ知らない芸人多いな〜、ってなった。
+準決勝組だとななまがりが面白かった。決勝来て欲しい。
+令和ロマンの3回戦振り返り、非公開になってて悲しかった。持ってる人いたら連絡ください。
+真空令和ロコディオズワルドななまがりら辺を応援しています。YouTubeにあがってるのを見てるだけとはいえ、予選からこんなしっかり追ってるM-1は初めてなので楽しみ。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nikki_20231201]]></title>
+        <id>hatenablog://entry/6801883189063244038</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/12/01/210528"/>
+        <updated>2023-12-01T12:05:28.000Z</updated>
+        <summary type="html"><![CDATA[白金ディスコを聴きながら暗い明け方にゴミを捨てに行った。なにをしているんだろうと思った。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20231130]]></title>
         <id>hatenablog://entry/6801883189062857988</id>
