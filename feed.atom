@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-02T15:04:06.479Z</updated>
+    <updated>2023-12-02T16:04:16.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年作った音MAD・活動を振り返る(+α)]]></title>
+        <id>https://note.com/fourangle/n/n09f42dd4cde4</id>
+        <link href="https://note.com/fourangle/n/n09f42dd4cde4"/>
+        <updated>2023-12-02T15:56:48.000Z</updated>
+        <summary type="html"><![CDATA[もう12月になっちまっちゃったか。四角です。社会人音MAD作者としての一歩を踏み出したのがもう昨日のようですが1年が目前だという時期になりました。皆さんはいかがお過ごしでしょうか。
+毎年、私はいつも明記してる「今年の目標」以外に固定に入る目標があります。それは「1年1回以上は5桁再生の動画を作り出す」ことです。基本的に音MADは「好きなことだけでいい」「伸びなんて気にしたら負け」という声も聞こえますが、数値というのは「私がちゃんとした作品を出しているのか」の証明でもあるのも間違いないです。なので「最低5桁1本」は好きな動画を作りながらもいい動画のために頑張る心を忘れない様にする最低条件として考えながら活動してました。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年11月-5】]]></title>
         <id>hatenablog://entry/6801883189063098616</id>
