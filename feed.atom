@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-03T15:04:00.038Z</updated>
+    <updated>2023-12-03T16:04:09.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20231204]]></title>
+        <id>hatenablog://entry/6801883189063866986</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/12/04/002733"/>
+        <updated>2023-12-03T15:27:33.000Z</updated>
+        <summary type="html"><![CDATA[こだわりがないので特に何もなければ黒い靴下をもっぱら履いているのだけど、長く着用しているからか最近一気に穴が空きはじめて多くを捨ててしまった。結果暗めの色なのに靴下だけ彩度が高い、みたいな状態が発生したりしているのではやく買いたい。そう思っていたら夢の中で家に帰ったら母親が黒い靴下をまとめ買いしてくれていた。起きたらそうではなかったので悲しかった。]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD10選で○票以下の音MADn選2023]]></title>
         <id>https://note.com/sweets_farting/n/n7e8327a513c6</id>
