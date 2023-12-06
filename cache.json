@@ -11103,6 +11103,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-119.html",
+          "author": "picm",
+          "description": "...",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-119.html",
+          "publishedOn": "2023-12-06T07:08:55.000Z",
+          "wordCount": 205,
+          "title": "ゲーミングモニターを買った",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-118.html",
           "author": "picm",
           "description": "AviUtlで起きたエラーが解決するまでの記録",
