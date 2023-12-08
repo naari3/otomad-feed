@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-08T15:04:11.692Z</updated>
+    <updated>2023-12-08T16:04:26.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[何笑ってんのさ！(sm42954175)　編集後記]]></title>
+        <id>https://note.com/takoo/n/n04fff67b3591</id>
+        <link href="https://note.com/takoo/n/n04fff67b3591"/>
+        <updated>2023-12-08T15:37:49.000Z</updated>
+        <summary type="html"><![CDATA[参考にしたい人のために、主に技術的なことについて書きます。
+着想
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今夜も無き誰とする理科室清掃の果てを]]></title>
+        <id>https://note.com/rainy_raincoat/n/need4f7037950</id>
+        <link href="https://note.com/rainy_raincoat/n/need4f7037950"/>
+        <updated>2023-12-08T15:08:40.000Z</updated>
+        <summary type="html"><![CDATA[今夜も無き誰とする理科室清掃の果てを
+続きをみる]]></summary>
+        <author>
+            <name>雨天雨衣</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ひらがな46文字から任意の23文字を選んでショートショートを書いた]]></title>
+        <id>https://note.com/rainy_raincoat/n/nd4d9d8f9e499</id>
+        <link href="https://note.com/rainy_raincoat/n/nd4d9d8f9e499"/>
+        <updated>2023-12-08T15:08:12.000Z</updated>
+        <summary type="html"><![CDATA[この記事は
+【言葉遊び Advent Calendar 2023】に参加している記事です。
+　どーも雨天雨衣です。
+2023年は5月頃からずっとリポグラムを楽しんでいます。
+たまにポリバケツ語とかアンビグラムでも遊んでいました。
+続きをみる]]></summary>
+        <author>
+            <name>雨天雨衣</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニコニコ動画における音MADの再生数・マイリス数について]]></title>
         <id>https://note.com/takoo/n/n5f0c79f986a5</id>
