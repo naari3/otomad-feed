@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-08T19:04:02.522Z</updated>
+    <updated>2023-12-08T20:04:20.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[継接八雲紅葉唐松の雨天雨衣]]></title>
+        <id>https://note.com/rainy_raincoat/n/ndc1e3a429542</id>
+        <link href="https://note.com/rainy_raincoat/n/ndc1e3a429542"/>
+        <updated>2023-12-08T19:26:58.000Z</updated>
+        <summary type="html"><![CDATA[挨拶
+　どーも、雨天雨衣です。個人的に今年度は言葉遊びの年です。
+私的やりたいこと雑多強引に詰めたメドレー「継接八雲紅葉唐松」を投稿したのでいろいろだらだら書きます。が、急いで書いています。
+続きをみる]]></summary>
+        <author>
+            <name>雨天雨衣</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[何笑ってんのさ！(sm42954175)　編集後記]]></title>
         <id>https://note.com/takoo/n/n04fff67b3591</id>
