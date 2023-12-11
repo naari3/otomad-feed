@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-11T13:06:03.114Z</updated>
+    <updated>2023-12-11T14:04:14.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[65535]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1277.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1277.html"/>
+        <updated>2023-12-11T13:24:05.000Z</updated>
+        <summary type="html"><![CDATA[サブアカがランク60になったこの前メインが還暦迎えたばっかりやんと思ったら4ヶ月も前だった還暦迎える前に死にてえなLethal Companyという死ぬほど流行ってる（らしい）ゲームをやりました  おもしろいきたねえ星へ行って暗い建物の中に落ちてるガラクタを持って帰って売るゲーム化け物がいっぱいいて戦うとアッサリ殺される  というか最初はスコップしか買える武器がないしそれすら高い期日までにノルマをこなせないとそれはそ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジャンプして天井さわる]]></title>
         <id>https://note.com/ssaymds/n/ne43ddc223d3e</id>
