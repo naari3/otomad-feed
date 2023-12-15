@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-15T14:04:05.959Z</updated>
+    <updated>2023-12-15T15:04:10.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20231215]]></title>
+        <id>hatenablog://entry/6801883189067166195</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/12/15/235718"/>
+        <updated>2023-12-15T14:57:18.000Z</updated>
+        <summary type="html"><![CDATA[2時間ほど予定があったのだけど、そこで今後しないといけないことなどを考えてなにもしたくなくなり、なにもしなかった。タスクをやっているときの状態というのはほぼ没入して別人になっているので、その状態に移行するまでがつらい。なんでつらいのかなと考えると、しんどさや量、手間にひるんでいるというより、なにもするべきことがない状態に留まりたいという気持ちが大きいからだと思う。なぜならしている最中はほぼ別人なのでしんどさや量、手間を想像することはできないはずだからだ。それよりも何にも迫られていない状態が心地よくて、そこに留まっていたくなる。
+ 
+だから逃避するようにDSiを取り出してNewスーパーマリオブラザーズをやったりしたが、いつものようにぜんぜんクリア（＝ゴール？）できなくて諦めた。何年も一定の周期で取り出してきてやって、ゴールに到達できなくてやめるというのを繰り返しているし、小学生でこんなのを粘り強くやっていた同級生が毎回信じられなくなる。別に攻略本を見ようとも思わないし、そういうコツコツポチポチ進めてトロコンみたいなのに興味がないままでいる。それに加えて飽きっぽさや下手さ（これは改善できそうではある）がある。（どうしても今日中に更新したかったので以降はあとで更新する）]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年12月-2]]></title>
         <id>hatenablog://entry/6801883189067135320</id>
