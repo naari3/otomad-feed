@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-15T15:04:10.932Z</updated>
+    <updated>2023-12-15T16:04:24.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20231216]]></title>
+        <id>hatenablog://entry/6801883189067174844</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/12/16/004044"/>
+        <updated>2023-12-15T15:40:44.000Z</updated>
+        <summary type="html"><![CDATA[米澤穂信の〈小市民〉シリーズの新作のお知らせがあって嬉しかった。曲りなりに中高時代に読んでは小鳩くんの姿勢に影響を受けていたので、彼らの卒業が描かれる（かもしれない）というのは少し緊張感がある。指針を作ってそれを遵守して行動しようとするスタンスとか、面倒事には関わらないというその指針など。同じことは過去のブログ*1でも書いた。この記事を読み返すと実は〈古典部〉シリーズも〈小市民〉シリーズもちゃんと読めてなかったということが分かるが、1年後の今はちゃんと読み終わっている。というのは嘘で「巴里マカロンの謎」だけ読めてはいない。でも1年経ってちゃんと読んだ本の経験が重なっている？とわかって、いま書きながらちょっとうれしい気持ちになっている。
+ 
+*1:人生の8冊を書いてみる（2022年版） - 遺失物取扱所]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20231215]]></title>
         <id>hatenablog://entry/6801883189067166195</id>
