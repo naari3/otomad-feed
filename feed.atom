@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-18T13:06:07.508Z</updated>
+    <updated>2023-12-18T14:04:18.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小説書いた！]]></title>
+        <id>hatenablog://entry/6801883189067937650</id>
+        <link href="https://lixy.hatenablog.com/entry/2023/12/18/%E5%B0%8F%E8%AA%AC%E6%9B%B8%E3%81%84%E3%81%9F%EF%BC%81"/>
+        <updated>2023-12-18T13:17:03.000Z</updated>
+        <summary type="html"><![CDATA[とはいえ商業出版とかのたぐいではなくて、単に自主的にWeb公募に投げただけですが、よろしくお願いいたします。一次創作は「真矢川」(まやかわ)の名前でやることになるとおもいます。特に隠しているわけではありません(なのでこうしてブログにしたためています)。
+でもTwitterで大っぴらにするのはなんとなく恥ずかしいので、僕からはブログにとどめておきます。ここにたどりついたあなたは、Lixyレベル5に到達していると言っても過言ではありません。
+https://kakuyomu.jp/works/16817330668582222581/episodes/16817330668582452883]]></summary>
+        <author>
+            <name>空回り</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20231217]]></title>
         <id>hatenablog://entry/6801883189067452204</id>
