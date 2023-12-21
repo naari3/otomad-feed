@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-21T20:04:28.499Z</updated>
+    <updated>2023-12-21T21:04:09.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MDM天とはなんだったのか]]></title>
+        <id>https://note.com/nanana555/n/n6b521ddcf791</id>
+        <link href="https://note.com/nanana555/n/n6b521ddcf791"/>
+        <updated>2023-12-21T21:01:48.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+この記事は主観での記述を基に書いたものであり運営および関係者の総意ではありません。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近また柴田にハマっちゃった]]></title>
         <id>https://note.com/nendo31/n/n616e5d01e06d</id>
