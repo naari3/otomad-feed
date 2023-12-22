@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-22T14:04:11.997Z</updated>
+    <updated>2023-12-22T15:04:09.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20231222]]></title>
+        <id>hatenablog://entry/6801883189068959806</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/12/22/235250"/>
+        <updated>2023-12-22T14:52:50.000Z</updated>
+        <summary type="html"><![CDATA[寒い。数日前からそうだが、ただ突っ立っているだけでも肌を刺すような寒さは今期初めてである。夏が長いというより秋が遅いというよくわからないことを前にツイートしたけど、今日もそう思った。この寒さをもっていまは冬だと実感したのだけど、12月末になってそう感じるのは遅いと思う。11月ごろに秋だと思ったし、8月おわりごろに夏だと思ったし、想定している月と季節がちょっとずつずれているみたいな奇妙さがずっとある。でもきょうは冬至だったらしい。それなら冬だと思うのもわけないか]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2023年12月-3】]]></title>
         <id>hatenablog://entry/6801883189068576359</id>
