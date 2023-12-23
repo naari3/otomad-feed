@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-23T12:05:06.689Z</updated>
+    <updated>2023-12-23T13:04:06.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『Z会桜浪紀』 編集後記]]></title>
+        <id>https://note.com/readybug_/n/n53ffe75551ab</id>
+        <link href="https://note.com/readybug_/n/n53ffe75551ab"/>
+        <updated>2023-12-23T12:14:12.000Z</updated>
+        <summary type="html"><![CDATA[『Z会桜浪紀　最高の教育で、未来をひらく。』という音MAD合作に参加しました。
+続きをみる]]></summary>
+        <author>
+            <name>れでぃば</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20231222]]></title>
         <id>hatenablog://entry/6801883189068959806</id>
