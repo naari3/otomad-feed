@@ -6549,23 +6549,7 @@
       "title": "追ッ加ー",
       "feedUrl": "https://tesaminum.hatenablog.com/rss",
       "siteUrl": "https://tesaminum.hatenablog.com/",
-      "articles": [
-        {
-          "id": "hatenablog://entry/4207112889947713127",
-          "author": null,
-          "description": "人力VOCALOID(以下「人力」と称する)は近年の音MADでは標準的な技術と言えるでしょう\n手法自体ではなくその原理の部分を掘り下げていきます\nこの記事は音MAD Advent Calendar 2022 24日目の記事です\n\n\n\n\n\n\n    \n1. 切り貼り式人力の手法はガラパゴスっぽい\n2. 人力という言葉が意味すること\n3. 道筋を考える\n4. VOCALOIDがやっていること\n5. 人力支援ツール「UTAU」\n6. VOCALOIDを理解するためにUTAUを理解する\n7. 連続音の登場\n8. 連続音やCVVCにおけるVCの大切さ\n9. 切り貼り式人力用に軽くまとめる\n10. VOCALOIDと人力の決定的に違う点\n11. 後は人力に応用するだけ！\n12. おまけ: 波形接続型と統計モデル型\n13. 最後に\n14. 余談\n1. 切り貼り式人力の手法はガラパゴスっぽい\n軽く検索するだけでも人力の手法を解説した記事やそういった情報は結構見つかります\nhttps://togetter.com/li/173793\nhttps://togetter.com/li/1486670\nhttps://note.com/lance2457/n/n885b8d23b846\nhttps://note.com/eroerojpeg/n/nc0e8bcf0f4b9\n列挙したリンク先やその他様々な情報を漁ってみると10人いれば10通りの手法があるように感じます\n1 その上で自分の手法と一致する情報を見かけたことがないという辺りの経験則からもそう考えています\nどれだけ多種多様な手法を用いても その根底にある原理の部分さえ共通していれば同様の成果を目指せるのではないかと考えました\n2. 人力という言葉が意味すること\nこの言葉がどういう成り立ちで広まったのかはわかりませんが2 この言葉は2通りの解…",
-          "link": "https://tesaminum.hatenablog.com/entry/2022/12/24/214809",
-          "publishedOn": "2022-12-24T12:48:09.000Z",
-          "wordCount": 510,
-          "title": "本家VOCALOIDやUTAUに学んで より人間的な人力VOCALOIDを目指す",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "タフ4",
