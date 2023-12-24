@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-24T09:04:08.588Z</updated>
+    <updated>2023-12-24T10:04:03.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Minecraft】SteamPunk [LPS] 日本語化ファイル配布【Modpack】]]></title>
+        <id>https://note.com/em011_/n/n130c195cf927</id>
+        <link href="https://note.com/em011_/n/n130c195cf927"/>
+        <updated>2023-12-24T09:31:58.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>仮</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20231224]]></title>
         <id>hatenablog://entry/6801883189069234135</id>
