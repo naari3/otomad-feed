@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-24T23:04:11.583Z</updated>
+    <updated>2023-12-25T00:14:27.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -19357,18 +19357,6 @@ MOGRAよりメー…]]></summary>
 The post Aviutlの環境をイチから作り直す first appeared on YTPMV.info.]]></summary>
         <author>
             <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年の瀬合作をニコニコで1080pで見る]]></title>
-        <id>https://note.com/tanbatu/n/ne63ef25b4476</id>
-        <link href="https://note.com/tanbatu/n/ne63ef25b4476"/>
-        <updated>2022-12-25T11:58:32.000Z</updated>
-        <summary type="html"><![CDATA[※雑に書いたコードなのであまり信用しないでください
-合作が58分ある（なんで？）関係でニコニコが360pになってしまったので、ニコニコにyoutubeの埋め込みを無理やりねじ込むブックマークレットを書きました。
-続きをみる]]></summary>
-        <author>
-            <name>丹波津</name>
         </author>
     </entry>
     <entry>
