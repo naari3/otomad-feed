@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-25T20:04:09.013Z</updated>
+    <updated>2023-12-25T21:04:00.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#sm43182041 アーカイブ]]></title>
+        <id>https://note.com/banfuture9/n/ne52f16e0e2f8</id>
+        <link href="https://note.com/banfuture9/n/ne52f16e0e2f8"/>
+        <updated>2023-12-25T20:15:30.000Z</updated>
+        <summary type="html"><![CDATA[3:35～4:18までが自分のパートです。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シュヴルーズかわいい]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1279.html</id>
