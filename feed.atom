@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-27T15:04:11.943Z</updated>
+    <updated>2023-12-27T16:04:36.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近況　2023/09～2023/12]]></title>
+        <id>hatenablog://entry/6801883189070272152</id>
+        <link href="https://taket-a.hateblo.jp/entry/2023/12/28/002542"/>
+        <updated>2023-12-27T15:25:42.000Z</updated>
+        <summary type="html"><![CDATA[9月末から休職してます　来年1月2月には戻る予定]]></summary>
+        <author>
+            <name>竹達アーカイブ通信</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M-1 2023トム・ブラウン敗者復活戦のネタって音MADの技法入ってるよね]]></title>
         <id>https://anond.hatelabo.jp/20231227135949</id>
