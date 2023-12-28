@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-28T03:04:41.555Z</updated>
+    <updated>2023-12-28T04:04:49.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「良かったらぷろふみて～」について]]></title>
+        <id>https://note.com/rubr/n/ndb3e5abf70af</id>
+        <link href="https://note.com/rubr/n/ndb3e5abf70af"/>
+        <updated>2023-12-28T03:54:01.000Z</updated>
+        <summary type="html"><![CDATA[最近、X(旧Twitter)で気付いたときには自分の書き込みに「良かったらぷろふみて～」というようなリプが付いているという現象が起きています。
+そのようなリプを送ってくるアカウントについて、私が個人で研究した結果をまとめます。
+このようなアカウントは「プロフリンクを見て」と言ってくるだけあって、だいたいのアカウントのプロフィール欄には短縮URLと思われるリンクが貼ってあります。しかしたまに何かのミスなのか、リンクがない場合もあります。
+続きをみる]]></summary>
+        <author>
+            <name>R___Va</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年の5選]]></title>
         <id>hatenablog://entry/6801883189070283868</id>
