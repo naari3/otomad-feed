@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-30T09:04:08.584Z</updated>
+    <updated>2023-12-30T10:04:09.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[見た2023秋アニメ]]></title>
+        <id>https://note.com/binetsu0904/n/n2290556ebe00</id>
+        <link href="https://note.com/binetsu0904/n/n2290556ebe00"/>
+        <updated>2023-12-30T09:06:52.000Z</updated>
+        <summary type="html"><![CDATA[前シーズンの感想はこちら
+
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20231230]]></title>
         <id>hatenablog://entry/6801883189070958457</id>
