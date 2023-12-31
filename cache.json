@@ -8525,7 +8525,18 @@
       "title": "mega(目が)",
       "feedUrl": "https://note.com/mega1617/rss",
       "siteUrl": "https://note.com/mega1617",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/mega1617/n/ncc0ab4a96e85",
+          "author": null,
+          "description": "超高校級のほぼ日シリーズの動画のうち、2022年12月11日〜2023年12月10日までの動画を10個選定する企画。参加資格があるのは超高校級のほぼ日シリーズの製作者の方々、つまり僕だけです。\n前年(2022)の10選(7選)結果はコチラ\nでは、さっそくいってみましょー！\n続きをみる",
+          "link": "https://note.com/mega1617/n/ncc0ab4a96e85",
+          "publishedOn": "2023-12-31T08:00:16.000Z",
+          "wordCount": 3664,
+          "title": "【第４回】超高校級のほぼ日MAD作者が選ぶ今年の超高校級のほぼ日MAD10選 2023【ではない】",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b324cd2c9ab8150dab679269e8a0dae21746624d.png"
+        }
+      ]
     },
     {
       "title": "miko",
@@ -10639,6 +10650,16 @@
       "feedUrl": "https://hiiragidono.blog.fc2.com/?xml",
       "siteUrl": "https://hiiragidono.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://hiiragidono.blog.fc2.com/blog-entry-1280.html",
+          "author": "柊殿",
+          "description": "今年もおしまいですね  荒波です2023年はElonaやら本家ヴァーレンやら懐かしいゲームをよく遊んでいた気がするぬーべがすも相変わらずやっとるし飽きもせずずーーーっとはらがみしてるしそして今年のゲームといえばスノウブレイク -禁域降臨- 毎日デイリーくらいはやってるんだけどイマイチやりたい事がなくモチベは下がってきてるでも謎に愛着はある  アカシアのログイン時ボイスを聞くと1日の始まり、あるいは終わりを感じるスノ",
+          "link": "https://hiiragidono.blog.fc2.com/blog-entry-1280.html",
+          "publishedOn": "2023-12-31T07:20:26.000Z",
+          "wordCount": 572,
+          "title": "みそか",
+          "imageUrl": null
+        },
         {
           "id": "https://hiiragidono.blog.fc2.com/blog-entry-1279.html",
           "author": "柊殿",
