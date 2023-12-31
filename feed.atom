@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2023-12-31T04:04:10.996Z</updated>
+    <updated>2023-12-31T05:04:02.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[電車中電子文章筆記祭]]></title>
+        <id>https://note.com/aun6june/n/n81bf5540e4dc</id>
+        <link href="https://note.com/aun6june/n/n81bf5540e4dc"/>
+        <updated>2023-12-31T04:40:06.000Z</updated>
+        <summary type="html"><![CDATA[来年の目標は機材を修理に出すことです。
+electribe emx1っていう機材を夏頃に買って使ってたんだけど、なにぶん古い機材だから調子が悪かった。
+それでも唯一無二の操作感と出音があるから無理やり使ってたんだけど遂に起動しなくなった。
+6万くらいで買って数ヶ月しか使ってないのにこれは無いっすよ。
+少し調べたらヒューズが飛んでるのが原因ってパターンが多いらしいんだけど、テスター使って調査した感じヒューズは生きてそうだからもう自分ではどうしようもない。
+メーカーのkorgさんの修理は部品があるか分かるんし、そもそも分解しちゃったから、第三者の修理屋に出すしかないのかなぁ、面倒だなぁと思う今月でした。
+答えを出すのを渋りすぎてこのモヤモヤを2024年に持ち越すことになるのが非常に遺憾。
+来年の目標は椅子に座る時にちゃんとお尻を奥まで置いて座ることです。
+やんちゃな座り方が許される年齢ではなくなってきたので。
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MDM天マッチング覚書（くろしおり視点）]]></title>
         <id>hatenablog://entry/6801883189064722747</id>
