@@ -10499,6 +10499,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-120.html",
+          "author": "picm",
+          "description": "2023年の雑な振り返りとか",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-120.html",
+          "publishedOn": "2024-01-02T09:38:50.000Z",
+          "wordCount": 108,
+          "title": "あけましておめでとうございます",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-119.html",
           "author": "picm",
           "description": "...",
