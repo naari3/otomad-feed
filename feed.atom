@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-02T15:04:19.224Z</updated>
+    <updated>2024-01-02T16:04:48.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[悩み事：アイコンを変えたほうがいいのか]]></title>
+        <id>https://note.com/fourangle/n/n856164f33da0</id>
+        <link href="https://note.com/fourangle/n/n856164f33da0"/>
+        <updated>2024-01-02T15:19:17.000Z</updated>
+        <summary type="html"><![CDATA[おはようございます。四角です。新年に入って早速悩み事ができてしまいました。それは今音MAD作者としてのアカウント全般に使ってる「結月ゆかりアイコン」のことです。
+アイコンを使い始めた2017年当時までは結局ボイスロイド実況とかも見ていたしボーカロイドも結月ゆかり中心的に追っていて、雑なオリジナルアイコンを作るより代表キャラクタを前に出したほうがよっぽどよさそうって考えてました。韓国音MAD界隈ではアイコンとHNの変更が激しい人が多く私もその中の一人だったのであの時には何も考えてなかったんです。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Z会桜浪紀」の脚本を振り返る]]></title>
         <id>hatenablog://entry/6801883189071048975</id>
