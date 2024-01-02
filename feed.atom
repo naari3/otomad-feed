@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-02T12:05:32.881Z</updated>
+    <updated>2024-01-02T13:04:37.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Z会桜浪紀」の脚本を振り返る]]></title>
+        <id>hatenablog://entry/6801883189071048975</id>
+        <link href="https://lixy.hatenablog.com/entry/2024/01/02/%E3%80%8CZ%E4%BC%9A%E6%A1%9C%E6%B5%AA%E7%B4%80%E3%80%8D%E3%81%AE%E8%84%9A%E6%9C%AC%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B"/>
+        <updated>2024-01-02T12:58:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+本ブログは「【合作】Z会桜浪紀　最高の教育で、未来をひらく。」の重大なネタバレを含みます。したがって、動画本編を視聴したあとに閲覧することを強く推奨します。
+
+ 
+ 
+ 
+ 
+ 
+ 
+～ブラウザバック用の余白～
+ 
+ 
+ 
+ 
+ 
+ 
+　Lixyと申します。このたび、「【合作】Z会桜浪紀　最高の教育で、未来をひらく。」の脚本を担当いたしました……とは言っても、脚本というロールが何を指しているかだいぶ漠然としているため、私たちが具体的にどう物語を考えたのか、覚書として記しておきます。
+　なお、クレジット表記では「脚本:Lixy」となっていますが、（当然ながら）Lixy1人でこのストーリーを全部考えたわけじゃありません！！！運営陣やメドレー担当者らとじっくり話し合いを重ね、横断的にフィードバックを出し合って完成させたものです。決して私だけの手柄ではないのでご注意ください。なお、音声や映像といった部分に関してはほぼ全く与していません（メドレーの選曲や映像のリファレンス集めを少し手伝ったぐらいかな……）。
+ 
+ 
+ 
+　主催のこち横さんから「脚本を書いてくれないか」とお声がかかったのが2022年の10月頃でした。私に与えられたのは「東大を目指して浪人する亀井有馬の1年を、四季の流れとともに描く」という方向性のみだったので、大きく2つのコンセプトを定めました。
+①視聴者が共感できる構成にする
+②最終的に亀井は落ちてしまうが、（Z会の俳優として仕事が見つかり）これはこれで良かったね、みたいな終わり方にする
+　②は後述します。まずひとつ目。これはこち横さんご本人も強く要望していました。四季というわかりやすいテーマが最初に提示されていたのも、より共感、没入できる作品にするためだったそう。このコンセプトはストーリーを1から作るにあたってかなり大きな取っ掛かりになったと感じています。…]]></summary>
+        <author>
+            <name>空回り</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あけましておめでとうございます]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-120.html</id>
