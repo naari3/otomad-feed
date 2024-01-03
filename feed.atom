@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-03T12:05:44.717Z</updated>
+    <updated>2024-01-03T13:05:03.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD/YTPMVのためのサイドチェイン解説・VST紹介]]></title>
+        <id>https://ytpmv.info/?p=1865</id>
+        <link href="https://ytpmv.info/how-to-sidechain/"/>
+        <updated>2024-01-03T12:35:04.000Z</updated>
+        <summary type="html"><![CDATA[⚠⚠この記事はDTMer向けの記事ではありません！！⚠⚠ みなさんご機嫌よう。まいまいです。今回の記事ではDTMでは一般的に用いられている技術、サイドチェインの方法とそれに使用するVSTの紹介をしていきます。 サイドチェ […]
+The post 音MAD/YTPMVのためのサイドチェイン解説・VST紹介 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年投稿した動画の振り返り2023]]></title>
         <id>https://note.com/eroerojpeg/n/n3cc7a7e8239c</id>
