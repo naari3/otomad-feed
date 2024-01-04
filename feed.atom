@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-04T10:04:10.688Z</updated>
+    <updated>2024-01-04T11:04:01.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#92 12月4週 藍の円盤/紅白の歌合戦]]></title>
+        <id>hatenablog://entry/6801883189072334066</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2024/01/04/194043"/>
+        <updated>2024-01-04T10:40:43.000Z</updated>
+        <summary type="html"><![CDATA[ようやく藍の円盤をプレイした。
+ダブルバトル、難しいけど面白い。
+なんとかパルデアの頃からの旅パでクリア出来た。
+ファイアローの日本晴れにバウッツェルで雨乞い合わせたりして、レベルで殴るんじゃなくてちゃんと攻略って感じで楽しかった。
+鋼も毒も居なかったからタロ戦キツかった。
+ 
+紅白、PerfumeゆずYOASOBIAdoの順で楽しみにしてたけどYOASOBIがかなり凄かった。
+橋本環奈とあのちゃん、光と闇の美少女って言われてるのはなんとなく知ってたけど有名な画像のポーズを再現してたのとかは後から知った。
+ファンとまでは行かないけど、この1年近く毎週あのANN0を聴いててなんとなく親近感が湧いてるからより興奮できたと思う。ニッポン放送ありがとう。
+ 
+先週書こうと思って忘れてたんですけど、東京に行った結果良い事が起こりました。
+ぼかしすぎてウミガメのスープの問題文みたいになってるんですけど、察してください！
+後で消したくなった時に面倒くさいことにならないようにこれを公表する場所は絞りたいので、ask.fmとかでメッセージ送られても返せないかもです。読みはします。
+自己顕示欲が爆発したり祝われたくなったりしたら普通にツイートしちゃうかもしれないので、もしツイートしてたら「爆発してんなあ」と思いながらいいねしてください。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD/YTPMVのためのサイドチェイン解説・VST紹介]]></title>
         <id>https://ytpmv.info/?p=1865</id>
