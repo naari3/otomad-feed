@@ -20,6 +20,62 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">Minecraft 1.16.1 でのエンダードラゴンの挙動をまとめた</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2024/01/05/220000" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>ランキング参加中
+Minecraft
+
+
+
+Minecraft 1.16.1 でのエンダードラゴンの挙動の詳細を調査した。
+最近Minecraft 1.16.1のRTAにハマっている。エンダードラゴン戦をすばやく終わらせることはタイム短縮に大きくつながる行動だが、エンダードラゴンの挙動は思った以上に複雑であり、これらの状態や条件を詳しく知る必要が出てきた。今回は、Minecraftの内部実装を確認し、エンダードラゴンが実際にどのように動き、何に反応して行動を変えているのか？を調査した。
+前提
+用語集
+Perch
+パスノード
+フェーズ
+ステート遷移図
+RTA走者向け
+エンダードラゴンの挙動の詳細について
+スポーン直後
+Hover
+HoldingPattern
+パスノード選択の詳細
+火の玉攻撃
+StrafePlayer
+着陸
+LandingApproach
+Landing
+着陸後
+SittingScanning
+SittingAttacking
+SittingFlaming
+離陸
+ChargingPlayer
+Takeoff
+RTA向けのTips
+StrafePlayer に移行しづらくする
+Landing を素早く終わらせる
+おわりに
+前提
+コードリーディングにおいて、Fabricプロジェクトの yarn 1.16.1+build.21 を使用してマップ済み(≒難読化解除済み)のコードを生成してもらい、それを元に情報を調査した。
+https://github.com/FabricMC/yarn
+また、一部ステート遷移の確認には、より新しいバージョンである yarn 1.20+build.1 を使用して生成したコードを使用した。これについては、コード上に影響のある変化がないことを確認した上で調査を進めている。
+動的な確認を行うために 1.16.1 向けのMODを作成している。そ…</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20240103/20240103144727.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://crabgot.hatenablog.com/" target="_blank" rel="noopener">なんて巨大なカニゴット</a></h3>
           <section class="articles-per-source">
             <article>
@@ -26233,7 +26289,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2024-01-05T13:05:05.171Z">2024-01-05T13:05:05.171Z</time>
+    <time id="build-timestamp" datetime="2024-01-05T14:04:24.770Z">2024-01-05T14:04:24.770Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

@@ -4901,6 +4901,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/6801883189071989588",
+          "author": null,
+          "description": "ランキング参加中\nMinecraft\n\n\n\nMinecraft 1.16.1 でのエンダードラゴンの挙動の詳細を調査した。\n最近Minecraft 1.16.1のRTAにハマっている。エンダードラゴン戦をすばやく終わらせることはタイム短縮に大きくつながる行動だが、エンダードラゴンの挙動は思った以上に複雑であり、これらの状態や条件を詳しく知る必要が出てきた。今回は、Minecraftの内部実装を確認し、エンダードラゴンが実際にどのように動き、何に反応して行動を変えているのか？を調査した。\n前提\n用語集\nPerch\nパスノード\nフェーズ\nステート遷移図\nRTA走者向け\nエンダードラゴンの挙動の詳細について\nスポーン直後\nHover\nHoldingPattern\nパスノード選択の詳細\n火の玉攻撃\nStrafePlayer\n着陸\nLandingApproach\nLanding\n着陸後\nSittingScanning\nSittingAttacking\nSittingFlaming\n離陸\nChargingPlayer\nTakeoff\nRTA向けのTips\nStrafePlayer に移行しづらくする\nLanding を素早く終わらせる\nおわりに\n前提\nコードリーディングにおいて、Fabricプロジェクトの yarn 1.16.1+build.21 を使用してマップ済み(≒難読化解除済み)のコードを生成してもらい、それを元に情報を調査した。\nhttps://github.com/FabricMC/yarn\nまた、一部ステート遷移の確認には、より新しいバージョンである yarn 1.20+build.1 を使用して生成したコードを使用した。これについては、コード上に影響のある変化がないことを確認した上で調査を進めている。\n動的な確認を行うために 1.16.1 向けのMODを作成している。そ…",
+          "link": "https://naari.hatenablog.com/entry/2024/01/05/220000",
+          "publishedOn": "2024-01-05T13:00:00.000Z",
+          "wordCount": 1053,
+          "title": "Minecraft 1.16.1 でのエンダードラゴンの挙動をまとめた",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20240103/20240103144727.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20240103/20240103144727.png"
+        },
+        {
           "id": "hatenablog://entry/6801883189060425801",
           "author": null,
           "description": "25歳の誕生日を無事に迎えることができた。このあいだおじいちゃんが死んでからずっと1年生きることが素晴らしいことに思えてどうしようもなく、実際にちゃんとこの日は嬉しかった。昔だったら 20,november をやりにいって喜びを消費していたのだと思うけど、もう弐寺はやってないのでゲーセンには行かなかった。\nただ、だからといって具体的になにか特別なイベントが発生するわけでもなく*1、寝る前にマリオワンダーの続きでもやろうかな～とか思ってたんですが……↓↓↓\n思い出から始めます\n当時*2、ヘボコンというものが開催されていて、その紹介動画に使われていた曲の正体がどうしても知りたくて探し当てたのがアルバム Hercelot - Wakeup Fakepop で、そのアルバムの他の曲も含めて当時聞いていた音楽の形態と全く違う、本当に凄いものが並んでいたのでめちゃくちゃ驚いていた覚えがある。\nmaltinerecords.cs8.biz\nそもそも無料で音楽のバイナリを手に入れることについて、にこさうんどかyoutubemp3あたりか、もっと英語なサイトで勝手に落とすくらいしか体験がなくて、「こんなにすごいものを正式に無料で手に入れられるのか」という驚きもあってとても強く記憶に残っているアルバムだった。また、そこから周辺情報を調べたタイミングが、自分がはじめて Maltine Records を認識したタイミングだったりした。で、当然新しいアルバムを聞き、すごいな～とか思ったり、周辺にあるリリースを探したりするんだけど、ちょうど Wakeup Fakepop の真下にあったものが bo en - pale machine だった。\nmaltinerecords.cs8.biz\nさっきのアルバムの真下にあるから同じ方向性を期待したら全然そうではなく、ただとても意外性があり、あまりにもミュー…",
