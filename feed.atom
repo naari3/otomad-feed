@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-06T21:03:54.421Z</updated>
+    <updated>2024-01-06T22:04:08.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新年のご挨拶]]></title>
+        <id>hatenablog://entry/6801883189072978582</id>
+        <link href="https://lixy.hatenablog.com/entry/2024/01/07/%E6%96%B0%E5%B9%B4%E3%81%AE%E3%81%94%E6%8C%A8%E6%8B%B6"/>
+        <updated>2024-01-06T21:19:26.000Z</updated>
+        <summary type="html"><![CDATA[ガチイク]]></summary>
+        <author>
+            <name>空回り</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本格的アメゲイ祭]]></title>
         <id>https://ss-sahara.work/?p=73</id>
