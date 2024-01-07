@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-07T19:03:57.072Z</updated>
+    <updated>2024-01-07T20:04:12.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年の投稿動画を振り返る2023]]></title>
+        <id>https://note.com/saltlemon/n/ne7490fe57b7f</id>
+        <link href="https://note.com/saltlemon/n/ne7490fe57b7f"/>
+        <updated>2024-01-07T19:41:40.000Z</updated>
+        <summary type="html"><![CDATA[やるか～～～～～～
+なんか毎年恒例にはなってるけど来年以降投稿できるか不安ではある
+  
+続きをみる]]></summary>
+        <author>
+            <name>塩れもん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【告知】第2回ボカコレ×音MAD投稿祭　開催のお知らせ]]></title>
         <id>https://note.com/elminus/n/n5970b4119954</id>
