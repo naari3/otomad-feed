@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-08T09:04:13.769Z</updated>
+    <updated>2024-01-08T10:04:20.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[令和のNico Nico Madventure 製作後記]]></title>
+        <id>https://note.com/sakurei_2015/n/n0a40a51d7aa4</id>
+        <link href="https://note.com/sakurei_2015/n/n0a40a51d7aa4"/>
+        <updated>2024-01-08T09:45:25.000Z</updated>
+        <summary type="html"><![CDATA[この動画のさくれい視点での振り返りになります。まだ動画を見てない人は是非ご覧になってくださいね～。もう見たことあるって人ももう一回見てみてね～。新しい発見があるかもしれないですよ。
+続きをみる]]></summary>
+        <author>
+            <name>さくれい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[昼間ねむすぎ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1282.html</id>
