@@ -10212,7 +10212,18 @@
       "title": "Ximco",
       "feedUrl": "https://note.com/ximco_note/rss",
       "siteUrl": "https://note.com/ximco_note",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/ximco_note/n/n099ddc5b1114",
+          "author": null,
+          "description": "Ximco視点での編集後記です。MDM天相方のさくれいさんの記事の構成を完全にパクらせていただきました。まだ動画見てない人は見てね。見ないと後悔することになるかもしれませんよ。\n続きをみる",
+          "link": "https://note.com/ximco_note/n/n099ddc5b1114",
+          "publishedOn": "2024-01-09T10:30:41.000Z",
+          "wordCount": 4273,
+          "title": "令和のNico Nico Madventure 製作後記",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/127024486/rectangle_large_type_2_dd35a31cc445e72dafd2d64d98dafd1f.png?width=800"
+        }
+      ]
     },
     {
       "title": "プリコネの年末年始はヤバイわよ！",
