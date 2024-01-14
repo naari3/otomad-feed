@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-14T05:04:03.772Z</updated>
+    <updated>2024-01-14T06:04:21.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[どんどん自然になっていくプロフみてスパム]]></title>
+        <id>https://note.com/rubr/n/n87cdce9002b5</id>
+        <link href="https://note.com/rubr/n/n87cdce9002b5"/>
+        <updated>2024-01-14T05:14:20.000Z</updated>
+        <summary type="html"><![CDATA[「プロフみて」系のスパムを観測している私ですが、今日定型文の検索をしていて驚いたのが、スパムが送るリプに送り先のユーザー名が含まれていることでした。
+例を挙げると、
+続きをみる]]></summary>
+        <author>
+            <name>R___Va</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年1月-2】]]></title>
         <id>hatenablog://entry/6801883189074438987</id>

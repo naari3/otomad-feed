@@ -9226,6 +9226,16 @@
       "siteUrl": "https://note.com/rubr",
       "articles": [
         {
+          "id": "https://note.com/rubr/n/n87cdce9002b5",
+          "author": null,
+          "description": "「プロフみて」系のスパムを観測している私ですが、今日定型文の検索をしていて驚いたのが、スパムが送るリプに送り先のユーザー名が含まれていることでした。\n例を挙げると、\n続きをみる",
+          "link": "https://note.com/rubr/n/n87cdce9002b5",
+          "publishedOn": "2024-01-14T05:14:20.000Z",
+          "wordCount": 2425,
+          "title": "どんどん自然になっていくプロフみてスパム",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/127602825/rectangle_large_type_2_d5bd5a9cd83edd4772ac96111caab9d8.png?width=800"
+        },
+        {
           "id": "https://note.com/rubr/n/ndb3e5abf70af",
           "author": null,
           "description": "最近、X(旧Twitter)で気付いたときには自分の書き込みに「良かったらぷろふみて～」というようなリプが付いているという現象が起きています。\nそのようなリプを送ってくるアカウントについて、私が個人で研究した結果をまとめます。\nこのようなアカウントは「プロフリンクを見て」と言ってくるだけあって、だいたいのアカウントのプロフィール欄には短縮URLと思われるリンクが貼ってあります。しかしたまに何かのミスなのか、リンクがない場合もあります。\n続きをみる",
