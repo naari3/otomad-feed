@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-17T12:05:53.978Z</updated>
+    <updated>2024-01-17T13:05:44.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年の音MAD活動振り返り]]></title>
+        <id>https://note.com/binetsu0904/n/n48e769b7e880</id>
+        <link href="https://note.com/binetsu0904/n/n48e769b7e880"/>
+        <updated>2024-01-17T12:42:09.000Z</updated>
+        <summary type="html"><![CDATA[実績
+・個人作：3
+・合作、企画：12
+
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年振り返り]]></title>
         <id>hatenablog://entry/6801883189075629441</id>
