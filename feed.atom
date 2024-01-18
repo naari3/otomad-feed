@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-18T14:04:16.470Z</updated>
+    <updated>2024-01-18T15:04:16.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[眠ザイ！？]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1284.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1284.html"/>
+        <updated>2024-01-18T14:06:09.000Z</updated>
+        <summary type="html"><![CDATA[ねむれません  荒波です平日は10時、遅くても11時には寝たいんだけど中々そうもいかんというかそんなジジイみたいな時間に寝てたら趣味なんか何もできねえよ毎日はらがみのデイリーやって寝るだけの生活……はやくなんとかしないとどうでもいいけど今日市役所行ったら同い年くらいの茶髪の兄ちゃんが大声で喚いててすごい空気になってた職員にブチ切れてるならわかるけど（わからないけど）、一人で椅子に座ったままなんか騒いでたし]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年の音MAD活動振り返り]]></title>
         <id>https://note.com/binetsu0904/n/n48e769b7e880</id>
