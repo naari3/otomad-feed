@@ -4725,6 +4725,21 @@
       "siteUrl": "https://nkaoobt.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/6801883189076379048",
+          "author": null,
+          "description": "モンスト、ノマクエのボーナスステージを終わらせてスタミナの概念が無くなった。\nノマクエ経験値2倍期間中に学びプラスを取りたくてモンパス会員になったけど、ベルの経験値3倍とノマクエ経験値2倍は重複しないらしく、じゃあ急いでモンパス入らなくて良かったじゃんってなった。\n \nデュアルモニターの時、ウィンドウを選択した状態でWindowsキー+shiftキー+左右キーを押すと別のモニターに表示できることを知った。\n今PC専用モニターとPC兼Switch用モニターがあって、ゲームしながらYouTube見たい時とかにSwitchのモニターの方にウインドウが出ちゃっててめんどくさい事になることが結構あった。今までは一旦SwitchからPCに切り替えてウインドウを移動させてた。\n超便利なショートカットキーになりそう。",
+          "link": "https://nkaoobt.hatenablog.com/entry/2024/01/19/223106",
+          "publishedOn": "2024-01-19T13:31:06.000Z",
+          "wordCount": 442,
+          "title": "週記#94 1月2週 モンストなど",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/6801883189072338602",
           "author": null,
           "description": "年末年始は三宮のホテルで親戚と過ごした。\nR-18な話ではないです。\n \n部屋はバラバラなので元旦は朝6時までフットンダを見ていた。\n面白かったけど、毎年の恒例行事にしちゃうと体力的にはしんどいかもしれない。\n面白かった故の悩み。\n \n令和ロマンANN、面白かった。早くレギュラー化して欲しい。\n今日の5時まで聴けました。\n \n前にIndieWorldを見て気になっていたPATRICK'S PARABOXとchants of sennaarを買った。\n前者は普通にステージ進んで難しくなって詰んでいる。時間を空けたら解けるようになったりするのかも。\n後者はなんかアクション要素が出てきてうーん、ってなってる。またそのうち続きをやるかも。",
@@ -6479,6 +6494,16 @@
       "feedUrl": "https://note.com/anzato/rss",
       "siteUrl": "https://note.com/anzato",
       "articles": [
+        {
+          "id": "https://note.com/anzato/n/n9f853d708220",
+          "author": null,
+          "description": "はじめに\n　この記事は音Q第3回の出題のねらいを書いていきます。もちろん動画のネタバレを多分に含みますので未視聴の方は是非元動画を視聴の上閲覧下さい。\n続きをみる",
+          "link": "https://note.com/anzato/n/n9f853d708220",
+          "publishedOn": "2024-01-19T13:51:38.000Z",
+          "wordCount": 2606,
+          "title": "【音Q】出題のねらい（第3回）",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/128145531/rectangle_large_type_2_f97e3ce3616560e77293566d264a5999.png?width=800"
+        },
         {
           "id": "https://note.com/anzato/n/n1dbf26492db5",
           "author": null,
