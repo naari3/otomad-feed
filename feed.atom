@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-22T00:15:13.292Z</updated>
+    <updated>2024-01-22T01:30:26.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -18405,57 +18405,6 @@ EDなんだよこれ、頭おかしくなるって
 解説を加えます。テトリス99やぷよテト2などの、いわゆるモダンテトリスには「七種一巡」と呼ばれる法則が存在します。テトリスには7種類のミノがあり、それらがランダムに1巡してやってきて、それが終われば次の7種がまた無作為な順番にやってくる、というものです。ちょっと(かなり？)僕の説明が下手くそですが、要はNEXTのミノに法則性があり、例えばIミノが4回連続でやってくるようなことはありえないことだけ理解していただければ大丈夫です。それを利用して対戦開始直後にTスピンが連続で打てる形を作ったり、大きな火力を送れるパーフェクトクリアやRENを狙うテンプレがたくさん作られています。テンプレを覚え、Tスピンの組み方を練習し、最適化と呼ばれる操作精度と速度を上げるための練習もこなし、気がついたらぷよテト2購入から2年ちょっと経っていました。その途中でTetris Effect:Connectedという別のテトリスにもまたハマり、意欲はとどまることを知りません。どなたか連戦できる方がいましたらぜひ、@YesoftenmeansNo のDMかリプライまでお願いします。]]></summary>
         <author>
             <name>空回り</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自分も自売りしたら面白いのかなとか...]]></title>
-        <id>https://note.com/nendo31/n/na508fab06cb4</id>
-        <link href="https://note.com/nendo31/n/na508fab06cb4"/>
-        <updated>2023-01-22T13:19:07.000Z</updated>
-        <summary type="html"><![CDATA[自分も自売りしたら面白いのかなとか思うことあるけど、たぶん殆どの人使わないから本人がMAD作る可能性がｗ 続きをみる]]></summary>
-        <author>
-            <name>粘土31号</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[えー私も　ゲスかめさんの音MAD作...]]></title>
-        <id>https://note.com/nendo31/n/nb7d83b585278</id>
-        <link href="https://note.com/nendo31/n/nb7d83b585278"/>
-        <updated>2023-01-22T13:16:42.000Z</updated>
-        <summary type="html"><![CDATA[えー私も　ゲスかめさんの音MAD作りたいがですけど 続きをみる]]></summary>
-        <author>
-            <name>粘土31号</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【振り返り】音MAD Advent Calendarはもうやらない方が良いと思う]]></title>
-        <id>hatenablog://entry/4207112889955153479</id>
-        <link href="https://kaikityou.hatenablog.com/entry/2023/01/22/214658"/>
-        <updated>2023-01-22T12:46:58.000Z</updated>
-        <summary type="html"><![CDATA[らしいです。
- 
-僕はそうは思っていません。やりたい人が居るならやれば良いと思います。
- 
-気を取り直して本題です。
-Twitterでも言いましたが、僕は今年(2023年)のアドベントカレンダーは主催するつもりはありません。
-なんでかというと色々な人に連絡をすることが正直大変だからです。基本的に人付き合いが苦手なので一人で閉じ籠もっていたい… あと単純に音MADのモチベがそんなに高くないというのもあります。
- 
-どちらかというとなんで去年はやったのかという話をした方が良いのかも。
- 
-
-先に言っとくんですけど音MAD Advent Calendar 2022は絶対にやります
-2021年12月31日
-
-
-一番の理由は年始に酒に酔った勢いで宣言してしまったからです。バカカス！！！
-しかしまぁそのタイミングで宣言するのが個人作とか合作みたいな音MADそのものじゃなくて番外編みたいな企画なのはどうなんだ。芯から枯れ果ててるんじゃないのか。
-これは余談なんですが、このツイートに反応した某氏から通話で「アドベントカレンダーやるの？だったら俺『正解は一年後』で挙げるわ」と言われました。今回は企画予想問題は無かったみたいですが。
- 
-もう一つ地味に大きい理由が、過去に2回やっておいて何も言わずに開催しないっていうのはちょっと無責任な気がしたからです。
-例えばの話ですけど「今年音MAD Advent Calendar俺が主催しようかな… でもkaikityouさんが動いてたらどうしよう…」みたいなことも全然有り得ると思いました。譲り合いの精神ですね。終了後に来年はやらない旨をツイートしたのはそれが理由です。「俺はやらないって言ったからな」という免罪符を得ました。
-主催したい人が二人以上現れて企画が衝突する… みたいなことも可能性としては無くはなさそうですが、流石にそこまでは僕の管轄外だと思う…]]></summary>
-        <author>
-            <name>kaikityouの日記</name>
         </author>
     </entry>
     <entry>
