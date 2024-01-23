@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-23T08:05:05.061Z</updated>
+    <updated>2024-01-23T09:04:14.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プロフみてスパムの変化]]></title>
+        <id>https://note.com/rubr/n/nddc62fbd9ef6</id>
+        <link href="https://note.com/rubr/n/nddc62fbd9ef6"/>
+        <updated>2024-01-23T08:53:48.000Z</updated>
+        <summary type="html"><![CDATA[プロフみて系スパムを気が向いたら観察するのを始めて何ヶ月か経ちました。この短い時の流れの中でスパム達は次々と変化していっています。
+さて、私は（最近はやってませんが）見つけたプロフスパムをTwitterのリストに放り込んでいます。
+そこで思ったのが、「あれ？前はこんなアカウント名じゃなかったような・・・」ということです。
+続きをみる]]></summary>
+        <author>
+            <name>R___Va</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沈む沈む]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1285.html</id>
