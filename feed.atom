@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-23T14:04:11.287Z</updated>
+    <updated>2024-01-23T15:04:13.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20240123「金子みすゞ『金子みすゞ童謡集』など」]]></title>
+        <id>hatenablog://entry/6801883189077515865</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2024/01/23/234710"/>
+        <updated>2024-01-23T14:47:10.000Z</updated>
+        <summary type="html"><![CDATA[2023年に読んだけど特に感想を書いていなかった本の記録と、2024年の三が日に親戚と見に行った映画の感想です
+ 
+
+
+    
+東浩紀『動物化するポストモダン　オタクから見た日本社会』
+東浩紀『クォンタム・ファミリーズ』
+金子みすゞ『金子みすゞ童謡集』
+𠮷田恭大『光と私語』
+若鶏にこみ『ぎんしお少々』
+隈井『うさぎのふらふら』
+草間さかえ『さよならキャラバン』
+大白小蟹『うみべのストーブ　大白小蟹短編集』
+衿沢世衣子『ベランダは難攻不落のラ・フランス』
+片桐崇『劇場版 SPY×FAMILY CODE: White』（2023）
+ 
+東浩紀『動物化するポストモダン　オタクから見た日本社会』
+評論。別に批判的な思考もできず、そうなんだと思いながら読んで終わった。タイトルから難しそうだったが、思ってたよりもオタクについてというか、二次創作の話などが中心である。小さな集合から大きな物語を見出すのではなく、大きな非物語つまりデータベースから無限に組み合わされて生まれている小さな物語たちを消費している、というデータベース消費の話は昨今の画像生成の話とも重なる思った。
+ところで図書館で文芸の棚を見るのはずっと好きで、百発百中であるのが清涼院流水の推理小説だったりする。見かける度に中身をパラパラ見ているけど、あんな長いのをまともに読んでいる人がいるのか疑問だった。立ち読みだけしている人の感想として、同じ長いのでも京極夏彦のそれなどとは異なると感じる。好き勝手やっているというかSFとか超常的な話まで発展しているような印象があるので。でも彼の本がたくさん刊行されたということは読まれていた証左だろう。この動ポモでも清涼院流水は「変化にもっとも敏感に反応し、もっとも根底的に小節の書き方を変えてしまった作家である」とミステリの要素を自己言及的に取り入れたことで評価されていた。あれって結構すごい本…]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロフみてスパムの変化]]></title>
         <id>https://note.com/rubr/n/nddc62fbd9ef6</id>
