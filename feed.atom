@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-25T05:04:14.413Z</updated>
+    <updated>2024-01-25T06:04:55.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ツイッターのシャドウバン解除したい...]]></title>
+        <id>https://note.com/nendo31/n/ne7d63d8d421b</id>
+        <link href="https://note.com/nendo31/n/ne7d63d8d421b"/>
+        <updated>2024-01-25T05:15:12.000Z</updated>
+        <summary type="html"><![CDATA[ツイッターのシャドウバン解除したいからとりあえず垢放置してるけど、これ正解なのか？ 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20240123「金子みすゞ『金子みすゞ童謡集』など」]]></title>
         <id>hatenablog://entry/6801883189077515865</id>
