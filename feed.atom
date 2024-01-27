@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-27T09:03:57.969Z</updated>
+    <updated>2024-01-27T10:04:15.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[透過可逆圧縮コーデックのファイルサイズ・エンコード時間の比較]]></title>
+        <id>https://ytpmv.info/?p=1944</id>
+        <link href="https://ytpmv.info/alpha-lossless-codec-comparison/"/>
+        <updated>2024-01-27T09:43:14.000Z</updated>
+        <summary type="html"><![CDATA[要旨 LagarithでOk はじめに 皆さんご機嫌よう。まいまいです。 この記事では動画素材・BB切り抜き素材の保管、合作の提出に便利な透過可能な可逆圧縮コーデックの比較を行っていきます。 比較するコーデックの要件は以 […]
+The post 透過可逆圧縮コーデックのファイルサイズ・エンコード時間の比較 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[某日記録]]></title>
         <id>hatenablog://entry/6801883189077805417</id>
