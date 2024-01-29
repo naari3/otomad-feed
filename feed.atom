@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-29T12:05:20.451Z</updated>
+    <updated>2024-01-29T13:04:16.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#95,96合併号 1月3,4週 終わりと始まり]]></title>
+        <id>hatenablog://entry/6801883189079019170</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2024/01/29/211402"/>
+        <updated>2024-01-29T12:14:02.000Z</updated>
+        <summary type="html"><![CDATA[先々週、大学卒業のための色々を終わらせた。
+無事卒業は出来そうです。
+先週、来年度からの生活に向けて色々やってた。
+またどこかで詳しく話したいな〜、という気持ちはある。
+とりあえずリアルのタスクは一旦落ち着いたので音MADを作ります。合作関係者の皆様、お待たせしました。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[透過可逆圧縮コーデックのファイルサイズ・エンコード時間の比較]]></title>
         <id>https://ytpmv.info/?p=1944</id>
