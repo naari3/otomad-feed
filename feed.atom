@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-31T12:05:20.346Z</updated>
+    <updated>2024-01-31T13:04:02.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[月報]]></title>
+        <id>https://note.com/wake_otomad/n/n8b876fb8f03c</id>
+        <link href="https://note.com/wake_otomad/n/n8b876fb8f03c"/>
+        <updated>2024-01-31T12:57:47.000Z</updated>
+        <summary type="html"><![CDATA[今年は月報を毎月書いていこうと思います
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ゎけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深海まこと]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1286.html</id>
