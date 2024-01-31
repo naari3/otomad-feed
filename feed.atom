@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-31T13:04:02.975Z</updated>
+    <updated>2024-01-31T14:04:30.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[n選編集後記]]></title>
+        <id>https://note.com/sweets_farting/n/n177aca239221</id>
+        <link href="https://note.com/sweets_farting/n/n177aca239221"/>
+        <updated>2024-01-31T13:31:52.000Z</updated>
+        <summary type="html"><![CDATA[音MAD10選で9票以下の音MADn選2023 結果発表 #音MADn選音MAD10選のリスペクト企画2022年12月11日〜2023年12月10日に投稿された音MADに投票する企画票数を多く集live.nicovideo.jp 
+ご視聴ありがとうございました
+投票してくれた皆さんもありがとうございます
+続きをみる]]></summary>
+        <author>
+            <name>角煮サイダ一</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月報]]></title>
         <id>https://note.com/wake_otomad/n/n8b876fb8f03c</id>
