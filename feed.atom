@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-01-31T16:04:20.531Z</updated>
+    <updated>2024-01-31T17:04:08.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[意見は理屈や感情ではなく立場で決まる。]]></title>
+        <id>https://note.com/26435/n/n6bef96e9f273</id>
+        <link href="https://note.com/26435/n/n6bef96e9f273"/>
+        <updated>2024-01-31T16:13:27.000Z</updated>
+        <summary type="html"><![CDATA[って言葉、あるか調べていたんですが見つからなかったです。うーん
+この記事は心の中で言ったことを吐き出してるだけなのでカスです。他の記事も全部そうらしい。noteでは
+続きをみる]]></summary>
+        <author>
+            <name>T</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[n選編集後記]]></title>
         <id>https://note.com/sweets_farting/n/n177aca239221</id>
