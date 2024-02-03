@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-03T00:14:02.263Z</updated>
+    <updated>2024-02-03T01:23:39.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17734,17 +17734,6 @@ youtu.be
 みなさんもお気に入りのパートがあれば共有してみてください！]]></summary>
         <author>
             <name>ブログ名 - コピー (2) - コピー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字幕ファイルを使って動画を自動切り抜き・リネームするスクリプト]]></title>
-        <id>https://ytpmv.info/?p=1662</id>
-        <link href="https://ytpmv.info/subtitlevideosplitter/"/>
-        <updated>2023-02-03T13:06:11.000Z</updated>
-        <summary type="html"><![CDATA[皆さんごきげんよう。まいまいです。今回は記事タイトル通り、字幕ファイルを使用して動画や音声ファイルをセリフごとに自動切り抜き・リネームするPythonスクリプトを作成したので紹介し、使用法を解説します。一応exe版も用意 […]
-The post 字幕ファイルを使って動画を自動切り抜き・リネームするスクリプト first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
     <entry>
