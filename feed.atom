@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-11T12:04:51.288Z</updated>
+    <updated>2024-02-11T13:04:17.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年はちゃんと音MAD作ります]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n86105fc4b67f</id>
+        <link href="https://note.com/dou_akagane_cu/n/n86105fc4b67f"/>
+        <updated>2024-02-11T12:50:51.000Z</updated>
+        <summary type="html"><![CDATA[文章構成とか何も考えずに、愚痴みたいなことをダラダラ1600文字書いたものなので、読む価値はあまりない。
+もう2月ですか、タイトルに「今年は」と書くなら普通は1月に投稿すべきものだろうし、なにか間違っている気がする。
+音MDM天が終わった直後のモチベというのは物凄く高かった。今よりも高かったかもしれない。
+続きをみる]]></summary>
+        <author>
+            <name>梅晞あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTubeの動画に全く関係ないニコニコ動画のコメントを重ねて遊ぶ]]></title>
         <id>https://note.com/tanbatu/n/nc3eecd828bcf</id>
