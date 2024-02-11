@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-11T11:04:08.236Z</updated>
+    <updated>2024-02-11T12:04:51.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTubeの動画に全く関係ないニコニコ動画のコメントを重ねて遊ぶ]]></title>
+        <id>https://note.com/tanbatu/n/nc3eecd828bcf</id>
+        <link href="https://note.com/tanbatu/n/nc3eecd828bcf"/>
+        <updated>2024-02-11T11:16:17.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、丹波津です。
+つい最近改善されたのですが、ニコニコには30分以上の動画を投稿すると強制的に360pに変換されるという仕様があり、これは長らく利用者を悩ませる物でした。
+続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/10 映画館で見る音MADに参加]]></title>
         <id>https://note.com/banfuture9/n/n3578a6153d0c</id>
