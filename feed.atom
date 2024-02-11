@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-11T16:04:37.357Z</updated>
+    <updated>2024-02-11T17:04:09.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/02/12 高速合作の話をした]]></title>
+        <id>https://note.com/banfuture9/n/n3488a467d185</id>
+        <link href="https://note.com/banfuture9/n/n3488a467d185"/>
+        <updated>2024-02-11T16:57:50.000Z</updated>
+        <summary type="html"><![CDATA[【otogroove】合作概要＆リファレンス紹介配信  #OTGR2024/5/18(日)に開催予定のイベント「otogroove」の紹介生放送です。座談会形式でゆるくやります！◆おしながlive.nicovideo.jp 
+otogrooveというowataxさん主催の秋葉原MOGRAで音MADを流すことを主目的とした最高イベントに、新作の合作3本のうちの1つ「高速合作」の主催として参加させて頂いている。nerdtronicsの系譜にあるイベントだが、合作と音MAD-mixの新作をたくさん（本当に）用意するというFRENZ的な要素が強まり、リアルイベントを推進してきたowataxさんだから可能な展開の仕方だなと感じる。これを現実に顕現させているのは本当にすごい。今日はイベントで流す各合作について、それぞれのリファレンス動画を流す生放送があったのでそれに出て色々と話した。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年はちゃんと音MAD作ります]]></title>
         <id>https://note.com/dou_akagane_cu/n/n86105fc4b67f</id>
