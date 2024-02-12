@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-12T13:04:11.505Z</updated>
+    <updated>2024-02-12T14:04:01.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[またV]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1288.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1288.html"/>
+        <updated>2024-02-12T13:29:29.000Z</updated>
+        <summary type="html"><![CDATA[昼間起きておくためにミラV箱買いした  荒波です哀しい何もできなさすぎてはらがみのスクショ貼るだけのブログになってしまう海灯祭祝してた降魔大聖・・・・・・・・この二人のこと安達としまむらだと思ってる切ないいところイベントとデイリーだけやってたら一週間終わってしまったかくこともない･･･うううぐうう～～～]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/12 高速合作の話をした]]></title>
         <id>https://note.com/banfuture9/n/n3488a467d185</id>
