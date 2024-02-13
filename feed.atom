@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-13T01:24:53.704Z</updated>
+    <updated>2024-02-13T02:09:19.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17284,16 +17284,6 @@ animestore.docomo.ne.jp]]></summary>
 続きをみる]]></summary>
         <author>
             <name>フラヂル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sm41789651を振り返る（tech.）]]></title>
-        <id>https://dumpmc.blog.fc2.com/blog-entry-111.html</id>
-        <link href="https://dumpmc.blog.fc2.com/blog-entry-111.html"/>
-        <updated>2023-02-13T13:50:04.000Z</updated>
-        <summary type="html"><![CDATA[技術的な問題]]></summary>
-        <author>
-            <name>picm</name>
         </author>
     </entry>
     <entry>
