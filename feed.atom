@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-15T16:04:26.405Z</updated>
+    <updated>2024-02-15T17:05:00.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024年2月15日の日記]]></title>
+        <id>https://note.com/yabaiwayo/n/n4a43e0e30185</id>
+        <link href="https://note.com/yabaiwayo/n/n4a43e0e30185"/>
+        <updated>2024-02-15T16:41:32.000Z</updated>
+        <summary type="html"><![CDATA[う
+続きをみる]]></summary>
+        <author>
+            <name>プリコネの年末年始はヤバイわよ！</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[映画館で音MADを見た！！！！]]></title>
         <id>hatenablog://entry/6801883189083505589</id>
