@@ -85,6 +85,21 @@
       "siteUrl": "https://atarabi.hateblo.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/6801883189082966087",
+          "author": null,
+          "description": "github.com\nいくつかの機能追加とバグフィクスを行った。マウス周りのフックは他のフックに比べ応用範囲も狭いだろうから（可能性があるのはダブルミドルクリックくらい？）熟成させていたのだが、花雪さんからバグ報告をいただき、その修正にともない熟成も止めることにした。\n[bug]Add to Adobe Media Encoder Queue... · Issue #1 · atarabi/at_script · GitHub\nバグの内容は、!@script_initializer.jsxを導入した状態でAdd to Adobe Media Encoder Queue...をクリックするとエラーが発生します。ということで、最初は信じられなかった。というのも、!@script_initializer.jsxはバイナリ形式にしてあるものの中身はいたって単純なのでそもそもバグを出す余地があるのかというのと、AfterFX.exeでエラーが出ているのだが、何で今更エラーが出るのかという話でもある（!@script_initializer.jsx自体Startup時に実行されるスクリプトであるし）。\n詳しく調べてみると、AMEが立ち上がる際にdynamiclinkmanager経由でAfterFXを新たに起動しており、その条件下においてStartupのスクリプト内でapp.executeCommandなど（他にもあったがあまり調べられてない）のメソッドを実行するとクラッシュするらしかった。dynamiclinkmanagerには思い当たる節があって、ある時からWarp Stabilizerエフェクトがきちんと動かなくなり、それもdynamiclinkmanagerが原因の一端であることまでは分かっていたが、あまり使用することもなかったので放置していた。案の定これも同じ原因で落ちてるらしかった。理由が分かれば対処も早い。\nStartup系のスクリプトには早期リターンしてもらう必要があるので、!@script_initializer.jsx内でdynamiclinkmanagerから実行されてるかの判別を行うAtarabi.isDynamicLink()を定義し、それを呼び出してもらう形にした。\n(() => {\n\n    if (Atarabi.isDynamicLink()) {\n        return;\n    }\n\n    // mainの処理\n})();\n\n\n\nマウス周りのフックは上でも書いたが全然使い道が思いつかない。ただ、作っておけば賢明な人がなにか使い道を思いついてくれるだろう。\n// ダブルミドルクリックをするとコンポをつくる。\nconst uuid = Atarabi.mouse.hook({ button: 'Middle', count: 2 }, ctx => {\n    app.project.items.addComp('Comp', 1000, 1000, 1, 100, 30);\n    return true; // trueを返した場合、デフォルトの処理が呼ばれなくなる。\n});\n\n\n\n\n\n同梱物\n新たに追加したもの。\n@effects_in_use\n\nプロジェクト内で使われているエフェクトをスキャンするスクリプト。同種のものは既にあると思うが、自分が使いやすいと思うものを作った。\n@swatch\n\nカラースウォッチの試作。スクリプトのパネル上でミドルクリックをすると、色パラメータを選択もしくは選択したエフェクト内に初期値から変更済みの色パラメータがあればその色を、それ以外の場合かつ平面レイヤーを選択していればその平面の色を取得する。削除したい場合は、当該色の上でダブルクリックをする。",
+          "link": "https://atarabi.hateblo.jp/entry/2024/02/16/222707",
+          "publishedOn": "2024-02-16T13:27:07.000Z",
+          "wordCount": 395,
+          "title": "After Effectsのスクリプトの可能性を広げる。 その３",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kareobana/20240216/20240216200414.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kareobana/20240216/20240216200414.png"
+        },
+        {
           "id": "hatenablog://entry/820878482967230791",
           "author": null,
           "description": "github.com\n公開したことでやる気もすこし出てきたので、いくつか更新した。\n自分の思想として\"ソフトがこちらに合わせろ\"というのがあり、既存コマンドに対するフックを容易にするというのもそれに向けての一つの手であったが、更に押し進めてキー入力をフック出来るようにした。\nキー入力のフックを上手く活用した一番有名な例はFX Consoleであろうが、こういったランチャーの嚆矢はQuick Menuだと思われる。\n\nAEではScriptsフォルダにあるスクリプトに対してショートカットを割り当てることが可能なので、それを活用している。この方法は言われてみればという感じで、当時甚く感心した。\n\n最大20個までショートカットを設定出来るようなので、やろうと思えば色々出来る。\n難点は、管理が面倒だというのと、スクリプトがその都度実行されるため、特に重い処理が含まれる場合に、毎回我慢するか、計算結果をグローバル変数などに逃がしてキャッシュしておく必要がある。Quicke Menuの場合、appオブジェクトに何か生やしているようであった。\nキー入力のフックは、このような本質的でない部分による煩わしさから逃れられることが利点であると言える。ただどういった状況下でキー入力がなされたかという情報がないため、例えばレイヤー名変更のために文字入力しているという状況下でも容赦なくイベントは発火する。したがって修飾キーの指定は必須だと思われる。\n使い方は至って単純。\n(() => {\n    Atarabi.keyboard.hook({ code: ']', altKey: true }, ctx => {\n        const comp = Atarabi.comp.getMostRecentlyUsedComp();\n        if (!comp) {\n            re…",

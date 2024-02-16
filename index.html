@@ -16,6 +16,63 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2024-02-16">2024-02-16</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://atarabi.hateblo.jp/" target="_blank" rel="noopener">Atarabi-Blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">After Effectsのスクリプトの可能性を広げる。 その３</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://atarabi.hateblo.jp/entry/2024/02/16/222707" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>github.com
+いくつかの機能追加とバグフィクスを行った。マウス周りのフックは他のフックに比べ応用範囲も狭いだろうから（可能性があるのはダブルミドルクリックくらい？）熟成させていたのだが、花雪さんからバグ報告をいただき、その修正にともない熟成も止めることにした。
+[bug]Add to Adobe Media Encoder Queue... · Issue #1 · atarabi/at_script · GitHub
+バグの内容は、!@script_initializer.jsxを導入した状態でAdd to Adobe Media Encoder Queue...をクリックするとエラーが発生します。ということで、最初は信じられなかった。というのも、!@script_initializer.jsxはバイナリ形式にしてあるものの中身はいたって単純なのでそもそもバグを出す余地があるのかというのと、AfterFX.exeでエラーが出ているのだが、何で今更エラーが出るのかという話でもある（!@script_initializer.jsx自体Startup時に実行されるスクリプトであるし）。
+詳しく調べてみると、AMEが立ち上がる際にdynamiclinkmanager経由でAfterFXを新たに起動しており、その条件下においてStartupのスクリプト内でapp.executeCommandなど（他にもあったがあまり調べられてない）のメソッドを実行するとクラッシュするらしかった。dynamiclinkmanagerには思い当たる節があって、ある時からWarp Stabilizerエフェクトがきちんと動かなくなり、それもdynamiclinkmanagerが原因の一端であることまでは分かっていたが、あまり使用することもなかったので放置していた。案の定これも同じ原因で落ちてるらしかった。理由が分かれば対処も早い。
+Startup系のスクリプトには早期リターンしてもらう必要があるので、!@script_initializer.jsx内でdynamiclinkmanagerから実行されてるかの判別を行うAtarabi.isDynamicLink()を定義し、それを呼び出してもらう形にした。
+(() &#x3D;&gt; {
+
+    if (Atarabi.isDynamicLink()) {
+        return;
+    }
+
+    // mainの処理
+})();
+
+
+
+マウス周りのフックは上でも書いたが全然使い道が思いつかない。ただ、作っておけば賢明な人がなにか使い道を思いついてくれるだろう。
+// ダブルミドルクリックをするとコンポをつくる。
+const uuid &#x3D; Atarabi.mouse.hook({ button: &#x27;Middle&#x27;, count: 2 }, ctx &#x3D;&gt; {
+    app.project.items.addComp(&#x27;Comp&#x27;, 1000, 1000, 1, 100, 30);
+    return true; // trueを返した場合、デフォルトの処理が呼ばれなくなる。
+});
+
+
+
+
+
+同梱物
+新たに追加したもの。
+@effects_in_use
+
+プロジェクト内で使われているエフェクトをスキャンするスクリプト。同種のものは既にあると思うが、自分が使いやすいと思うものを作った。
+@swatch
+
+カラースウォッチの試作。スクリプトのパネル上でミドルクリックをすると、色パラメータを選択もしくは選択したエフェクト内に初期値から変更済みの色パラメータがあればその色を、それ以外の場合かつ平面レイヤーを選択していればその平面の色を取得する。削除したい場合は、当該色の上でダブルクリックをする。</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kareobana/20240216/20240216200414.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2024-02-15">2024-02-15</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -24085,7 +24142,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2024-02-16T13:04:10.098Z">2024-02-16T13:04:10.098Z</time>
+    <time id="build-timestamp" datetime="2024-02-16T14:04:12.223Z">2024-02-16T14:04:12.223Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

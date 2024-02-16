@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-16T13:04:10.152Z</updated>
+    <updated>2024-02-16T14:04:12.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After Effectsのスクリプトの可能性を広げる。 その３]]></title>
+        <id>hatenablog://entry/6801883189082966087</id>
+        <link href="https://atarabi.hateblo.jp/entry/2024/02/16/222707"/>
+        <updated>2024-02-16T13:27:07.000Z</updated>
+        <summary type="html"><![CDATA[github.com
+いくつかの機能追加とバグフィクスを行った。マウス周りのフックは他のフックに比べ応用範囲も狭いだろうから（可能性があるのはダブルミドルクリックくらい？）熟成させていたのだが、花雪さんからバグ報告をいただき、その修正にともない熟成も止めることにした。
+[bug]Add to Adobe Media Encoder Queue... · Issue #1 · atarabi/at_script · GitHub
+バグの内容は、!@script_initializer.jsxを導入した状態でAdd to Adobe Media Encoder Queue...をクリックするとエラーが発生します。ということで、最初は信じられなかった。というのも、!@script_initializer.jsxはバイナリ形式にしてあるものの中身はいたって単純なのでそもそもバグを出す余地があるのかというのと、AfterFX.exeでエラーが出ているのだが、何で今更エラーが出るのかという話でもある（!@script_initializer.jsx自体Startup時に実行されるスクリプトであるし）。
+詳しく調べてみると、AMEが立ち上がる際にdynamiclinkmanager経由でAfterFXを新たに起動しており、その条件下においてStartupのスクリプト内でapp.executeCommandなど（他にもあったがあまり調べられてない）のメソッドを実行するとクラッシュするらしかった。dynamiclinkmanagerには思い当たる節があって、ある時からWarp Stabilizerエフェクトがきちんと動かなくなり、それもdynamiclinkmanagerが原因の一端であることまでは分かっていたが、あまり使用することもなかったので放置していた。案の定これも同じ原因で落ちてるらしかった。理由が分かれば対処も早い。
+Startup系のスクリプトには早期リターンしてもらう必要があるので、!@script_initializer.jsx内でdynamiclinkmanagerから実行されてるかの判別を行うAtarabi.isDynamicLink()を定義し、それを呼び出してもらう形にした。
+(() => {
+
+    if (Atarabi.isDynamicLink()) {
+        return;
+    }
+
+    // mainの処理
+})();
+
+
+
+マウス周りのフックは上でも書いたが全然使い道が思いつかない。ただ、作っておけば賢明な人がなにか使い道を思いついてくれるだろう。
+// ダブルミドルクリックをするとコンポをつくる。
+const uuid = Atarabi.mouse.hook({ button: 'Middle', count: 2 }, ctx => {
+    app.project.items.addComp('Comp', 1000, 1000, 1, 100, 30);
+    return true; // trueを返した場合、デフォルトの処理が呼ばれなくなる。
+});
+
+
+
+
+
+同梱物
+新たに追加したもの。
+@effects_in_use
+
+プロジェクト内で使われているエフェクトをスキャンするスクリプト。同種のものは既にあると思うが、自分が使いやすいと思うものを作った。
+@swatch
+
+カラースウォッチの試作。スクリプトのパネル上でミドルクリックをすると、色パラメータを選択もしくは選択したエフェクト内に初期値から変更済みの色パラメータがあればその色を、それ以外の場合かつ平面レイヤーを選択していればその平面の色を取得する。削除したい場合は、当該色の上でダブルクリックをする。]]></summary>
+        <author>
+            <name>Atarabi-Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/15 2Lペットボトル VS 330ml瓶]]></title>
         <id>https://note.com/banfuture9/n/n20e875bcbdba</id>
