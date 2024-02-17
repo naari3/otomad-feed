@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-17T12:04:49.296Z</updated>
+    <updated>2024-02-17T13:04:15.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テスト投稿]]></title>
+        <id>https://ytpmv.info/?p=1954</id>
+        <link href="https://ytpmv.info/1954/"/>
+        <updated>2024-02-17T12:56:17.000Z</updated>
+        <summary type="html"><![CDATA[これはテストです
+The post テスト投稿 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google垢の本アカを課金したの...]]></title>
         <id>https://note.com/euro3/n/ndc06b2e341dd</id>
