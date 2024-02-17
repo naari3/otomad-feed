@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-17T00:13:33.551Z</updated>
+    <updated>2024-02-17T01:23:53.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google垢の本アカを課金したの...]]></title>
+        <id>https://note.com/euro3/n/ndc06b2e341dd</id>
+        <link href="https://note.com/euro3/n/ndc06b2e341dd"/>
+        <updated>2024-02-17T01:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Google垢の本アカを課金したので過去の作品が見れるリンクが変わりました。
+8年前の動画が入ってるので覚悟してみてください。
+https://drive.google.com/drive/folders/17F-8eYgI394YvEkuIhsNjuL0HWAqESpG?usp=sharing 続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/16 ありがとうスタァライトライティング上映]]></title>
         <id>https://note.com/banfuture9/n/na82638d6239a</id>
