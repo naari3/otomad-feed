@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-18T07:04:50.726Z</updated>
+    <updated>2024-02-18T08:04:29.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD関連用語集]]></title>
+        <id>https://ytpmv.info/?p=1961</id>
+        <link href="https://ytpmv.info/otomad-idiom/"/>
+        <updated>2024-02-18T07:47:54.000Z</updated>
+        <summary type="html"><![CDATA[音MAD界隈は奇妙な独自用語でいっぱい！なので独断と偏見に満ちた用語集を用意しました 「815現象」とか「ベテラン」みたいな音声MADWikiに記載があるけど（多分）誰も使ってない用語は書きません 用語 –  […]
+The post 音MAD関連用語集 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MADタグをつけない理由]]></title>
         <id>https://note.com/yabaiwayo/n/n1b9d2ef76626</id>
