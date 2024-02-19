@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-19T13:04:11.190Z</updated>
+    <updated>2024-02-19T14:04:13.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17261,19 +17261,6 @@ The post RAID構成済みNEC Express 5800/T110g-SにLinuxを導入しようと�
 あと10分で僕の冬が始まります。誰も邪魔しないでください。]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AviUtlにおける三色分解]]></title>
-        <id>https://note.com/rubr/n/n5202fbc2c74f</id>
-        <link href="https://note.com/rubr/n/n5202fbc2c74f"/>
-        <updated>2023-02-20T01:12:25.000Z</updated>
-        <summary type="html"><![CDATA[AviUtlで素材の色をCMYに分解して、色ずれを一色ずつ制御する、ということをしてみたかったのですが、調べてみても単純に分解するだけのプラグインは見つかりませんでした。
-そこでAviUtlの拡張編集標準の機能でそれができないかと試してみたところ、ちょうど良いと思える方法が見つかったので共有しようと思います。
-方法
-続きをみる]]></summary>
-        <author>
-            <name>R___Va</name>
         </author>
     </entry>
     <entry>
