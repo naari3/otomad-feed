@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-19T18:04:37.798Z</updated>
+    <updated>2024-02-19T19:04:14.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[100の質問]]></title>
+        <id>https://note.com/ebideath/n/n1a45b00d9c4e</id>
+        <link href="https://note.com/ebideath/n/n1a45b00d9c4e"/>
+        <updated>2024-02-19T18:54:58.000Z</updated>
+        <summary type="html"><![CDATA[みんなに100の質問(1)www.100q.net 
+Q.1 あなたのハンドルネームを教えてください。
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/19 カツ丼 meets マグロ丼]]></title>
         <id>https://note.com/banfuture9/n/n20cf8ab7724a</id>
