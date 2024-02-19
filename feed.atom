@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-19T17:04:01.756Z</updated>
+    <updated>2024-02-19T18:04:37.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/02/19 カツ丼 meets マグロ丼]]></title>
+        <id>https://note.com/banfuture9/n/n20cf8ab7724a</id>
+        <link href="https://note.com/banfuture9/n/n20cf8ab7724a"/>
+        <updated>2024-02-19T17:47:50.000Z</updated>
+        <summary type="html"><![CDATA[自分はいま準春休み的な状態にあり、諸々の〆切に向けて限界まで作業して寝る生活にシフトしたところ生活リズムが崩壊し始めている。昨日の日記も朝6時に更新しているし、その後の睡眠から復活したのは17時だった。完全に寝すぎている。というか目は覚めてるのに横になりながらアソビ大全のスライドパズルと麻雀ソリティアをやっている時間が本当に必要の無い時間だった。アソビ大全に支配された生活。関係無いけどラストカードって運ゲーすぎませんか？ヨットよりもよっぽどギャンブル性が高いと思う。
+  
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[240219_個人10名様ご入店]]></title>
         <id>https://note.com/kokeshi_short/n/na928fceb8881</id>
