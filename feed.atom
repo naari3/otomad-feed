@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-21T19:03:51.821Z</updated>
+    <updated>2024-02-21T20:04:19.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/02/21 すべてがメモになる]]></title>
+        <id>https://note.com/banfuture9/n/nc4aa28ce8348</id>
+        <link href="https://note.com/banfuture9/n/nc4aa28ce8348"/>
+        <updated>2024-02-21T19:13:58.000Z</updated>
+        <summary type="html"><![CDATA[今日も高速合作の作業がメイン。音MADの作業に集中していると他の対象に向ける機微が全然なくなってしまい、日記がすごく書き辛くなることが昨日今日でわかってきた。マルチタスクができない！したがってこの日記はしばらくの間、その日嬉しかったことの短いメモが羅列されていく感じになりそう。毎日更新自体は続けたいのでね……。
+  
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/20 作業300%日記10%]]></title>
         <id>https://note.com/banfuture9/n/ndb2ce5b994d4</id>
