@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-22T14:04:11.617Z</updated>
+    <updated>2024-02-22T15:04:06.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#99 2月3週 Genesis]]></title>
+        <id>hatenablog://entry/6801883189085175572</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2024/02/22/235556"/>
+        <updated>2024-02-22T14:55:56.000Z</updated>
+        <summary type="html"><![CDATA[スマブラの海外大会を観た。
+決勝だけ寝てしまった。有り得なすぎる。しかも画面の前で寝落ちとかじゃなく、画面を閉じて布団に入って寝た。寝ようと思って寝た。
+海外大会の一番熱いところって時差の関係で月曜の深夜早朝から始まって昼過ぎくらいになることが多いんだけど、それをリアタイ出来るのって今回が人生最後だった可能性がある。決勝で寝てしまった。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/21 すべてがメモになる]]></title>
         <id>https://note.com/banfuture9/n/nc4aa28ce8348</id>
