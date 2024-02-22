@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-22T06:04:46.630Z</updated>
+    <updated>2024-02-22T07:04:21.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17251,28 +17251,6 @@ dailyportalz.jp
 @euro_iroiro 続きをみる]]></summary>
         <author>
             <name>ユーロ/犬の鳴き真似bot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAID構成済みNEC Express 5800/T110g-SにLinuxを導入しようとして失敗した時の対処備忘録]]></title>
-        <id>https://ytpmv.info/?p=1688</id>
-        <link href="https://ytpmv.info/1688/"/>
-        <updated>2023-02-22T18:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Linux入れるくらいチョチョイのちょいでしょ～とか思ってたらガッツリ嵌ったので備忘録として残しておきます。画像もないし行き当たりばったりで対応してたので参考にならないかもしれません。 概要 問題：RAID構成済みのNE […]
-The post RAID構成済みNEC Express 5800/T110g-SにLinuxを導入しようとして失敗した時の対処備忘録 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAID構成済みNEC Express 5800/T110g-SにLinuxを導入しようとして失敗した時の対処備忘録]]></title>
-        <id>https://ytpmv.info/?p=1688</id>
-        <link href="https://ytpmv.info/?p=1688"/>
-        <updated>2023-02-22T18:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Linux入れるくらいチョチョイのちょいでしょ～とか思ってたらガッツリ嵌ったので備忘録として残しておきます。画像もないし行き当たりばったりで対応してたので参考にならないかもしれません。 概要 問題：RAID構成済みのNE […]
-The post RAID構成済みNEC Express 5800/T110g-SにLinuxを導入しようとして失敗した時の対処備忘録 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
     <entry>
