@@ -4873,21 +4873,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/4207112889965838459",
-          "author": null,
-          "description": "AE Juiceを買った。安くなってたので。\nまだあんまり触れてない。いっぱい使って元を取りたい。\n\n.— nkaoobt (@nkaoobt) 2023年2月13日\n  \nアンケートに参加してくれた皆さんありがとうございました！\n \nフェブラリーステークス、また勝った。2週連続。\n人気馬3頭の3連複だったけど点数を絞ってたお陰で1000円が7890円になった。\n週1000円縛りの中での6890円勝ち、デカい。\n10000円分買えば10倍儲かるのでは？\n \nバレンタイン、特に何も無かった。\n学校に行けば誰かしらからチョコを貰えた高校時代と違って、2/14に学校がない大学生がチョコを貰うの不可能すぎる。でも3年目なので流石に慣れました。",
-          "link": "https://nkaoobt.hatenablog.com/entry/2023/02/23/220253",
-          "publishedOn": "2023-02-23T13:02:53.000Z",
-          "wordCount": 433,
-          "title": "週記#47 2月3週",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
@@ -5991,6 +5976,16 @@
       "feedUrl": "https://note.com/banfuture9/rss",
       "siteUrl": "https://note.com/banfuture9",
       "articles": [
+        {
+          "id": "https://note.com/banfuture9/n/nad6a92e835f9",
+          "author": null,
+          "description": "BOSSのウマ娘コラボ缶が欲しくてコーヒー飲めないのに6缶パックをすでに2個買っている。そして飲んで、予想通り体調が悪くなっている。バカか？しかし発見があったのは、レインボーマウンテンブレンドはまだイケるが贅沢微糖が本当に無理ということです。飲んだ瞬間から手がピリピリと痺れるのでかなり飲んではいけないのだと思う。苦しみながら2つの成分表を睨みつけて比較してみると、人口甘味料が入っているか否かの違いがあるな。健康的な意味で添加物を気にするようなヤワなタマじゃねえよと思いながら生きてきたが、体質として毒性が強い成分である可能性のものは避けた方が良いか。あと、単純に飲みすぎなだけかもしれん。1日に3缶飲んでる。足るを知れ。\n  \n続きをみる",
+          "link": "https://note.com/banfuture9/n/nad6a92e835f9",
+          "publishedOn": "2024-02-23T01:20:52.000Z",
+          "wordCount": 2485,
+          "title": "24/02/22 死因：贅沢微糖",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e0cfeede1dc3bc11481fa02d787589b4bdb96df7.png"
+        },
         {
           "id": "https://note.com/banfuture9/n/nc4aa28ce8348",
           "author": null,
