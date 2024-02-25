@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-25T07:05:03.304Z</updated>
+    <updated>2024-02-25T08:04:11.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ファイル検索ソフト「Everything」便利だぞ]]></title>
+        <id>https://ytpmv.info/?p=1965</id>
+        <link href="https://ytpmv.info/1965/"/>
+        <updated>2024-02-25T08:02:04.000Z</updated>
+        <summary type="html"><![CDATA[皆さんご機嫌よう。まいまいです。 今回はPCを使う上でちょこっと便利になるソフトの紹介です。 今回紹介するソフトは「Everything」ファイル検索ソフトです。 どんなソフトか 普段動画制作をしている際、必要な動画・音 […]
+The post ファイル検索ソフト「Everything」便利だぞ first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/24 やってると終わる（実感）]]></title>
         <id>https://note.com/banfuture9/n/na2265fb37af4</id>
