@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-26T11:03:59.583Z</updated>
+    <updated>2024-02-26T12:05:31.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[REAPERの空アイテムにテキストを表示]]></title>
+        <id>https://ytpmv.info/?p=1970</id>
+        <link href="https://ytpmv.info/tips-void-item/"/>
+        <updated>2024-02-26T11:40:38.000Z</updated>
+        <summary type="html"><![CDATA[みなさんごきげんよう。ちょっとしたTips紹介です。 REAPERの「空アイテム」挿入機能を使うと、こんな感じにタイムラインにメモを残すことができます。 メニューの挿入->空のアイテムを挿入で追加できます。 表示モ […]
+The post REAPERの空アイテムにテキストを表示 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/25 とりあえず言ってみた後の世界を生きる]]></title>
         <id>https://note.com/banfuture9/n/na649714dcd74</id>
