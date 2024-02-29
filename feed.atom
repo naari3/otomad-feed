@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-02-29T16:04:11.215Z</updated>
+    <updated>2024-02-29T17:04:07.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#100 2月4週 記念号なのに]]></title>
+        <id>hatenablog://entry/6801883189085363574</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2024/03/01/014451"/>
+        <updated>2024-02-29T16:44:51.000Z</updated>
+        <summary type="html"><![CDATA[記念すべき100回目なんですけど、特に書くことがありません。ダラダラしてたら1週間が過ぎていた気がします。
+正確には書きたいことはあるんですけど、これって2/19~2/25までの出来事を書くことになっちゃってるので、書けません。
+次回はめっちゃ書くことあります。
+ 
+これを書いてるのはもう3月なんですけど、一応2/25時点で僕が思ってたことを書いておきたいと思います。
+ポケモンデー楽しみだなあ、BWリメイク来るのかなあ 何かの間違いでポケとる来ないかなあ
+おっ、デスノ合作の告知が投稿されている 楽しみだなあ 皆も見てね〜]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/02/28 アソビ大全のゴルフと人生]]></title>
         <id>https://note.com/banfuture9/n/n41ee4416e53c</id>
