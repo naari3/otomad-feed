@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-01T21:04:56.179Z</updated>
+    <updated>2024-03-01T22:04:07.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/01 おれの解釈/あなたの解釈/だれかの解釈]]></title>
+        <id>https://note.com/banfuture9/n/nd344ea63ea42</id>
+        <link href="https://note.com/banfuture9/n/nd344ea63ea42"/>
+        <updated>2024-03-01T21:53:12.000Z</updated>
+        <summary type="html"><![CDATA[最近朝食に卵かけご飯のバリエーションしか食べてない気がする。バリエーションといっても納豆を足すかめんつゆを足すかの主に2択しか選択肢は無いのだけど。今日はツナ缶を足してみたら美味しかったので今後は3択になった。おれは卵かけご飯に何を入れても良いと思っている。でもキッチンで適当に思い付きそうなちょい足しを粗方やってみて上の2択に落ち着いたので、意外とオールラウンダーではなかったことがわかった。場当たり的な探求。「これ炒めたら美味いんじゃないか？」と思って炒飯を再発明した時がピークだった。
+お役立ち情報：卵かけご飯にソースを掛けてもあまり美味しくない。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月報2]]></title>
         <id>https://note.com/wake_otomad/n/ncf898841e19f</id>
