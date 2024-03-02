@@ -5796,6 +5796,16 @@
       "siteUrl": "https://note.com/banfuture9",
       "articles": [
         {
+          "id": "https://note.com/banfuture9/n/nb03f248eed35",
+          "author": null,
+          "description": "最近よく聞いてる。\n続きをみる",
+          "link": "https://note.com/banfuture9/n/nb03f248eed35",
+          "publishedOn": "2024-03-02T16:13:44.000Z",
+          "wordCount": 2570,
+          "title": "24/03/02 寝て起きてラジオ始めて",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/40bd2cc911f31af7339386f60c6fbe51b9ecb348.png"
+        },
+        {
           "id": "https://note.com/banfuture9/n/nd344ea63ea42",
           "author": null,
           "description": "最近朝食に卵かけご飯のバリエーションしか食べてない気がする。バリエーションといっても納豆を足すかめんつゆを足すかの主に2択しか選択肢は無いのだけど。今日はツナ缶を足してみたら美味しかったので今後は3択になった。おれは卵かけご飯に何を入れても良いと思っている。でもキッチンで適当に思い付きそうなちょい足しを粗方やってみて上の2択に落ち着いたので、意外とオールラウンダーではなかったことがわかった。場当たり的な探求。「これ炒めたら美味いんじゃないか？」と思って炒飯を再発明した時がピークだった。\nお役立ち情報：卵かけご飯にソースを掛けてもあまり美味しくない。\n続きをみる",
@@ -7892,16 +7902,6 @@
           "wordCount": 1173,
           "title": "富山県人は今緩やかに（？）流行って...",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/27344339/profile_64ac54451aef1283b8d1f77361f9cb33.jpg?fit=bounds&format=jpeg&quality=85&width=330"
-        },
-        {
-          "id": "https://note.com/nendo31/n/n8822ac990868",
-          "author": null,
-          "description": "2月中は富山県人のモチベがみんな死んでる 続きをみる",
-          "link": "https://note.com/nendo31/n/n8822ac990868",
-          "publishedOn": "2023-03-04T04:14:46.000Z",
-          "wordCount": 1171,
-          "title": "2月中は富山県人のモチベがみんな死んでる",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/27344339/profile_64ac54451aef1283b8d1f77361f9cb33.jpg?fit=bounds&format=jpeg&quality=85&width=330"
         }
       ]
     },
@@ -9269,6 +9269,16 @@
       "feedUrl": "https://dumpmc.blog.fc2.com/?xml",
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-121.html",
+          "author": "picm",
+          "description": "時の話",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-121.html",
+          "publishedOn": "2024-03-02T16:14:37.000Z",
+          "wordCount": 108,
+          "title": "infoQをBANされた",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
         {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-120.html",
           "author": "picm",

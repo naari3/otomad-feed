@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-02T16:04:39.436Z</updated>
+    <updated>2024-03-02T17:04:17.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[infoQをBANされた]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-121.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-121.html"/>
+        <updated>2024-03-02T16:14:37.000Z</updated>
+        <summary type="html"><![CDATA[時の話]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24/03/02 寝て起きてラジオ始めて]]></title>
+        <id>https://note.com/banfuture9/n/nb03f248eed35</id>
+        <link href="https://note.com/banfuture9/n/nb03f248eed35"/>
+        <updated>2024-03-02T16:13:44.000Z</updated>
+        <summary type="html"><![CDATA[最近よく聞いてる。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/01 おれの解釈/あなたの解釈/だれかの解釈]]></title>
         <id>https://note.com/banfuture9/n/nd344ea63ea42</id>
@@ -16922,16 +16943,6 @@ namaemaker.net
         <summary type="html"><![CDATA[3月になってしまった。本当に少しずつ温かくなっているのだけど、まだ夜は寒い。調子に乗ってエアコンを消したのだけど、寒くて布団から出られなくなってしまった。この日は家で延びて夜に運転をしたと思う。ただでさえ運転が怖いのに夜にやるなんて逆の鬼に金棒みたいな状態になっている、と教官の人から指摘されることが多い。でも夜の方が圧倒的に空いていて予約もしやすいのでそうしてしまう。]]></summary>
         <author>
             <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2月中は富山県人のモチベがみんな死んでる]]></title>
-        <id>https://note.com/nendo31/n/n8822ac990868</id>
-        <link href="https://note.com/nendo31/n/n8822ac990868"/>
-        <updated>2023-03-04T04:14:46.000Z</updated>
-        <summary type="html"><![CDATA[2月中は富山県人のモチベがみんな死んでる 続きをみる]]></summary>
-        <author>
-            <name>粘土31号</name>
         </author>
     </entry>
     <entry>
