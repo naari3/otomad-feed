@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-03T18:04:20.803Z</updated>
+    <updated>2024-03-03T19:03:51.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[23/03/03 おぼろげにマリオパーティ5]]></title>
+        <id>https://note.com/banfuture9/n/n3d6029cce7d2</id>
+        <link href="https://note.com/banfuture9/n/n3d6029cce7d2"/>
+        <updated>2024-03-03T18:06:10.000Z</updated>
+        <summary type="html"><![CDATA[定例の某4人会。高速合作の自パート（音声が遅れており各位には申し訳ない）についての構想を熱く語ったところ、「それ何かに書いておいた方が良いですよ、公開すると人の感想に上書きされるので」と言われ、確かにそうだなと思ったので非公開で制作日誌を書くことにした。音MADの制作後記は見たことあるけど制作日誌はあまり見たことが無い。のちのち公開するタイミングがあるかはわからないが、とりあえず思い付き程度でもやりたいことをメモとして積み重ねておくと制作にも良い影響がありそうである。おれの場合すごく良いアイデアが出ても問答無用で翌日には消えたりするからな。グンペイのようにはいかない。いずれにせよ何らかの形でコメンタリーのような文章（事実としての作者の意図の陳列）はやりたいので、そのためにも色々と書き残しておくようにしたい。Vivaldiのメモ機能が便利だと最近気付いたのでそこに書いていくか。
+あまり寝ずに人に家に出かけたので途中で何時間か気絶していた。その前にマリオパーティやってた時、気絶寸前だったから気付かなかったけど運が悪すぎなかったか？ありえないくらい何もできなかった。おぼろげな意識の中でおれのワリオが負けていく情景、人生で体感したことの無いものだった。ちゃんと寝た方が良いね……。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[風邪３]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1291.html</id>
