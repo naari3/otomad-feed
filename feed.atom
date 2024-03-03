@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-03T09:04:46.933Z</updated>
+    <updated>2024-03-03T10:04:30.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[風邪３]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1291.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1291.html"/>
+        <updated>2024-03-03T09:51:08.000Z</updated>
+        <summary type="html"><![CDATA[土日ずっと風邪ひいて寝てる 荒波です貴重な土日が・・・・・・今週も疲労と眠気を朝ミラVでゴリ押しできないか試していたんだけど、さすがに無理が祟ったらしいいままで風邪なんて滅多にひかなかったのに先々週に続いてこれだから明らかに体弱ってますねもってくれおらの体てなわけで何もしていません、ええまんきらちょっと読んだくらいええ・・・みたいなのが連載になってたりいつも読んでる漫画がいつもどおり面白くて安心した]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[infoQをBANされた]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-121.html</id>
