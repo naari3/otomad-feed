@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-04T08:17:04.443Z</updated>
+    <updated>2024-03-04T09:41:31.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[歯医者(随時更新予定)]]></title>
+        <id>https://note.com/aun6june/n/n0cf678c086b8</id>
+        <link href="https://note.com/aun6june/n/n0cf678c086b8"/>
+        <updated>2024-03-04T08:25:51.000Z</updated>
+        <summary type="html"><![CDATA[怖すぎるって。
+あんなのが商売として成り立ってるのが納得いかない。
+本当に怖い。
+先日上の歯が全部虫歯だった報告ツイートが1000ふぁぼ越えを記録したせいで、味を占めたみたいになるのが嫌だから歯医者に関するツイートが出来なくなった。
+だからここで発散させてください。
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23/03/03 おぼろげにマリオパーティ5]]></title>
         <id>https://note.com/banfuture9/n/n3d6029cce7d2</id>
