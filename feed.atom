@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-10T12:04:59.051Z</updated>
+    <updated>2024-03-10T13:04:38.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[240310_昨晩の夢に出てきたものをなんと発表]]></title>
+        <id>https://note.com/kokeshi_short/n/na8e1e288b557</id>
+        <link href="https://note.com/kokeshi_short/n/na8e1e288b557"/>
+        <updated>2024-03-10T12:20:57.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大学卒業して3年経ったので振り返る]]></title>
         <id>https://note.com/ebideath/n/n0c0b607397c2</id>
