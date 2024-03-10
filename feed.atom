@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-10T04:04:30.775Z</updated>
+    <updated>2024-03-10T05:04:09.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大学卒業して3年経ったので振り返る]]></title>
+        <id>https://note.com/ebideath/n/n0c0b607397c2</id>
+        <link href="https://note.com/ebideath/n/n0c0b607397c2"/>
+        <updated>2024-03-10T04:15:11.000Z</updated>
+        <summary type="html"><![CDATA[年表
+2021年 卒業、就職
+2022年 鬱で休職、年末に退職
+2023年 無職、障害者手帳取得
+2024年 無職、障害年金申請中
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/09 ラジオ番長になった日]]></title>
         <id>https://note.com/banfuture9/n/n18d52ef48e44</id>
