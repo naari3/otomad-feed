@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-10T01:27:31.080Z</updated>
+    <updated>2024-03-10T02:12:31.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/09 ラジオ番長になった日]]></title>
+        <id>https://note.com/banfuture9/n/n18d52ef48e44</id>
+        <link href="https://note.com/banfuture9/n/n18d52ef48e44"/>
+        <updated>2024-03-10T02:04:28.000Z</updated>
+        <summary type="html"><![CDATA[今日は短めに！
+自分で勝手に企画したラジオが今日から始まりました。ガチで30分しか喋れないのでめちゃくちゃ早口になってしまった。でも雑談っぽくない密度のラジオをやりたかったので上手くいっているともいえる。コメントも事前に予想していた量の数倍は頂けたのでありがたい限りです。次回以降も前半戦が軽い質問、後半戦が重い質問という流れで進めていこうと思っています。放送1回分使い切るくらいガッチリした質問が何通かあるので当面は内容に困ることは無さそう。でも何かコーナーも作りたいですね。音MADラジオとの差別化のためにも画面にスライドは映さないで進めたいので、音だけで成立する内容にしたいな。アーメンブレイクを語る回とかやりたい。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/09 シンプルに寝すぎてる]]></title>
         <id>https://note.com/banfuture9/n/n769f25932800</id>
