@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-11T22:04:00.869Z</updated>
+    <updated>2024-03-11T23:04:46.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/11 音量に殴られて気絶]]></title>
+        <id>https://note.com/banfuture9/n/n4cdb524d81ef</id>
+        <link href="https://note.com/banfuture9/n/n4cdb524d81ef"/>
+        <updated>2024-03-11T22:22:24.000Z</updated>
+        <summary type="html"><![CDATA[すみません、音量で疲れすぎたので何も思い出せなくなりました。
+起きてる時はずっと高速合作のまとめをやっていました。作業を進めていたら耳鳴りがして右耳が聞こえづらくなったので本当にビビりました。風呂に入って寝たら回復したが、怖い。tofubeatsの難聴日記をAmazonで買いました。これからは無理だなと思ったら6時間くらい音を聞くのをやめるようにします。あとはちゃんとした食事をして寝る。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金、暴力、]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1292.html</id>
