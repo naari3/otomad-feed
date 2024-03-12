@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-12T22:04:10.563Z</updated>
+    <updated>2024-03-12T23:04:43.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/12 耳休暇]]></title>
+        <id>https://note.com/banfuture9/n/n96a3210078e5</id>
+        <link href="https://note.com/banfuture9/n/n96a3210078e5"/>
+        <updated>2024-03-12T22:03:01.000Z</updated>
+        <summary type="html"><![CDATA[昨日の日記の通り耳が限界っぽくなってしまい、なんかめちゃくちゃ怖かったので音系の作業を一旦ストップした。ヘッドホンを付けるのもあんまり良くないんじゃないかみたいに思ったので、久し振りにスピーカーでPCを触る1日だった。昔に東芝のデスクトップを使っていた頃はスピーカーで音MAD作ってて、それを人に言うと驚かれる意味が分かってなかったのだが、いま思うとどうやって調整してたのか謎だな。皆さんの反応は正しかった。PCの内蔵スピーカーだとローが出てもしょうがないので、自分がよくやる低音域を落とすようなミックスはそこが由来なのかもしれないと思った。今日からは小さめの音量で作業します……。
+寝すぎてて食事がまともに摂れてない。普段食べすぎだからちょうどいいのか？自炊もやりたいけど面倒さが勝つなあ。一人暮らしだったらタイミング気にせずできるけど、実家だと母とのバッティングを避けないといけないので気を遣う。週に1回くらいはやるということにしてみようかな。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/11 音量に殴られて気絶]]></title>
         <id>https://note.com/banfuture9/n/n4cdb524d81ef</id>
