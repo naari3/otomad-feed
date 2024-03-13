@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-13T21:04:02.996Z</updated>
+    <updated>2024-03-13T22:04:16.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/13 棘のように眠り泥のように起きる]]></title>
+        <id>https://note.com/banfuture9/n/nc10aaf63f181</id>
+        <link href="https://note.com/banfuture9/n/nc10aaf63f181"/>
+        <updated>2024-03-13T21:30:16.000Z</updated>
+        <summary type="html"><![CDATA[すみません、眠気が限界なのでガチ短めに行きます。
+まとめが粗方終わった。ここからも調整していくだろうが一つ山を越えたと思う。スピーカーで作業したのでヘッドホンとは違う聞こえ方がわかり、より詰められたような気がする。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20240314]]></title>
         <id>hatenablog://entry/6801883189090571271</id>
