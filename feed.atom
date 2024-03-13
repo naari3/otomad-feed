@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-13T08:04:31.132Z</updated>
+    <updated>2024-03-13T09:04:42.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週記#102 3月1週 スーパーマリオ64 16枚RTA]]></title>
+        <id>hatenablog://entry/6801883189090461551</id>
+        <link href="https://nkaoobt.hatenablog.com/entry/2024/03/13/175734"/>
+        <updated>2024-03-13T08:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Twitterを見てもらうと分かるように、マリオ64RTAにどハマりしている。
+ニコ生でやった初ランは37分37秒でした。ミップで11分掛かった。そのせいで2回目走った時にはミップで8分巻きました。16枚RTAで8分も巻けちゃダメだろ。
+その前に1回ゲームオーバーになったのもあったけど。
+今は26分42秒まで縮められたので、次は25分切りを目標にしたい。
+25分切ったら新ボムとか3段籠とかサイホーンとかちょっと練習してみようかな、って思ってます。
+2回目以降、今までの記録と比べながら走れるのがとても楽しい。]]></summary>
+        <author>
+            <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/12 耳休暇]]></title>
         <id>https://note.com/banfuture9/n/n96a3210078e5</id>
