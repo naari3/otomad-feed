@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-14T13:04:06.871Z</updated>
+    <updated>2024-03-14T14:04:24.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[団長おめでとう]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1293.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1293.html"/>
+        <updated>2024-03-14T13:32:23.000Z</updated>
+        <summary type="html"><![CDATA[念願のジン団長をピックアップできると聞いたので早速ひいてきたとうとうおれのテイワットにジンさんが；；；；；；；；；；；；ずっと来てほしかったんすよ～～恒常キャラなのに一切来る気配なくてさあかわいいね～かっこいいね～綺麗だねえ流石にモーションは初期キャラすぎるけど、せっかくだしメインアタッカーやらせてみたいまあそんなのはまだまだ先のはなしですねすでに使いやすくてフリーナにピッタシなヒーラーでさいこー]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/13 棘のように眠り泥のように起きる]]></title>
         <id>https://note.com/banfuture9/n/nc10aaf63f181</id>
