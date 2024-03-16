@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-16T08:04:57.871Z</updated>
+    <updated>2024-03-16T09:03:57.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海外勢が日本語勉強して日本ネットに住むって話]]></title>
+        <id>https://note.com/fourangle/n/n917905bd4254</id>
+        <link href="https://note.com/fourangle/n/n917905bd4254"/>
+        <updated>2024-03-16T08:41:12.000Z</updated>
+        <summary type="html"><![CDATA[↑さのさんの場合
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/15 全殺全救宣言]]></title>
         <id>https://note.com/banfuture9/n/nbbd8f8a08fcb</id>
