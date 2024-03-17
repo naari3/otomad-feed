@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-17T03:04:13.939Z</updated>
+    <updated>2024-03-17T04:04:15.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/16 20、77、7777]]></title>
+        <id>https://note.com/banfuture9/n/nb26f4381462f</id>
+        <link href="https://note.com/banfuture9/n/nb26f4381462f"/>
+        <updated>2024-03-17T03:36:19.000Z</updated>
+        <summary type="html"><![CDATA[翌日午後に更新される日記。続ける意志はあります。
+昨日の色々な人の通話に入ったのが深夜2時くらいで、これは夜更かしではなく早起きだと捉えて通話が終わった後も起き続けて作業などをしていた。22時くらいに活動限界的な睡魔が来て1日が終了。20時間起きると流石に色々なところが謎に痛くなってきたりするので起きれば良いという訳でもないなと思った。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドラえもんの「やらないか」の音MAD]]></title>
         <id>https://anond.hatelabo.jp/20240317103335</id>
