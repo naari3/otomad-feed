@@ -1092,21 +1092,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/comariai/20230324/20230324023412.jpg"
-        },
-        {
-          "id": "hatenablog://entry/4207112889973149889",
-          "author": null,
-          "description": "移行にあたっての記録です。\nAviutlでやっていた編集、After effects（以下AE）に移行したことで更に発展できたこと、特に役立った拡張などをここに残しておきます（記憶が消えるので）\n移行にあたって\n2018年の3月から投稿をしていたのでAviutlとの付き合いは今年で5年目になります。\nテキストを分解して動かす編集が主だったので大量のオブジェクトを管理することが常で、これはちゃんと使用ソフトを考えたほうが良いぞと思い至った次第です。\nあとその作風なら絶対AEでやったほうが良いと色んな人に言われたので引き込まれた形でもあります。\n現在は部分的にAviutlで補う形で、ほとんどAEで編集しています。\n10割AEというわけにはいきませんでした。というか便利な部分はちゃんと使ったほうが良い。グリッドに添って左右反転とかはAviutlのほうがいいです。\n「自分の作風なら移行したほうが効率いいのでは…？」と悩んでる方の一助になれば幸いです。\n導入\ntaket-a.hateblo.jp\nこれを見てください。\n \n-完-\n \nいやほんまに書こうと思ってたこと大体書いてありました。さすがです。\n \n■ショートカット\n多分調べたらいい感じにまとめてるサイトあると思うので調べるのは君に任せた\nでもいっぱいありすぎてどれが重要やねんになると思うので抜粋します。\n \n・よく使うショートカット\nU　…キーフレームが打たれているパラメーターだけ表示\nP　…【位置】を開く。Placeでおぼえた。\nS　…【スケール】を開く。Scaleでおぼえた。\nT　…【不透明度】を開く。Toumeidoでおぼえた。多分違う。\nR　…【回転】を開く。Rotationでおぼえた。合ってるか分からん。\nA　…【アンカーポイント】を開く。Anchor。そのまんま。\n \n・覚えといた方がいいショートカット\nCtrl …",
-          "link": "https://crabgot.hatenablog.com/entry/2023/03/20/192050",
-          "publishedOn": "2023-03-20T10:20:50.000Z",
-          "wordCount": 403,
-          "title": "【雑記】AviutlからAfter effectsに移行したこと、オススメのスクリプトとか",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/comariai/20230320/20230320111310.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/comariai/20230320/20230320111310.png"
         }
       ]
     },
