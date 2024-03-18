@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-18T12:05:34.493Z</updated>
+    <updated>2024-03-18T13:04:08.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なまらなまらなまらめんこ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1294.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1294.html"/>
+        <updated>2024-03-18T12:29:37.000Z</updated>
+        <summary type="html"><![CDATA[ディオナめんこい今やってるアトリエシリーズみたいなイベント結構楽しい主のポーション美味の味いまだに2アカではらがみやってるんですけどこのイベント垢ごとにお題がかわるんですねたまげたなあっていうか同じお題でも要求されるポーションの効果ちょっと違う気もするし一筋縄ではいかない一筋縄ではいかないといえば螺旋が更新されてたんで行ってきたけどクソおもんなかった前回よりもやりごたえあっていいですねでもファデュ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/17 食べる寝る痺れる]]></title>
         <id>https://note.com/banfuture9/n/n45e2a10c9734</id>
