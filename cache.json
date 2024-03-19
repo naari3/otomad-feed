@@ -9034,6 +9034,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-122.html",
+          "author": "picm",
+          "description": "自作PCにケースファンを追加したときの話",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-122.html",
+          "publishedOn": "2024-03-19T17:03:41.000Z",
+          "wordCount": 142,
+          "title": "ケースファン",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-121.html",
           "author": "picm",
           "description": "時の話",

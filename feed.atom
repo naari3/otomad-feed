@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-19T16:04:22.999Z</updated>
+    <updated>2024-03-19T17:04:50.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ケースファン]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-122.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-122.html"/>
+        <updated>2024-03-19T17:03:41.000Z</updated>
+        <summary type="html"><![CDATA[自作PCにケースファンを追加したときの話]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/18 行くと意外とおもしろい]]></title>
         <id>https://note.com/banfuture9/n/na0d60f22d74f</id>
