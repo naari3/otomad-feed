@@ -8567,6 +8567,16 @@
       "siteUrl": "https://note.com/tanbatu",
       "articles": [
         {
+          "id": "https://note.com/tanbatu/n/n1ee2094c91f0",
+          "author": null,
+          "description": "※ヒカキン氏を批判する意図はありません。\n\nちょっと前、こんなツイートをしたら結構な反響があったので、今回はそれについての記事を書こうと思います。\n\nヒカキンのプレミア公開の動画尺を特定できる程度の能力 pic.twitter.com/BGjG0BlvTT\n— 丹波津 (@tanbatsu) March 13, 2024\n\n続きをみる",
+          "link": "https://note.com/tanbatu/n/n1ee2094c91f0",
+          "publishedOn": "2024-03-20T14:48:37.000Z",
+          "wordCount": 2486,
+          "title": "プレミア公開中に動画尺を取得する",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/134554476/rectangle_large_type_2_a73312d48eee70252b12b5e2ec4f2e31.png?width=800"
+        },
+        {
           "id": "https://note.com/tanbatu/n/nc3eecd828bcf",
           "author": null,
           "description": "こんにちは、丹波津です。\nつい最近改善されたのですが、ニコニコには30分以上の動画を投稿すると強制的に360pに変換されるという仕様があり、これは長らく利用者を悩ませる物でした。\n続きをみる",
