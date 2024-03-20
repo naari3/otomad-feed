@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-20T22:03:59.403Z</updated>
+    <updated>2024-03-20T23:04:53.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/20 おれの犯した罪と罰]]></title>
+        <id>https://note.com/banfuture9/n/nbeaf5bafb271</id>
+        <link href="https://note.com/banfuture9/n/nbeaf5bafb271"/>
+        <updated>2024-03-20T22:46:10.000Z</updated>
+        <summary type="html"><![CDATA[新潟国際アニメーション映画祭りに昨日今日と行った。ホテルには泊まらず、オールナイト上映で夜を明かした。時代劇アニメ特集で、最初に會川昇×虚淵玄の90分トークショーがあった後、『ストレンヂア 無皇刃譚』『機巧奇傳ヒヲウ戦記（21話）』『劇場版 戦国奇譚妖刀伝』『少年猿飛佐助』を夜通し見る催し。シブすぎるテーマに思うが80人くらい入る劇場が満員だった。みんな時代劇好きなのかな？おれは好きだけど……。
+来る前から予想はしていたが、眠気が限界すぎてストレンヂア以降の記憶が断片的！ストレンヂアは見るの2回目だったけどやっぱり面白かった。あの映画を映画館の音響と画面の大きさで見ることができたのは嬉しい。チャンバラアクションを逃げずに大真面目にやるのヤバいよな〜。妖刀伝と少年猿飛佐助は意識が戻るたびに目に入るカットが面白そうだったのでちゃんと見直したいですね。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プレミア公開中に動画尺を取得する]]></title>
         <id>https://note.com/tanbatu/n/n1ee2094c91f0</id>
