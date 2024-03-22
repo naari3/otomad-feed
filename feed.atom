@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-22T05:04:42.217Z</updated>
+    <updated>2024-03-22T06:04:55.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/21 いつでもやめられる日記]]></title>
+        <id>https://note.com/banfuture9/n/n6fcbda4704c5</id>
+        <link href="https://note.com/banfuture9/n/n6fcbda4704c5"/>
+        <updated>2024-03-22T05:54:31.000Z</updated>
+        <summary type="html"><![CDATA[日記の存在をガチで忘れてた。1ヶ月以上続けていてもこういうことが起きるのか。疲れが出たのかなあ。この感じだと全然いつでも日記やめれるよな。
+実際、月曜から3日間は卒業式やら新潟やらで動き続けており、普段の引きこもり生活からは考えられない程出来事があったので体力的にはもちろん精神的にも疲労があったのだろう。起きてはいるが疲れており何かを為した記憶が無い。まだ足が痛いし回復までは落ち着いておくか……。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[noteあんま使えてませんし一応あの]]></title>
         <id>https://note.com/nendo31/n/ncfbccbf110a6</id>
