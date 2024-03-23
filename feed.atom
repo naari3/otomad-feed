@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-23T14:04:12.072Z</updated>
+    <updated>2024-03-23T15:04:44.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SORI:NAZOの制作協力をしました]]></title>
+        <id>https://note.com/anzato/n/n80f592d7f06c</id>
+        <link href="https://note.com/anzato/n/n80f592d7f06c"/>
+        <updated>2024-03-23T15:00:51.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+　この記事は四季さんによる謎解き企画SORI:NAZOのネタバレを多分に含みます。まだ解いていない人は是非解いてみてください。また、全問の解説を書いているわけではないので解説が見たい方は四季さんのブログからお願いします。
+続きをみる]]></summary>
+        <author>
+            <name>餡砂糖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年3月、および2014年8月24日、あるいは愛情の簒奪、もしくはスコープ越しの景色について]]></title>
         <id>hatenablog://entry/6801883189092947767</id>
