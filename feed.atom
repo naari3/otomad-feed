@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-24T16:04:10.253Z</updated>
+    <updated>2024-03-24T17:05:00.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -389,6 +389,30 @@ April 29, 2020
         <summary type="html"><![CDATA[noteあんま使えてませんし一応あの 続きをみる]]></summary>
         <author>
             <name>粘土31号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[衆議院 映像記録アーカイブ公開]]></title>
+        <id>hatenablog://entry/6801883189093378826</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20240321/p1"/>
+        <updated>2024-03-21T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[衆議院インターネット審議中継 映像記録アーカイブ 1991年（平成3年）～2009年（平成21年）
+2005年頃に衆議院のインターネット審議中継サービス「衆議院TV」がリニューアルされて以降見られなくなっていた2002年当時の映像が、再び公式で見られるようになりました。
+お知らせ
+
+２０２４年３月２１日より、ビデオライブラリでは公開されていない審議映像（第１２０回国会[１９９１年１月３０日]から第１７３回国会[２００９年１２月４日]）を視聴できる「映像記録アーカイブ」を公開いたしましたので、お知らせいたします。
+
+本ページの下部にあります「映像記録アーカイブ」にアクセスしご視聴ください。
+-衆議院インターネット審議中継 
+以下、本ページで取り扱っている話題に関連したものを列挙します。議事録他は衆議院公式へのリンクになります。
+2002-02-13 衆院予算委員会 / 議事録 … 佐々木議員の質問は04:51:14頃から。「ムネオハウス」の語の初出は05:13:00頃から。
+2002-02-20 衆院予算委員会 (参考人招致) / 議事録 … 冒頭に田中議員、01:14:00頃から鈴木議員
+2002-03-11 衆院予算委員会 (証人喚問) / 議事録 … 辻本議員の質問は02:11:00頃から
+2002-04-25 衆院予算委員会 (辻元清美氏 参考人招致) / 議事録
+2002-06-19 衆院本会議 (逮捕許諾請求) / 議事録 … 00:17:30頃から
+2002-06-21 衆院本会議 (議員辞職勧告決議) / 議事録 / 勧告 … 00:39:50頃から]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
