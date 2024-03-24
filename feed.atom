@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-24T12:05:24.285Z</updated>
+    <updated>2024-03-24T13:04:26.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[動画紹介企画「超・韓国音MAD特集」開催のお知らせ]]></title>
+        <id>https://note.com/fourangle/n/n102e28f9f9f2</id>
+        <link href="https://note.com/fourangle/n/n102e28f9f9f2"/>
+        <updated>2024-03-24T12:51:47.000Z</updated>
+        <summary type="html"><![CDATA[どうも、四角です。去年「韓国音MAD特集」の第2回が配信されて早速なんですが、その第3回、そして特別回でもある動画紹介企画「超・韓国音MAD特集」の開催をお知らせいたします。今回の企画は名前の通り、今年4月から開催となる「『超』音MAD晒しイベント2024」の期限中でありつつ、韓国版晒しイベントの第34回が開催となる4月20日(土)の夕方に行われる予定です。
+↓前回・前々回の配信アーカイブは下をご覧ください。↓
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真面目茂樹合作イワシパート制作後記]]></title>
         <id>https://note.com/dou_akagane_cu/n/ndaf0e7a22d75</id>
