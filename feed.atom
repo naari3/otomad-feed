@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-24T07:04:21.627Z</updated>
+    <updated>2024-03-24T08:04:32.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[真面目茂樹合作イワシパート制作後記]]></title>
+        <id>https://note.com/dou_akagane_cu/n/ndaf0e7a22d75</id>
+        <link href="https://note.com/dou_akagane_cu/n/ndaf0e7a22d75"/>
+        <updated>2024-03-24T07:18:50.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、あかがねです。
+このnoteは真面目茂樹合作のイワシパートの制作後記です。この記事は他のパートのネタバレも含むので、先に合作を見ることを推奨します。
+本当はまじまじから書くつもりでしたが、先にこっち話さないと書けなさそうなので…
+
+
+続きをみる]]></summary>
+        <author>
+            <name>梅晞あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024/03/24]]></title>
         <id>https://note.com/saltlemon/n/n3d47d77910a4</id>
