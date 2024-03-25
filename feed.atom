@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-25T08:06:09.761Z</updated>
+    <updated>2024-03-25T09:04:15.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTの手を借りつつ、超簡単なWindowsネイティブアプリをRustでつくった]]></title>
+        <id>hatenablog://entry/6801883189093517545</id>
+        <link href="https://naari.hatenablog.com/entry/2024/03/25/173902"/>
+        <updated>2024-03-25T08:39:02.000Z</updated>
+        <summary type="html"><![CDATA[最近、おそらくは常駐させているなんかのアプリの影響で、急にウィンドウのフォーカスを奪われることがある。例えば、普通にVSCodeで何かを書いてる時、急にフォーカスが飛ぶと普通にびっくりするし、何度も繰り返されるとイライラする。
+直接的な原因になりそうなアプリが思いつくわけでもなかったので、どうにかしてフォーカスを奪ってくるアプリを知る必要があると思った。
+こういうニッチなケースに関しては、サクッとコードを書くのが良いとされているので、そういうコンソールアプリを作ろう！と思い立った。
+WindowsのAPIをバリバリに叩くアプリだし、しかも今回の場合はフック先の関数とかも書かないといけなさそうなので気が重くなりそうなところだけど、今はChatGPTという対話型最高アプリが存在するので腰を上げることができた。
+ChatGPTは枯れつつあるプログラミングの知識についてはかなり良いものを持っており、今回のような例に関してはまさに持って来いの話題なのでは？と考え、今回はこいつにスタートダッシュを共にしてもらい、アプリを完成させた。
+github.com
+以下のような感じで、フォーカスがあたっているアプリが変更されたらそれにフックしてアプリの概要をプリントする、という簡単なもの。
+アプリの様子
+リポジトリ用のディレクトリが作られ、最終更新が発生したタイミングまで全部で35分くらいしか使っておらず、とても素晴らしかったので良かった点を記事として残しておく。
+前提として、自分は今回使われるスタックについてはプロレベルではないにせよすべて一度以上は使ったことがあり、かつプログラミングについての全般は慣れ親しんでいる。プログラミングができない初心者がChatGPTを使ってアプリを作り上げた、という記事ではないことに注意。
+全体像は 会話全文 を読んでもらえば良いが、良かった部分をいくつか抜き出…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/24 並行するとパンクする]]></title>
         <id>https://note.com/banfuture9/n/na9f713b6abc7</id>
