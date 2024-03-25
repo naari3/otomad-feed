@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-25T15:05:22.554Z</updated>
+    <updated>2024-03-25T16:04:31.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鈴木宗男関連裁判 東京高裁再審認めず / 鈴木氏側 特別抗告へ]]></title>
+        <id>hatenablog://entry/6801883189093607552</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20240325/News"/>
+        <updated>2024-03-25T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[鈴木宗男議員の再審認めず　受託収賄など、即時抗告棄却―東京高裁 (時事ドットコム)
+受託収賄やあっせん収賄などの罪で実刑が確定し、服役した鈴木宗男参院議員（７６）の再審請求について、東京高裁（三浦透裁判長）は２５日、請求を退けた東京地裁決定を支持し、弁護側の即時抗告を棄却した。
+
+鈴木議員は同日、東京都内で記者会見し、「私はやっていないし、真実が明らかになっていない。憤りの気持ちでいっぱい」と語り、最高裁に特別抗告する方針を明らかにした。
+
+三浦裁判長は、東京地検特捜部が作成したとする「尋問シナリオ」などの弁護側新証拠は確定判決に影響しないとした地裁決定について、「不合理な点はない」と判断した。
+
+確定判決によると、鈴木議員は北海道開発庁長官、官房副長官だった１９９７～９８年、林野庁への口利きに対する見返りなどとして、計１１００万円の賄賂を受け取るなどした。
+即時抗告を行ったのが19年3月25日だったので、実に丸5年かかりました。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポケモンスマイルの動画をやめようか悩んでいる]]></title>
         <id>https://note.com/calpisco/n/nc657435a7e27</id>
