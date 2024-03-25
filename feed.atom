@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-25T13:04:13.405Z</updated>
+    <updated>2024-03-25T14:04:09.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今更ねぷしす]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1295.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1295.html"/>
+        <updated>2024-03-25T13:51:40.000Z</updated>
+        <summary type="html"><![CDATA[いまさらすぎるけどネプシスやりはじめた  荒波ですしょうもないスピンオフじゃなくてれっきとしたナンバリングタイトルこれだけまだ手を出していなかったのでセールを機にやりはじめたが戦闘がテイルズみたいになってて、新しい事に挑戦しててえらいなぁと思いつつもテンポ・バランス・モーションどれをとっても褒める所が見つからず大変困惑した特にモーションは本当に泣けてくる  走るモーションからしてやばかったけど戦闘に関]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPTの手を借りつつ、超簡単なWindowsネイティブアプリをRustでつくった]]></title>
         <id>hatenablog://entry/6801883189093517545</id>
