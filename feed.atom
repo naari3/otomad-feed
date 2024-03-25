@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-25T21:04:02.408Z</updated>
+    <updated>2024-03-25T22:04:47.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/25 強制力で本を読んでる]]></title>
+        <id>https://note.com/banfuture9/n/n99e76d25815e</id>
+        <link href="https://note.com/banfuture9/n/n99e76d25815e"/>
+        <updated>2024-03-25T21:40:40.000Z</updated>
+        <summary type="html"><![CDATA[不安がある時は手を動かすしか無い。というか、それまで手を動かしている量が足りないから不安になっている訳で、無心でやるとか言うよりも、原理的に手を動かした方が安定すると思う。実際、ちょっと進捗が出て安堵した。どこまでも手を加えられるような感じもあるので、頃合いの良い所で見切りを付け、次の工程に進む判断をしないといけないのが難しいかも。だいたい8割くらいできたなと思ったら別の作業に移って、全体を完成の8割に持っていってから詰めていった方がたぶん効率が良い。変に完璧主義なので100点を叩き出し続けないと不安になるのだが、最後に一気にブーストして120点にした方がやりやすい気がする。今回はそれを実践してみよう。
+朝と昼にレトルト食品を食べているが、自炊する余裕もないので日がな変わらないメニューが続く。食事に関する回路が貧困なのどうにかしたい。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鈴木宗男関連裁判 東京高裁再審認めず / 鈴木氏側 特別抗告へ]]></title>
         <id>hatenablog://entry/6801883189093607552</id>
