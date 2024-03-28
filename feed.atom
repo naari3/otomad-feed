@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-28T01:25:00.031Z</updated>
+    <updated>2024-03-28T02:11:51.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/03/27 焼肉屋のラーメン]]></title>
+        <id>https://note.com/banfuture9/n/n5d83c7c6cefb</id>
+        <link href="https://note.com/banfuture9/n/n5d83c7c6cefb"/>
+        <updated>2024-03-28T01:39:52.000Z</updated>
+        <summary type="html"><![CDATA[すごく休みっぽい生活リズム。いま起きました。
+基本は作業諸々を進めながら、来週から始まる仕事への不安を抱えつつそちらの準備もしていく1週間なので、その感じで動いている。
+続きをみる]]></summary>
+        <author>
+            <name>BaN長</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/26 感慨あったりなかったり]]></title>
         <id>https://note.com/banfuture9/n/n8ffc85b88b99</id>
