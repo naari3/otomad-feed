@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-30T13:04:59.142Z</updated>
+    <updated>2024-03-30T14:04:05.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[240330_もち]]></title>
+        <id>https://note.com/kokeshi_short/n/nece2f07021d8</id>
+        <link href="https://note.com/kokeshi_short/n/nece2f07021d8"/>
+        <updated>2024-03-30T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[今日は結構遊びました
+
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合作の映像まとめに求められること]]></title>
         <id>https://ytpmv.info/?p=1980</id>
