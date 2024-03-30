@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-03-30T01:23:13.552Z</updated>
+    <updated>2024-03-30T02:07:47.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[合作の映像まとめに求められること]]></title>
+        <id>https://ytpmv.info/?p=1980</id>
+        <link href="https://ytpmv.info/1980/"/>
+        <updated>2024-03-30T02:04:17.000Z</updated>
+        <summary type="html"><![CDATA[Twitterのタイムラインでの話題を完結にまとめます 合作の映像まとめに求められること 音声タイミングとずれるミスをやらかさない シーンチェンジでのクロマキー等のミスをしない 解像度のミスをしない（720p動画なのに1 […]
+The post 合作の映像まとめに求められること first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24/03/29 三度の飯は食べつつ音MAD]]></title>
         <id>https://note.com/banfuture9/n/n919e4bd1155d</id>
