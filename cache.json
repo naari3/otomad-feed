@@ -3548,21 +3548,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/4207112889977146341",
-          "author": null,
-          "description": "それぞれのセクションに繋がりはなく、独立した文章なので注意！\nnerdtronics(音楽イベントシリーズ)は音MADを「大っぴらにし辛い趣味」として捉えながらも好き続けた人にとって、単に良い音響で音MADを聞くこと以上に大きな意味のある環境なんじゃないかと思う。フロアに居た人々はこのイベントに足を運びたくなるほどに音MADが好きで、なんらかのネタに対して大きな声を出せるくらいには音MADに詳しい。そんな人間が箱いっぱいに入っていて、五感全てでその熱量を体感できる。ここまでして音MADに対する肯定を貰える環境って他に無い。\n個人的に、音MADを趣味としていることをそんなにたくさん下卑らなくてもいいんじゃないかなと思っている。この界隈自体の問題とか、音MADという行為自体の問題とか、考えるべきことはたくさんあるんだけど、それを抜きにして考えてみても他の二次創作系界隈に比べて後ろめたいもののように扱っている例をよく見る気がする。\n多分だけど、ニコニコ動画が2chのVIP派生みたいな文脈だったために発生した嫌儲的な意識が根深いっぽい気がしている。金銭の発生に関わらず、目立つのはやめよう*1とか、そういう方向に思想が動いていた結果なのかなあ。これについてはもう時代も変わったのだし、どこかのタイミングで誰かがある程度吹っ切れてみても面白いんじゃないかなと思っている。なんなら音MADで副次的にお金を得ようとする動きがあっても別に良さそう。現状を見るに音MADを主体として稼ごうとするのはあまりにも非効率っぽいし、非現実的らしいし、だとすれば現実的なところではなにか大きく言われるようなことはないんじゃないか？\n音楽の二次創作ってかなり楽観的に見られている気がするが、実際はどうなんだろう。古くはアーメンブレイクとか、hiphop系統のビートとか、最近だとhyperflipとか。dariaco…",
-          "link": "https://naari.hatenablog.com/entry/2023/04/02/113304",
-          "publishedOn": "2023-04-02T02:33:04.000Z",
-          "wordCount": 391,
-          "title": "最近思ったこと",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
@@ -6207,6 +6192,16 @@
       "feedUrl": "https://note.com/dou_akagane_cu/rss",
       "siteUrl": "https://note.com/dou_akagane_cu",
       "articles": [
+        {
+          "id": "https://note.com/dou_akagane_cu/n/n4f5a32c2e56a",
+          "author": null,
+          "description": "こんにちは、あかがねです。\nこのnoteは「まじまじ」の制作後記です。\n真面目茂樹合作の制作後記の続き的になってますが、読まなくても大丈夫だとは思います。\n\n\n続きをみる",
+          "link": "https://note.com/dou_akagane_cu/n/n4f5a32c2e56a",
+          "publishedOn": "2024-03-31T14:40:24.000Z",
+          "wordCount": 3944,
+          "title": "まじまじ制作後記",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/135763519/rectangle_large_type_2_e75d60f297c054d227771ec86d6dc5cd.png?width=800"
+        },
         {
           "id": "https://note.com/dou_akagane_cu/n/ndaf0e7a22d75",
           "author": null,
