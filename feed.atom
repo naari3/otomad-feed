@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-02T19:03:57.105Z</updated>
+    <updated>2024-04-02T20:04:24.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -89,6 +89,16 @@
 ありがとう]]></summary>
         <author>
             <name>ブログ名 - コピー (2) - コピー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぐれいしーすたー]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1297.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1297.html"/>
+        <updated>2024-04-01T19:07:52.000Z</updated>
+        <summary type="html"><![CDATA[うりゅ・・・ネプシスクリアしました1周目でいきなりトゥルーエンドだったからびっくりシェア全然上がってなかったのにどういうことなんだまあいいか・・・せっかくなのでストーリーの感想でもかく]]></summary>
+        <author>
+            <name>柊殿</name>
         </author>
     </entry>
     <entry>
