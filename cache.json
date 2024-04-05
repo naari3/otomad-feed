@@ -3488,21 +3488,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/4207112889978704406",
-          "author": null,
-          "description": "適度な忙しさがあり、サボらない程度の面白さがある環境でないとリファクタリングの類の行動を何も取れないんじゃないかという気になっているが、これはどうにかしたほうが良さそう。\n小さなリファクタリングとかは、直せそうな箇所を見かけた上で体力があれば取り掛かる、くらいになっている。それなりの規模のリファクタをやる場合はちゃんとプロジェクトを組んでやる必要がありそうなんだけど、そのプロジェクトを動かすにも別の割り込みタスクが多すぎて何もできない、みたいなことがよくある。なので、特に割り込みが多い時期とかはマジで何もできなくて負債が負債のまま放置されてる状況が続いたりする！良くないのでは！？\n他のチームでの経験とかそういうものがあまりないので世間的にどうなのかがわからない、というのが一番怖い！",
-          "link": "https://naari.hatenablog.com/entry/2023/04/07/053023",
-          "publishedOn": "2023-04-06T20:30:23.000Z",
-          "wordCount": 372,
-          "title": "■",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
