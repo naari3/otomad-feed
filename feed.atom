@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-08T16:06:00.643Z</updated>
+    <updated>2024-04-08T17:04:32.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wake up, Tenno]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1298.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1298.html"/>
+        <updated>2024-04-08T16:17:54.000Z</updated>
+        <summary type="html"><![CDATA[マジで最悪なゲームに復帰してしまった時間がいくらあっても足りないしクソおもんないめんどい必須コンテンツが増え続けるし時間がいくらあっても足りないそれがWarframe忍者なら無料タダより高いものはない冷凍睡眠明けにまずこのDAGATHというカッチョイイフレームを作りました顔に穴が空いてるのがGOODデュラハンモチーフらしく馬を召喚して突っ込ませる豪快な4番がイケメンかつ楽しいうーんかっこいい100レベくらいの敵も瞬殺で]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[見た2024冬アニメ]]></title>
         <id>https://note.com/binetsu0904/n/n4a9784d84bdf</id>
