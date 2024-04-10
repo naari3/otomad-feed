@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-10T16:04:21.262Z</updated>
+    <updated>2024-04-10T17:04:17.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[まじまじ反省会]]></title>
+        <id>https://note.com/dou_akagane_cu/n/nfd20a88e1904</id>
+        <link href="https://note.com/dou_akagane_cu/n/nfd20a88e1904"/>
+        <updated>2024-04-10T16:27:31.000Z</updated>
+        <summary type="html"><![CDATA[先ほど週刊音MADランキングが発表されて、まじまじは42位でした。
+これはすごい順位ではあるのですが、正直悔しくて仕方ありません。20位以内にならなかったのが…
+今回はまじまじの反省会やりたいと思います。
+続きをみる]]></summary>
+        <author>
+            <name>梅晞あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20240409]]></title>
         <id>hatenablog://entry/6801883189097306719</id>
