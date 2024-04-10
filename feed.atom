@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-10T19:04:29.473Z</updated>
+    <updated>2024-04-10T20:04:15.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[睡眠に甘い]]></title>
+        <id>https://note.com/aun6june/n/nbc6948e6b00a</id>
+        <link href="https://note.com/aun6june/n/nbc6948e6b00a"/>
+        <updated>2024-04-10T19:13:27.000Z</updated>
+        <summary type="html"><![CDATA[みなさん生きてて1番幸せに感じる時っていつですか。俺は寝ている時です。
+連休中とかだと一日16時間とか寝る日もあるくらいには寝る人間になってしまった。
+これ、途中で起きるんだけど寝ぼけの状態で二度寝の選択をとるから発生してるっぽい。
+この二度寝の選択をする頻度が非常に高く、起きないと行けない時間にアラームで目が覚めても、寝ぼけた状態で何らかの言い訳を作ってすぐに寝てしまう。
+二度寝から起きたら、寝坊の焦りからか寝ぼけ状態にならず、自己嫌悪しながら本来の用事の支度や、遅刻の謝罪などをすることが多い。
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[まじまじ反省会]]></title>
         <id>https://note.com/dou_akagane_cu/n/nfd20a88e1904</id>
