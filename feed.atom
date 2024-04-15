@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-15T13:04:39.061Z</updated>
+    <updated>2024-04-15T14:04:03.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マヒーン]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1299.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1299.html"/>
+        <updated>2024-04-15T13:56:14.000Z</updated>
+        <summary type="html"><![CDATA[今週もWarframeしてたら終わった  もうこのゲームの話したくないけどこれ以外のゲームやってないからな必須コンテンツがクソゲーばかりで狂いそうとか言いつつやってしまうので既に狂っているのでしょう見てくださいよこのスクショ  いまは主にこのオープンワールドを進めてるんだけどこんな地獄みたいな場所だれが歩きてえんだよキモくてデカい虫と汚え粘液まみれで最悪なんだよでもここでいくつもミッションをこなさないとメイン]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[残滓日記−01]]></title>
         <id>https://note.com/klunakapa/n/n52fb66907a0a</id>
