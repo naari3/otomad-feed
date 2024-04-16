@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-16T15:04:17.287Z</updated>
+    <updated>2024-04-16T16:05:28.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[難航]]></title>
+        <id>https://note.com/dou_akagane_cu/n/nb94052857543</id>
+        <link href="https://note.com/dou_akagane_cu/n/nb94052857543"/>
+        <updated>2024-04-16T15:59:01.000Z</updated>
+        <summary type="html"><![CDATA[前回書いたように、自分が全身全霊かけた作品はセックスに大敗し、改めて音MADの難しさを思い知らされることとなった。
+まじまじとセックスはそもそも作品として目指している方向性がまったく違うので、この2つを比べるのは無謀かもしれないが、そうしないと私の腹の虫がおさまらないし、こういう嫉妬が私の製作の原動力になってしまっているのが現状なので、勝手ながら比較する。
+続きをみる]]></summary>
+        <author>
+            <name>梅晞あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BPMグリッドに合わせるためにFPSを変えるのは間違い]]></title>
         <id>https://ytpmv.info/?p=1987</id>
