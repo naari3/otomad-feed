@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-19T16:04:35.462Z</updated>
+    <updated>2024-04-19T17:04:08.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[240420_おー のみ]]></title>
+        <id>https://note.com/kokeshi_short/n/ne693e1deeb14</id>
+        <link href="https://note.com/kokeshi_short/n/ne693e1deeb14"/>
+        <updated>2024-04-19T16:39:22.000Z</updated>
+        <summary type="html"><![CDATA[第189回音MAD晒しイベント
+
+【動画うp期間】
+　2024年4月20日(土)～4月29日(月祝)　※30日(火)の朝6:00までOK。
+　（ニコ動の不具合、メンテ等があれば日程が前後する場合があります。）
+
+【ルール】
+　新作の音MADなら何でもOK。
+　修正版（過去作品を手直ししたもの）での参加もできます。
+　使用する曲・素材、映像の有無などは作者の自由です。
+　（音声・動画編集に使用したソフトの報告は、任意となります。）
+
+【今回のお題（ネタに困ってる人はどうぞー）】
+　「再」　※お題参加の場合は動画キャプション内に「お題」と明記してください。
+
+https://w.atwiki.jp/onseimad/pages/782.html
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年4月-3】あ]]></title>
         <id>hatenablog://entry/6801883189099746664</id>
