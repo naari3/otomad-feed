@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-22T12:06:23.180Z</updated>
+    <updated>2024-04-22T13:04:21.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ボロボロ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1300.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1300.html"/>
+        <updated>2024-04-22T12:09:38.000Z</updated>
+        <summary type="html"><![CDATA[ロボクエストとかいう謎ローグライクFPSを友人にギフトしてもらったタイトル特徴なさすぎて何？ って感じだけどボダランっぽいグラのどことなくオーバーウォッチっぽい軽快なFPSローグライクなんだけどそこまでぶっ壊れたことにはならず、最後まで手に汗握るのが楽しいビルドによっては銃はおまけで剣ブンブンしたり槍投げまくったりと楽しいプレイも可能いいっすねえ恒久的な強化要素にジェットパックやグラップルなんてものがあ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新年度始まったと思ったらもう4月下...]]></title>
         <id>https://note.com/nendo31/n/nf3c549e13e0b</id>
