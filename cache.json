@@ -6876,7 +6876,18 @@
       "title": "KZ",
       "feedUrl": "https://note.com/majirishigeri/rss",
       "siteUrl": "https://note.com/majirishigeri",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/majirishigeri/n/n5a4e7f4f8c4c",
+          "author": null,
+          "description": "誰に求められてるわけでもない制作日記\n思い入れがある動画と最近の動画中心に解説します\nnutsおよび他多数のアカウントで投稿した動画はほとんど覚えてないのでやりません。\n  \n続きをみる",
+          "link": "https://note.com/majirishigeri/n/n5a4e7f4f8c4c",
+          "publishedOn": "2024-04-28T08:37:18.000Z",
+          "wordCount": 8469,
+          "title": "気まぐれ黙示録",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/138699874/rectangle_large_type_2_5672edcbdd1137ca01ef4c1161776934.png?width=800"
+        }
+      ]
     },
     {
       "title": "sigloxx",

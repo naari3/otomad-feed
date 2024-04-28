@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-28T08:04:30.537Z</updated>
+    <updated>2024-04-28T09:04:24.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[気まぐれ黙示録]]></title>
+        <id>https://note.com/majirishigeri/n/n5a4e7f4f8c4c</id>
+        <link href="https://note.com/majirishigeri/n/n5a4e7f4f8c4c"/>
+        <updated>2024-04-28T08:37:18.000Z</updated>
+        <summary type="html"><![CDATA[誰に求められてるわけでもない制作日記
+思い入れがある動画と最近の動画中心に解説します
+nutsおよび他多数のアカウントで投稿した動画はほとんど覚えてないのでやりません。
+  
+続きをみる]]></summary>
+        <author>
+            <name>KZ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[240428_勝負なし]]></title>
         <id>https://note.com/kokeshi_short/n/n71f532cb8045</id>
