@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-29T16:04:40.150Z</updated>
+    <updated>2024-04-29T17:04:06.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[かま　プライム]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1301.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1301.html"/>
+        <updated>2024-04-29T16:42:40.000Z</updated>
+        <summary type="html"><![CDATA[PC新調しました  荒波ですといってもはらがみとWarframeしかしてないので何か変わったという事もなく起動がメッチャ速くなったのがうれしい結局アルレッキーノひいた  武器もまったり育成中だけどすでに強い気がするいろんなメンツと組めるのがわちき的にGOOD万葉でも雲菫でもシュヴルーズでも、なんでも使いこなしてくれるおかげで構成考えるのが楽しいでも最近は宇宙が忙しいから執行官はお休みしてもらって壺で面接官させてます]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[少女終点旅行(仮題)制作後記]]></title>
         <id>https://note.com/dou_akagane_cu/n/nf35cba94e3bb</id>
@@ -16314,16 +16324,6 @@ CDは、まだパソコンに入れてません…。
 続きをみる]]></summary>
         <author>
             <name>なのはなぐらむ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[んごー]]></title>
-        <id>https://hiiragidono.blog.fc2.com/blog-entry-1237.html</id>
-        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1237.html"/>
-        <updated>2023-05-01T04:29:08.000Z</updated>
-        <summary type="html"><![CDATA[今週も何もしませんでしたなにしたか思い出そうとしてるけど身内で艦これあの海で観た影響でちょっとだけ艦これ復帰したぐらい相変わらずイベントの攻略方法がゲーム内では全くわからないから凄い軽巡と駆逐だけで編成してゴールするだけ、みたいなギミックがあったので壊れかけの駆逐ぶっこんで行かせたら2隻沈んだ昔レベル1の駆逐を盾にしまくってイベント海域を攻略したことがあり、血も涙もない提督としてその有効性は身にしみ]]></summary>
-        <author>
-            <name>柊殿</name>
         </author>
     </entry>
     <entry>
