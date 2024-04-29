@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-04-29T14:04:28.615Z</updated>
+    <updated>2024-04-29T15:04:35.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『ペーパーマリオ音MAD晒しイベント2024』開催のお知らせ]]></title>
+        <id>https://note.com/kyabetsu/n/n1ce0efe34cd8</id>
+        <link href="https://note.com/kyabetsu/n/n1ce0efe34cd8"/>
+        <updated>2024-04-29T14:56:37.000Z</updated>
+        <summary type="html"><![CDATA[ペーパーマリオRPG | Nintendo Switch | 任天堂
+
+
+続きをみる]]></summary>
+        <author>
+            <name>キャベツ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『あらびき音MAD リターンズ』よくある質問]]></title>
         <id>https://note.com/nomuratakeshi/n/n089cf2ee3023</id>

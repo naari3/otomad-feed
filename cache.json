@@ -6816,7 +6816,18 @@
       "title": "キャベツ",
       "feedUrl": "https://note.com/kyabetsu/rss",
       "siteUrl": "https://note.com/kyabetsu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/kyabetsu/n/n1ce0efe34cd8",
+          "author": null,
+          "description": "ペーパーマリオRPG | Nintendo Switch | 任天堂\n\n\n続きをみる",
+          "link": "https://note.com/kyabetsu/n/n1ce0efe34cd8",
+          "publishedOn": "2024-04-29T14:56:37.000Z",
+          "wordCount": 2251,
+          "title": "『ペーパーマリオ音MAD晒しイベント2024』開催のお知らせ",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f37edbb784ad2f51a34e7d65c3f4242b6176a05b.png"
+        }
+      ]
     },
     {
       "title": "きゅう",
