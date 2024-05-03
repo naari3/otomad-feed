@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-03T14:04:13.290Z</updated>
+    <updated>2024-05-03T15:05:13.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[超晒し　感想]]></title>
+        <id>https://note.com/sweets_farting/n/nd3b0c64e5d27</id>
+        <link href="https://note.com/sweets_farting/n/nd3b0c64e5d27"/>
+        <updated>2024-05-03T14:53:43.000Z</updated>
+        <summary type="html"><![CDATA[雑記です
+こんな良い企画を開催していただきありがとうございました。運営の皆さんはもちろん参加者の皆さんにも感謝。
+正直言うと全部の動画がgoodというわけではなく、一部はクオリティ的に少し惜しかったりう～んと思うようなものもあったんですが生放送で流れるのは暖かいコメントだったり、アホな動画にはツッコミなど、この界隈には大喜利気質の人が多いからかコメントも一体となって企画を盛り上げようとする暖かさを感じました。こういう気風も、MDMやスタダみたいな今までの企画群の積み重ねで醸成されたものなのかもと思ったり。
+2日開催になると聞いて、自分は「企画の格の担保のためにもクオリティで足切りして1日開催に収めた方が良い」派だったんですが、全部流さなければこの空気感は成し得なかったんだな思いました。
+コンセプトとしては「基本的には新人のための企画」と思っていたんですね。生放送視聴者が5000前後として、ある程度歴がある作者であれば真っ当に動画作ればそのくらいの再生数は取れるし、初出じゃない動画は再生数が落ちる傾向にあるのでそういった意味では参加する旨味は少ないのかなと思ったり。ただ実際は投稿したらマイリスが短期間で集中する影響かランキングに上がりやすかったり、リアルタイムでの反応がもらえたりと十分にメリットがある企画だと感じました。
+続きをみる]]></summary>
+        <author>
+            <name>角煮サイダ一</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年5月-1】澱]]></title>
         <id>hatenablog://entry/6801883189102796297</id>
