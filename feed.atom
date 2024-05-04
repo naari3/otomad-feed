@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-04T18:04:34.069Z</updated>
+    <updated>2024-05-04T19:04:32.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[編集後記]]></title>
+        <id>https://note.com/yabaiwayo/n/nae7488a7805a</id>
+        <link href="https://note.com/yabaiwayo/n/nae7488a7805a"/>
+        <updated>2024-05-04T18:13:47.000Z</updated>
+        <summary type="html"><![CDATA[スナップ合作でカミイロアワセパートを担当させていただきました。
+続きをみる]]></summary>
+        <author>
+            <name>遊理</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超晒し　感想]]></title>
         <id>https://note.com/sweets_farting/n/nd3b0c64e5d27</id>
@@ -3089,7 +3100,7 @@ The post 音MAD関連用語集 first appeared on YTPMV.info.]]></summary>
         <summary type="html"><![CDATA[(音MADタグ…？)
 続きをみる]]></summary>
         <author>
-            <name>プリコネの年末年始はヤバイわよ！</name>
+            <name>遊理</name>
         </author>
     </entry>
     <entry>
@@ -3331,7 +3342,7 @@ const uuid = Atarabi.mouse.hook({ button: 'Middle', count: 2 }, ctx => {
         <summary type="html"><![CDATA[う
 続きをみる]]></summary>
         <author>
-            <name>プリコネの年末年始はヤバイわよ！</name>
+            <name>遊理</name>
         </author>
     </entry>
     <entry>
@@ -7156,7 +7167,7 @@ youtu.be
 もし、自分が3本選ぶならという感じで選んでみました。
 続きをみる]]></summary>
         <author>
-            <name>プリコネの年末年始はヤバイわよ！</name>
+            <name>遊理</name>
         </author>
     </entry>
     <entry>
@@ -9244,7 +9255,7 @@ DのM、SOUL'd OUTとDiggy-MO'が結び付いてないレベルでも見てて�
 
 続きをみる]]></summary>
         <author>
-            <name>プリコネの年末年始はヤバイわよ！</name>
+            <name>遊理</name>
         </author>
     </entry>
     <entry>
@@ -15386,7 +15397,7 @@ www.nicovideo.jp
 
 続きをみる]]></summary>
         <author>
-            <name>プリコネの年末年始はヤバイわよ！</name>
+            <name>遊理</name>
         </author>
     </entry>
     <entry>
@@ -15457,7 +15468,7 @@ www.nicovideo.jp
 
 続きをみる]]></summary>
         <author>
-            <name>プリコネの年末年始はヤバイわよ！</name>
+            <name>遊理</name>
         </author>
     </entry>
     <entry>
