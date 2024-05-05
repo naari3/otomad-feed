@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-05T13:03:59.348Z</updated>
+    <updated>2024-05-05T14:04:25.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[auepnos]]></title>
+        <id>https://note.com/rainy_raincoat/n/n2a3fbc0e8f9a</id>
+        <link href="https://note.com/rainy_raincoat/n/n2a3fbc0e8f9a"/>
+        <updated>2024-05-05T13:19:43.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>雨天雨衣</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[編集後記]]></title>
         <id>https://note.com/yabaiwayo/n/nae7488a7805a</id>
