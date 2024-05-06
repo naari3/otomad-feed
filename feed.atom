@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-06T11:04:26.546Z</updated>
+    <updated>2024-05-06T12:06:19.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ぐび姉]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1302.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1302.html"/>
+        <updated>2024-05-06T11:36:24.000Z</updated>
+        <summary type="html"><![CDATA[GWってんで地元に友人が帰ってきてたので飲みいった思えば久々の外出  1ヶ月ぶりは言い過ぎかもしれないけど、気分的にはそんくらいなんならリアルで友人たちと顔を合わせたのは半年～1年ぶりな気もする珍しく行った夜の中心街は引きこもりには厳しい雰囲気だったな･･･Warframeの新勢力ササヤキに属するザコ敵キモい敵ばかりのこのゲームで一際可愛げがあって好きです愛嬌と得体のしれなさがイイ感じに同居したデザインヴァーレン]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岡●の旧垢なんてあったんだ
 16:9だし]]></title>
