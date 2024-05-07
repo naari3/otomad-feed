@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-07T12:05:55.110Z</updated>
+    <updated>2024-05-07T13:04:40.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レスリングの公募合作に参加した話]]></title>
+        <id>https://note.com/saltlemon/n/n27de3be2270a</id>
+        <link href="https://note.com/saltlemon/n/n27de3be2270a"/>
+        <updated>2024-05-07T12:15:32.000Z</updated>
+        <summary type="html"><![CDATA[参加しました～
+続きをみる]]></summary>
+        <author>
+            <name>塩れもん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024/05/07]]></title>
         <id>https://note.com/saltlemon/n/nccbee115d401</id>
