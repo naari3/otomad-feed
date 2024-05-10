@@ -3145,6 +3145,21 @@
       "siteUrl": "https://naari.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/6801883189104889951",
+          "author": null,
+          "description": "tl;dr\nLanguage support for Java ™ for Visual Studio Code の Gradle が使用するJDKは JAVA_HOME で指定できないので、指定したい場合は直接 java.import.gradle.java.home で指定すること！\n流れ\n自作のModである offers-hud を Minecraft 1.20.6 に対応させたかった\n方法を調べた\n\n\nhttps://fabricmc.net/2024/04/19/1205.html\nfabric-loomを1.6に更新\n\n\nGradle用のプラグインで、主にyarn*1を使用した難読化の解除を行う\nGradleを8.6に更新\nJDKを21に更新\n\n\nJDK 21 インストール\n環境変数 JAVA_HOME 設定\nコード上の変更\n各依存(Minecraft, fabric-api, fabric-loader)のバージョンを 1.20.6 向けに更新\n\n\nここで動かなくなった！！！！！\n症状\n少なくとも、どちらも1.20.4までは見たことがなかった\n各Javaのソースコードの真上に以下のエラーが発生していた\n\nSource.java is a non-project file, only syntax errors are reported\n読んだ通り、本当にシンタックスのチェックしか行ってくれない\nMinecraftなどの巨大なゲームのModdingをする時、各種補完の力によってコーディングを進めていく他ない場面は多々あるため、これは本当に困る\nまた、Run and Debug で Minecraft Client を起動しようとした時に以下のようなエラーが発生さた\n\nConfigError: The project 'project-name' is not a valid java project.\nvalidなプロジェクトではない……？\n状況の確認\nターミナルで直接実行する ./gradlew build は問題なく実行可能\nSourceSet は正しく指定されていることが確認できた*2\n\n\nここが正しく指定されていなければ各javaファイルはプロジェクトのものだと認識されない\nつまり、VSCodeだけがプロジェクトを正しく読み込めていないっぽい\n原因(推測込み)\nMinecraft の 1.20.6 から要求されるJavaランタイムが21になった\nGradleのプラグインのfabric-loomがMinecraftの各classファイルをデコンパイルする段階で、使用しているJDKがclassファイルのmajor versionに対応しておらず終了した(推測)\n\n\nが、なんとこれを利用者に伝えてくれないっぽい\n少なくともログを見てもエラーは出力されていなかった\nどうすればよいか\n.vscode/settings.json に次のようなエントリーを追加する\n\"java.import.gradle.java.home\": \"C:\\\\Program Files\\\\Java\\\\jdk-21\",\n\n\n\n\nを見るに、Gradleのデーモンが使用するJDKは別途指定する必要がありそうだった\nなぜこれまでは発生していなかったのか\nこれまでのMinecraftのバージョンで期待されていたJavaのバージョンは17以下だった\nhttps://github.com/redhat-developer/vscode-java/wiki/JDK-Requirements 曰く、何も指定していない場合は JDK 17 でGradleのデーモンを動かすらしい\nclassファイルのメジャーバージョン的には妥当なので問題なく動く\n結果\n動く\ngithub.com\n余談\n今回のMinecraftのアップデート、パッチバージョンのアップデートにしては巨大すぎてヤバい\n\n\n主に以下の2つ？\n\n\nコンポーネントの概念をメインに使い始めるようになる\n\n\nNBTの扱いがこれまでと変わるからそういうことやってる部分全部変えないといけなさそう\nパケットのやり取りのより画一的な対応\nとか\nModderのみんな、がんばれ\n*1:JSのパッケージマネージャーと同名だが、両者に関係はない\n*2:https://chat.openai.com/share/1c6ef71a-a287-40b8-a5b1-42fec87f7be7",
+          "link": "https://naari.hatenablog.com/entry/2024/05/10/091418",
+          "publishedOn": "2024-05-10T00:14:18.000Z",
+          "wordCount": 556,
+          "title": "Fabricを使用したMinecraftのModを1.20.6に対応させようとしたらVSCodeがプロジェクトを読み込まなくなった(ミスリード注意)",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20240509/20240509013113.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20240509/20240509013113.png"
+        },
+        {
           "id": "hatenablog://entry/6801883189093517545",
           "author": null,
           "description": "最近、おそらくは常駐させているなんかのアプリの影響で、急にウィンドウのフォーカスを奪われることがある。例えば、普通にVSCodeで何かを書いてる時、急にフォーカスが飛ぶと普通にびっくりするし、何度も繰り返されるとイライラする。\n直接的な原因になりそうなアプリが思いつくわけでもなかったので、どうにかしてフォーカスを奪ってくるアプリを知る必要があると思った。\nこういうニッチなケースに関しては、サクッとコードを書くのが良いとされているので、そういうコンソールアプリを作ろう！と思い立った。\nWindowsのAPIをバリバリに叩くアプリだし、しかも今回の場合はフック先の関数とかも書かないといけなさそうなので気が重くなりそうなところだけど、今はChatGPTという対話型最高アプリが存在するので腰を上げることができた。\nChatGPTは枯れつつあるプログラミングの知識についてはかなり良いものを持っており、今回のような例に関してはまさに持って来いの話題なのでは？と考え、今回はこいつにスタートダッシュを共にしてもらい、アプリを完成させた。\ngithub.com\n以下のような感じで、フォーカスがあたっているアプリが変更されたらそれにフックしてアプリの概要をプリントする、という簡単なもの。\nアプリの様子\nリポジトリ用のディレクトリが作られ、最終更新が発生したタイミングまで全部で35分くらいしか使っておらず、とても素晴らしかったので良かった点を記事として残しておく。\n前提として、自分は今回使われるスタックについてはプロレベルではないにせよすべて一度以上は使ったことがあり、かつプログラミングについての全般は慣れ親しんでいる。プログラミングができない初心者がChatGPTを使ってアプリを作り上げた、という記事ではないことに注意。\n全体像は 会話全文 を読んでもらえば良いが、良かった部分をいくつか抜き出…",

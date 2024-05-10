@@ -16,6 +16,106 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2024-05-10">2024-05-10</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">Fabricを使用したMinecraftのModを1.20.6に対応させようとしたらVSCodeがプロジェクトを読み込まなくなった(ミスリード注意)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2024/05/10/091418" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>tl;dr
+Language support for Java ™ for Visual Studio Code の Gradle が使用するJDKは JAVA_HOME で指定できないので、指定したい場合は直接 java.import.gradle.java.home で指定すること！
+流れ
+自作のModである offers-hud を Minecraft 1.20.6 に対応させたかった
+方法を調べた
+
+
+https://fabricmc.net/2024/04/19/1205.html
+fabric-loomを1.6に更新
+
+
+Gradle用のプラグインで、主にyarn*1を使用した難読化の解除を行う
+Gradleを8.6に更新
+JDKを21に更新
+
+
+JDK 21 インストール
+環境変数 JAVA_HOME 設定
+コード上の変更
+各依存(Minecraft, fabric-api, fabric-loader)のバージョンを 1.20.6 向けに更新
+
+
+ここで動かなくなった！！！！！
+症状
+少なくとも、どちらも1.20.4までは見たことがなかった
+各Javaのソースコードの真上に以下のエラーが発生していた
+
+Source.java is a non-project file, only syntax errors are reported
+読んだ通り、本当にシンタックスのチェックしか行ってくれない
+Minecraftなどの巨大なゲームのModdingをする時、各種補完の力によってコーディングを進めていく他ない場面は多々あるため、これは本当に困る
+また、Run and Debug で Minecraft Client を起動しようとした時に以下のようなエラーが発生さた
+
+ConfigError: The project &#x27;project-name&#x27; is not a valid java project.
+validなプロジェクトではない……？
+状況の確認
+ターミナルで直接実行する ./gradlew build は問題なく実行可能
+SourceSet は正しく指定されていることが確認できた*2
+
+
+ここが正しく指定されていなければ各javaファイルはプロジェクトのものだと認識されない
+つまり、VSCodeだけがプロジェクトを正しく読み込めていないっぽい
+原因(推測込み)
+Minecraft の 1.20.6 から要求されるJavaランタイムが21になった
+Gradleのプラグインのfabric-loomがMinecraftの各classファイルをデコンパイルする段階で、使用しているJDKがclassファイルのmajor versionに対応しておらず終了した(推測)
+
+
+が、なんとこれを利用者に伝えてくれないっぽい
+少なくともログを見てもエラーは出力されていなかった
+どうすればよいか
+.vscode/settings.json に次のようなエントリーを追加する
+&quot;java.import.gradle.java.home&quot;: &quot;C:\\Program Files\\Java\\jdk-21&quot;,
+
+
+
+
+を見るに、Gradleのデーモンが使用するJDKは別途指定する必要がありそうだった
+なぜこれまでは発生していなかったのか
+これまでのMinecraftのバージョンで期待されていたJavaのバージョンは17以下だった
+https://github.com/redhat-developer/vscode-java/wiki/JDK-Requirements 曰く、何も指定していない場合は JDK 17 でGradleのデーモンを動かすらしい
+classファイルのメジャーバージョン的には妥当なので問題なく動く
+結果
+動く
+github.com
+余談
+今回のMinecraftのアップデート、パッチバージョンのアップデートにしては巨大すぎてヤバい
+
+
+主に以下の2つ？
+
+
+コンポーネントの概念をメインに使い始めるようになる
+
+
+NBTの扱いがこれまでと変わるからそういうことやってる部分全部変えないといけなさそう
+パケットのやり取りのより画一的な対応
+とか
+Modderのみんな、がんばれ
+*1:JSのパッケージマネージャーと同名だが、両者に関係はない
+*2:https://chat.openai.com/share/1c6ef71a-a287-40b8-a5b1-42fec87f7be7</span>
+                  </div>
+                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20240509/20240509013113.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2024-05-08">2024-05-08</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -22363,7 +22463,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2024-05-10T00:14:33.520Z">2024-05-10T00:14:33.520Z</time>
+    <time id="build-timestamp" datetime="2024-05-10T01:28:18.922Z">2024-05-10T01:28:18.922Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
