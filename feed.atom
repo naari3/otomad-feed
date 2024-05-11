@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-11T06:04:18.710Z</updated>
+    <updated>2024-05-11T07:04:04.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[病気のスタンガン]]></title>
+        <id>https://note.com/ebideath/n/n797cc80a098a</id>
+        <link href="https://note.com/ebideath/n/n797cc80a098a"/>
+        <updated>2024-05-11T06:40:14.000Z</updated>
+        <summary type="html"><![CDATA[人間が気持ち悪い
+自分は人間
+よって自分が気持ち悪い
+死ぬことばっかり考える
+不自然な気がする
+ぎこちない
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fabricを使用したMinecraftのModを1.20.6に対応させようとしたらVSCodeがプロジェクトを読み込まなくなった(ミスリード注意)]]></title>
         <id>hatenablog://entry/6801883189104889951</id>
