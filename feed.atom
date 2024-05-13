@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-13T11:04:01.990Z</updated>
+    <updated>2024-05-13T12:05:57.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[帰郷]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1303.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1303.html"/>
+        <updated>2024-05-13T11:49:55.000Z</updated>
+        <summary type="html"><![CDATA[またZONEに帰ってきました  荒波ですイチからMOD入れ直すのダルいし、此度もGAMMAでプレーしてるだいぶアプデで変わってておもろいな  序盤クソみたいにマゾいのは相変わらずだけどさっさとガスマスク拾って直さないと放射能スポットに足踏み入れた時点で血反吐はきまくるもんつっても拾えるかどうかは運だから人ころしまくるしかないしかし！ この斧が追加されたことにより序盤のクソゲーっぷりがかなり緩和されてましたね拾った]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年5月-2】ファイトクラブついて口にするな]]></title>
         <id>hatenablog://entry/6801883189104424892</id>
