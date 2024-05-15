@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-15T02:16:18.031Z</updated>
+    <updated>2024-05-15T03:05:40.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024年5月15日近況]]></title>
+        <id>https://note.com/tanbatu/n/n4ac7dd628ef4</id>
+        <link href="https://note.com/tanbatu/n/n4ac7dd628ef4"/>
+        <updated>2024-05-15T02:50:49.000Z</updated>
+        <summary type="html"><![CDATA[また面白いブックマークレットの記事でも作ろうかなと思っていたのですが、今回は特にネタが無いので近況を書こうと思います。
+大学に入って早１ヶ月が経ち、環境の変化にも徐々に慣れてきました。ただ自分が思ってたより暇ではなく、そのせいか急に小学生の頃に見てた淫夢動画のコメント（上記ヘッダー）を思い出しました。
+続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【VSTの種類多すぎ】VSTの覚える順番おすすめランキング【音MAD向け】]]></title>
         <id>https://note.com/aun6june/n/ncaf32581c39d</id>
