@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-15T04:04:35.598Z</updated>
+    <updated>2024-05-15T05:04:22.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[姉のクレカが不正利用されてた]]></title>
+        <id>https://note.com/calpisco/n/n24b3d19e5696</id>
+        <link href="https://note.com/calpisco/n/n24b3d19e5696"/>
+        <updated>2024-05-15T04:57:00.000Z</updated>
+        <summary type="html"><![CDATA[calpiscoです。
+先日姉から急に家族のlineグループにこんなメッセージが飛んできました。
+続きをみる]]></summary>
+        <author>
+            <name>calpisco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年5月15日近況]]></title>
         <id>https://note.com/tanbatu/n/n4ac7dd628ef4</id>
