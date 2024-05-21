@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-21T03:04:27.194Z</updated>
+    <updated>2024-05-21T04:04:46.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「そんなことは野実も知らない」コンテまとめ]]></title>
+        <id>hatenablog://entry/6801883189107891134</id>
+        <link href="https://lixy.hatenablog.com/entry/2024/05/21/%E3%80%8C%E3%81%9D%E3%82%93%E3%81%AA%E3%81%93%E3%81%A8%E3%81%AF%E9%87%8E%E5%AE%9F%E3%82%82%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%80%8D%E3%82%B3%E3%83%B3%E3%83%86%E3%81%BE%E3%81%A8%E3%82%81"/>
+        <updated>2024-05-21T03:15:31.000Z</updated>
+        <summary type="html"><![CDATA[2024年5月18日に秋葉原MOGRAで行われたイベント「otogroove」に寄稿した音MAD動画です。「小説の音MAD化」を目標としています。
+各種クレジット、およびフルバージョンはリプライからご覧ください。 pic.twitter.com/WhRtuSOsvR
+— Lixy (@YesoftenmeansNo) 2024年5月19日
+   
+編集後記に載せてあるけれど、それにも載せきれていない紙のコンテ
+タイポグラフィデザインを集めたり、紙に直接描いてみたりしてみたら上手くいった]]></summary>
+        <author>
+            <name>空回り</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ぴょおおおおおおおおお]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1304.html</id>
