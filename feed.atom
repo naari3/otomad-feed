@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-22T12:06:06.860Z</updated>
+    <updated>2024-05-22T13:05:23.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ぎいせいのダンス」と今後]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n8e6cd25982e9</id>
+        <link href="https://note.com/dou_akagane_cu/n/n8e6cd25982e9"/>
+        <updated>2024-05-22T12:22:59.000Z</updated>
+        <summary type="html"><![CDATA[まずはぎいせいのダンスについて話します。
+去年のおせちんこブームで一気に注目された「はれぎいせい」ですが、動画はあまり作られていませんでした。
+続きをみる]]></summary>
+        <author>
+            <name>梅晞あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オーバーシコシコの制作後記(雑)]]></title>
         <id>https://note.com/dou_akagane_cu/n/n3bd1a3f39f84</id>
