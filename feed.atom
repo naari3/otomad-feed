@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-22T06:05:05.296Z</updated>
+    <updated>2024-05-22T07:04:30.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オーバーシコシコの制作後記(雑)]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n3bd1a3f39f84</id>
+        <link href="https://note.com/dou_akagane_cu/n/n3bd1a3f39f84"/>
+        <updated>2024-05-22T06:14:55.000Z</updated>
+        <summary type="html"><![CDATA[今日このあと違う個人作上げるからこの記事ボツにする予定でしたが、途中まで書いてしまったので投稿します。
+スマホから書いてるので、動画リンク貼るとかできなくてめちゃめちゃ雑だし、文章構成もハチャメチャですが許してください。
+4月10日に嵐が新会社を設立した辺りから、今年中、というか近い内にシコスゴの音MADを作るつもりではいました。
+続きをみる]]></summary>
+        <author>
+            <name>梅晞あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[激発物破裂罪《高速》に参加したよ+OTGR感想]]></title>
         <id>hatenablog://entry/6801883189107809151</id>
