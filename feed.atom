@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-24T18:05:14.789Z</updated>
+    <updated>2024-05-24T19:04:07.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自作リポグラムまとめ。～リポグラムをしたくて仕方ない気象衣類～]]></title>
+        <id>https://note.com/rainy_raincoat/n/n43de41965f55</id>
+        <link href="https://note.com/rainy_raincoat/n/n43de41965f55"/>
+        <updated>2024-05-24T18:47:29.000Z</updated>
+        <summary type="html"><![CDATA[自分が作ったリポグラム作品やその他投稿をまとめておきたいのでここにまとめておく。
+　新しく作ったらここに増やす
+続きをみる]]></summary>
+        <author>
+            <name>雨天雨衣</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年5月-4】音と光で蘇生]]></title>
         <id>hatenablog://entry/6801883189108823413</id>
