@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-26T15:04:26.671Z</updated>
+    <updated>2024-05-26T16:04:26.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[雑]]></title>
+        <id>https://note.com/dou_akagane_cu/n/na1c55f58b957</id>
+        <link href="https://note.com/dou_akagane_cu/n/na1c55f58b957"/>
+        <updated>2024-05-26T15:19:39.000Z</updated>
+        <summary type="html"><![CDATA[昨日は久々に動画制作を始めた。前回個人作沢山作ると言っておいてこのザマである。
+先週は水曜日の段階ではやる気は全然あったのに、木曜日にあんなことがあってはやる気なんてリアルのことでも無くしてしまう。
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[otogroove vs 俺 第1章 沈黙の森]]></title>
         <id>https://note.com/sweets_farting/n/na1f1cc134dfc</id>
