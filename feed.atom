@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-27T13:05:16.689Z</updated>
+    <updated>2024-05-27T14:04:30.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おっさんや]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1305.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1305.html"/>
+        <updated>2024-05-27T13:30:57.000Z</updated>
+        <summary type="html"><![CDATA[いよいよアラサーでやばい！ 荒波です大分おっさんになってきたのではないでしょうかははは・・・また一つ歳食ってる間何してたかというとWarframeをしていました最悪やこんなゲームもうやりとうない！！やめるきっかけがほしいよね、ゼンレスゾーンゼロが出たら余裕で引退できるけど結構先だろうし･･･あ、でもはらがみにクロちゃんくるらしいですね予告番組みてたけどモーションかっこよくて良さげな感じ子だなWarframeのMESAみた]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神に見放された]]></title>
         <id>https://note.com/aun6june/n/n694f6724b057</id>
