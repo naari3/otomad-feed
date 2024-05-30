@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-05-30T00:15:14.090Z</updated>
+    <updated>2024-05-30T01:29:19.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自己分析と気がかりなこと。あと色々。]]></title>
+        <id>https://note.com/nanana555/n/n0cb5f850f21e</id>
+        <link href="https://note.com/nanana555/n/n0cb5f850f21e"/>
+        <updated>2024-05-30T00:26:24.000Z</updated>
+        <summary type="html"><![CDATA[今日の記事の目的は読んでいる人を楽しませようという目的は無いのですが、ここ最近の自らの行動の理由みたいなものを色々書き連ねていこうと思います。
+なんでこんな記事を書いているのかというと、この記事を読んだ人がどういう反応をするのか気になるからです。同意できる部分もそうじゃない部分も多くあるとは思うのですが、それらを自分の中で咀嚼したり、SNSで発信したり、感想を直接伝えてもらっても構いません。
+そういう考える時間が少しでも生まれればこの文章に価値が生まれるというわけなのです。
+先に言っておくとこういう文章を表に出すのはあまり好きではありません。語弊が生まれるし、冗談をマジだって捉えそうな人も多く出てきそうだからです。そういうことは全部配信で言うと決めているのですが、今の自分を書き起こしておいて、後から見返したりできるのも面白いかなと。まあ御託を並べずとっとと本題に入れって話ですよね。最初は動画についてから話していきたいと思います。
+この記事は音MADが結構好きなバカが書いてると思って読んでください。
+①動画
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20240528「最近あったいいこと」]]></title>
         <id>hatenablog://entry/6801883189109754449</id>
@@ -15617,23 +15633,6 @@ www.nicovideo.…]]></summary>
 続きをみる]]></summary>
         <author>
             <name>ふーふー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文が書きたい]]></title>
-        <id>https://note.com/ecolidelvsvc11/n/nc5b8f0800389</id>
-        <link href="https://note.com/ecolidelvsvc11/n/nc5b8f0800389"/>
-        <updated>2023-05-31T12:30:37.000Z</updated>
-        <summary type="html"><![CDATA[文章を書くのが好きだ。
-こういうnoteみたいなラフな殴り書きでも、
-仕事のメールみたいな硬い文章でも、
-荒唐無稽な小説でも、
-ガチ恋してる二次元アイドルとの夢SSでも、
-どんなジャンルか問わずに文章を書くのが好きだ。
-言葉遣いを意識したり、どういう構成で書けば自分の意図が伝わるか考えたり、人の心を動かすような綺麗な言葉を選んでみたり、たくさん推敲して自分のボキャブラリーからパズルを組み立てるように文章を書く行為が好きだ。
-続きをみる]]></summary>
-        <author>
-            <name>大腸菌デリバリーサービス</name>
         </author>
     </entry>
     <entry>
