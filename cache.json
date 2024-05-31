@@ -4588,6 +4588,16 @@
       "siteUrl": "https://note.com/anochan",
       "articles": [
         {
+          "id": "https://note.com/anochan/n/nadae81066926",
+          "author": null,
+          "description": "Realforceを初めて買って文章打ちたくなったので、\nTumblrもWordPressも使いづらいよねというお話をしたいと思います。\n何が言いたいの？\n続きをみる",
+          "link": "https://note.com/anochan/n/nadae81066926",
+          "publishedOn": "2024-05-31T17:10:52.000Z",
+          "wordCount": 2189,
+          "title": "Tumblrは使いづらい、WordPressも使いづらい",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ba10b68fdbc6cab29c3f24bcef953e699c6e944e.png"
+        },
+        {
           "id": "https://note.com/anochan/n/nf99975cd15b1",
           "author": null,
           "description": "Peppina ramen mod Discordには解決方法書いてあったけど、Peppina Ramenに同梱されている日本語MODがエラーを吐いており起動できなかったので記録。\nPeppinaちゃん使いたいという下心で導入しよう！\n続きをみる",
@@ -9102,16 +9112,6 @@
           "publishedOn": "2023-09-20T15:33:53.000Z",
           "wordCount": 607,
           "title": "彼女が時事ネタに疎すぎて嫌になってきた",
-          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20230602150345",
-          "author": null,
-          "description": "画像生成AIで金儲け...",
-          "link": "https://anond.hatelabo.jp/20230602150345",
-          "publishedOn": "2023-06-02T06:03:45.000Z",
-          "wordCount": 579,
-          "title": "画像生成AI関連で嫌いな人たち",
           "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
         }
       ]
