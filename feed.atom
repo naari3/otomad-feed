@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-01T13:04:09.271Z</updated>
+    <updated>2024-06-01T14:04:43.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[毎週投稿は簡単ではない / ticotico感がスゴい]]></title>
+        <id>https://note.com/dou_akagane_cu/n/ndeba96a018f8</id>
+        <link href="https://note.com/dou_akagane_cu/n/ndeba96a018f8"/>
+        <updated>2024-06-01T13:16:33.000Z</updated>
+        <summary type="html"><![CDATA[前回愚痴みたいなnoteを書いてしまったので、できる限り気をつけて書きたいと思う。
+真島茂樹さんが亡くなってもう1週間以上経つんだね。長いような短いような、そんな1週間だった。
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【備忘録】音楽CDのリッピング・取り込みに関するメモ]]></title>
         <id>https://ytpmv.info/?p=2007</id>
