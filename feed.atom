@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-02T05:04:11.447Z</updated>
+    <updated>2024-06-02T06:05:08.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[otogrooveに参加しました記事]]></title>
+        <id>https://note.com/sweets_farting/n/n02197f125907</id>
+        <link href="https://note.com/sweets_farting/n/n02197f125907"/>
+        <updated>2024-06-02T05:52:46.000Z</updated>
+        <summary type="html"><![CDATA[otogroove / オトグルーヴ / #OTGR新作音MAD合作と新作音MAD-mixを流してたのしくあそぶイベントです。※Twitterへ投稿する際はハッシュタグ「#Olive.nicovideo.jp 
+2024/5/18　otogrooveという音MADのライブイベントの中で、中速合作というBPM120-160の曲での合作製作で参加しました。
+続きをみる]]></summary>
+        <author>
+            <name>角煮サイダ一</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD技術について知っていることを全部書く！！！]]></title>
         <id>https://note.com/dou_akagane_cu/n/n01fb8ce33d8e</id>
