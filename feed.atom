@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-02T18:05:28.091Z</updated>
+    <updated>2024-06-02T19:04:23.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -15696,18 +15696,6 @@ TypeScript 5.1 JSX.ElementType
 TypeScript 5.1がリリースされた。この新機能の一つとして、JSXのElementとして妥当か…]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[体調崩壊太郎の1週]]></title>
-        <id>https://note.com/fourangle/n/nacd3884a3e0d</id>
-        <link href="https://note.com/fourangle/n/nacd3884a3e0d"/>
-        <updated>2023-06-04T06:16:24.000Z</updated>
-        <summary type="html"><![CDATA[5.29普通に休みで、5.30なんとなく会社に行ってきたら週末にうちの部屋に泊まって行った親から父親が酷い風邪にあったと連絡。なんとなく大丈夫でしょうと思ったけど明日の朝すぐ喉が痛めてきた。
-5.31日が特に〆切とかのわけじゃないが協力社から「早く提出しないと私達大変なことになりますので」って凄い圧力かけられた書類を提出しようとした日。何故か中年の幹部急しかいない部署に配置された離れ離れな新参の私は、電算上の提出に慣れてないみんなのかわりにこれを任された。当然ベテランも難しがる仕事を自分が完璧にこなせるわけがなく検討だけ1日中を過ごした。
-続きをみる]]></summary>
-        <author>
-            <name>四角</name>
         </author>
     </entry>
     <entry>
