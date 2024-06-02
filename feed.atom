@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-02T02:17:16.707Z</updated>
+    <updated>2024-06-02T03:05:15.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD技術について知っていることを全部書く！！！]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n01fb8ce33d8e</id>
+        <link href="https://note.com/dou_akagane_cu/n/n01fb8ce33d8e"/>
+        <updated>2024-06-02T02:58:59.000Z</updated>
+        <summary type="html"><![CDATA[※現在このnoteは制作中です。
+※2024年6月2日午前11時58分　全然書けてません。このあと用事あるので一回ここで公開します。
+はじめに
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[anond:20240601211544]]></title>
+        <id>https://anond.hatelabo.jp/20240602113735</id>
+        <link href="https://anond.hatelabo.jp/20240602113735"/>
+        <updated>2024-06-02T02:37:35.000Z</updated>
+        <summary type="html"><![CDATA[音MAD作者かよ]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毎週投稿は簡単ではない / ticotico感がスゴい]]></title>
         <id>https://note.com/dou_akagane_cu/n/ndeba96a018f8</id>
