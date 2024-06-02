@@ -3113,21 +3113,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/820878482938665592",
-          "author": null,
-          "description": "こんな感じのエラーを \"@types/react\": \"^17.0\" を指定せずに倒せるようになった！！！\nType error: 'SomeComponent' cannot be used as a JSX component.\n  Its return type 'ReactNode' is not a valid JSX element.\n    Type 'undefined' is not assignable to type 'Element | null'.\nまとめ\n一番最初に対応方法のまとめを書いておく\njsxImportSource を弄っていない場合\n\n\ntypesciprt を 5.1、@types/react を 18.2.8 にアップデートする\njsxImportSource を弄っている場合\n\n\ntypesciprt を 5.1、@types/react を 18.2.8 にアップデートする\nJSX.ElementType を宣言する\n例えば2023年6月4日時点で @emotion/react を使っている場合、アップデートを行った後に以下のように宣言する。\n// src/types/emotion-react-jsx-runtime.d.ts\nimport { JSX } from '@emotion/react/jsx-runtime';\n\ndeclare module '@emotion/react/jsx-runtime' {\n  namespace JSX {\n    type ElementType = React.JSX.ElementType;\n  }\n}\n\n\n\nTypeScript 5.1 JSX.ElementType\nTypeScript 5.1がリリースされた。この新機能の一つとして、JSXのElementとして妥当か…",
-          "link": "https://naari.hatenablog.com/entry/2023/06/04/161151",
-          "publishedOn": "2023-06-04T07:11:51.000Z",
-          "wordCount": 738,
-          "title": "TypeScript 5.1のJSX.ElementTypeと各種ライブラリでの対応　@types/reactとか@emotion/reactとか",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20230604/20230604135118.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20230604/20230604135118.png"
         }
       ]
     },

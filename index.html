@@ -21591,51 +21591,6 @@ UnderWhite -- 千石ナタデコ子
             </article>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://naari.hatenablog.com/" target="_blank" rel="noopener">名有りさんの日記</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">TypeScript 5.1のJSX.ElementTypeと各種ライブラリでの対応　@types/reactとか@emotion/reactとか</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://naari.hatenablog.com/entry/2023/06/04/161151" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>こんな感じのエラーを &quot;@types/react&quot;: &quot;^17.0&quot; を指定せずに倒せるようになった！！！
-Type error: &#x27;SomeComponent&#x27; cannot be used as a JSX component.
-  Its return type &#x27;ReactNode&#x27; is not a valid JSX element.
-    Type &#x27;undefined&#x27; is not assignable to type &#x27;Element | null&#x27;.
-まとめ
-一番最初に対応方法のまとめを書いておく
-jsxImportSource を弄っていない場合
-
-
-typesciprt を 5.1、@types/react を 18.2.8 にアップデートする
-jsxImportSource を弄っている場合
-
-
-typesciprt を 5.1、@types/react を 18.2.8 にアップデートする
-JSX.ElementType を宣言する
-例えば2023年6月4日時点で @emotion/react を使っている場合、アップデートを行った後に以下のように宣言する。
-// src/types/emotion-react-jsx-runtime.d.ts
-import { JSX } from &#x27;@emotion/react/jsx-runtime&#x27;;
-
-declare module &#x27;@emotion/react/jsx-runtime&#x27; {
-  namespace JSX {
-    type ElementType &#x3D; React.JSX.ElementType;
-  }
-}
-
-
-
-TypeScript 5.1 JSX.ElementType
-TypeScript 5.1がリリースされた。この新機能の一つとして、JSXのElementとして妥当か…</span>
-                  </div>
-                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20230604/20230604135118.png" class="card article-thumbnail" data-image />
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
     </ul>
   </section>
   <section class="daily-content">
@@ -22072,7 +22027,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2024-06-02T19:04:23.837Z">2024-06-02T19:04:23.837Z</time>
+    <time id="build-timestamp" datetime="2024-06-02T20:04:30.964Z">2024-06-02T20:04:30.964Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

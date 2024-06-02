@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-02T19:04:23.880Z</updated>
+    <updated>2024-06-02T20:04:31.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -15658,44 +15658,6 @@ UnderWhite -- 千石ナタデコ子
 日常が少し捻じれていくイメージの作品は結構多いが、この作品ではそのグラデーションを模索してるような感…]]></summary>
         <author>
             <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 5.1のJSX.ElementTypeと各種ライブラリでの対応　@types/reactとか@emotion/reactとか]]></title>
-        <id>hatenablog://entry/820878482938665592</id>
-        <link href="https://naari.hatenablog.com/entry/2023/06/04/161151"/>
-        <updated>2023-06-04T07:11:51.000Z</updated>
-        <summary type="html"><![CDATA[こんな感じのエラーを "@types/react": "^17.0" を指定せずに倒せるようになった！！！
-Type error: 'SomeComponent' cannot be used as a JSX component.
-  Its return type 'ReactNode' is not a valid JSX element.
-    Type 'undefined' is not assignable to type 'Element | null'.
-まとめ
-一番最初に対応方法のまとめを書いておく
-jsxImportSource を弄っていない場合
-
-
-typesciprt を 5.1、@types/react を 18.2.8 にアップデートする
-jsxImportSource を弄っている場合
-
-
-typesciprt を 5.1、@types/react を 18.2.8 にアップデートする
-JSX.ElementType を宣言する
-例えば2023年6月4日時点で @emotion/react を使っている場合、アップデートを行った後に以下のように宣言する。
-// src/types/emotion-react-jsx-runtime.d.ts
-import { JSX } from '@emotion/react/jsx-runtime';
-
-declare module '@emotion/react/jsx-runtime' {
-  namespace JSX {
-    type ElementType = React.JSX.ElementType;
-  }
-}
-
-
-
-TypeScript 5.1 JSX.ElementType
-TypeScript 5.1がリリースされた。この新機能の一つとして、JSXのElementとして妥当か…]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
     <entry>
