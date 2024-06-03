@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-03T14:04:38.931Z</updated>
+    <updated>2024-06-03T15:04:55.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[より自然な文字コラの話]]></title>
+        <id>https://note.com/sweets_farting/n/n5c3c1044163d</id>
+        <link href="https://note.com/sweets_farting/n/n5c3c1044163d"/>
+        <updated>2024-06-03T14:19:29.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>角煮サイダ一</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポスタリゼーション時間で拍子に合わせて動かす]]></title>
         <id>https://ytpmv.info/?p=2010</id>
