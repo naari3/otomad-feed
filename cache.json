@@ -9346,6 +9346,16 @@
       "siteUrl": "https://ytpmv.info",
       "articles": [
         {
+          "id": "https://ytpmv.info/?p=2010",
+          "author": "maimai",
+          "description": "備忘録 オーバーライドの歌詞テキストみたいに、拍子に合わせてアイテムを動かしたい場合の方法 AfterEffectsの例です。 ①：Wiggleで適当に動かす ②：ポスタリゼーション時間でFPSを「BPM ÷ 60」した […]\nThe post ポスタリゼーション時間で拍子に合わせて動かす first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/2010/",
+          "publishedOn": "2024-06-03T13:56:39.000Z",
+          "wordCount": 717,
+          "title": "ポスタリゼーション時間で拍子に合わせて動かす",
+          "imageUrl": null
+        },
+        {
           "id": "https://ytpmv.info/?p=2007",
           "author": "maimai",
           "description": "この記事は個人的な備忘録です。約に立つ可能性は低いけど一応ね。 使用するソフト CD取り込みはEAC、CDDBとの通信にPlayerを使用します。 Cue+Flacの分割にはXrecode3を使用。 ファイル形式について […]\nThe post 【備忘録】音楽CDのリッピング・取り込みに関するメモ first appeared on YTPMV.info.",
