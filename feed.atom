@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-06T08:05:16.163Z</updated>
+    <updated>2024-06-06T09:05:17.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[240606_来てた]]></title>
+        <id>https://note.com/kokeshi_short/n/n0903349b0a86</id>
+        <link href="https://note.com/kokeshi_short/n/n0903349b0a86"/>
+        <updated>2024-06-06T09:00:47.000Z</updated>
+        <summary type="html"><![CDATA[読みづらいです
+
+
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インターネットの人ってなんだ]]></title>
         <id>hatenablog://entry/6801883189112219005</id>
