@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-06T06:05:17.727Z</updated>
+    <updated>2024-06-06T07:05:28.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インターネットの人ってなんだ]]></title>
+        <id>hatenablog://entry/6801883189112219005</id>
+        <link href="https://naari.hatenablog.com/entry/2024/06/06/154802"/>
+        <updated>2024-06-06T06:48:02.000Z</updated>
+        <summary type="html"><![CDATA[タイトルは単なるキャッチーな文字列で、まともにタイトルを回収するつもりはない　ごめんね
+
+インターネットの人の終わり: pha『パーティーが終わって、中年が始まる』 - laiso https://t.co/FsoG6ARvAe
+— なあり (@_naari_) 2024年6月6日
+   
+私の過ごすWebのソフトウェア業界でも「インターネットが好き」という合言葉のような共通価値観がある。これも現在からみたら「水道が好き」のような違和感のある言葉だとしばしば言われているが、この言葉の中にもWeb 2.0当時の時代感やその場を過ごしてきた自分たちを懐かしむような喪失感を覚えるような感覚が今となってはあるよねいや俺はある
+
+
+まだ件の新刊は読んでないのだけど、このあたりのノスタルジーは自分にも多少なりとも残っているので書いておこうと思った。
+最近ツイートがバズった！人生初の万バズだった。
+
+バカすぎる pic.twitter.com/vLhAGWWX2b
+— なあり (@_naari_) 2024年5月27日
+   
+見るのがめんどくさい方に向けてまとめると以下のような動画になっている
+MinecraftのRTAの録画のクリップ
+アイアンゴーレムを倒してドロップ品の鉄インゴットを頂くまでの過程で失敗するという内容
+
+
+アイアンゴーレムへの攻撃を3回失敗する
+干草の俵を足場にしようとしていたところ、真下がコンポスターでそのまま吸われてしまう
+実際おもしろいシーンではあったのでTwitterに投げて身内に共有したかったのだけど、意図せずバズってしまった。拡散経路も全くわからないが、なんらかレコメンドシステムに気に入られてレールに載せられ、そのままスコアを稼いでいったのだろう。
+このツイートをきっかけに自分のことをフォローしてくれたアカウントが14個もあったのだけど、この人らが自分を…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[より自然な文字コラの話]]></title>
         <id>https://note.com/sweets_farting/n/n5c3c1044163d</id>
