@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-06T22:04:19.505Z</updated>
+    <updated>2024-06-06T23:05:20.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -11318,6 +11318,16 @@ VIVANT最終回、音MDM天と被るらしい。
 自分は音MDMの方は中途半端にしかリアタイ出来ないのでVIVANTをリアタイすることにした。両方リアタイ出来たらかなり迷ってただろうから、逆に選択肢が無くて良かったかも。]]></summary>
         <author>
             <name>音MADとポケモンと私</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブルアカBGMから学ぶ音楽ジャンル]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-113.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-113.html"/>
+        <updated>2023-09-09T17:36:30.000Z</updated>
+        <summary type="html"><![CDATA[スマホゲー「ブルーアーカイブ」にて使用されているBGMの音楽的特徴から音楽ジャンルを知ろう]]></summary>
+        <author>
+            <name>picm</name>
         </author>
     </entry>
     <entry>
