@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-07T14:04:31.678Z</updated>
+    <updated>2024-06-07T15:04:24.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自分のヘッダーこの画像使えば全部伝...]]></title>
+        <id>https://note.com/tanbatu/n/ne5de14c3066a</id>
+        <link href="https://note.com/tanbatu/n/ne5de14c3066a"/>
+        <updated>2024-06-07T14:59:24.000Z</updated>
+        <summary type="html"><![CDATA[自分のヘッダーこの画像使えば全部伝わるくね
+続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年6月-1】猛烈に夏、爆裂に色]]></title>
         <id>hatenablog://entry/6801883189112337800</id>
