@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-11T16:04:31.604Z</updated>
+    <updated>2024-06-11T17:04:53.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[みそ様を再び聖人認定させるには]]></title>
+        <id>https://note.com/dou_akagane_cu/n/nddca2706ea7b</id>
+        <link href="https://note.com/dou_akagane_cu/n/nddca2706ea7b"/>
+        <updated>2024-06-11T16:26:31.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、あかがねです。
+突然ですが、ここ最近HKKN兄貴の聖人判定が揺らぎ始めています。
+考えられる原因は
+①カウンター動画の連投
+②公共のトイレの中を撮影
+でしょう。
+↑これ最後まで未解決問題になりました
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[anond:20240611162329]]></title>
         <id>https://anond.hatelabo.jp/20240611164355</id>
