@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-14T07:05:06.833Z</updated>
+    <updated>2024-06-14T08:04:58.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[某音MAD合作のRVC禁止に対するお気持ち表明]]></title>
+        <id>https://anond.hatelabo.jp/20240614163428</id>
+        <link href="https://anond.hatelabo.jp/20240614163428"/>
+        <updated>2024-06-14T07:34:28.000Z</updated>
+        <summary type="html"><![CDATA[某作者の方が募集し...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニコニコモンズはよ復旧してくれ！
 ...]]></title>
