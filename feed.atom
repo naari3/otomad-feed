@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-14T11:04:14.295Z</updated>
+    <updated>2024-06-14T12:06:18.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニコニコ動画（RE:仮）の懐かし動画が思ったよりも著作権侵害過ぎた]]></title>
+        <id>https://anond.hatelabo.jp/20240614210308</id>
+        <link href="https://anond.hatelabo.jp/20240614210308"/>
+        <updated>2024-06-14T12:03:08.000Z</updated>
+        <summary type="html"><![CDATA[権利者の許可なんて...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年6月-2】具]]></title>
         <id>hatenablog://entry/6801883189114185202</id>
