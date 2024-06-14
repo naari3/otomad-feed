@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-14T09:04:20.104Z</updated>
+    <updated>2024-06-14T10:04:25.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上半期の反省会]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n2c17a7ab6c3a</id>
+        <link href="https://note.com/dou_akagane_cu/n/n2c17a7ab6c3a"/>
+        <updated>2024-06-14T09:14:04.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+まだ6月中旬では？と思われるでしょうけど、ニコニコ動画が7月まで復旧しない可能性が高く、私もあまり動画のモチベが無いので、一応ここで上半期の反省会をしたいと思います。
+これまでのnoteは、人からの目線とか、愚痴になるとか、色々避けた書き方をしてましたが、今回は反省会なので色々逃げずに書きます。
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[某音MAD合作のRVC禁止に対するお気持ち表明]]></title>
         <id>https://anond.hatelabo.jp/20240614163428</id>
