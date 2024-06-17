@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-17T18:04:56.436Z</updated>
+    <updated>2024-06-17T19:03:57.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[したっけ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1308.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1308.html"/>
+        <updated>2024-06-17T18:21:34.000Z</updated>
+        <summary type="html"><![CDATA[先週何したっけ･･･こういう時はスクショフォルダを漁ってなにか探そううーんこれだけか･･･なんかノースティリスに帰ったりマイクラやったりしてたけどガッツリ遊んだわけじゃないし本当に何もしてないな･･･そういえばきららフォワードを3ヶ月分イッキ読みしたんだったももいろモンタージュが最終回でさみしい  面白かったな～ここしばらく僕の中でフォワードのtier高かったのもももモの存在が大きかったからだし楽しみが一つ減った]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[うごく　とまる]]></title>
         <id>hatenablog://entry/6801883189114413901</id>
