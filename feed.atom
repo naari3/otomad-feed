@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-19T00:14:55.986Z</updated>
+    <updated>2024-06-19T01:30:31.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[山田太郎ものがたり、全話回収しきれ...]]></title>
+        <id>https://note.com/nendo31/n/nf539e3fa0822</id>
+        <link href="https://note.com/nendo31/n/nf539e3fa0822"/>
+        <updated>2024-06-19T00:24:18.000Z</updated>
+        <summary type="html"><![CDATA[山田太郎ものがたり、全話回収しきれてなかったんですよね〜
+忘れないうちに取っとくか 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[したっけ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1308.html</id>
