@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-19T11:04:21.919Z</updated>
+    <updated>2024-06-19T12:06:11.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヒカキン緑イセゲ勉強ヒカキン緑イセ...]]></title>
+        <id>https://note.com/tanbatu/n/n2eea979b375a</id>
+        <link href="https://note.com/tanbatu/n/n2eea979b375a"/>
+        <updated>2024-06-19T12:00:53.000Z</updated>
+        <summary type="html"><![CDATA[ヒカキン緑イセゲ勉強ヒカキン緑イセゲ勉強ヒカキン緑イセゲ勉強（最近の自分） 続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山田太郎ものがたり、全話回収しきれ...]]></title>
         <id>https://note.com/nendo31/n/nf539e3fa0822</id>
