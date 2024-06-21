@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-21T13:05:25.703Z</updated>
+    <updated>2024-06-21T14:04:17.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8割聞き取れないけど配信は見たいか...]]></title>
+        <id>https://note.com/tanbatu/n/nfd05e3b34ddc</id>
+        <link href="https://note.com/tanbatu/n/nfd05e3b34ddc"/>
+        <updated>2024-06-21T13:56:11.000Z</updated>
+        <summary type="html"><![CDATA[8割聞き取れないけど配信は見たいから拡張機能である程度補助してます　精度は結構いい方だと思う
+https://microsoftedge.microsoft.com/addons/detail/speech-translator/jmiekopdidkclpmpandbfblpefalpldo
+続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヒカキン緑イセゲ勉強ヒカキン緑イセ...]]></title>
         <id>https://note.com/tanbatu/n/n2eea979b375a</id>
