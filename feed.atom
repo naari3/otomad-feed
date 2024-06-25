@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-25T12:06:15.926Z</updated>
+    <updated>2024-06-25T13:06:01.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -39,6 +39,16 @@
 続きをみる]]></summary>
         <author>
             <name>youtt6</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブルーアーカイブ The Animation]]></title>
+        <id>https://sehatakuro.github.io/2024/06/23/bluearchive</id>
+        <link href="https://sehatakuro.github.io/2024/06/23/bluearchive"/>
+        <updated>2024-06-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TVアニメ「ブルーアーカイブ The Animation」 撮影 6～12話]]></summary>
+        <author>
+            <name>気合い気合い気合い</name>
         </author>
     </entry>
     <entry>
