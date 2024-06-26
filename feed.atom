@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-26T16:04:42.519Z</updated>
+    <updated>2024-06-26T17:04:08.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -8821,6 +8821,17 @@ https://youtu.be/HwAPLk_sQ3w
 じゃ！]]></summary>
         <author>
             <name>なんて巨大なカニゴット</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故津島雄二氏 正三位に叙される]]></title>
+        <id>hatenablog://entry/6801883189117382819</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20231117/News"/>
+        <updated>2023-11-17T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[故津島雄二氏に正三位 (産経ニュース)
+政府は１７日の閣議で、１０月２５日に９３歳で死去した元厚相の津島雄二氏に正三位を贈ることを決めた。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
