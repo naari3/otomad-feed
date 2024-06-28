@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-28T03:05:29.924Z</updated>
+    <updated>2024-06-28T04:04:37.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ピンクの象氏との今後について]]></title>
+        <id>https://note.com/euro3/n/n8adfd55a68f8</id>
+        <link href="https://note.com/euro3/n/n8adfd55a68f8"/>
+        <updated>2024-06-28T03:37:50.000Z</updated>
+        <summary type="html"><![CDATA[※注意！
+これは告発文でも喧嘩を売るための文でもありません。ただ単に事実を書き表しているnoteです。
+自分的には最善の結果にはならなかったわけですが、それを快く思っていない訳では無いです。
+むしろ和解に近い落とし所だと思って今noteを書いています。
+勘違いせずにお読みください。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超軽く記事書く]]></title>
         <id>hatenablog://entry/6801883189117618236</id>
