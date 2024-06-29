@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-29T11:04:20.141Z</updated>
+    <updated>2024-06-29T12:05:26.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[合作スプレッドシートの標準を決めたい……かも！]]></title>
+        <id>https://note.com/euro3/n/nc8f0416cdec0</id>
+        <link href="https://note.com/euro3/n/nc8f0416cdec0"/>
+        <updated>2024-06-29T11:46:46.000Z</updated>
+        <summary type="html"><![CDATA[どうも、創作意欲がどうあがいても音MADに向かない音MAD作者、ユーロです。
+本日は「今まで合作に参加してきて、スプレッドシートの欲しい物、良かった所」を紹介していきたいと思います。合作の具体名は出しません。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[さしすせその処理【音MAD台詞合わせ私見①】]]></title>
         <id>hatenablog://entry/6801883189117731062</id>
