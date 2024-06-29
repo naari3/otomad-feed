@@ -3877,21 +3877,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/820878482946117142",
-          "author": null,
-          "description": "オートシェイプ - ブログ名 - コピー (2) - コピー",
-          "link": "https://ruiji.hatenablog.jp/entry/20230701/1688140239",
-          "publishedOn": "2023-06-30T15:50:39.000Z",
-          "wordCount": 307,
-          "title": "オートシェイプ",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/r/ruijiiii/20230701/20230701004934.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/r/ruijiiii/20230701/20230701004934.png"
         }
       ]
     },
@@ -8157,16 +8142,6 @@
           "publishedOn": "2023-07-26T15:47:42.000Z",
           "wordCount": 135,
           "title": "自作PC（1/2）",
-          "imageUrl": "https://static.fc2.com/image/noimage.gif"
-        },
-        {
-          "id": "https://dumpmc.blog.fc2.com/blog-entry-115.html",
-          "author": "picm",
-          "description": "アホ",
-          "link": "https://dumpmc.blog.fc2.com/blog-entry-115.html",
-          "publishedOn": "2023-06-30T15:30:00.000Z",
-          "wordCount": 143,
-          "title": "クラウドワークスの出金に失敗し続けたときの話",
           "imageUrl": "https://static.fc2.com/image/noimage.gif"
         }
       ]
