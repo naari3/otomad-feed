@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-29T14:04:22.003Z</updated>
+    <updated>2024-06-29T15:04:09.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シュガーソングとビターステップのYTPMVについての自分語りなど]]></title>
+        <id>https://ytpmv.info/?p=2015</id>
+        <link href="https://ytpmv.info/sugarsongandbitterstep-making/"/>
+        <updated>2024-06-29T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう。まいまいです。 今回の記事では普段はやらない、自作動画について語る企画をやっていきます。たまにはこういうのも良いでしょう。 自分がこだわったポイントや、わかりにくい小ネタについて語っていきます。 ht […]
+The post シュガーソングとビターステップのYTPMVについての自分語りなど first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合作スプレッドシートの標準を決めたい……かも！]]></title>
         <id>https://note.com/euro3/n/nc8f0416cdec0</id>
