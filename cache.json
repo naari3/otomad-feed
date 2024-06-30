@@ -1162,21 +1162,6 @@
             "length": "0"
           },
           "imageUrl": "https://m.media-amazon.com/images/I/51466NC886L._SL500_.jpg"
-        },
-        {
-          "id": "hatenablog://entry/820878482946495432",
-          "author": null,
-          "description": "Discordの自分のサーバーで毎日書いていた短めの日記をちょっと修正してまとめました。いまは飽きてしまって書いてません。また始めなきゃ……。\n \nBaN長 — 2023/05/31 00:24\n文章を読む時にかなり目が滑って困っていたのですが、一旦エディタにコピーして自分が読みやすいタイミングで改行を入れていくと読みやすいことを発見しました。\nでも紙の本はどうしよう。音読は疲れるし時間掛かるからあんまり有効じゃないんだよな～。\n \nBaN長 — 2023/06/01 01:32\n今日はサンプルを並べてガバを作る時間がありました。\n参考にする曲を置いて音MADみたいな気持ちで作ると何らかの形にはなりますが、カッコ良いかというと、うーんという感じで難しいです。\n良い感じになるようにしたいですね。\n \nBaN長 — 2023/06/01 23:27\n今日は週1で外に出る日でした。正直な話、会話とかの調子が良い時と悪い時があって、今日は結構悪めでした。通学に時間が掛かるのであんまりちゃんとご飯を食べないのも悪い気がしますね。\n新任の准教授の話を聞く90分があったのですが、これはかなり良い話をしてくれる人で良かったですね。\nおもろい研究の話を聞いて、僕は研究を真面目にやっとらん体たらくですが、将来的に研究をやれる機会はあるといえばあるので、おもろそうな方向に行けたら良いなって思いました。\n \nBaN長 — 2023/06/03 00:17\n今日は高校の友達と映画を見に行きました。マルサの女です。\n根拠無いけどなんかおもろそうという理由で伊丹十三作品に興味があって見に行ったのですが、めっちゃ良かったです。最初、ちょっと80年代的わざとらしさが強いかも？と感じたけど、別にそうでも無かった。\n音楽がカッコ良い！それ含め音の演出がとても良く、無音の扱い方もカッコ良かった。\n劇の構造上はマル…",
-          "link": "https://erutufnab.hatenablog.com/entry/2023/07/02/142743",
-          "publishedOn": "2023-07-02T05:27:43.000Z",
-          "wordCount": 421,
-          "title": "ショート日報 2023.05.30～2023.06.18",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
@@ -3032,21 +3017,6 @@
           "publishedOn": "2023-11-20T17:51:51.000Z",
           "wordCount": 638,
           "title": "誕生日を迎えた　2023/11/21 と 2023/11/22 が楽しみすぎる",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/820878482946504457",
-          "author": null,
-          "description": "Twitterというサービスは難しいだろう、という自分の考えを一旦ここにまとめてみる。身内向け記事で、この記事内では何も解決していない。\nまず、技術要件的にTwitterというサービスはとても複雑で、そこらの企業がサッと真似できるようなサービスではない。小さい範囲で見ればなにかのフレームワークのチュートリアルでやるような話にも見えるが、これを莫大な数字とともに動作を担保していく、というのはとても大変な話だろう。\n以下に例を挙げてみる。\nはちゃめちゃに莫大すぎる桁の数のツイートをどう保存するのか？\n\n\nManhattanという名前のTwitter用分散データベースを新規に作成、用意している\n\n\nref: Manhattan, our real-time, multi-tenant distributed database for Twitter scale\n1秒間にとんでもない数がポストされるであろうツイートを、どうやって即時でみんなのTLに反映しているのか？\n\n\nイベント処理専用の機構を用意している\n\n\nref: Processing billions of events in real time at Twitter\nなぜ様々な種類の検索クエリを投げてもすぐにレスポンスが返ってくるのか？\n\n\nElasticsearchのクラスタを筆頭に複数の小さなサービスからなる機能群を用意している\n\n\nref: Stability and scalability for search\nblog.twitter.com のInfrastructureに存在する記事を見ていると、基本的にはスケーラビリティを確保し、コスト面やメンテナビリティにも気を遣いながら、技術的に正しくアプローチしようといった基本的な姿勢が伺える。また、既存の環境でさし当たった問題に対して真っ当かつ専門性も高めに新しい…",
-          "link": "https://naari.hatenablog.com/entry/2023/07/02/141042",
-          "publishedOn": "2023-07-02T05:10:42.000Z",
-          "wordCount": 472,
-          "title": "■",
           "enclosure": {
             "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
             "type": "image/png",
