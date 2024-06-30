@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-06-30T15:04:41.946Z</updated>
+    <updated>2024-06-30T16:04:17.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[月報5&6]]></title>
+        <id>https://note.com/wake_otomad/n/nf6d948c675ed</id>
+        <link href="https://note.com/wake_otomad/n/nf6d948c675ed"/>
+        <updated>2024-06-30T15:26:40.000Z</updated>
+        <summary type="html"><![CDATA[先月忘れてた
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ゎけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「わ」どこを使うかで聴き心地が変わる問題【音MAD台詞合わせ私見②】]]></title>
         <id>hatenablog://entry/6801883189118356611</id>
