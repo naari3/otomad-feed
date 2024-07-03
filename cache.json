@@ -130,6 +130,21 @@
       "siteUrl": "https://atarabi.hateblo.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/6801883189118287410",
+          "author": null,
+          "description": "github.com\nSVGに関する機能と、トーンカーブなどのカスタムデータ周りの機能を追加した。\nSVG\nwww.youtube.com\nSVGを読み込む際は、例えばIllustratorでAIファイルにして読み込むなど手間が掛かる（シェイプレイヤーにする場合は読み込んでから更に変換）。そこで、AE、スクリプトの機能を活用し、ドラッグ＆ドロップで、容易にシェイプレイヤーとして読み込めるようにした（静的なベクター素材として用いたい場合は、AIファイルにした方が軽いので無難（特に複雑な場合））。基本的にSVG 1.1を対象にしているが、useタグなど未対応のものがあるし、グラデーション周りはスクリプトから設定することが出来ないのでそもそも対応出来ない。\nAEと入出力\nAEで、ある拡張子のファイルを読み込ませたい等、入出力周りの機能を追加する方法は主に３つある。１つ目は、Premiere Pro SDKを用いて開発するMediaCore Importer/Exporter Plugin。Premiere Pro、After Effects、Media Encoderをサポートするので汎用性が高い。２つ目は、AEIO。AEGPプラグインの中でもメディアファイルの入出力周りを扱うものを便宜上そう名付けてあるようだ。AE専用になるので、明確な意図、意思がない限りにおいては、MediaCoreを選択する方が無難。最後は、AEGPの中のFile Import Manager Suiteを使う方法である。AEIOがピクセルデータを扱うの対し、FIMSuiteは、\nthey are for importing projects which are best represented as After Effects compositions.\n\n\nとあるように、構造や指示が書かれてあるテキスト、バイナリデータを読み取り、それに基づいてコンポジションなどを構築することを想定している。しかし、C++でこういった操作を書くのがそもそも面倒であるし、別にスクリプトでいいんじゃとなってなかなかいい用途が見つからない。ただ、SVGの読み込みには使えるなと以前から思っており、@scriptのRegister.importFlavor()で、スクリプト側で処理を書けるようにしてあるので、今回はそれを用いた。\nXML\nExtendScriptはECMAScript for XML(E4X)を実装しているので、XMLを気軽に扱える。一方、SVGも中身はXMLであるのでこれが使える。ただE4Xは、独自の記法があったり、名前空間を厳密に扱わないと要素を取得できないなど色々と面倒。SVGは大抵http://www.w3.org/2000/svgをデフォルト名前空間に設定してあるので、\ndefault xml namespace = \"http://www.w3.org/2000/svg\";\nという独自記法か、それの代替となるsetDefaultXMLNamespace関数を使うかしてデフォルト名前空間を設定する必要がある。ただ、この命令のスコープが関数ブロックレベルで、毎回毎回指定する必要がある。そこで単純にxmlns=\"http://www.w3.org/2000/svg\"を削除することで、名前空間周りの面倒を取り除いた。\nカスタムバリュー\nwww.youtube.com\nwww.youtube.com\nカスタムデータの中でも、ただのデータの塊みたいなシンプルな構造のものは、どんな構造かさえ分かれば外部から設定することができる。今回は、トーンカーブとコロラマのカスタムデータをスクリプトから取得、設定出来るようにした。\n同梱物\n新たに追加したもの。\n@svg\nSVG周りの機能はStartupスクリプトの@svg.jsxに実装されているので、プラグインだけでなくこれも導入する必要がある。",
+          "link": "https://atarabi.hateblo.jp/entry/2024/07/03/203926",
+          "publishedOn": "2024-07-03T11:39:26.000Z",
+          "wordCount": 373,
+          "title": "After Effectsのスクリプトの可能性を広げる。 その４",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/6801883189082966087",
           "author": null,
           "description": "github.com\nいくつかの機能追加とバグフィクスを行った。マウス周りのフックは他のフックに比べ応用範囲も狭いだろうから（可能性があるのはダブルミドルクリックくらい？）熟成させていたのだが、花雪さんからバグ報告をいただき、その修正にともない熟成も止めることにした。\n[bug]Add to Adobe Media Encoder Queue... · Issue #1 · atarabi/at_script · GitHub\nバグの内容は、!@script_initializer.jsxを導入した状態でAdd to Adobe Media Encoder Queue...をクリックするとエラーが発生します。ということで、最初は信じられなかった。というのも、!@script_initializer.jsxはバイナリ形式にしてあるものの中身はいたって単純なのでそもそもバグを出す余地があるのかというのと、AfterFX.exeでエラーが出ているのだが、何で今更エラーが出るのかという話でもある（!@script_initializer.jsx自体Startup時に実行されるスクリプトであるし）。\n詳しく調べてみると、AMEが立ち上がる際にdynamiclinkmanager経由でAfterFXを新たに起動しており、その条件下においてStartupのスクリプト内でapp.executeCommandなど（他にもあったがあまり調べられてない）のメソッドを実行するとクラッシュするらしかった。dynamiclinkmanagerには思い当たる節があって、ある時からWarp Stabilizerエフェクトがきちんと動かなくなり、それもdynamiclinkmanagerが原因の一端であることまでは分かっていたが、あまり使用することもなかったので放置していた。案の定これも同じ原因で落ちてるらしかった。理由が分かれば対処も早い。\nStartup系のスクリプトには早期リターンしてもらう必要があるので、!@script_initializer.jsx内でdynamiclinkmanagerから実行されてるかの判別を行うAtarabi.isDynamicLink()を定義し、それを呼び出してもらう形にした。\n(() => {\n\n    if (Atarabi.isDynamicLink()) {\n        return;\n    }\n\n    // mainの処理\n})();\n\n\n\nマウス周りのフックは上でも書いたが全然使い道が思いつかない。ただ、作っておけば賢明な人がなにか使い道を思いついてくれるだろう。\n// ダブルミドルクリックをするとコンポをつくる。\nconst uuid = Atarabi.mouse.hook({ button: 'Middle', count: 2 }, ctx => {\n    app.project.items.addComp('Comp', 1000, 1000, 1, 100, 30);\n    return true; // trueを返した場合、デフォルトの処理が呼ばれなくなる。\n});\n\n\n\n\n\n同梱物\n新たに追加したもの。\n@effects_in_use\n\nプロジェクト内で使われているエフェクトをスキャンするスクリプト。同種のものは既にあると思うが、自分が使いやすいと思うものを作った。\n@swatch\n\nカラースウォッチの試作。スクリプトのパネル上でミドルクリックをすると、色パラメータを選択もしくは選択したエフェクト内に初期値から変更済みの色パラメータがあればその色を、それ以外の場合かつ平面レイヤーを選択していればその平面の色を取得する。削除したい場合は、当該色の上でダブルクリックをする。",

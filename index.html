@@ -16,6 +16,50 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2024-07-03">2024-07-03</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://atarabi.hateblo.jp/" target="_blank" rel="noopener">Atarabi-Blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">After Effectsのスクリプトの可能性を広げる。 その４</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://atarabi.hateblo.jp/entry/2024/07/03/203926" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>github.com
+SVGに関する機能と、トーンカーブなどのカスタムデータ周りの機能を追加した。
+SVG
+www.youtube.com
+SVGを読み込む際は、例えばIllustratorでAIファイルにして読み込むなど手間が掛かる（シェイプレイヤーにする場合は読み込んでから更に変換）。そこで、AE、スクリプトの機能を活用し、ドラッグ＆ドロップで、容易にシェイプレイヤーとして読み込めるようにした（静的なベクター素材として用いたい場合は、AIファイルにした方が軽いので無難（特に複雑な場合））。基本的にSVG 1.1を対象にしているが、useタグなど未対応のものがあるし、グラデーション周りはスクリプトから設定することが出来ないのでそもそも対応出来ない。
+AEと入出力
+AEで、ある拡張子のファイルを読み込ませたい等、入出力周りの機能を追加する方法は主に３つある。１つ目は、Premiere Pro SDKを用いて開発するMediaCore Importer/Exporter Plugin。Premiere Pro、After Effects、Media Encoderをサポートするので汎用性が高い。２つ目は、AEIO。AEGPプラグインの中でもメディアファイルの入出力周りを扱うものを便宜上そう名付けてあるようだ。AE専用になるので、明確な意図、意思がない限りにおいては、MediaCoreを選択する方が無難。最後は、AEGPの中のFile Import Manager Suiteを使う方法である。AEIOがピクセルデータを扱うの対し、FIMSuiteは、
+they are for importing projects which are best represented as After Effects compositions.
+
+
+とあるように、構造や指示が書かれてあるテキスト、バイナリデータを読み取り、それに基づいてコンポジションなどを構築することを想定している。しかし、C++でこういった操作を書くのがそもそも面倒であるし、別にスクリプトでいいんじゃとなってなかなかいい用途が見つからない。ただ、SVGの読み込みには使えるなと以前から思っており、@scriptのRegister.importFlavor()で、スクリプト側で処理を書けるようにしてあるので、今回はそれを用いた。
+XML
+ExtendScriptはECMAScript for XML(E4X)を実装しているので、XMLを気軽に扱える。一方、SVGも中身はXMLであるのでこれが使える。ただE4Xは、独自の記法があったり、名前空間を厳密に扱わないと要素を取得できないなど色々と面倒。SVGは大抵http://www.w3.org/2000/svgをデフォルト名前空間に設定してあるので、
+default xml namespace &#x3D; &quot;http://www.w3.org/2000/svg&quot;;
+という独自記法か、それの代替となるsetDefaultXMLNamespace関数を使うかしてデフォルト名前空間を設定する必要がある。ただ、この命令のスコープが関数ブロックレベルで、毎回毎回指定する必要がある。そこで単純にxmlns&#x3D;&quot;http://www.w3.org/2000/svg&quot;を削除することで、名前空間周りの面倒を取り除いた。
+カスタムバリュー
+www.youtube.com
+www.youtube.com
+カスタムデータの中でも、ただのデータの塊みたいなシンプルな構造のものは、どんな構造かさえ分かれば外部から設定することができる。今回は、トーンカーブとコロラマのカスタムデータをスクリプトから取得、設定出来るようにした。
+同梱物
+新たに追加したもの。
+@svg
+SVG周りの機能はStartupスクリプトの@svg.jsxに実装されているので、プラグインだけでなくこれも導入する必要がある。</span>
+                  </div>
+                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2024-07-02">2024-07-02</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -21478,7 +21522,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2024-07-03T11:04:19.458Z">2024-07-03T11:04:19.458Z</time>
+    <time id="build-timestamp" datetime="2024-07-03T12:06:13.108Z">2024-07-03T12:06:13.108Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
