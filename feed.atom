@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-05T19:04:14.672Z</updated>
+    <updated>2024-07-05T20:04:27.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[拝啓、「ピンポーン♪」の「ピン♪」の部分で音合わせをするあなたへ【音MAD台詞合わせ私見③】]]></title>
+        <id>hatenablog://entry/6801883189118734079</id>
+        <link href="https://287mia.hateblo.jp/entry/2024/07/06/044335"/>
+        <updated>2024-07-05T19:43:35.000Z</updated>
+        <summary type="html"><![CDATA[僭越ながら申し伝えたいことがございます。
+ 
+ 
+以下の２つの波形、どちらも「ピン♪」を少し伸ばしたものですが、
+ 
+ 
+①「ピン」をそのまま一音に合わせて伸ばしたもの
+
+ 
+ 
+②ピをそのまま、ィィインを伸ばして少しフェードさせたもの
+
+ 
+ 
+①と②で、聴き心地が変わりませんか？
+ 
+ 
+もし音合わせの音源として使う時、①の方法で伸ばした音源に違和感があれば、②を試してみるのも、アリなのかなと思います。
+ 
+ 
+ぶっちゃけ時と場合にはよりますけどね。
+ 
+ 
+P.S.
+①フェードで重ねた2つの音をドラッグで同時選択、②右クリックで「Glue items」を選択という操作をすると、選択した波形が1つのアイテムとして結合されます。
+ 
+ 
+①フェードで重ねた2つの音をドラッグで同時選択
+
+
+
+②右クリックで「Glue items」を選択
+
+
+
+1つのアイテムとして結合できます
+
+
+
+これにより、トラックに並べられたアイテムの見栄えが幾分かすっきりするのでオススメです。もしご存じでなければ、どうぞお見知りおきを・・・。
+（先日更新した「さしすせその処理」についても応用が利きます）
+（厳密に言えば、2つの音をそのまま合成しているわけでは無く、2つの音を合成した音声ファイルが別途新規に出力され、それを参照している状態、と言った方が正しい。REAPERで設定されている任意のフォルダを探せば、結合した新しい音声ファイルー上記画像でいうところの「01-240706_0431.wav」―が生成されているはずです）
+ 
+ 
+それでは、]]></summary>
+        <author>
+            <name>ぬる湯ま</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近思ってること２]]></title>
         <id>https://note.com/klunakapa/n/n0d7a2cbcd2b9</id>
