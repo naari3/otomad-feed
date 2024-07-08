@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-08T13:06:14.808Z</updated>
+    <updated>2024-07-08T14:04:41.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[先日の「ピンクの象氏との今後について」にて記載の謝罪文についての追記]]></title>
+        <id>https://note.com/euro3/n/nccc0ed15f76f</id>
+        <link href="https://note.com/euro3/n/nccc0ed15f76f"/>
+        <updated>2024-07-08T13:24:20.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[残滓日記─02]]></title>
+        <id>https://note.com/klunakapa/n/ndaeb4839a7e7</id>
+        <link href="https://note.com/klunakapa/n/ndaeb4839a7e7"/>
+        <updated>2024-07-08T13:17:11.000Z</updated>
+        <summary type="html"><![CDATA[人と比較ばっかしちゃって最近辛い。
+ネットを見なければいいという最短の解決方法があるんだけど今あるつながりが無くなっちゃったらという恐怖が少なからずある。いや強がった。めちゃくちゃある。
+自分の実力の再確認をする機会が多くなって比較をしてしまうのでこういうことになってしまう。もしかしたらこれ人生で永遠に続くかもしれない。
+比較せずに自分の好きなものを〜という思考はよく聞くし、それが大事なのはわかってるけどじゃあ全くの他人が自分の好きなものを作っている場合はどうすればいいんだ。非常に苦しい。苦しみながら生きていこうね。
+続きをみる]]></summary>
+        <author>
+            <name>かっぱ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[某所日記移管（2023年11月編）]]></title>
         <id>https://note.com/banfuture9/n/n5954a983c8ef</id>
