@@ -8104,6 +8104,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-123.html",
+          "author": "picm",
+          "description": "これマジ？",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-123.html",
+          "publishedOn": "2024-07-11T04:55:17.000Z",
+          "wordCount": 73,
+          "title": "無職ワイ、Amazon Prime Mastercardの審査に通る",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-122.html",
           "author": "picm",
           "description": "自作PCにケースファンを追加したときの話",
