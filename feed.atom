@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-12T13:06:05.939Z</updated>
+    <updated>2024-07-12T14:04:45.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[240712_大きいので]]></title>
+        <id>https://note.com/kokeshi_short/n/n34970a9b2fbc</id>
+        <link href="https://note.com/kokeshi_short/n/n34970a9b2fbc"/>
+        <updated>2024-07-12T13:43:41.000Z</updated>
+        <summary type="html"><![CDATA[pic.twitter.com/e2FEG4SiRA
+— 幻投光器 (@gentoukouki) July 12, 2024
+
+違う！
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年7月-2】探求、好奇心、究明]]></title>
         <id>hatenablog://entry/6801883189121301313</id>
