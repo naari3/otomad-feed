@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-15T00:16:10.525Z</updated>
+    <updated>2024-07-15T01:31:21.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゆめにっき]]></title>
+        <id>https://note.com/euro3/n/nb8fe2c12860c</id>
+        <link href="https://note.com/euro3/n/nb8fe2c12860c"/>
+        <updated>2024-07-15T01:09:35.000Z</updated>
+        <summary type="html"><![CDATA[太陽が上から迫ってきてるんだけど、核爆弾が落ちてくるから避難しようのゲーム
+始まる前の説明UIで、いらすとや風の人が慌てて避難したりぼーっと見てたりしてた
+だんだんと時間が進むうちに、誤って外に出てしまった人の数が増えて、熱射線にやられたように白い横長の四角で囲われ、目が爆発したり、転んだ瞬間に浴びて注射器が刺さりながら皮膚下の水分の沸騰で出来物ができたり、とにかく多種多様に溶けていく
+昔、「核爆弾の熱射線で死んだ人は永遠に死ぬ前の時間を繰り返している」というのを見てからずっと心に残ってた　今後悔してる
+何が起こったのかと言うと、白い横長の四角が加減速移動しながらループするように移動していた　左から現れる度に死ぬ直前の姿が出てきて、右に行くにつれて姿が溶けていく
+それが画面中埋まるまで、自分も熱くなっていくように感じて、熱く、熱く、熱く、熱く、熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い熱い
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワ八八の公演は音MADですら見ない...]]></title>
         <id>https://note.com/nendo31/n/n465ec61bc89b</id>
