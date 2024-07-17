@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-16T23:04:24.284Z</updated>
+    <updated>2024-07-17T00:15:54.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【コメ付き】短文日記コレクション（2023.12～2024.6）]]></title>
+        <id>https://note.com/banfuture9/n/na259079dac11</id>
+        <link href="https://note.com/banfuture9/n/na259079dac11"/>
+        <updated>2024-07-16T23:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Discord上に日記……というか短文を書き殴っていた場所があり、投稿の堆積で気分が重くなってきてしまったので消す前にここに移管。otogroove前の投稿が全体的に狂っている。時系列順です。
+B:～で日記にコメントを入れてます。
+
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ぜんぜろたのしすぎ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1312.html</id>
