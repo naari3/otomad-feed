@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-19T09:04:22.567Z</updated>
+    <updated>2024-07-19T10:04:34.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ワイヤレスゲーミングマウスを買った]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-124.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-124.html"/>
+        <updated>2024-07-19T09:12:44.000Z</updated>
+        <summary type="html"><![CDATA[感想]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20240719「交通量調査系アルバイトメモ」]]></title>
         <id>hatenablog://entry/6801883189122994252</id>
