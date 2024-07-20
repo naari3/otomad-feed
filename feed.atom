@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-20T12:05:48.139Z</updated>
+    <updated>2024-07-20T13:04:49.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[四角さん最近なになされてますか？]]></title>
+        <id>https://note.com/fourangle/n/n224d94cb60ea</id>
+        <link href="https://note.com/fourangle/n/n224d94cb60ea"/>
+        <updated>2024-07-20T12:29:19.000Z</updated>
+        <summary type="html"><![CDATA[久しぶりです。言ってそんな久しぶりか？久しぶりです。四角です。
+そうです。ニコニコ動画の事件と関係なく、今年の私キチンとした個人作を投稿してないです。適当に作ったindihomeリミックス一本だけです。それ以外、超韓国音MAD特集と音MADラジオとか界隈活動は増えたようにも見えますが、それ以外にはちゃんとした合作や企画に出てるわけでもありません。一応制作中なのはあるんですが、そんな多い数ではありません。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年7月-3】偉業からの最強]]></title>
         <id>hatenablog://entry/6801883189122367047</id>
