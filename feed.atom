@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-21T19:04:14.927Z</updated>
+    <updated>2024-07-21T20:05:20.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[残滓日記─03]]></title>
+        <id>https://note.com/klunakapa/n/n1aa201699f47</id>
+        <link href="https://note.com/klunakapa/n/n1aa201699f47"/>
+        <updated>2024-07-21T19:55:41.000Z</updated>
+        <summary type="html"><![CDATA[人と話すのが好きです。
+訂正、好きな人と話す時間が好きです。そりが合う人とか、自分の言葉を真摯に受け取ってくれてそれを丁寧に返してくれる人と。
+自分は結構言葉を雑に投げたりすることが多く、そのせいで思ってもないこと言っちゃうことが多々あったりしてずっと夜中ベッドで反省会を重ねて気づいたらこんな時間になっちゃうような人間です。
+そんな人間にわざわざ脳のリソースや貴重な時間を割いてくれるのが本当に嬉しくて多々甘えた態度を取ることが多数あります。その行動もまたベッドで大反省会しちゃうんですが。
+まあ↑の特徴全部ひっくるめたらただのコミュ障の陰キャなんですが、そういう部分を出したくないし見せたくないので道化を演じたりわざと知恵が弱い部分を見せたりして茶を濁してる感じで世渡りしてるんですよね。出来てるのかは知らないです。でもなんか人と話してる雰囲気は出せてる気がします。
+続きをみる]]></summary>
+        <author>
+            <name>かっぱ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[親指シフトキーボードを使うため、Japanist 2003を2024年のWindows10で導入するのがむずすぎた件について]]></title>
         <id>https://note.com/anochan/n/nf02ee88b8ef2</id>
