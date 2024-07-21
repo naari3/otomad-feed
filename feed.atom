@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-21T18:04:23.301Z</updated>
+    <updated>2024-07-21T19:04:14.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[親指シフトキーボードを使うため、Japanist 2003を2024年のWindows10で導入するのがむずすぎた件について]]></title>
+        <id>https://note.com/anochan/n/nf02ee88b8ef2</id>
+        <link href="https://note.com/anochan/n/nf02ee88b8ef2"/>
+        <updated>2024-07-21T18:12:54.000Z</updated>
+        <summary type="html"><![CDATA[2003年のソフトウェアを使おうとすること自体間違ってる
+どうもこんにちは。
+最近IBM Model M 1391401キーボードを4万円弱で買った哀れな男です。
+続きをみる]]></summary>
+        <author>
+            <name>動かない鳥のアイコンの民</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四角さん最近なになされてますか？]]></title>
         <id>https://note.com/fourangle/n/n224d94cb60ea</id>
@@ -15519,17 +15532,6 @@ TwitterのAPIが死んだ影響、社会的に相当大きいだろうとは思�
 かなり面白かったしテレビを見てただけとは言え自分の中でも大きめの出来事だったから、どこかでちゃんとした感想を書きたいかも。]]></summary>
         <author>
             <name>音MADとポケモンと私</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トラックがいっぱい REAPERでの5.1chオーディオの使い方]]></title>
-        <id>https://ytpmv.info/?p=1806</id>
-        <link href="https://ytpmv.info/5.1ch-surround-audio/"/>
-        <updated>2023-07-23T06:17:50.000Z</updated>
-        <summary type="html"><![CDATA[REAPERでの5.1chサラウンドオーディオの扱い方について解説しました。
-The post トラックがいっぱい REAPERでの5.1chオーディオの使い方 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
     <entry>

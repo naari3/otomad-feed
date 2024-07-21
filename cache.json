@@ -4247,6 +4247,16 @@
       "siteUrl": "https://note.com/anochan",
       "articles": [
         {
+          "id": "https://note.com/anochan/n/nf02ee88b8ef2",
+          "author": null,
+          "description": "2003年のソフトウェアを使おうとすること自体間違ってる\nどうもこんにちは。\n最近IBM Model M 1391401キーボードを4万円弱で買った哀れな男です。\n続きをみる",
+          "link": "https://note.com/anochan/n/nf02ee88b8ef2",
+          "publishedOn": "2024-07-21T18:12:54.000Z",
+          "wordCount": 2616,
+          "title": "親指シフトキーボードを使うため、Japanist 2003を2024年のWindows10で導入するのがむずすぎた件について",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/7bdf7d3b1a617bef98729f5de50c5cac34f89a76.png"
+        },
+        {
           "id": "https://note.com/anochan/n/nadae81066926",
           "author": null,
           "description": "Realforceを初めて買って文章打ちたくなったので、\nTumblrもWordPressも使いづらいよねというお話をしたいと思います。\n何が言いたいの？\n続きをみる",
@@ -9321,21 +9331,6 @@
           "wordCount": 666,
           "title": "REAPERを買うなら今がお得 REAPERの購入方法について",
           "imageUrl": null
-        },
-        {
-          "id": "https://ytpmv.info/?p=1806",
-          "author": "maimai",
-          "description": "REAPERでの5.1chサラウンドオーディオの扱い方について解説しました。\nThe post トラックがいっぱい REAPERでの5.1chオーディオの使い方 first appeared on YTPMV.info.",
-          "link": "https://ytpmv.info/5.1ch-surround-audio/",
-          "publishedOn": "2023-07-23T06:17:50.000Z",
-          "wordCount": 989,
-          "title": "トラックがいっぱい REAPERでの5.1chオーディオの使い方",
-          "enclosure": {
-            "url": "https://ytpmv.info/wp-content/uploads/2023/07/test3ch.wav",
-            "length": "5557290",
-            "type": "audio/wav"
-          },
-          "imageUrl": "https://ytpmv.info/wp-content/uploads/2023/07/image-10.png"
         }
       ]
     }
