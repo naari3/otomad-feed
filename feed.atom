@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-25T12:06:33.936Z</updated>
+    <updated>2024-07-25T13:06:19.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自分の個人鯖についての解説]]></title>
+        <id>https://note.com/euro3/n/nc84ba76baee0</id>
+        <link href="https://note.com/euro3/n/nc84ba76baee0"/>
+        <updated>2024-07-25T12:08:51.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ユーロです。
+今日は自分の運営してる個人鯖群についてお話しようと思います。
+普通の個人鯖とは全く違うので、新鮮な感じでご覧ください。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニコニコ動画で活動していた音MAD作者の末路]]></title>
         <id>https://note.com/nanana555/n/n4b99cd38f608</id>
