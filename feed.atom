@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-26T13:06:09.330Z</updated>
+    <updated>2024-07-26T14:04:14.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[作品を探しています]]></title>
+        <id>https://anond.hatelabo.jp/20240726224625</id>
+        <link href="https://anond.hatelabo.jp/20240726224625"/>
+        <updated>2024-07-26T13:46:25.000Z</updated>
+        <summary type="html"><![CDATA[登場人物がネットで...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[anond:20240726220723]]></title>
+        <id>https://anond.hatelabo.jp/20240726220830</id>
+        <link href="https://anond.hatelabo.jp/20240726220830"/>
+        <updated>2024-07-26T13:08:30.000Z</updated>
+        <summary type="html"><![CDATA[動画の趣味でしょ
+	...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ピンクの象氏のnoteについての僕のリアクション、今後について]]></title>
+        <id>https://note.com/euro3/n/n0a75592c1310</id>
+        <link href="https://note.com/euro3/n/n0a75592c1310"/>
+        <updated>2024-07-26T13:04:41.000Z</updated>
+        <summary type="html"><![CDATA[まずこちらもお読み下さりありがとうございます。
+まだピンクの象氏のnoteを見てない方がもしいらしたら、見てください。
+僕はピンクの象氏と寄りを戻したかったり、作者としての魅力を信じていたが故に、タスク管理だのなんだの言ってました。
+しかし、思っていたより溝は深かったようで、裏の結果としては完璧には至りませんでした。
+それでも話し合いにより自分の納得行く結果にはなりました。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年7月-4】絶・体調不良討滅戦]]></title>
         <id>hatenablog://entry/6801883189124766729</id>
