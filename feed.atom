@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-29T12:06:44.523Z</updated>
+    <updated>2024-07-29T13:06:53.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロゴまとめ]]></title>
+        <id>hatenablog://entry/6801883189125617407</id>
+        <link href="https://ruiji.hatenablog.jp/entry/20240729/1722255445"/>
+        <updated>2024-07-29T12:17:25.000Z</updated>
+        <summary type="html"><![CDATA[こんなの作れるよ～って記事です。今はそんなに作る気ないです！
+名前
+名刺に入れてたやつ(2024)
+個人作
+カービィの奇ン妙ール(2020)
+テレサスターしっぱ～い(2021)
+合作
+FavBatoMædIV Amethyshoooot!!!(2022)
+カビキラー合作2021 ~カビットモンスター 25th Anniversary~(2021)
+のんのんびより こらぼれーしょん！ りぴーと(2021)
+のんのんびより こらぼれーしょん！ のんすとっぷ(2023)
+ノートルダムの真似合作(2020)
+ビデオンゲームス ブラックレーベル(2023)
+その他
+nerdtronics2(2022)
+ 
+名前
+名刺に入れてたやつ(2024)
+
+ベースはExcelで作りました。
+ 
+個人作
+カービィの奇ン妙ール(2020)
+
+文字部分だけいじってます。
+ 
+テレサスターしっぱ～い(2021)
+
+Excelで作りました。
+ 
+合作
+FavBatoMædIV Amethyshoooot!!!(2022)
+
+上半分はめっちゃいい感じにできたと思う！
+下半分はもうちょっとテクスチャいい感じにしたかったな～。
+ 
+カビキラー合作2021 ~カビットモンスター 25th Anniversary~(2021)
+
+ポケモン ソード・シールド風にしました。
+3D文字は全部2Dで作ってるので、ここから直したり使いまわしたりはできないです…。
+ 
+のんのんびより こらぼれーしょん！ りぴーと(2021)
+
+イラスト部分も描いてます。がんばりすぎでは？
+ 
+のんのんびより こらぼれーしょん！ のんすとっぷ(2023)
+
+ベースは前回から変えてません！イラストにだいぶ苦戦しました。
+ 
+ノートルダムの真似合作(2020)
+
+Excelでテキトーに線引いて作ったやつ切り取っただけです。
+ 
+ビデオンゲームス ブラックレーベル(2023)
+
+原曲ロゴに寄せてます。「ブラックレーベル」の字はだいぶ気に入っています。
+ 
+その他
+nerdtronics2(2022)
+
+読みやすさ重視で作ったので、あんまり冒険してません！]]></summary>
+        <author>
+            <name>ブログ名 - コピー (2) - コピー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AviutlのffmpegOUTでAPNGを書き出すプリセット配布]]></title>
         <id>https://ytpmv.info/?p=2030</id>
