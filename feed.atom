@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-07-31T18:05:37.692Z</updated>
+    <updated>2024-07-31T19:04:01.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[デイリー]]></title>
+        <id>https://note.com/aun6june/n/n61eec3683069</id>
+        <link href="https://note.com/aun6june/n/n61eec3683069"/>
+        <updated>2024-07-31T18:09:07.000Z</updated>
+        <summary type="html"><![CDATA[・知り合いがツイッターで日常的なツイートをしたいけどどんなのがいいかわからないって言ってたから例を挙げる
+　┣ハサミの刃が調子悪いから歯医者行ってきた
+　┣外暖かくて快晴で最高。死にたい。
+　┣←これって罫線で変換できるのに気づいて使いたくなるけど面倒
+　　┗これ多用する人どうやって入力してるんだろう
+　　　┗いうて┗と┣くらいしか使わないか
+　　　　┃　　　　┣って思ったけど面白い使い方もできそう　　　　　　　　　　　
+　　　　┃　　　　┣いや滑るかも。どう思う？
+　　　　┣滑る　　┗滑らない┓
+　　　　┃　　　　　　　　　┃
+　　　　┃　　　　　　　　　┃
+　　　　┗━━━━━━━━━┻━縦の┃つながらないのキモすぎる
+　　　　　　　　　　　　　　　　　　│
+　　　　　　　　　　　　　　　　　　└細い│もずれるのなんなんだ
+　　　　　　　　　　　　　　　　　　　　　├あ～
+　　　　　　　　　　　　　　　　　　　　　│
+　　　　　　　　　　　　　　　　　　　　　├あ～～～～～
+　　　　　　　　　　　　　　　　　　　　　│
+　　⏀　　　　　　　　　　　　　　　　   ├半角スペースでもずれる～～～～⏈　＜仕事中いつもこんなこと考えてる
+～～⏌┐
+
+
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月報7（音MAGAZINEの話）]]></title>
         <id>https://note.com/wake_otomad/n/nd7c500932983</id>
