@@ -3622,21 +3622,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/820878482954980459",
-          "author": null,
-          "description": "(1) ある不具合を直したい\n(2) プログラムの●●行目に不具合がある\n(3) ●●行目までテキストエディタをスクロールしたい\n(4) マウスホイールを回す\n(5) ●●行目に到達したので直し方を考える\n(6) プログラムを書き換える\n \n \n \nところが！！\n \n \n \nめっちゃ眠いので！！\n \n \n \nものが覚えられない！！*1\n \n \n \nその結果！！\n \n \n \n\n(4) マウスホイールを回す\nこれしか覚えていないので、マウスホイールを回すだけの人間ができあがる！！\n \n \n \nニャーワン(ニャーンのタイプミス)\n \n \n\n*1:ミューミューからスタンド攻撃を受けているわけではない。",
-          "link": "https://ruiji.hatenablog.jp/entry/20230803/1691032052",
-          "publishedOn": "2023-08-03T03:07:32.000Z",
-          "wordCount": 329,
-          "title": "記憶力",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },

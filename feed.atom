@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-01T15:04:38.313Z</updated>
+    <updated>2024-08-01T16:04:35.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -15484,51 +15484,6 @@ open.spotify.com
         <summary type="html"><![CDATA[果樹園が形になってきたんで、早速ハーブの種をつくってみようクミロミ信者なら大量の果物をひろって腐らせるだけでまあまあ種が集まるのでらくちんぽそれでもハーブの種になる確率ってかなり低いみたいで、これまでも収穫して食いきれない分を腐らせては種に換えていたものの滅多にお目にかかることはありませんでしたしかし、腐って種になる時の判定って果物1個1個じゃなくてスタックごとなので、例えば30個スタックさせたリンゴ]]></summary>
         <author>
             <name>柊殿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[記憶力]]></title>
-        <id>hatenablog://entry/820878482954980459</id>
-        <link href="https://ruiji.hatenablog.jp/entry/20230803/1691032052"/>
-        <updated>2023-08-03T03:07:32.000Z</updated>
-        <summary type="html"><![CDATA[(1) ある不具合を直したい
-(2) プログラムの●●行目に不具合がある
-(3) ●●行目までテキストエディタをスクロールしたい
-(4) マウスホイールを回す
-(5) ●●行目に到達したので直し方を考える
-(6) プログラムを書き換える
- 
- 
- 
-ところが！！
- 
- 
- 
-めっちゃ眠いので！！
- 
- 
- 
-ものが覚えられない！！*1
- 
- 
- 
-その結果！！
- 
- 
- 
-
-(4) マウスホイールを回す
-これしか覚えていないので、マウスホイールを回すだけの人間ができあがる！！
- 
- 
- 
-ニャーワン(ニャーンのタイプミス)
- 
- 
-
-*1:ミューミューからスタンド攻撃を受けているわけではない。]]></summary>
-        <author>
-            <name>ブログ名 - コピー (2) - コピー</name>
         </author>
     </entry>
     <entry>
