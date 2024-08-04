@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-04T17:04:33.771Z</updated>
+    <updated>2024-08-04T18:04:36.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/na4721c314b6c</id>
+        <link href="https://note.com/ecolidelvsvc11/n/na4721c314b6c"/>
+        <updated>2024-08-04T17:30:29.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（イラスト）生成AIと音MADの相関関係、類似性、自論、感情論などを纏めたnote]]></title>
         <id>https://note.com/euro3/n/n469a5e1a471e</id>
