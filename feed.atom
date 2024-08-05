@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-05T12:06:21.273Z</updated>
+    <updated>2024-08-05T13:06:41.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニコゾンでのDL方法]]></title>
+        <id>https://note.com/furadiru_99/n/n042d811e62e1</id>
+        <link href="https://note.com/furadiru_99/n/n042d811e62e1"/>
+        <updated>2024-08-05T12:35:25.000Z</updated>
+        <summary type="html"><![CDATA[まずDL対象のタイトルかURLを把握しておく
+
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近思ってること。２期２話]]></title>
         <id>https://note.com/klunakapa/n/n6c6661d624a0</id>
