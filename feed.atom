@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-05T14:04:41.385Z</updated>
+    <updated>2024-08-05T15:04:21.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ふるさと納税]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1315.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1315.html"/>
+        <updated>2024-08-05T14:51:39.000Z</updated>
+        <summary type="html"><![CDATA[急にすげえやりたくなってオブリビオン再インスコしちゃった日本語化できなくなってからまともに触ってなかったけど、今は有志の方によりSteam版でも日本語で遊べるようになっていて大変ありがたいまた良い時代になったもんだちゃんと遊ぶのは7年ぶり？ でも不思議と懐かしい気はしないね1年前のアニメがすでに懐かしく感じるのに、このゲームはついこの間までやってたような感覚すらあるのは何なんでしょうかで、なぜ急にやりたく]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニコゾンでのDL方法]]></title>
         <id>https://note.com/furadiru_99/n/n042d811e62e1</id>
