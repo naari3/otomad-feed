@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-06T11:04:09.102Z</updated>
+    <updated>2024-08-06T12:06:32.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YTPMVとか音MADにおける原型の残し方]]></title>
+        <id>https://note.com/54654658/n/n3ee005466dbd</id>
+        <link href="https://note.com/54654658/n/n3ee005466dbd"/>
+        <updated>2024-08-06T11:20:42.000Z</updated>
+        <summary type="html"><![CDATA[YTPMVとか音MADを作っておりますきゅうと申します。みなさんが好きな素材を音程合わせに使ったら原型が消えてしまいなんやねんとなった経験あると思います。自分なりに色々試したことを書いていきます！
+
+⚠️注意⚠️
+このnoteでは原型を残すことについてギャーギャー説明しますが、いわゆるシンセ化などによって原型がなくなることは悪いことだとは思ってないです。どっちにするかそこは自分で決めていい感じに使い分けましょう
+
+ワッハッハ
+続きをみる]]></summary>
+        <author>
+            <name>きゅう</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近]]></title>
         <id>hatenablog://entry/6801883189127501598</id>
