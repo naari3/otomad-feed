@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-09T00:15:57.186Z</updated>
+    <updated>2024-08-09T01:31:10.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メドスタダに参加しました記事]]></title>
+        <id>https://note.com/sweets_farting/n/na072ec6a7274</id>
+        <link href="https://note.com/sweets_farting/n/na072ec6a7274"/>
+        <updated>2024-08-09T01:13:38.000Z</updated>
+        <summary type="html"><![CDATA[ニコニコメドレースタートダッシュに参加しました。ぜひ見てください。
+続きをみる]]></summary>
+        <author>
+            <name>角煮サイダ一</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[残滓日記─04]]></title>
         <id>https://note.com/klunakapa/n/n99ba4a283fab</id>
