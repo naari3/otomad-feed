@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-11T14:04:23.071Z</updated>
+    <updated>2024-08-11T15:04:26.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[初めて曲を作った（解説あり）]]></title>
+        <id>hatenablog://entry/6801883189128798925</id>
+        <link href="https://erutufnab.hatenablog.com/entry/2024/08/11/232112"/>
+        <updated>2024-08-11T14:21:12.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com
+初めて曲を作りました。厳密に言うと、初めて完成しました。どうやって作ったかを忘れると勿体ないので、メモとして残せるものを残しておきます。
+音
+ベース
+まず、オーディオインターフェースを最近買った。Arturia MiniFuse 2。
+ARTURIA ( アートリア ) / MINIFUSE 2 WH USBオーディオインターフェイス
+上のリンクはサウンドハウスの商品ページに飛ぶが、「カタログスペックと睨めっこしながら頭悩ませて購入渋るより、さっさと買って1日でも早く取り組む方が良かったりもします。」というレビューに食らったので、これにしようと決めた。色々迷っていた気もするが、基本的にはKORG monologueやNoise Toasterといった手持ちのアナログ機材を録音したいという目的だったので、2入力くらいあれば事足りるとだろうと思った。実際大丈夫だった。今後入力を増やしたくなったらミキサーを買うつもりである。
+ハード機材によくある購入特典のソフトウェアが付いており、その中にSpliceの3ヶ月無料プランが入っていたので、期せずしてSpliceも使えるようになった。
+渡りに船と何かサンプルから曲を作ってみたくなり、アシッドハウスから始まってガバになる曲を作ろうと思ってAcidなベースラインのサンプルを探すことから始めた。
+splice.com
+マジでそのままの名を冠した「Acid House」というサンプルパックに入っている200個くらいのベースラインのサンプルを全部聞き、一番音が太くてカッコ良いと思ったサンプルを選んだ。このベースを展開させていけば曲になるかなと思った。
+BPMは一番好きなBPMであるところの200とし、とりあえず音MADの要領でベースラインのテンポを合わせた。元が120のサンプルなので、若干遅くしたことになる。リズ…]]></summary>
+        <author>
+            <name>9つのサボテンが喋った</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近2]]></title>
         <id>https://note.com/ecolidelvsvc11/n/na985b8506d9b</id>
