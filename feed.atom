@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-12T17:04:19.667Z</updated>
+    <updated>2024-08-12T18:06:12.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[関わった動画の思い出、影響元（2023夏～）]]></title>
+        <id>https://note.com/takoo/n/n99a26d4c5577</id>
+        <link href="https://note.com/takoo/n/n99a26d4c5577"/>
+        <updated>2024-08-12T17:13:15.000Z</updated>
+        <summary type="html"><![CDATA[ニコニコ動画復活嬉しい！！
+しばらく書いていると、いろいろな動画に影響を受けていることに気づいたので、影響を受けた動画を中心に書いていこうと思う。
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近3]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n535b4e9e15bb</id>
