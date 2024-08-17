@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-17T10:05:07.358Z</updated>
+    <updated>2024-08-17T11:04:04.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mr Mrのラスサビ後半の作り方を考える]]></title>
+        <id>https://note.com/dou_akagane_cu/n/ncb1a12227c26</id>
+        <link href="https://note.com/dou_akagane_cu/n/ncb1a12227c26"/>
+        <updated>2024-08-17T10:29:28.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、あかがねです。
+皆さんはナルワルさんのMr Mrという音MADをご存知でしょうか？知らない方は是非先に動画を観てきてください。
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いよいよ8月も後半に入ってきてスト...]]></title>
         <id>https://note.com/nendo31/n/n9cb4d00b20d3</id>
