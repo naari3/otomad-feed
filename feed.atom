@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-19T19:04:19.643Z</updated>
+    <updated>2024-08-19T20:04:41.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[先輩、好きっす]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1317.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1317.html"/>
+        <updated>2024-08-19T19:19:48.000Z</updated>
+        <summary type="html"><![CDATA[アプデで待望の撫でボンプ実装なんてかわいいんだイアスもなでたいんだがさっそく青衣センパイを手に入れ遊びまくってます  たのしい！モーションわけわかんねーけどなんか気持ちいい  気持ちいいのが一番大事撃破はクレタしか育ててなかったから戦力的にも助かってる、センパイがいなけりゃ今頃エレンのお供はニコになってたよま、エレンって出ずっぱりのDPSだから、青衣と相性良くもないんですが、悪くもないのでとりあえずはね]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【解決か？】タイタニックの主題歌がｴﾝﾀﾞｰｰｰｰｰｰｰｲﾔｰｰｰｰだと思い込まれてる理由]]></title>
         <id>https://anond.hatelabo.jp/20240819105603</id>
