@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-23T14:04:19.808Z</updated>
+    <updated>2024-08-23T15:04:35.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近4]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/ndc4c92d7f378</id>
+        <link href="https://note.com/ecolidelvsvc11/n/ndc4c92d7f378"/>
+        <updated>2024-08-23T14:31:28.000Z</updated>
+        <summary type="html"><![CDATA[『阿波連さんははかれない』視聴完了
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年8月-4】ドラゴン]]></title>
         <id>hatenablog://entry/6802340630900545764</id>
