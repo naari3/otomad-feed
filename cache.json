@@ -3538,7 +3538,23 @@
       "title": "七曲り",
       "feedUrl": "https://sevensheets.hatenablog.com/rss",
       "siteUrl": "https://sevensheets.hatenablog.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "hatenablog://entry/6801883189130514899",
+          "author": null,
+          "description": "この記事は中国語初学者、つまりまったく中国語を勉強したことがない人が中国語学習を始めるにあたって使えそうなものの情報を知っている範囲で書いていく記事です。\nおそらく検索すれば中国語のプロが書いた、主に本気で中国語を習得したい人（仕事で必要になったビジネスマンとか）向けの入門用記事がいくらでも出てくると思うので、この記事は「音MAD華を見てビリビリの音MADも少し見てみたくなった」とか「中国産のソシャゲにハマったから本国内のコンテンツ情報もちょっと知りたい」みたいな趣味のためにちょっと中国語に触れてみたいけど、合わなくてすぐやめちゃってもまあ別にOK、ぐらいのノリの人を想定して書いていきます。無料で使えるものを優先的に書きます。\n \n\n\n記事のサムネにはかわいい女の子を映しておくのが国際的マナーなので\nアズールプロミリア(蓝色星原旅谣)のルララちゃんを置いておきます。\n\n目次\n①スマホアプリ\nDuolingo\nSuperChinese\nDadadada\n②Youtube動画\n③東外大言語モジュール\n④図書館\n⑤参考書を買う\n⑥NHK語学ラジオ\n⑦第二外国語で選択\nおまけ:翻訳機について\n①スマホアプリ\nDuolingo\nja.duolingo.com\n中国語以外にもさまざまな言語を勉強できる有名アプリ。「ちょっとお試しでやってみたい」という人にうってつけのアプリです。大手アプリだけあって動作も軽快で、UIも比較的洗練されています。最後まで無料で出来るというのも大きな魅力。\nしかし中国語に特化したアプリというわけではなく、解説が少ない、中途半端なところでコースが終わり中級者以上向けの内容が少ないなどの欠点があるため、これ一本だけで学習を続けるのは難しいかと思います。\nSuperChinese\nDuolingoと似た形式の中国語に特化したアプリ。Duolingoより解説が詳しく、…",
+          "link": "https://sevensheets.hatenablog.com/entry/2024/08/24/213355",
+          "publishedOn": "2024-08-24T12:33:55.000Z",
+          "wordCount": 344,
+          "title": "中国語学習を軽く始めてみたい人向けに使えそうなものを書いていく",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/S/SevenSheets/20240818/20240818200958.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/S/SevenSheets/20240818/20240818200958.png"
+        }
+      ]
     },
     {
       "title": "ShiMaのブログ",
