@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-25T11:04:17.664Z</updated>
+    <updated>2024-08-25T12:05:57.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8月25日の日記]]></title>
+        <id>https://note.com/nano_87g/n/naf546aa30ca6</id>
+        <link href="https://note.com/nano_87g/n/naf546aa30ca6"/>
+        <updated>2024-08-25T11:25:44.000Z</updated>
+        <summary type="html"><![CDATA[日記じゃないです！順不同
+ウツドン？
+続きをみる]]></summary>
+        <author>
+            <name>なのはなぐらむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国語学習を軽く始めてみたい人向けに使えそうなものを書いていく]]></title>
         <id>hatenablog://entry/6801883189130514899</id>
