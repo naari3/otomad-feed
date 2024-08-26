@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-26T15:04:25.300Z</updated>
+    <updated>2024-08-26T16:04:45.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024/8/24]]></title>
+        <id>https://note.com/aun6june/n/n0648408f8093</id>
+        <link href="https://note.com/aun6june/n/n0648408f8093"/>
+        <updated>2024-08-26T15:08:44.000Z</updated>
+        <summary type="html"><![CDATA[流したものについてはこの動画見て。
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[先輩、すすきっす]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1318.html</id>
