@@ -3641,6 +3641,21 @@
       "siteUrl": "https://underdefinition.hatenadiary.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/6802340630901416292",
+          "author": null,
+          "description": "muneohouse.net\n管理人のhightimeさんから連絡頂きました。自宅サーバからレンタルサーバへ移転されたそうです。なおこの移転に伴い「楽曲・動画のすべては現時点でネット上にあるモノのみになります。」とのこと。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20240826/p1",
+          "publishedOn": "2024-08-26T14:59:01.000Z",
+          "wordCount": 939,
+          "title": "muneohouse.net サーバ移転",
+          "enclosure": {
+            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/u/underdefinition/20230422/20230422063039.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/u/underdefinition/20230422/20230422063039.jpg"
+        },
+        {
           "id": "hatenablog://entry/6801883189125385945",
           "author": null,
           "description": "The Muneo House (2002, 128 kbps, File) - Discogs\nThe Muneo House (EU Ver) (2002, 128 kbps, File) - Discogs\nThe Muneo House 2nd -House 4 Islands- (2002, 160 kbps, File) - Discogs\nThe Muneo House 4th -Ah ! Show !! Low !!!- (2002, 160 kbps, File) - Discogs\n1st日本版、1stEU版、2nd、4thの4件が登録されていました。作業を行ったのは2018年に7thアルバム、10thアルバムを登録したのと同じ方。今回登録されたどのアルバムについても、編集履歴のコメント欄に情報元として記載されているのがmuneohouse.netさんの旧ドメイン時代(https://www.muneo-house.net)のページだったので、おそらく7th&10thを登録した当時に下調べまでは済ませていたのだろうと推察します。",
@@ -8063,6 +8078,16 @@
       "feedUrl": "https://hiiragidono.blog.fc2.com/?xml",
       "siteUrl": "https://hiiragidono.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://hiiragidono.blog.fc2.com/blog-entry-1318.html",
+          "author": "柊殿",
+          "description": "近頃はクレタと11号で零号ホロウを周りまくってます  荒波ですレゾブレムをたくさん集めて刀耕火炎全クリしたありえないダメージが出まくるのでやっていて相当楽しいが、ニネヴェと戦うのがおもしろい訳ではないので一刻も早い新たな大ボスの実装が待たれる11号とクレタの育成はいいカンジになってきた･･･けど経験値やらスキル素材やら全てが足りないおかげでディスク厳選なんて全くできないし、他のキャラは50レベまで上げて放置",
+          "link": "https://hiiragidono.blog.fc2.com/blog-entry-1318.html",
+          "publishedOn": "2024-08-26T15:01:28.000Z",
+          "wordCount": 545,
+          "title": "先輩、すすきっす",
+          "imageUrl": null
+        },
         {
           "id": "https://hiiragidono.blog.fc2.com/blog-entry-1317.html",
           "author": "柊殿",
