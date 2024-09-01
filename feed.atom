@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-01T05:05:22.745Z</updated>
+    <updated>2024-09-01T06:06:08.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年の夏を振り返る]]></title>
+        <id>hatenablog://entry/6802340630902949405</id>
+        <link href="https://lixy.hatenablog.com/entry/2024/09/01/%E4%BB%8A%E5%B9%B4%E3%81%AE%E5%A4%8F%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B"/>
+        <updated>2024-09-01T05:27:02.000Z</updated>
+        <summary type="html"><![CDATA[イクー]]></summary>
+        <author>
+            <name>空回り</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[朝比奈まふゆのモデルになった事件があるのではないか【プロセカ考察】]]></title>
         <id>hatenablog://entry/6802340630902885867</id>
