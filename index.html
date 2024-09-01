@@ -21183,37 +21183,6 @@ VIVANTが面白い。
     </ul>
   </section>
   <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2023-09-02">2023-09-02</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://atarabi.hateblo.jp/" target="_blank" rel="noopener">Atarabi-Blog</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">After Effectsのスクリプトの可能性を広げる。</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://atarabi.hateblo.jp/entry/2023/09/02/211426" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>AEで処理を自動化する際によく用いられるのはスクリプトであるが、プラグインにもエフェクト以外にAEGPというスクリプト的なことも出来るタイプのものがある。大概のことはスクリプトでも出来るので、あまり出る幕がないのだが、AEGPのAPIを用いないと出来ないこともままあって、そういう場合は渋々C++を書かざるを得ない。しかし、特に単機能のものを書くためだけに、わざわざC++を持ち出すのも面倒であるし、何とかしたい。そこで、スクリプト側からAEGPのAPIを呼び出せるようなラッパー的なライブラリを作ることを考える。
-
-つまり、斜線部を考える。こういうのをあらかじめ作ってさえおけば、あとはC++に立ち入ることなしに、スクリプトだけで完結するので、非常に便利である。ということで作った。
-github.com
-初代はどういうことが出来るのか色々実験した結果、迷走し複雑化したので、それを糧に二代目をあらためて作り直したものの、今度は別の構想がなかなか煮詰まらず、遅れに遅れた。
-at_script/script/types/@script.d.ts at main · atarabi/at_script · GitHub
-主なAPIはここを参照すればよいが、 document はまだ整備されてない。
-Releases · atarabi/at_script · GitHub
-必要なものは上から @script.zip をダウンロードすれば手に入る*1。
-最低限必要なものは、 プラグイン*2と Startup 内の !@script_initializer.jsx。後者は必要不可欠というわけではないが、Startup時にAPIを使用したい場合に、初期化処理のために用いる。というのも、AEのスクリプト機能自体がプラグインで実装されているため、こちらのプラグインがそれより先に読み込まれた場合に、…</span>
-                  </div>
-                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kareobana/20230827/20230827162829.png" class="card article-thumbnail" data-image />
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-09-29">2022-09-29</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -21647,7 +21616,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2024-08-31T23:04:15.004Z">2024-08-31T23:04:15.004Z</time>
+    <time id="build-timestamp" datetime="2024-09-01T00:20:01.447Z">2024-09-01T00:20:01.447Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

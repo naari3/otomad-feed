@@ -188,21 +188,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kareobana/20230916/20230916113401.png"
-        },
-        {
-          "id": "hatenablog://entry/820878482962568269",
-          "author": null,
-          "description": "AEで処理を自動化する際によく用いられるのはスクリプトであるが、プラグインにもエフェクト以外にAEGPというスクリプト的なことも出来るタイプのものがある。大概のことはスクリプトでも出来るので、あまり出る幕がないのだが、AEGPのAPIを用いないと出来ないこともままあって、そういう場合は渋々C++を書かざるを得ない。しかし、特に単機能のものを書くためだけに、わざわざC++を持ち出すのも面倒であるし、何とかしたい。そこで、スクリプト側からAEGPのAPIを呼び出せるようなラッパー的なライブラリを作ることを考える。\n\nつまり、斜線部を考える。こういうのをあらかじめ作ってさえおけば、あとはC++に立ち入ることなしに、スクリプトだけで完結するので、非常に便利である。ということで作った。\ngithub.com\n初代はどういうことが出来るのか色々実験した結果、迷走し複雑化したので、それを糧に二代目をあらためて作り直したものの、今度は別の構想がなかなか煮詰まらず、遅れに遅れた。\nat_script/script/types/@script.d.ts at main · atarabi/at_script · GitHub\n主なAPIはここを参照すればよいが、 document はまだ整備されてない。\nReleases · atarabi/at_script · GitHub\n必要なものは上から @script.zip をダウンロードすれば手に入る*1。\n最低限必要なものは、 プラグイン*2と Startup 内の !@script_initializer.jsx。後者は必要不可欠というわけではないが、Startup時にAPIを使用したい場合に、初期化処理のために用いる。というのも、AEのスクリプト機能自体がプラグインで実装されているため、こちらのプラグインがそれより先に読み込まれた場合に、…",
-          "link": "https://atarabi.hateblo.jp/entry/2023/09/02/211426",
-          "publishedOn": "2023-09-02T12:14:26.000Z",
-          "wordCount": 516,
-          "title": "After Effectsのスクリプトの可能性を広げる。",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kareobana/20230827/20230827162829.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kareobana/20230827/20230827162829.png"
         }
       ]
     },

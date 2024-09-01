@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-08-31T23:04:15.054Z</updated>
+    <updated>2024-09-01T00:20:01.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -15376,25 +15376,6 @@ VIVANTが面白い。
 夏のことを少し好きになれそうな気がする。]]></summary>
         <author>
             <name>音MADとポケモンと私</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After Effectsのスクリプトの可能性を広げる。]]></title>
-        <id>hatenablog://entry/820878482962568269</id>
-        <link href="https://atarabi.hateblo.jp/entry/2023/09/02/211426"/>
-        <updated>2023-09-02T12:14:26.000Z</updated>
-        <summary type="html"><![CDATA[AEで処理を自動化する際によく用いられるのはスクリプトであるが、プラグインにもエフェクト以外にAEGPというスクリプト的なことも出来るタイプのものがある。大概のことはスクリプトでも出来るので、あまり出る幕がないのだが、AEGPのAPIを用いないと出来ないこともままあって、そういう場合は渋々C++を書かざるを得ない。しかし、特に単機能のものを書くためだけに、わざわざC++を持ち出すのも面倒であるし、何とかしたい。そこで、スクリプト側からAEGPのAPIを呼び出せるようなラッパー的なライブラリを作ることを考える。
-
-つまり、斜線部を考える。こういうのをあらかじめ作ってさえおけば、あとはC++に立ち入ることなしに、スクリプトだけで完結するので、非常に便利である。ということで作った。
-github.com
-初代はどういうことが出来るのか色々実験した結果、迷走し複雑化したので、それを糧に二代目をあらためて作り直したものの、今度は別の構想がなかなか煮詰まらず、遅れに遅れた。
-at_script/script/types/@script.d.ts at main · atarabi/at_script · GitHub
-主なAPIはここを参照すればよいが、 document はまだ整備されてない。
-Releases · atarabi/at_script · GitHub
-必要なものは上から @script.zip をダウンロードすれば手に入る*1。
-最低限必要なものは、 プラグイン*2と Startup 内の !@script_initializer.jsx。後者は必要不可欠というわけではないが、Startup時にAPIを使用したい場合に、初期化処理のために用いる。というのも、AEのスクリプト機能自体がプラグインで実装されているため、こちらのプラグインがそれより先に読み込まれた場合に、…]]></summary>
-        <author>
-            <name>Atarabi-Blog</name>
         </author>
     </entry>
     <entry>
