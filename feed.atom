@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-04T15:04:40.547Z</updated>
+    <updated>2024-09-04T16:04:57.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[前回の備忘録からの変化]]></title>
+        <id>https://note.com/tomoshige_note/n/n38751157b6c9</id>
+        <link href="https://note.com/tomoshige_note/n/n38751157b6c9"/>
+        <updated>2024-09-04T15:43:08.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう。ともしげです。
+前回備忘録として体調面の話やら私生活の話やらをさせていただきましたが、あれから半年ちょっと経過したのでそれからどう変わったかをちょこっと書いてみようと思います。
+・体調面
+続きをみる]]></summary>
+        <author>
+            <name>ともしげ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑記】良かった動画を振り返ろう（2024年3月）]]></title>
         <id>hatenablog://entry/6802340630903576092</id>
