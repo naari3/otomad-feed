@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-07T10:04:13.442Z</updated>
+    <updated>2024-09-07T11:04:07.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AutoHotKey]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-125.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-125.html"/>
+        <updated>2024-09-07T10:28:13.000Z</updated>
+        <summary type="html"><![CDATA[作業負荷を減らして楽になりたい（怠惰）]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年9月-1】9月て…]]></title>
         <id>hatenablog://entry/6802340630904334670</id>
