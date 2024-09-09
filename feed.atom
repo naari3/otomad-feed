@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-09T13:08:15.152Z</updated>
+    <updated>2024-09-09T14:05:40.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ちーきーぶりーき]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1320.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1320.html"/>
+        <updated>2024-09-09T13:41:24.000Z</updated>
+        <summary type="html"><![CDATA[最近はずっとロシアでゴミ漁りしてます  荒波ですセールしてたから買ってしまった  一番安いエディション買ったのに1万以上したんだけどどうなってんの・・・このゲーム、まぁSTALKERやってるぐらいだし当然気になってはいたけれど、対人はしたくないかなぁと思って手を出さずにいたで、最近PvEモードがリリースされたのでこれ幸いとプレーしてみたわけですが面白すぎるそしてNPCが強すぎる屋外でばったり出会うとそのへんのスカブ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20240909「山田尚子『きみの色』（2024年）」]]></title>
         <id>hatenablog://entry/6802340630904893513</id>
