@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-13T09:04:30.822Z</updated>
+    <updated>2024-09-13T10:04:41.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minecraftのエンダーパールは走りながら投げても飛距離に影響しない (1.9 ~ 1.20)]]></title>
+        <id>hatenablog://entry/6802340630905667176</id>
+        <link href="https://naari.hatenablog.com/entry/2024/09/13/182559"/>
+        <updated>2024-09-13T09:25:59.000Z</updated>
+        <summary type="html"><![CDATA[ダッシュジャンプでなければならないのである(1.9 ~ 1.20)
+要約
+Q. 1.16.1 において、ジャンプなし、ダッシュだけしている時にエンダーパールを投げても、棒立ち状態でエンダーパールを投げた時と比べて飛距離が変わらないのはなぜ？
+A. ただ走っているだけではサーバーにプレイヤーの速さを伝えることができないから！
+概要
+エンダーパールの初速はプレイヤーの velocity によって決定されるはずだが、(1.20以前のバージョンでは)ダッシュしているだけではエンダーパールの初速に影響を与えられない事象が発生する理由を説明する
+また、1.21 より、この挙動に一部変更が入り、ダッシュしているだけでもエンダーパールの初速に影響を与えられるようになったため、この旨についても説明する。
+おことわり
+FabricMC/yarn によるマッピングを使用してソースコードの動的/静的解析を行った
+
+
+1.16.1+build.21
+1.20.1+build.10
+1.21+build.9
+これらの挙動は 1.9 以降のMinecraftで確認することができ、1.20 系まではある程度同じ挙動であることが確認できる
+1.21 での差分点については記事後半で説明する
+この記事は以下の動画の最後、「バージョンごとの差異」についてのアンサーとしての立ち位置の記事となる
+
+
+かなり素晴らしい動画なので是非見てみてください
+www.youtube.com
+サイドの説明
+このゲームは、大きく分けてクライアント側とサーバー側で処理が分かれている。
+サーバー側
+基本的なゲームロジックに関わる計算はサーバー側で処理される。今回の議題であるエンダーパールの各挙動もサーバー側で計算される。
+クライアント側
+ピクセルの描画や、20fpsより高い分解能を得るための補完などはクライアント側で処理される。基本的に…]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あ]]></title>
         <id>hatenablog://entry/6802340630905874778</id>
