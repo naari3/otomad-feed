@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-14T04:04:56.197Z</updated>
+    <updated>2024-09-14T05:05:15.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いまの気持ち]]></title>
+        <id>https://note.com/nomuratakeshi/n/nf6fdb539e1b9</id>
+        <link href="https://note.com/nomuratakeshi/n/nf6fdb539e1b9"/>
+        <updated>2024-09-14T04:15:34.000Z</updated>
+        <summary type="html"><![CDATA[疲れちゃいました。
+当分企画を立ち上げることはないと思います。
+今度は皆さんがより面白いものを作ってもらえることを楽しみにしています。
+続きをみる]]></summary>
+        <author>
+            <name>埜村武</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年9月-2】睡眠の質を落とす2024]]></title>
         <id>hatenablog://entry/6802340630906156219</id>
