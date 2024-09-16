@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-16T09:04:53.444Z</updated>
+    <updated>2024-09-16T10:05:05.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[皆かなり色んな素材に分散した感が最...]]></title>
+        <id>https://note.com/nendo31/n/n8c9c1364b705</id>
+        <link href="https://note.com/nendo31/n/n8c9c1364b705"/>
+        <updated>2024-09-16T09:15:24.000Z</updated>
+        <summary type="html"><![CDATA[皆かなり色んな素材に分散した感が最近強いのはちょっと寂しさがある
+P三兄弟とかの定番所も使う人減ったなー 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いまの気持ち]]></title>
         <id>https://note.com/nomuratakeshi/n/nf6fdb539e1b9</id>
