@@ -21063,38 +21063,6 @@ Aブロック
             </article>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://atarabi.hateblo.jp/" target="_blank" rel="noopener">Atarabi-Blog</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">After Effectsのスクリプトの可能性を広げる。 その２</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://atarabi.hateblo.jp/entry/2023/09/18/181826" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>github.com
-公開したことでやる気もすこし出てきたので、いくつか更新した。
-自分の思想として&quot;ソフトがこちらに合わせろ&quot;というのがあり、既存コマンドに対するフックを容易にするというのもそれに向けての一つの手であったが、更に押し進めてキー入力をフック出来るようにした。
-キー入力のフックを上手く活用した一番有名な例はFX Consoleであろうが、こういったランチャーの嚆矢はQuick Menuだと思われる。
-
-AEではScriptsフォルダにあるスクリプトに対してショートカットを割り当てることが可能なので、それを活用している。この方法は言われてみればという感じで、当時甚く感心した。
-
-最大20個までショートカットを設定出来るようなので、やろうと思えば色々出来る。
-難点は、管理が面倒だというのと、スクリプトがその都度実行されるため、特に重い処理が含まれる場合に、毎回我慢するか、計算結果をグローバル変数などに逃がしてキャッシュしておく必要がある。Quicke Menuの場合、appオブジェクトに何か生やしているようであった。
-キー入力のフックは、このような本質的でない部分による煩わしさから逃れられることが利点であると言える。ただどういった状況下でキー入力がなされたかという情報がないため、例えばレイヤー名変更のために文字入力しているという状況下でも容赦なくイベントは発火する。したがって修飾キーの指定は必須だと思われる。
-使い方は至って単純。
-(() &#x3D;&gt; {
-    Atarabi.keyboard.hook({ code: &#x27;]&#x27;, altKey: true }, ctx &#x3D;&gt; {
-        const comp &#x3D; Atarabi.comp.getMostRecentlyUsedComp();
-        if (!comp) {
-            re…</span>
-                  </div>
-                    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kareobana/20230916/20230916113401.png" class="card article-thumbnail" data-image />
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
     </ul>
   </section>
   <section class="daily-content">
@@ -21531,7 +21499,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2024-09-16T21:04:18.515Z">2024-09-16T21:04:18.515Z</time>
+    <time id="build-timestamp" datetime="2024-09-16T22:04:37.680Z">2024-09-16T22:04:37.680Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

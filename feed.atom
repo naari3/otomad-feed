@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-16T21:04:18.563Z</updated>
+    <updated>2024-09-16T22:04:37.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -15290,31 +15290,6 @@ Aブロック
 確か教習所から一番近い食事処はここだった記憶。自転車で15分…]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After Effectsのスクリプトの可能性を広げる。 その２]]></title>
-        <id>hatenablog://entry/820878482967230791</id>
-        <link href="https://atarabi.hateblo.jp/entry/2023/09/18/181826"/>
-        <updated>2023-09-18T09:18:26.000Z</updated>
-        <summary type="html"><![CDATA[github.com
-公開したことでやる気もすこし出てきたので、いくつか更新した。
-自分の思想として"ソフトがこちらに合わせろ"というのがあり、既存コマンドに対するフックを容易にするというのもそれに向けての一つの手であったが、更に押し進めてキー入力をフック出来るようにした。
-キー入力のフックを上手く活用した一番有名な例はFX Consoleであろうが、こういったランチャーの嚆矢はQuick Menuだと思われる。
-
-AEではScriptsフォルダにあるスクリプトに対してショートカットを割り当てることが可能なので、それを活用している。この方法は言われてみればという感じで、当時甚く感心した。
-
-最大20個までショートカットを設定出来るようなので、やろうと思えば色々出来る。
-難点は、管理が面倒だというのと、スクリプトがその都度実行されるため、特に重い処理が含まれる場合に、毎回我慢するか、計算結果をグローバル変数などに逃がしてキャッシュしておく必要がある。Quicke Menuの場合、appオブジェクトに何か生やしているようであった。
-キー入力のフックは、このような本質的でない部分による煩わしさから逃れられることが利点であると言える。ただどういった状況下でキー入力がなされたかという情報がないため、例えばレイヤー名変更のために文字入力しているという状況下でも容赦なくイベントは発火する。したがって修飾キーの指定は必須だと思われる。
-使い方は至って単純。
-(() => {
-    Atarabi.keyboard.hook({ code: ']', altKey: true }, ctx => {
-        const comp = Atarabi.comp.getMostRecentlyUsedComp();
-        if (!comp) {
-            re…]]></summary>
-        <author>
-            <name>Atarabi-Blog</name>
         </author>
     </entry>
     <entry>
