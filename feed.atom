@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-16T13:09:02.857Z</updated>
+    <updated>2024-09-16T14:04:22.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24/09/16 文字を音で読むことについて]]></title>
+        <id>https://note.com/banfuture9/n/n6f4037ae21a8</id>
+        <link href="https://note.com/banfuture9/n/n6f4037ae21a8"/>
+        <updated>2024-09-16T13:32:46.000Z</updated>
+        <summary type="html"><![CDATA[今年の話にしては遠い遠い過去のように感じるのだが、2月から3月にかけて毎日日記を書いていた。それまでも断片的に日記を書く習慣を始めたり途絶えさせたりしていたが、この時が一番長く続き、また一定の更新頻度を保つという意味ではもっとも安定した日記だった。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KING]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1321.html</id>
