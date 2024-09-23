@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-23T09:05:19.580Z</updated>
+    <updated>2024-09-23T10:04:57.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[くつろぎタイムきらきらMAX]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1322.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1322.html"/>
+        <updated>2024-09-23T09:57:37.000Z</updated>
+        <summary type="html"><![CDATA[昨日きらら展FINAL記念で過去5年分のきららMAXが読み放題だったせっかくなので1番古い号から読み始めて気付いたら1日が終わっていました僕が読み始めたのがぬるめたゲスト回からなので、ちょうどその前後くらいをなぞった感じかな連載中なんとなく読んでいた旅する海とアトリエの最終回が載ってる号まで読んだけどしっとり良い漫画であるのと同時に、ヨーロッパの様々な国と人々に出会う二人の旅路が、多様な漫画が集う当時のMAXを]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年9月-3】v◯]]></title>
         <id>hatenablog://entry/6802340630907449831</id>
