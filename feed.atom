@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-24T12:06:48.260Z</updated>
+    <updated>2024-09-24T13:09:22.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD界隈で発生しているよくわかんないレスバについて、知っておこう]]></title>
+        <id>https://anond.hatelabo.jp/20240924220001</id>
+        <link href="https://anond.hatelabo.jp/20240924220001"/>
+        <updated>2024-09-24T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[https://x.com/Annoying_Temm/...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[くつろぎタイムきらきらMAX]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1322.html</id>
