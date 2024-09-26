@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-26T13:09:30.916Z</updated>
+    <updated>2024-09-26T14:04:16.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -64,6 +64,28 @@ Tは「子どもの面倒を見てた」と返した。
         <summary type="html"><![CDATA[昨日きらら展FINAL記念で過去5年分のきららMAXが読み放題だったせっかくなので1番古い号から読み始めて気付いたら1日が終わっていました僕が読み始めたのがぬるめたゲスト回からなので、ちょうどその前後くらいをなぞった感じかな連載中なんとなく読んでいた旅する海とアトリエの最終回が載ってる号まで読んだけどしっとり良い漫画であるのと同時に、ヨーロッパの様々な国と人々に出会う二人の旅路が、多様な漫画が集う当時のMAXを]]></summary>
         <author>
             <name>柊殿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patching for anything KOKOUさんインタビュー]]></title>
+        <id>hatenablog://entry/6802340630909490218</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20240922/p1"/>
+        <updated>2024-09-22T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[sakana (@SAKANA_ELELEL) / Twitter
+Patching for anything
+マシンライブ系の機材やイベントをまとめたページ"Patching for anything"によるインタビュー記事。今回採り上げられたKOKOUさんは「MUNEO HOUSE PARTY」「MUNERE'02」にDJとして参加したLZDさんやNackyさんと親しい方です。そんなインタビュー中の思い出話にムネオハウスイベントが挙げられていました。
+  -- (前略) そしてここうさんご自身は「たまたま現場にいた」との事ですが、どのような経緯で現在の活動に繋がっているんでしょうか？
+
+BMSにトランスが多いのは時期的な理由ですかね。確かにメロディアスな音楽が好かれていた気がします。
+
+オタクイベントとクラブイベントの両方を観ることができたのは、環境に恵まれていた事が大きいです。やりたいことのお手本が側にあったというか。
+
+友達に教えてもらいながらDJを始めたのが22歳ぐらいなのですが、その友達がコスプレダンパをやっていて、クラブイベントの作り方みたいなのを側で見せて貰いました。他にも当時東京ゲーマーズナイトグルーヴ、ガストノッチなど、クラブミュージックを聴きながらゲームをするオタク的なイベントがありました。それらをお手本にしながら自分でもExTENDというイベントを立ち上げました。そんなゲーム系イベントを主催していた縁で、ゲームミュージックとテクノをマッシュアップするGAMSICという同人レーベルにも所属しています。この時期はまだオタク的なイベントが少なかったので、近い活動をしていた人はみんな繋がっていました。そこで繋がった人たちが00年代・10年代に次々と面白いことをやっていた。っていう感じですね。関わったものも関われなかったものも隔てなく思いついたものを挙げますがMSQ、LoZicalDash!、練乳ナイト、ミサヰル、ムネオハウス、BITLOOP2000、linear、response、ハチロク、Reanimation、音撃などのイベントをすぐ側で観ることができたのは僥倖としか言えないですね。
+
+(後略)
+Patching for KOKOU | Patching for anything]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
