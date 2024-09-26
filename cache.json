@@ -7639,6 +7639,16 @@
       "siteUrl": "https://dumpmc.blog.fc2.com/",
       "articles": [
         {
+          "id": "https://dumpmc.blog.fc2.com/blog-entry-126.html",
+          "author": "picm",
+          "description": "前回の続き",
+          "link": "https://dumpmc.blog.fc2.com/blog-entry-126.html",
+          "publishedOn": "2024-09-26T06:57:52.000Z",
+          "wordCount": 133,
+          "title": "AutoHotKey②",
+          "imageUrl": "https://static.fc2.com/image/noimage.gif"
+        },
+        {
           "id": "https://dumpmc.blog.fc2.com/blog-entry-125.html",
           "author": "picm",
           "description": "作業負荷を減らして楽になりたい（怠惰）",

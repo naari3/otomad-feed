@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-09-26T06:05:49.410Z</updated>
+    <updated>2024-09-26T07:04:51.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AutoHotKey②]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-126.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-126.html"/>
+        <updated>2024-09-26T06:57:52.000Z</updated>
+        <summary type="html"><![CDATA[前回の続き]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今朝見た夢で真剣に凹んだ話]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n12fe7eb7ba44</id>
