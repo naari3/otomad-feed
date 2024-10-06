@@ -20103,53 +20103,6 @@ www.nicovideo.jp
             </article>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://owatax00.hatenablog.com/" target="_blank" rel="noopener">owatax&#x27;s blog</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">【PC移行】ReaperへのWaves Gold(V9)の導入で躓いたメモ（解決済）</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://owatax00.hatenablog.com/entry/2023/10/08/200156" target="_blank" rel="noopener">
-                  <div class="article-summary-box-inner">
-                    <span>PC買い替えに伴い作業環境の移行を進めていたのですが、Wavesのレガシープラグインの導入に躓いたので備忘として残しておきます。
-■Step1. Waves Centralのインストール
-これは普通に公式サイトからインストールすればOK。
-2023/10/08時点で、V10移行のプラグインに関しては下記のWave Cenral上での来世薄認証＆インストールを行えば普通に認識されるはず。
-Download Waves Central - Waves Audio
- 
- 
-■Step2. V9インストーラの入手
-躓きポイントその1。
-詳細は下記リンク先に書かれていますが、V9.92(v9系の最終バージョン)をインストールする場合は「最新版のWaves Central上からv9.92のオフラインインストーラを読み込む」必要があります。
-Waves V9製品のインストール (minet.jp)
- 
-
-オフラインデータに付属するWaves Central Lは旧バージョンとなり、インストールには使用しません。
-よく読まずに適当に進めてたらここで詰まった。導入するWaves Centralは最新版だけで良いんですね。
- 
- 
-■Step3. Reaperでのパス追加
-躓きポイントその2。
-インストール完了後、C:\Program Files\VSTPlugIns 配下に「WaveShell1-VST 9.92_x64.dll」が追加されていたのでこれで読み込めるはず～と思っていたものの認識されず。
-
- 
-おかしいな～と色々探してたら C:\Program Files (x86)\Waves\Plug-Ins V9 配下にも.dllファイルがあるのを発見。
- 
-ということでReaperの設定＞VSTよりパスを追加して再スキャン。
-
- 
-無事認識されました。よかった！
-
- 
-（おわり）</span>
-                  </div>
-                    <img src="https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png" class="card article-thumbnail" data-image />
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
     </ul>
   </section>
   <section class="daily-content">
@@ -20586,7 +20539,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2024-10-06T22:04:27.162Z">2024-10-06T22:04:27.162Z</time>
+    <time id="build-timestamp" datetime="2024-10-06T23:04:19.785Z">2024-10-06T23:04:19.785Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
