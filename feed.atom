@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-10-07T14:04:42.254Z</updated>
+    <updated>2024-10-07T15:04:59.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苦しい]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1324.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1324.html"/>
+        <updated>2024-10-07T15:00:13.000Z</updated>
+        <summary type="html"><![CDATA[KFCだと思ったらFCKでした～チクショー！！FUCK荒波ですタルコフ市での生活がすっかり日常と化した今日この頃、先週はクソおもんないから行きたくなかったマップ（Lighthouseの浄水場・Street of Tarkov）で仕方なくタスクをやる毎日だった無限に敵がくる、100パーボス湧いてる、地雷まみれ、そりゃもうおもんないストレスで髪の毛全部抜けてステイサムになったステイサムっぽいスカブ数日間にわたる苦闘の果てになんとかやりたい]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD House Mix 投稿しました]]></title>
         <id>https://note.com/takoo/n/n04994e984267</id>
