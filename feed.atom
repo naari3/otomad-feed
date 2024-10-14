@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-10-14T16:05:14.248Z</updated>
+    <updated>2024-10-14T17:04:39.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おそるべし]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1325.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1325.html"/>
+        <updated>2024-10-14T16:31:01.000Z</updated>
+        <summary type="html"><![CDATA[最近あまりやっていないはらがみ周年イベント？てきなやつで各国のお友達を訪ねながら写真を撮るエモイベントがあったけどアンバーとコレイが可愛かった事しか記憶にない毎年恒例の一年を振り返るイベントもやってみた蛍ちゃん絶対使う縛りのサブ垢でやったら、ほんの少し文面が変わるのも相変わらず細かいですね炎旅人まだですか新バージョン来たてほやほやのはらがみだけど、実質ルシオの新キャラシロネンが強かったので引いたぐ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年10月-2】室温6000℃]]></title>
         <id>hatenablog://entry/6802340630913416673</id>
