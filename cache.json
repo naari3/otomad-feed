@@ -1199,21 +1199,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/F/FEAR443243/20231031/20231031232604.png"
-        },
-        {
-          "id": "hatenablog://entry/6801883189053318898",
-          "author": null,
-          "description": "本記事では、VSTプラグインをREAPERにインストールする方法を記載します。\nmaimaiさんの記事から一部流用させていただいている部分がございます。\n[汎用説明記事] REAPERでのVSTの導入方法 - YTPMV.info\n \nそもそもVSTとは？\n音を加工したり、エフェクトをかけたりするためのものです。\n \n事前準備\nまずは、C¥ProgramFiles¥上に、「VSTPlugIns」というフォルダを作っておきましょう。\n\n \n次に、このVSTPlugInsというフォルダのことをREAPER君に認識してもらいます。\n①Ctrl + P を押して、環境設定画面を開く。\n②左のメニューから「VST」をクリックし、表示された画面にある\n　「Edit path list…」をクリックする。\n\n \n③表示メニュー内にある「Add path」をクリック。\n\n④さっき作成した「VSTPlugIn」フォルダを選択し、OKをクリック。\n\n \n以上で事前準備は完了です。\n \nインストール方法\nREAPERへのVSTのインストール方法は、大きく分けて3種類あります。\n \n①dllファイルを所定のフォルダへ突っ込めば、\n　それだけでインストールが完了するタイプ\n②インストーラー(exeファイル）を起動して、インストールするタイプ\n③会員登録して、ポータルアプリをインストールしたあとに、\n　プラグインをインストールするタイプ\n \n上から順に解説していきます。\n \n①dllファイルを所定のフォルダへ突っ込めば、それだけでインストールが完了するタイプ\n \n「サイトからDLしたzipを解凍したら、dllファイルとtxtファイルくらいしか入ってなかった」\nというようなものがこれに当たります。（W1 Limiterなど）\nこの場合は簡単です。\n先ほど作成した「VSTPlugin」というフォルダに、D…",
-          "link": "https://fear443243.hatenablog.com/entry/2023/10/25/183734",
-          "publishedOn": "2023-10-25T09:37:34.000Z",
-          "wordCount": 377,
-          "title": "VST導入方法",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/F/FEAR443243/20231025/20231025165615.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/F/FEAR443243/20231025/20231025165615.png"
         }
       ]
     },
