@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-10-24T13:09:21.453Z</updated>
+    <updated>2024-10-24T14:05:01.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HIKAKINの投稿タイミング 傾向と対策]]></title>
+        <id>https://note.com/tanbatu/n/n6412a1b41414</id>
+        <link href="https://note.com/tanbatu/n/n6412a1b41414"/>
+        <updated>2024-10-24T13:42:56.000Z</updated>
+        <summary type="html"><![CDATA[いつの間にかHikakinTVのプレミア公開をリアタイ視聴し始めて1年以上が経過していました。視聴を始めた当時はみそきん&新居を猛プッシュする為にほぼ毎日投稿をしていたのももう過去の話で、結婚した辺りから現在までは週2～3本の投稿が基本的になっています。
+投稿頻度については子供の誕生を発表してからは特に考えないようにしているので（SEIKIN氏と同じようなスタイルをとっている為）、今回の本題はそこではありません。では何かというと「いつ投稿するか」です。
+続きをみる]]></summary>
+        <author>
+            <name>丹波津</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水無月から質問を受けながら日記を書く]]></title>
         <id>hatenablog://entry/6802418398298455539</id>
