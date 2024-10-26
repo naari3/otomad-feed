@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-10-26T10:04:34.441Z</updated>
+    <updated>2024-10-26T11:04:24.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[流行ってますね]]></title>
+        <id>https://note.com/calpisco/n/n286e2e524570</id>
+        <link href="https://note.com/calpisco/n/n286e2e524570"/>
+        <updated>2024-10-26T11:00:55.000Z</updated>
+        <summary type="html"><![CDATA[どうも、calpiscoです
+いまだけダブチ食べ美が流行ってると思うんですけど、
+これ個人的に凄い意外なんですけど…。
+続きをみる]]></summary>
+        <author>
+            <name>calpisco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第5回謎晒しイベント「黒」結果発表]]></title>
+        <id>https://note.com/anzato/n/n20c25a1a5764</id>
+        <link href="https://note.com/anzato/n/n20c25a1a5764"/>
+        <updated>2024-10-26T10:04:47.000Z</updated>
+        <summary type="html"><![CDATA[謎晒しイベントとは？
+謎晒しイベントとは謎解き交流Discordサーバー「atNAZO」にて行われるイベントです。テーマに沿った謎をみんなで制作し、その後面白かった謎にサーバーのメンバーが投票をします。
+続きをみる]]></summary>
+        <author>
+            <name>餡砂糖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Counterショート動画を日本で流行らせて日本のYouTubeの新時代を開幕させた男Strike制作後記]]></title>
         <id>https://note.com/dou_akagane_cu/n/ne42eb3484b58</id>
