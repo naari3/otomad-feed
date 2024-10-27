@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-10-27T11:04:27.110Z</updated>
+    <updated>2024-10-27T12:06:37.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[企画「音EXPO韓国館」開催のお知らせ]]></title>
+        <id>https://note.com/fourangle/n/nce09302cb1ae</id>
+        <link href="https://note.com/fourangle/n/nce09302cb1ae"/>
+        <updated>2024-10-27T11:18:29.000Z</updated>
+        <summary type="html"><![CDATA[お疲れ様です、四角です。今日(10月27日)配信された本企画の説明会はご覧いただけましたでしょうか？見てない人々、そして見てはいたがもう一度内容を整理したい方々のために記事としてもう一度、企画の開催をお知らせいたします！
+
+
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流行ってますね]]></title>
         <id>https://note.com/calpisco/n/n286e2e524570</id>
@@ -116,6 +129,18 @@ youtu.be
 じゃ！]]></summary>
         <author>
             <name>なんて巨大なカニゴット</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet Archive 全体復旧]]></title>
+        <id>hatenablog://entry/6802418398299415791</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20241024/p1"/>
+        <updated>2024-10-24T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine
+Internet Archive is back online, but for how long? (Cybernews, 英語 10/25)
+本日、一時的に設置されていたトップページが元に戻り、各機能の閲覧が可能になったとのこと。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
@@ -414,6 +439,31 @@ isitsutbustu-todoke.hatenablog.com
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Internet Archive Wayback Machineが復旧]]></title>
+        <id>hatenablog://entry/6802418398299412312</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20241014/p1"/>
+        <updated>2024-10-14T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine
+Internet Archive's Wayback Machine is back up after data breach - with a catch (ZDNET, 英語)
+本日、Wayback Machineがとりあえず復旧。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辻元清美議員 高槻でバトンタッチ演説会]]></title>
+        <id>hatenablog://entry/6802418398299357047</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20241013/News"/>
+        <updated>2024-10-13T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[立民・辻元清美氏“後継”に尾辻かな子元衆院議員指名　衆院選バトンタッチ強調も「私、引退しませんよ」 (デイリースポーツ online)
+立憲民主党代表代行の辻元清美参院議員（64）が12日、地元の大阪府高槻市で、衆院選（27日投開票）大阪10区（同市、同府三島郡島本町）に同党公認で出馬する尾辻かな子元衆院議員（49）と“バトンタッチ”街頭演説会に臨んだ。
+
+辻元氏は2021年衆院選で同区から出馬するも敗れ、22年の参院選全国比例で当選。「この大阪10区。高槻、島本（町）、バトンタッチをどなたにするかずっと考えていた。私と一緒に国会で苦楽をともにし、市民活動などで一緒に歩んできた尾辻かな子さんに辻元清美のバトンを受け継いで、衆議院で頑張って欲しい」と、衆院選での“後継”に指名した。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【2024年10月-2】室温6000℃]]></title>
         <id>hatenablog://entry/6802340630913416673</id>
         <link href="https://crabgot.hatenablog.com/entry/2024/10/12/134905"/>
@@ -464,6 +514,18 @@ www.nicovideo.jp
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Internet Archive DDoS攻撃でダウン]]></title>
+        <id>hatenablog://entry/6802418398295781596</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20241010/p1"/>
+        <updated>2024-10-10T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Archive is under attack, with a breach revealing info for 31 million accounts (The Verge, 英語)
+The Internet Archive taken down by DDoS attacks (Engadget, 英語)
+古いファイルのサルベージや消えた掲示板のログの参照先としてお世話になっているInernet Archive。ハッカーグループによるDDoS攻撃を受けてダウン。これによりWayback Machineでの魚拓の取得や閲覧が不能になったほか、Community Audioで公開されている楽曲ファイルの視聴、全編無料公開されている『イアンのナードコア大百科』等、ムネオハウス関連の情報にアクセス出来なくなりました。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[チンコの蟲毒　チン蟲毒]]></title>
         <id>https://note.com/sweets_farting/n/n07daf3192c4a</id>
         <link href="https://note.com/sweets_farting/n/n07daf3192c4a"/>
@@ -490,6 +552,21 @@ MDM天関係者や悪感情を読んで不快になりたくない方は見な�
 続きをみる]]></summary>
         <author>
             <name>かっぱ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅直人元首相 引退会見]]></title>
+        <id>hatenablog://entry/6802418398299355790</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20241008/News"/>
+        <updated>2024-10-08T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[「もう一度政権交代を」　菅直人元首相が引退会見 (時事ドットコム)
+次期衆院選に出馬せず、政界を引退する立憲民主党の菅直人元首相（７７）＝衆院東京１８区＝は８日、国会内で記者会見し、「もう一度政権交代を実現してもらいたい」と期待を示した。「政権交代が少なくとも何年かに一回は起きる形が民主主義の在り方として望ましい」と述べた。
+
+菅氏は１９８０年衆院選で初当選。４４年に及んだ政治家人生について「精いっぱいやれることはやったというのが実感だ」と回顧。９６年に自民、社会、さきがけ連立政権で厚生相を務め、薬害エイズ問題に取り組んだことや、首相として２０１１年３月に発生した東日本大震災、東京電力福島第１原発事故で陣頭指揮を執ったことを挙げ、「重要な仕事ができた」と振り返った。
+
+原発事故直後に第１原発や東電本社を訪問したことに関し「私は間違っていなかったと思う。事態を把握し、対応を取る上で非常に効果的だった」と指摘。今後の日本政治について、女性国会議員が増えるべきだとし、「男女比が五分五分ぐらいになってほしい。本来の民主主義の男女平等の社会の姿だ」と訴えた。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>

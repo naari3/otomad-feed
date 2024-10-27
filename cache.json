@@ -3190,6 +3190,81 @@
       "siteUrl": "https://underdefinition.hatenadiary.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/6802418398299415791",
+          "author": null,
+          "description": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine\nInternet Archive is back online, but for how long? (Cybernews, 英語 10/25)\n本日、一時的に設置されていたトップページが元に戻り、各機能の閲覧が可能になったとのこと。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20241024/p1",
+          "publishedOn": "2024-10-24T14:59:01.000Z",
+          "wordCount": 969,
+          "title": "Internet Archive 全体復旧",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
+          "id": "hatenablog://entry/6802418398299412312",
+          "author": null,
+          "description": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine\nInternet Archive's Wayback Machine is back up after data breach - with a catch (ZDNET, 英語)\n本日、Wayback Machineがとりあえず復旧。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20241014/p1",
+          "publishedOn": "2024-10-14T14:59:01.000Z",
+          "wordCount": 980,
+          "title": "Internet Archive Wayback Machineが復旧",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
+          "id": "hatenablog://entry/6802418398299357047",
+          "author": null,
+          "description": "立民・辻元清美氏“後継”に尾辻かな子元衆院議員指名　衆院選バトンタッチ強調も「私、引退しませんよ」 (デイリースポーツ online)\n立憲民主党代表代行の辻元清美参院議員（64）が12日、地元の大阪府高槻市で、衆院選（27日投開票）大阪10区（同市、同府三島郡島本町）に同党公認で出馬する尾辻かな子元衆院議員（49）と“バトンタッチ”街頭演説会に臨んだ。\n\n辻元氏は2021年衆院選で同区から出馬するも敗れ、22年の参院選全国比例で当選。「この大阪10区。高槻、島本（町）、バトンタッチをどなたにするかずっと考えていた。私と一緒に国会で苦楽をともにし、市民活動などで一緒に歩んできた尾辻かな子さんに辻元清美のバトンを受け継いで、衆議院で頑張って欲しい」と、衆院選での“後継”に指名した。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20241013/News",
+          "publishedOn": "2024-10-13T14:59:00.000Z",
+          "wordCount": 943,
+          "title": "辻元清美議員 高槻でバトンタッチ演説会",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
+          "id": "hatenablog://entry/6802418398295781596",
+          "author": null,
+          "description": "The Internet Archive is under attack, with a breach revealing info for 31 million accounts (The Verge, 英語)\nThe Internet Archive taken down by DDoS attacks (Engadget, 英語)\n古いファイルのサルベージや消えた掲示板のログの参照先としてお世話になっているInernet Archive。ハッカーグループによるDDoS攻撃を受けてダウン。これによりWayback Machineでの魚拓の取得や閲覧が不能になったほか、Community Audioで公開されている楽曲ファイルの視聴、全編無料公開されている『イアンのナードコア大百科』等、ムネオハウス関連の情報にアクセス出来なくなりました。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20241010/p1",
+          "publishedOn": "2024-10-10T14:59:01.000Z",
+          "wordCount": 975,
+          "title": "Internet Archive DDoS攻撃でダウン",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
+          "id": "hatenablog://entry/6802418398299355790",
+          "author": null,
+          "description": "「もう一度政権交代を」　菅直人元首相が引退会見 (時事ドットコム)\n次期衆院選に出馬せず、政界を引退する立憲民主党の菅直人元首相（７７）＝衆院東京１８区＝は８日、国会内で記者会見し、「もう一度政権交代を実現してもらいたい」と期待を示した。「政権交代が少なくとも何年かに一回は起きる形が民主主義の在り方として望ましい」と述べた。\n\n菅氏は１９８０年衆院選で初当選。４４年に及んだ政治家人生について「精いっぱいやれることはやったというのが実感だ」と回顧。９６年に自民、社会、さきがけ連立政権で厚生相を務め、薬害エイズ問題に取り組んだことや、首相として２０１１年３月に発生した東日本大震災、東京電力福島第１原発事故で陣頭指揮を執ったことを挙げ、「重要な仕事ができた」と振り返った。\n\n原発事故直後に第１原発や東電本社を訪問したことに関し「私は間違っていなかったと思う。事態を把握し、対応を取る上で非常に効果的だった」と指摘。今後の日本政治について、女性国会議員が増えるべきだとし、「男女比が五分五分ぐらいになってほしい。本来の民主主義の男女平等の社会の姿だ」と訴えた。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20241008/News",
+          "publishedOn": "2024-10-08T14:59:00.000Z",
+          "wordCount": 944,
+          "title": "菅直人元首相 引退会見",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
+        {
           "id": "hatenablog://entry/6802340630911178214",
           "author": null,
           "description": "【特集】m9(^Д^) 40代なんだからもういい！ ヘンに若者ぶらないで、懐かしいもんは素直に懐かしむ！ 逆ギレ気味に味わうインターネット流行史2024(またの名をインターネット老人会) - PC Watch\n森田秀一氏による「2000～2010年頃のネット文化を同窓会気分(老人会でもおｋ)で振り返ってみようという」という趣旨の記事。ゴノレゴFlashを紹介する節中で名前だけ挙がっていました。\n(前略)\nゴノレゴ(2001年) \n\nWebサイトにアニメーション効果を付加したり、もっと直球でアニメーション映像をズバリ作ったりと、一時代を築いた制作ツールがMacromedia(現Adobe)の「Flash」だ。アマチュア作家(名を伏せたプロ映像作家もいただろうが)によって数多くのFlashが公開され、2ちゃんねるを通じて広がっていった。\n\n代表作は「バスト占いのうた」、「ムネオハウス」、「千葉!滋賀!佐賀!」など数あるが、「ゴノレゴ」は特に有名な作品。現在は、作者のポエ山さんのYouTubeチャンネルで一部が公開されている。Flash亡き今でも、かつての人気コンテンツが気軽に楽しめるのは嬉しい。\n\n(後略)\n森田, 前掲 (2024)",
@@ -5181,6 +5256,16 @@
       "feedUrl": "https://note.com/fourangle/rss",
       "siteUrl": "https://note.com/fourangle",
       "articles": [
+        {
+          "id": "https://note.com/fourangle/n/nce09302cb1ae",
+          "author": null,
+          "description": "お疲れ様です、四角です。今日(10月27日)配信された本企画の説明会はご覧いただけましたでしょうか？見てない人々、そして見てはいたがもう一度内容を整理したい方々のために記事としてもう一度、企画の開催をお知らせいたします！\n\n\n続きをみる",
+          "link": "https://note.com/fourangle/n/nce09302cb1ae",
+          "publishedOn": "2024-10-27T11:18:29.000Z",
+          "wordCount": 2330,
+          "title": "企画「音EXPO韓国館」開催のお知らせ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/158533476/rectangle_large_type_2_5de6ea134f3c881d252c8d642c389d61.png?width=800"
+        },
         {
           "id": "https://note.com/fourangle/n/n224d94cb60ea",
           "author": null,
