@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-10-27T07:04:37.179Z</updated>
+    <updated>2024-10-27T08:06:08.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -13823,6 +13823,17 @@ Peppinaちゃん使いたいという下心で導入しよう！
 続きをみる]]></summary>
         <author>
             <name>動かない鳥のアイコンの民</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅直人元首相、政界引退を表明]]></title>
+        <id>hatenablog://entry/6802418398299355288</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20231105/News"/>
+        <updated>2023-11-05T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[菅直人元首相、政界引退を表明　旧民主党結成、福島原発事故など対応 [立憲] (朝日新聞デジタル)
+立憲民主党の菅直人元首相（77）=衆院東京18区=が5日、地元の東京都武蔵野市で記者会見を開き、次期衆院選に立候補せず、政界を引退すると正式に表明した。菅氏は「私も77歳になり、自分の中で、家族の間で決断した」と語った。選挙区は武蔵野市長の松下玲子氏（53）が引き継ぐとした。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
