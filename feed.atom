@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-11-05T13:08:00.279Z</updated>
+    <updated>2024-11-05T14:04:41.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[九州旅行]]></title>
+        <id>https://note.com/takoo/n/n08e1faae45af</id>
+        <link href="https://note.com/takoo/n/n08e1faae45af"/>
+        <updated>2024-11-05T13:24:15.000Z</updated>
+        <summary type="html"><![CDATA[10/31 (木)
+夕方に博多に到着。
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゾンビまみれ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1328.html</id>
