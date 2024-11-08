@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-11-08T14:04:18.341Z</updated>
+    <updated>2024-11-08T15:04:52.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024.11.08　備忘録]]></title>
+        <id>https://note.com/readybug_/n/n0bcf21b76ca9</id>
+        <link href="https://note.com/readybug_/n/n0bcf21b76ca9"/>
+        <updated>2024-11-08T14:09:46.000Z</updated>
+        <summary type="html"><![CDATA[適当に書いているので適当に読んでください。
+具体的なノウハウは載っていないのでろくすっぽ役に立つ文章ではないよ。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>れでぃば</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年11月-1】魚]]></title>
         <id>hatenablog://entry/6802418398302358534</id>
