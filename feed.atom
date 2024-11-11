@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-11-11T07:04:58.673Z</updated>
+    <updated>2024-11-11T08:06:19.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[やなぎなぎ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1329.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1329.html"/>
+        <updated>2024-11-11T07:18:21.000Z</updated>
+        <summary type="html"><![CDATA[またデカパイお姉さんかぁ･･･DPSだし別に引かなくてもいいかな→お試しを触るできませぬ、弦一郎殿お迎えに参上いたしました俺は、このモーションを見るためならばどのようなガチャであれ、引いて見せる柳の雷、見せてやろうこれで葦名の夜は、明ける]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[僕は動画を作れないし、AIは「呪い」を解くかもしれない]]></title>
         <id>hatenablog://entry/6802418398302104695</id>
