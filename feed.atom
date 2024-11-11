@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-11-11T08:06:19.635Z</updated>
+    <updated>2024-11-11T09:04:58.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『スマブラfor Wii U』が遺した"呪い"]]></title>
+        <id>https://note.com/nototote/n/nd382f20c2bb7</id>
+        <link href="https://note.com/nototote/n/nd382f20c2bb7"/>
+        <updated>2024-11-11T08:16:07.000Z</updated>
+        <summary type="html"><![CDATA[ジャマアローラ！ととととです。
+先日は一流ゲームクリエイター・桜井政博さんのYouTubeが衝撃のラストを迎え閉幕しましたね。新しいチームでの開発もスタートしているということで、次回作に大変な期待を抱きます。
+続きをみる]]></summary>
+        <author>
+            <name>とッくん@マリ●ペデ●ア管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やなぎなぎ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1329.html</id>
