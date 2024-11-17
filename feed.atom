@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-11-17T16:05:06.269Z</updated>
+    <updated>2024-11-17T17:04:17.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[雑]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n49ef6c13d465</id>
+        <link href="https://note.com/dou_akagane_cu/n/n49ef6c13d465"/>
+        <updated>2024-11-17T16:34:57.000Z</updated>
+        <summary type="html"><![CDATA[ここ最近TLで取り乱すことが多く、反省しております。
+ここ最近考えることを列挙しました。まとまりのない文章で、途中酷い文言もあると思いますが、それでもよければご覧ください。
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11/15の生成AI学習にまつわる規約変更でXを去った絵師に言いたいこと（2/2）]]></title>
         <id>https://anond.hatelabo.jp/20241115155137</id>
