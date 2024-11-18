@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-11-18T07:05:17.279Z</updated>
+    <updated>2024-11-18T08:06:36.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2年前初めて風俗行った時のレビュー]]></title>
+        <id>https://note.com/euro3/n/nac363b73d2ac</id>
+        <link href="https://note.com/euro3/n/nac363b73d2ac"/>
+        <updated>2024-11-18T07:55:27.000Z</updated>
+        <summary type="html"><![CDATA[諸事情で一人にしか見せてなかったんですが、なんか暇なので公開します。下から始まります。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雑]]></title>
         <id>https://note.com/dou_akagane_cu/n/n49ef6c13d465</id>
