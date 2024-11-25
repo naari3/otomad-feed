@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-11-25T12:07:57.822Z</updated>
+    <updated>2024-11-25T13:10:53.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ｸﾞﾄﾞﾊﾝﾃｨﾝｸﾞｽﾀﾙｶｧ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1331.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1331.html"/>
+        <updated>2024-11-25T12:33:23.000Z</updated>
+        <summary type="html"><![CDATA[ZONEでの暮らしを満喫しております  荒波です雰囲気的にまだ中盤くらいなので、ストーリーについては今回さておくとしてとにかく雰囲気が最高  まるで本当にZONEで生きてるかのよう超美麗なグラフィックと、細部までこだわり抜いたであろうサウンドがZONEを迫力満点なものにしている外は風の匂いがするし、廃墟はじめじめしててカビ臭いし、嵐やエミッションなんてそれはもう怖いしこれほど雰囲気がよく美しいゲームにはわたくしお]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪のガチで美味い店まとめ]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n9d0d2d5226f7</id>
