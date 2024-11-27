@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-11-27T07:05:13.782Z</updated>
+    <updated>2024-11-27T08:06:06.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -13975,16 +13975,6 @@ youtu.be
         <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/11/30/130847"/>
         <updated>2023-11-30T04:08:47.000Z</updated>
         <summary type="html"><![CDATA[乱数表の数字には法則がない。法則というのはそれを当てはめれば必ず結果が予測できるようなものである。たとえば2,4,8,16…という数列があったとして、1024の隣に次に何が来るかという結果は「2の倍数が並んでいる」という法則にしたがえば2048であると予測できる。しかし乱数表の数字には法則がない。つまりある数字の隣になにが来るかの結果は予測できない。ここで乱数表の数字に対してひとつの法則を考える。「法則がないという法則」である。これを当てはめると、ある数字の隣にくるものはいかなる数字でもよいことになる。たとえば1万番目の数字の隣に来るものを予測するには、「法則がないという法則」に従って好きな数字を言えばよい。すると乱数表の1番目を1人目、2番目を2人目、3番目を3人目、n番目をn人目として自由に数字を言わせても乱数表ができることになる。しかし、仮に全員が出した並びがたまたまある法則を持っていたらどうなるか。]]></summary>
-        <author>
-            <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nikki_20231129]]></title>
-        <id>hatenablog://entry/6801883189062516948</id>
-        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2023/11/29/040814"/>
-        <updated>2023-11-28T19:08:14.000Z</updated>
-        <summary type="html"><![CDATA[夕食もたべずに夕方に寝て深夜に起きるのを3日連続くらいでやっていて、セブンイレブンで買ってきた豚ラーメンを食べるタイミングを掴めずに消費期限が過ぎてしまった。わりと食べることがあのラーメンだが、ちょっと前に高くなったぶんクオリティが上がっていてうれしい。お店のだと多すぎるのであれくらいがちょうどいい説がある。少し前にあるyoutuberが話題になったとき、誰それみたいな反応をいくつか見かけてびっくりした。熱心な視聴者ではないが、登録者が700万人いる人たちでさえ話題になってもそんな反応をちらほら見るものなのだ。そうならば1000万人いるような人でさえ、知らない人は知らないはずなのである。おそらく2億人の登録者がいたとしても怪しくて、たとえばMr.Beastを知らない人もいるのだろう。わたしの親なんかはそれに該当すると思う。]]></summary>
         <author>
             <name>遺失物取扱所</name>
         </author>
