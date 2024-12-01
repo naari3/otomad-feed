@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-01T19:04:06.725Z</updated>
+    <updated>2024-12-01T20:05:00.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イラレ、アピアランスを分割して書式をアウトライン化]]></title>
+        <id>https://note.com/sehatakuro/n/na59c76bd9fb0</id>
+        <link href="https://note.com/sehatakuro/n/na59c76bd9fb0"/>
+        <updated>2024-12-01T19:27:23.000Z</updated>
+        <summary type="html"><![CDATA[adventar.org  
+アピアランスを分割して書式をアウトライン化すると、だいたいうまくいく。
+それだけ
+続きをみる]]></summary>
+        <author>
+            <name>瀬畑 黒</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロセカ『傷だらけの手で、私達は』感想(ネタバレあり)]]></title>
         <id>hatenablog://entry/6802418398308326211</id>
