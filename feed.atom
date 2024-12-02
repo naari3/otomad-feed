@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-02T14:04:50.026Z</updated>
+    <updated>2024-12-02T15:05:17.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nikki_20241203「【オモコロチャンネル】好きな動画アンケート2024」]]></title>
+        <id>hatenablog://entry/6802418398308579759</id>
+        <link href="https://isitsutbustu-todoke.hatenablog.com/entry/2024/12/03/000132"/>
+        <updated>2024-12-02T15:01:32.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com
+ 
+この世にあまた存在するyoutubeチャンネル、その中で唯一欠かさず全部見ている「オモコロチャンネル」がTwitterで「この一年間で一番好きなオモコロチャンネルの動画をひとつ教えてください。【対象期間】2023年12月〜2024年11月公開分」としてアンケートを行っていた。ひとつには絞れない、という声を見かけたように私も選ぶのは難しかった。というのも、動画がバラエティに富んでいるからである。ココイチでどのカレーを、ミスドでどのドーナツが好きか選ぶのとは違って、和食も洋食もあるガストやロイホで一番好きなのを選べ、と言われているのに等しい。これはオモコロチャンネルに限らず、長く更新しているyoutuberならどこでもありそうな現象である。
+ 
+nikki_20220721「オモコロチャンネルの好きな回 その１」 - 遺失物取扱所
+ 
+nikki_20221014「ここ2日のオモコロチャンネル雑感」 - 遺失物取扱所
+ 
+欠かさず見ているにもかかわらずあまりしっかり言及したことは少ない。これもオモチャンに限った話ではなく、誰しも欠かさないレベルで見てるけど訊かれたら答えるくらいの温度感のコンテンツはあるはずだ。ともあれあまりちゃんと感想を書くことは少ないので、対象期間の動画内からひとつには選べなかったなという思いをつらつら書こうと思う。ランキング付けもせず、あれもあったなこれもあったなという文章になる。古い順、重くなるのでurlなしでタイトルだけ貼ります。
+ 
+「【感覚会議】アルファベット26文字が持ってそうな『特殊能力』が決定しました」
+慣れ親しんだ事物に対して架空の設定を作るタイプの企画。この雑談系はけっこう好き。対象の中だと「「イヤな言葉」だけ集めて最悪の50音表を作ろう！」「【緊急会議】「お寿司が働く会社」があった場合の組織図を考える…]]></summary>
+        <author>
+            <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6年の旅行から1年の帰国：StelLive専用垢挑戦記【音MAD Advent Calendar 2024】]]></title>
+        <id>https://note.com/fourangle/n/n62bfde06d59a</id>
+        <link href="https://note.com/fourangle/n/n62bfde06d59a"/>
+        <updated>2024-12-02T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[2024年11月30日基準
+youtube本垢登録者2022人
+youtube複垢登録者5144人
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TETRIS YTPMV；素材選びと人力と、そして反省会]]></title>
         <id>https://note.com/dou_akagane_cu/n/n7fdb53d927c7</id>
