@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-02T17:04:35.501Z</updated>
+    <updated>2024-12-02T18:06:08.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スタルカァ2おわった]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1332.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1332.html"/>
+        <updated>2024-12-02T17:04:47.000Z</updated>
+        <summary type="html"><![CDATA[スタルカァ2クリアした他人にオススメできるゲームではない･･･けど、それでもシリーズファンならやるべきだなと思った以下ネタバレストーリー感想]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20241203「【オモコロチャンネル】好きな動画アンケート2024」]]></title>
         <id>hatenablog://entry/6802418398308579759</id>
