@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-09T15:05:14.321Z</updated>
+    <updated>2024-12-09T16:05:38.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラジ@ 終了]]></title>
+        <id>hatenablog://entry/6802418398310367219</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20241210/1733760269"/>
+        <updated>2024-12-09T16:04:29.000Z</updated>
+        <summary type="html"><![CDATA[エー・アイ・アイ # ラジ@ - Wikipedia
+ラジ＠ (公式, Internet Archive)
+インターネットラジオ配信サイトのラジ@が本日9/8を持って終了。2002年当時は以下の件でムネオハウス楽曲が流れたり、流れていたらしかったり、言及があったりしました。
+TOBY氏「あー、ムネオハウスっていうナードコアっぽい奴は送ってこないでください（笑）」と言っていたらしい - muneo house information (2002年3月18日)
+ラジ@「うるサイゾーホスピス経済探偵団」がムネオハウス特集だったらしい - muneo house information (2002年5月3日)
+ネットラジオ「餅月あんこの花ぺんラジオ」6/18分で「Tokyo yabai」が流れる - muneo house information (2002年6月18日)]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AfterEffectsをラプラスダークネスにカスタムする方法]]></title>
+        <id>https://note.com/sehatakuro/n/n0eac42c2f5c8</id>
+        <link href="https://note.com/sehatakuro/n/n0eac42c2f5c8"/>
+        <updated>2024-12-09T15:54:01.000Z</updated>
+        <summary type="html"><![CDATA[adventar.org  
+
+続きをみる]]></summary>
+        <author>
+            <name>瀬畑 黒</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MADオンエアバトル合作]]></title>
         <id>https://note.com/sweets_farting/n/n753d04271920</id>
