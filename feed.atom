@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-13T14:04:49.565Z</updated>
+    <updated>2024-12-13T15:04:56.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[絵を描く準備]]></title>
+        <id>hatenablog://entry/6802418398307830609</id>
+        <link href="https://crabgot.hatenablog.com/entry/2024/12/14/000018"/>
+        <updated>2024-12-13T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[本記事は音MAD Advent Calendar 2024の記事となります。
+ adventar.org
+ 
+
+
+知見、ノウハウ、ハック、様々な知を得られる本企画ですが、あんまりお出しできる知ってないなあと思ったので多少は音MAD制作に使えそうな『お絵かきを始める準備』の話をしようと思います。
+覚悟ッ
+ 
+
+    
+はじめに
+準備
+ツール、周辺機器類
+あると嬉しいもの
+リファレンス管理
+友人
+描く
+まとめ
+ 
+はじめに
+簡単に自己紹介しますと、音MADのために絵を描き始めてだいたいお絵かき歴1年半、音MAD歴は6年弱くらいです（2024年12月現在）
+www.nicovideo.jp
+www.pixiv.net
+ 
+まず「こまりって前もお絵かきの記事出してなかったっけ？」と思った方は、ありがとうございます。出してます。
+note.com
+今回はこの記事で述べた実践をより紐解いていきます。（↑の記事を読んでなくても問題ありません）（note引用するならnoteで書いたほうがよくね？←なんとなくはてブって気分なのではてブです。2年前のアドカレもはてブだったしね）
+準備
+導入っていうか本題です。
+自分の経験から紹介するものですが必ずしも必要というわけではないですね。
+加えて、PCを使うことを前提としています。
+スマホとかタブレットのことは、すまん！
+ツール、周辺機器類
+・適当なマウス
+絵も描かねーのにペンタブなんか持ってるわけねーだろ！というのはご尤もです。
+それでもマウスは持ってると思うのでマジでよほどの不良品じゃなきゃ何でも良いと思います。マウスで絵描けますよ！ただいずれはペンに持ち替えることも念頭に置いて置いたほうが良いと思います（肌に合えばそのままマウスでもOK）
+可能であれば無線マウスかつ詳細にコンフィグ弄れるやつがいいです。カーソル速度であったりホイールの感度であっ…]]></summary>
+        <author>
+            <name>なんて巨大なカニゴット</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD10選で〇票以下の音MADn選2024]]></title>
         <id>https://note.com/sweets_farting/n/n4b4d4a741f1b</id>
