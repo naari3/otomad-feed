@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-15T11:04:16.040Z</updated>
+    <updated>2024-12-15T12:06:52.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【重大発表】今年が終わってからの活動について]]></title>
+        <id>https://note.com/euro3/n/ndb209e2c1398</id>
+        <link href="https://note.com/euro3/n/ndb209e2c1398"/>
+        <updated>2024-12-15T12:01:31.000Z</updated>
+        <summary type="html"><![CDATA[というわけでついにやって来ました重大発表。
+誰も待ってないと思いますが、やっとこさでございます！
+それでは発表します。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20241215「青島もうじき『私は命の縷々々々々々』」]]></title>
         <id>hatenablog://entry/6802418398311653982</id>
