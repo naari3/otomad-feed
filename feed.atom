@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-20T14:04:35.420Z</updated>
+    <updated>2024-12-20T15:04:34.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『モアめぐ～！』に至るまで]]></title>
+        <id>hatenablog://entry/6802418398307522570</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2024/12/20/235523"/>
+        <updated>2024-12-20T14:55:23.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MAD Advent Calendar 2024に参加しています。
+ 
+12月20日は何の日？
+藤島慈ちゃんの誕生日です。今年で18歳になりました。
+
+藤島 慈｜MEMBER｜「蓮ノ空女学院スクールアイドルクラブ」公式サイト
+という訳なので、今回は今年4月に行われた「『超』音MAD晒しイベント2024」に参加させていただいた動画に関してのアレコレを書こうと思います。
+動画の性質上、元作品『蓮ノ空女学院スクールアイドルクラブ』に対しての知識がない方には分かりづらい文章になってしまうかもしれません。
+ 
+
+という訳なので、記事を読みやすくするためにも超晒しに提出したものと同じファイルを"『超』音MAD晒しイベント2024 提出版"という形でニコニコに上げておきました。
+完成版は年内には出したいなぁ… ぐらいに考えているのでタグロック等はお控えいただけますと幸いです。
+ 
+誕生秘話
+実はこの動画が生まれるきっかけとなったのは、2023年に開催されたイベント「音MADスタートダッシュ」だった。
+新旧入り混じった約70人の音MAD作者が約100人の音MAD見る専(当時)をサポートし、1か月で彼らを音MAD作者としてデビューさせようという企画だ。
+音MAD作者の皆様というのは本当に粒揃いで、みんなアドバイザーとしてとにかく有能だった。参加者が各個人のチャンネルに投稿した質問に迅速かつ分かりやすく答えたり、自分の持っている技術を文章化して情報として共有したり…
+そんな人たちが学校の2クラス分程度の人数も集まっているのだから、正直言って自分は何もする必要が無かった。リアルに学校に通ってた時期もそうだったのだから、当然である。
+ 
+とはいえ、kaikityouもアドバイザーとして参加した以上は何かしなければいけない。
+では自分に何が出来るだろうかと考えた時に、自分が普段何を考えな…]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハッピーファンアート音MADの作り方！]]></title>
         <id>https://note.com/takoo/n/neaf1e19d79a4</id>
