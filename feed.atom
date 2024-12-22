@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-22T11:04:08.369Z</updated>
+    <updated>2024-12-22T12:06:47.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オリメド音MAD合作完全マニュアル]]></title>
+        <id>https://note.com/kochi928/n/n03ae36360587</id>
+        <link href="https://note.com/kochi928/n/n03ae36360587"/>
+        <updated>2024-12-22T11:03:42.000Z</updated>
+        <summary type="html"><![CDATA[お世話になっております、音MAD作者魂心家鯖代表のこち横です。
+魂心家
+続きをみる]]></summary>
+        <author>
+            <name>こち横</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年活動報告]]></title>
         <id>https://note.com/sweets_farting/n/n8b1f885e79f7</id>
