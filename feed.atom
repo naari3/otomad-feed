@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-24T14:04:26.775Z</updated>
+    <updated>2024-12-24T15:04:25.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MADから何を得るか]]></title>
+        <id>https://note.com/nanana555/n/ndd56f4102f45</id>
+        <link href="https://note.com/nanana555/n/ndd56f4102f45"/>
+        <updated>2024-12-24T15:00:19.000Z</updated>
+        <summary type="html"><![CDATA[もう、この企画も最終日だし2024年も終わりを迎えようとしていますが、年の瀬には相応しくないかもしれない記事をお届けすることになるかもしれない。
+何かしらの技術共有でもなければ、企画や作った動画の制作後記でもない。ただ、今の気持ちのようなものをこの場に吐露しては、半ば強制的に享受してもらおう。享受させようとしているからだ。
+タイトルにもある通り「音MADから何を得るか」という疑問は今に始まったような事象ではない。勿論、作る側と見る側でもそれは違うだろうし、どんなジャンルなのか、プラットフォームにもよるだろう。
+ただ、私は無駄に長くこの界隈に居座り、活動を続けてきた。そんな自分だからこその考えなどを、自身の戒名を生前に定めるかの如く書き記していく。そして、この文章が音MAD界隈の人間にとって、ここにいる意味のようなものを見出してくれればと思う。
+そんなことを主題にこのアドベントカレンダーに投稿しようと考えた際、ただ文章を考える時間が欲しく最終日を取ってしまった。そのため、少しでもトリに相応しいものになるようには努力をしようと思う。
+この記事は以下のイベントに参加しています。他の記事も呼んでみてください。
+      adventar.org  
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTokで音MADをバズらせようとして足掻いた男 最終章　～インターネット媚売学～]]></title>
         <id>hatenablog://entry/6802418398313375094</id>
