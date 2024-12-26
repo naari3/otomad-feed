@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-26T15:04:27.816Z</updated>
+    <updated>2024-12-26T16:04:58.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -13991,19 +13991,6 @@ SR日野下花帆「素顔のピクセル」。多分ここだと思う。
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>気合い気合い気合い</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「良かったらぷろふみて～」について]]></title>
-        <id>https://note.com/rubr/n/ndb3e5abf70af</id>
-        <link href="https://note.com/rubr/n/ndb3e5abf70af"/>
-        <updated>2023-12-28T03:54:01.000Z</updated>
-        <summary type="html"><![CDATA[最近、X(旧Twitter)で気付いたときには自分の書き込みに「良かったらぷろふみて～」というようなリプが付いているという現象が起きています。
-そのようなリプを送ってくるアカウントについて、私が個人で研究した結果をまとめます。
-このようなアカウントは「プロフリンクを見て」と言ってくるだけあって、だいたいのアカウントのプロフィール欄には短縮URLと思われるリンクが貼ってあります。しかしたまに何かのミスなのか、リンクがない場合もあります。
-続きをみる]]></summary>
-        <author>
-            <name>R___Va</name>
         </author>
     </entry>
     <entry>
