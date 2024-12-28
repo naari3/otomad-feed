@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-28T09:04:27.755Z</updated>
+    <updated>2024-12-28T10:04:16.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サイゼ来た合作制作後記①：企画概要]]></title>
+        <id>https://note.com/binetsu0904/n/n7b7b777b7891</id>
+        <link href="https://note.com/binetsu0904/n/n7b7b777b7891"/>
+        <updated>2024-12-28T09:40:33.000Z</updated>
+        <summary type="html"><![CDATA[9月7日に公開された動画「サイゼ来た合作」の制作後記を全3回にわたってお送りします。
+まだ動画を見てない方は必ず先に動画を見てください！
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024年12月-4】邁進あそばせ！]]></title>
         <id>hatenablog://entry/6802418398315231766</id>
