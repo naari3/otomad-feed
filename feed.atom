@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-28T19:04:14.188Z</updated>
+    <updated>2024-12-28T20:04:27.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ユ生通信の解説]]></title>
+        <id>https://note.com/euro3/n/ncbe4870be920</id>
+        <link href="https://note.com/euro3/n/ncbe4870be920"/>
+        <updated>2024-12-28T19:06:26.000Z</updated>
+        <summary type="html"><![CDATA[これのネタ解説をします。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[複数プロトコルの疎通確認を行うWindowsアプリケーション「AnyPing」を作った]]></title>
         <id>hatenablog://entry/6802418398315460728</id>
