@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-30T13:08:16.552Z</updated>
+    <updated>2024-12-30T14:04:26.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10選やotogrooveなどの各種イベントに対して反対するワケとそれでも企画を立ち上げる理由]]></title>
+        <id>https://note.com/nomuratakeshi/n/n71032235dc1f</id>
+        <link href="https://note.com/nomuratakeshi/n/n71032235dc1f"/>
+        <updated>2024-12-30T13:08:47.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんにちは
+「なんだまた物議を醸し出しそうなタイトルは・・・」
+続きをみる]]></summary>
+        <author>
+            <name>埜村武</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[編集後記『おまえがほしがりあん』(sm44442585) kaikityou目線]]></title>
         <id>hatenablog://entry/6802418398315490493</id>
