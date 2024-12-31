@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2024-12-31T09:04:31.690Z</updated>
+    <updated>2024-12-31T10:04:35.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024Twitterいろいろ選]]></title>
+        <id>https://note.com/qreg/n/n35a822a929d4</id>
+        <link href="https://note.com/qreg/n/n35a822a929d4"/>
+        <updated>2024-12-31T09:19:34.000Z</updated>
+        <summary type="html"><![CDATA[決めます　またの名をいいね欄2024
+おすすめTL見始めたのがいいね欄消えてからなのでそれ以降のツイートが多めかも
+いっぱい埋め込みするから重かったらごめんね
+続きをみる]]></summary>
+        <author>
+            <name>くれがしら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[見た2024秋アニメ]]></title>
         <id>https://note.com/binetsu0904/n/nc80f04651ba9</id>
