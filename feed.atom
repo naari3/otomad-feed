@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-01-03T08:05:58.035Z</updated>
+    <updated>2025-01-03T09:04:42.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本格的男尻祭2024　編集後記]]></title>
+        <id>https://note.com/anzato/n/n0936e55d79a3</id>
+        <link href="https://note.com/anzato/n/n0936e55d79a3"/>
+        <updated>2025-01-03T08:33:50.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+続きをみる]]></summary>
+        <author>
+            <name>餡砂糖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年1月-1】蟹年2]]></title>
         <id>hatenablog://entry/6802418398316873441</id>
