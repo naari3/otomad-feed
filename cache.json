@@ -1122,21 +1122,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/comariai/20240112/20240112215748.png"
-        },
-        {
-          "id": "hatenablog://entry/6801883189072643995",
-          "author": null,
-          "description": "12/30\nwww.nicovideo.jp\nこれ3秒で作った\n \n---\n \nクッキングパパ\n世界一やさしい漫画\n \n---\n \n何もしてない\n最高の年末って意味\n \n12/31\nRiJ Winter今年も面白かったぜ\n \nyoutu.be\n目隠しメトロイドドレッド見ろ！！\n \n01/01\nあっけまけまして！\n \n去年は最高すぎる年だった一方、楽しくて疲れる年だったので今年は「やや最高」を目標とさせてください。\n \n今年の抱負\n・ノルマに囚われず動画制作\n・定期的に絵を上げる\n・初見・既プレイを問わずゲームを5本クリアする\n \n01/02\nペーパーマリオ入眠法\n効きます\n \n---\n \n辰年だからチャイナ服のイラストを描くなどと\n \n安直な\n \n# うれしい～～～！！\nほ～んとにうんちしてま～す\n \n---\n \n去年の元旦何してたっけなあって、あれずっと合作作業やってたんですよ\nウケる！！\n \n---\n \nwww.nicovideo.jp\n有力候補です。\n \n01/03\n病み上がりなの加味しても体調が悪い\n \n01/04\n労働に向いてないことを度々実感してるんですがどうも労働しなきゃいけないらしい\n俺は動画作って絵を描いて暮らしたいだけなんだが…\n \n---\n \nなんか界隈が変な盛り上がり方しててモヤ～っとしたので内輪で吐き出してしまった、すみません。\n \n---\n \n今更お雑煮食ったけどマジで神の料理\nかまぼこが一番美味い料理じゃないか？\n \n01/05\n絶賛布団から出たくない\n畢竟布団から出たくない\n \n---\n \n2023年にハマった口癖\n・〜ね\n・〜なはれ\n・🌹\n・果たして\n↑これそれぞれ仲良い人とのコミュニケーションで感染ったものだからかなりコミュニケーションの多かった年だったことが伺えるね\n \n---\n \n本当にそうか？\n \n---\n \n「人生を狂わされたゲーム」ってないなと思った\n狂うほど好きなシリーズならポケモンだけどうっかり衝突して狂うみたいな感じでないので…\n感銘や感動はある、ここ数年で一番心を動かされたのは間違いなくOuter Wildsなので皆さんには絶対にプレイしてもらいたいのだけど、合う合わないのハッキリ分かれるものだと思う…\n素敵な楽曲もあるし紹介したいけどゲームプレイありきの体験として摂取して欲しいな〜〜！！\nそもそもゲームに限らずコンテンツに狂うことがないか\nどこか一歩引いてるかも\n \n---\n \nトンネルを抜けると\nムキムキであった\n──────川端 “ボディビルダー” 康成\n \n---\n \n「己を狂わせたコンテンツ」が「淫夢」であることに、気づき、俺は\n \n---\n \n\nドゴーム。\n \nドゴーム\n\n \nﾋﾟﾎﾟ\n年が明けたねえ。やや最高を目標に、やや頑張っていきます！かかってこいや！\n \nじゃ！",
-          "link": "https://crabgot.hatenablog.com/entry/2024/01/05/215110",
-          "publishedOn": "2024-01-05T12:51:10.000Z",
-          "wordCount": 380,
-          "title": "【2024年1月-1】蟹年",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/comariai/20240105/20240105213018.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/comariai/20240105/20240105213018.png"
         }
       ]
     },
@@ -2394,21 +2379,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20240208/20240208114806.png"
-        },
-        {
-          "id": "hatenablog://entry/6801883189071989588",
-          "author": null,
-          "description": "ランキング参加中\nMinecraft\n\n\n\nMinecraft 1.16.1 でのエンダードラゴンの挙動の詳細を調査した。\n最近Minecraft 1.16.1のRTAにハマっている。エンダードラゴン戦をすばやく終わらせることはタイム短縮に大きくつながる行動だが、エンダードラゴンの挙動は思った以上に複雑であり、これらの状態や条件を詳しく知る必要が出てきた。今回は、Minecraftの内部実装を確認し、エンダードラゴンが実際にどのように動き、何に反応して行動を変えているのか？を調査した。\n前提\n用語集\nPerch\nパスノード\nフェーズ\nステート遷移図\nRTA走者向け\nエンダードラゴンの挙動の詳細について\nスポーン直後\nHover\nHoldingPattern\nパスノード選択の詳細\n火の玉攻撃\nStrafePlayer\n着陸\nLandingApproach\nLanding\n着陸後\nSittingScanning\nSittingAttacking\nSittingFlaming\n離陸\nChargingPlayer\nTakeoff\nRTA向けのTips\nStrafePlayer に移行しづらくする\nLanding を素早く終わらせる\nおわりに\n前提\nコードリーディングにおいて、Fabricプロジェクトの yarn 1.16.1+build.21 を使用してマップ済み(≒難読化解除済み)のコードを生成してもらい、それを元に情報を調査した。\nhttps://github.com/FabricMC/yarn\nまた、一部ステート遷移の確認には、より新しいバージョンである yarn 1.20+build.1 を使用して生成したコードを使用した。これについては、コード上に影響のある変化がないことを確認した上で調査を進めている。\n動的な確認を行うために 1.16.1 向けのMODを作成している。そ…",
-          "link": "https://naari.hatenablog.com/entry/2024/01/05/220000",
-          "publishedOn": "2024-01-05T13:00:00.000Z",
-          "wordCount": 1053,
-          "title": "Minecraft 1.16.1 でのエンダードラゴンの挙動をまとめた",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20240103/20240103144727.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/naari_3/20240103/20240103144727.png"
         }
       ]
     },
