@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-01-05T12:06:44.024Z</updated>
+    <updated>2025-01-05T13:06:52.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD10選閲覧オフ会を終えてその後考えたこと]]></title>
+        <id>https://note.com/yamada_walk/n/n5baef86f0480</id>
+        <link href="https://note.com/yamada_walk/n/n5baef86f0480"/>
+        <updated>2025-01-05T12:45:32.000Z</updated>
+        <summary type="html"><![CDATA[まず、先日以下のnoteを公開している。
+
+続きをみる]]></summary>
+        <author>
+            <name>山田 航平</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD10選閲覧オフ会 振り返り]]></title>
         <id>https://note.com/yamada_walk/n/n6494a39074a7</id>
