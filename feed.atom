@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-01-06T11:04:24.296Z</updated>
+    <updated>2025-01-06T12:07:24.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[そういや言ってなかったんですけど今...]]></title>
+        <id>https://note.com/nendo31/n/nf698051b7b2d</id>
+        <link href="https://note.com/nendo31/n/nf698051b7b2d"/>
+        <updated>2025-01-06T11:35:54.000Z</updated>
+        <summary type="html"><![CDATA[そういや言ってなかったんですけど今日誕生日でした♨️ 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ナタ戦った中田]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1339.html</id>
