@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-01-15T08:06:00.319Z</updated>
+    <updated>2025-01-15T09:04:55.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024年2月！？]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n1500a42205f0</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n1500a42205f0"/>
+        <updated>2025-01-15T08:10:03.000Z</updated>
+        <summary type="html"><![CDATA[noteの下書きに去年の2月、毎日つけていた日記が残っていたので公開します。
+2月はこんな感じでした。
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[としがあけた]]></title>
         <id>hatenablog://entry/6802418398318150269</id>
