@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-01-24T16:05:16.443Z</updated>
+    <updated>2025-01-24T17:04:28.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[夢見るシャンソン人形制作後記]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n257b092bbf3c</id>
+        <link href="https://note.com/dou_akagane_cu/n/n257b092bbf3c"/>
+        <updated>2025-01-24T16:48:48.000Z</updated>
+        <summary type="html"><![CDATA[タイトルはなんとなくです。
+去年の12月中旬に作り始めたのかな…途中放棄しましたが…
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年1月-4】腰痛]]></title>
         <id>hatenablog://entry/6802418398322548105</id>
