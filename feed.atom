@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-01-26T09:04:30.609Z</updated>
+    <updated>2025-01-26T10:04:14.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記は初、だけど人生の一部【2025年1月26日】]]></title>
+        <id>https://note.com/nesu/n/n1f1038bc0634</id>
+        <link href="https://note.com/nesu/n/n1f1038bc0634"/>
+        <updated>2025-01-26T09:19:38.000Z</updated>
+        <summary type="html"><![CDATA[ついに始めちゃったよ。日記。今まで書こうと思ったこともないし、書き物を続けられたことがないけど毎日やるつもり。
+なぜ書くことになったかは2025/02/09に投稿されるラジオを聴いてね。
+「1日目は日記を始めたことについてしか書いてない」
+「三日坊主になりがち」の次に推していきたい日記あるあるです。
+あるよね〜。今もそうなってるし。
+続きをみる]]></summary>
+        <author>
+            <name>なす(田中)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C103振り返り]]></title>
         <id>hatenablog://entry/6802418398318347640</id>
