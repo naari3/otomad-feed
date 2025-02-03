@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-02-03T09:05:11.317Z</updated>
+    <updated>2025-02-03T10:05:01.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ユ生交流センターの解説]]></title>
+        <id>https://note.com/euro3/n/n69b0f4307221</id>
+        <link href="https://note.com/euro3/n/n69b0f4307221"/>
+        <updated>2025-02-03T09:30:15.000Z</updated>
+        <summary type="html"><![CDATA[上のパクリです。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Runwayで簡単にAIで切り抜く方法]]></title>
+        <id>https://note.com/euro3/n/nf5940d22e6bb</id>
+        <link href="https://note.com/euro3/n/nf5940d22e6bb"/>
+        <updated>2025-02-03T09:25:27.000Z</updated>
+        <summary type="html"><![CDATA[https://x.com/euro_iroiro/status/1882868086770131346
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フジテレビ全盛期時代に生み出された「1コーナー●000円」のクソゲー【はねるのトびらDS短縮鉄道の夜】]]></title>
         <id>hatenablog://entry/6802418398325143151</id>
