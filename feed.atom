@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-02-06T16:04:46.051Z</updated>
+    <updated>2025-02-06T17:04:23.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -13460,25 +13460,6 @@ Twitterからは逃げられないよ
 久々にウィークリー謎解き1位を獲った。嬉しい。]]></summary>
         <author>
             <name>音MADとポケモンと私</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まだ辞書を引いていない単語がたくさんありますね]]></title>
-        <id>hatenablog://entry/6801883189081524523</id>
-        <link href="https://naari.hatenablog.com/entry/2024/02/08/132533"/>
-        <updated>2024-02-08T04:25:33.000Z</updated>
-        <summary type="html"><![CDATA[ツイートをちゃんと記事にしてみようのコーナー👏👏　以下のツイートのちゃんとした記事版です
-
-人のコードを読んでるときにはじめて出会った英単語って結構多くて、それらの単語をその周辺の豊富なコンテキストからなんとなくで理解した上になんとなくのまま自分も使ったりしてしまうから、人にその言葉の意味を聞かれても即答できなくて、調べてみて超納得する　みたいなことがとてもよくある
-— なあり (@_naari_) 2024年2月8日
-   
-人のコードを読んでるときにはじめて出会った英単語って結構多くて、それらの単語をその周辺の豊富なコンテキストからなんとなくで理解した上になんとなくのまま自分も使ったりしてしまうから、人にその言葉の意味を聞かれても即答できなくて、調べてみて超納得する……みたいなことがとてもよくある。
-例えば primitive の意味は今さっき初めて辞書引いたけど、自分のニュアンスとかなり近い結果が返ってきた。
-そういった単語は人の技術記事でもカタカナ英語のまま使用されることが多くて、その場合は「日本語の」豊富なコンテキストになるので余計に辞書を引かなくてもなんとかなってしまう。
-他にも context(さっきコンテキストっていうカタカナ語を使ったね) とか seek とか parse とか schema とか usecase とか browse とか server とか、ソフトウェア関連でよく出るような単語かつ日本語で書く時にカタカナになってしまう単語たちは多く存在している。なんならもっとたくさんあるし、ここで挙げたものより、もっと納得感のある英単語もあるはず。(サッと脳内のindexから引けなかったわけだけども。)
-そもそも日本語にする上で最も近い概念がなく、明治期の日本の方々がやっていたような翻訳語を作らなければならない場面なのにそれができていないからこうなっ…]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
     <entry>
