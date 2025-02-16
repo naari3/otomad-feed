@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-02-16T00:19:48.822Z</updated>
+    <updated>2025-02-16T01:32:10.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -13159,17 +13159,6 @@ The post 音MAD関連用語集 first appeared on YTPMV.info.]]></summary>
 続きをみる]]></summary>
         <author>
             <name>B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テスト投稿]]></title>
-        <id>https://ytpmv.info/?p=1954</id>
-        <link href="https://ytpmv.info/1954/"/>
-        <updated>2024-02-17T12:56:17.000Z</updated>
-        <summary type="html"><![CDATA[これはテストです
-The post テスト投稿 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
     <entry>
