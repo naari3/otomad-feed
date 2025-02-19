@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-02-19T05:04:55.559Z</updated>
+    <updated>2025-02-19T06:06:06.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近のマイベストを1~5曲紹介する / 日記 20250219]]></title>
+        <id>https://note.com/ebideath/n/n64e19728e85c</id>
+        <link href="https://note.com/ebideath/n/n64e19728e85c"/>
+        <updated>2025-02-19T05:08:25.000Z</updated>
+        <summary type="html"><![CDATA[①刀身をやさしくタップ♡ - 田中秀和
+  
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD作者のコミュニティの形成の歴史（～2010年くらいまで）]]></title>
         <id>http://otomad.jp/?p=211</id>
