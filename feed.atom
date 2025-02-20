@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-02-20T10:04:59.412Z</updated>
+    <updated>2025-02-20T11:04:23.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「百合園セイアの語らい」について]]></title>
+        <id>https://note.com/euro3/n/na3f0aad2041d</id>
+        <link href="https://note.com/euro3/n/na3f0aad2041d"/>
+        <updated>2025-02-20T11:02:50.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ユーロです。
+今回、「百合園セイアの語らい」を投稿した経緯を書き記します。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近のマイベストを1~5曲紹介する / 日記 20250219]]></title>
         <id>https://note.com/ebideath/n/n64e19728e85c</id>
