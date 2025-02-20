@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-02-20T14:04:43.329Z</updated>
+    <updated>2025-02-20T15:04:52.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SCOPES Vol.163€]]></title>
+        <id>https://note.com/euro3/n/n9fa22983c038</id>
+        <link href="https://note.com/euro3/n/n9fa22983c038"/>
+        <updated>2025-02-20T14:12:07.000Z</updated>
+        <summary type="html"><![CDATA[どうも、ユーロです。
+SCOPESに呼ばれたいなって思ったんですけど、特に呼ばれる気もしないので、勝手にやりたいと思います。数字は僕の身長です。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「百合園セイアの語らい」について]]></title>
         <id>https://note.com/euro3/n/na3f0aad2041d</id>
