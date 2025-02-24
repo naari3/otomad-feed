@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-02-24T12:07:52.166Z</updated>
+    <updated>2025-02-24T13:09:33.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音EXPO韓国館：生配信詳細]]></title>
+        <id>https://note.com/fourangle/n/ne60f7486d0b5</id>
+        <link href="https://note.com/fourangle/n/ne60f7486d0b5"/>
+        <updated>2025-02-24T13:04:06.000Z</updated>
+        <summary type="html"><![CDATA[↑企画概要はこちら↑
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゴミひろいエブリデイ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1346.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1346.html"/>
+        <updated>2025-02-24T12:27:22.000Z</updated>
+        <summary type="html"><![CDATA[なにこれどうなってんの･･･今日も今日とて飽きもせずタルコフ  SCAVしかやってないランダムに拾った装備で徐々に成り上がっていくのがローグライクっぽくて楽しいゴミ拾いができるFPSローグライクって夢のようなゲームじゃない？ このゲームそんな遊び方想定してないんだろうけど武器は武器クレートや直湧きを回ればそこそこ新品が手に入るし、肝心のアーマーはこういう装備クレートやDEAD SCAVを漁ると結構手に入ったりする5アー]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四季さんに持ち帰り謎を作った]]></title>
         <id>https://note.com/anzato/n/n4a9d18367dc4</id>
