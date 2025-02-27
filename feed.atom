@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-02-27T12:07:32.618Z</updated>
+    <updated>2025-02-27T13:09:36.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[半年間自炊生活男至高飯発見記]]></title>
+        <id>https://note.com/leaf_62289/n/nf1f9a97e193e</id>
+        <link href="https://note.com/leaf_62289/n/nf1f9a97e193e"/>
+        <updated>2025-02-27T13:00:58.000Z</updated>
+        <summary type="html"><![CDATA[半年間いろんな料理を作って食ったけど、唐揚げを食べた翌日のバットに残ったカスとマヨぶっかけて食ったパンが一番生きてる心地がしたワ
+続きをみる]]></summary>
+        <author>
+            <name>阿保草</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20250225]]></title>
         <id>hatenablog://entry/6802418398331858574</id>
