@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-03-01T11:04:21.055Z</updated>
+    <updated>2025-03-01T12:06:49.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「音MAD合作名パート10選開催」のお知らせ]]></title>
+        <id>https://note.com/zattosoundmad/n/nfd8086083734</id>
+        <link href="https://note.com/zattosoundmad/n/nfd8086083734"/>
+        <updated>2025-03-01T12:00:07.000Z</updated>
+        <summary type="html"><![CDATA[※サムネイルは仮画像として音EXPOのロゴをお借りしています
+音MAD合作名パート10選 とは？
+続きをみる]]></summary>
+        <author>
+            <name>ざっと</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD怪文書]]></title>
         <id>https://note.com/hacocone/n/n724ce315b231</id>
