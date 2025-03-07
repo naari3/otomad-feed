@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-03-07T03:13:14.461Z</updated>
+    <updated>2025-03-07T04:05:43.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一旦ブログの記事を書くハードルを下げるか]]></title>
+        <id>hatenablog://entry/6802418398334456946</id>
+        <link href="https://naari.hatenablog.com/entry/2025/03/07/122833"/>
+        <updated>2025-03-07T03:28:33.000Z</updated>
+        <summary type="html"><![CDATA[グングン]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年3月-1】2値めちゃ服用おくすりウィークエンド]]></title>
         <id>hatenablog://entry/6802418398334343222</id>
