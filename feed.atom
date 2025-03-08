@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-03-08T14:04:13.716Z</updated>
+    <updated>2025-03-08T15:04:18.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音EXPO韓国館、生配信の後書き]]></title>
+        <id>https://note.com/fourangle/n/nf250b561f3ed</id>
+        <link href="https://note.com/fourangle/n/nf250b561f3ed"/>
+        <updated>2025-03-08T14:58:31.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第8回謎晒しイベント「箱・夜・水」結果発表]]></title>
         <id>https://note.com/anzato/n/nfbd8adb16294</id>
