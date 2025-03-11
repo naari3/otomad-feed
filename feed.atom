@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-03-11T14:05:01.709Z</updated>
+    <updated>2025-03-11T15:05:07.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[某企画の思想がやばい本当の理由について。]]></title>
+        <id>https://note.com/fourangle/n/nc9a0792582f4</id>
+        <link href="https://note.com/fourangle/n/nc9a0792582f4"/>
+        <updated>2025-03-11T14:13:48.000Z</updated>
+        <summary type="html"><![CDATA[四角です。
+□ クソガキにエサ送んなボケェ
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いちご]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1348.html</id>
