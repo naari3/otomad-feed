@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-03-12T04:05:46.771Z</updated>
+    <updated>2025-03-12T05:05:04.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[聞け、NEXON。Yostar。]]></title>
+        <id>https://note.com/euro3/n/n81fd37b5bd52</id>
+        <link href="https://note.com/euro3/n/n81fd37b5bd52"/>
+        <updated>2025-03-12T04:09:51.000Z</updated>
+        <summary type="html"><![CDATA[こんギヌー、犬の鳴き真似bot先生です。
+今日は最近のイベントに感じてること、またはそれの安易に思いつく改善策を書いていきます。
+炎上覚悟で書いてるので落ち着いて聞いてくださいね。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20250312「津原泰水『ルピナス探偵団の当惑』」]]></title>
         <id>hatenablog://entry/6802418398335744904</id>
