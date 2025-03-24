@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-03-24T14:05:27.631Z</updated>
+    <updated>2025-03-24T15:05:42.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エルミナス　大型アップデートのお知らせ]]></title>
+        <id>https://note.com/elminus/n/na6b146f86713</id>
+        <link href="https://note.com/elminus/n/na6b146f86713"/>
+        <updated>2025-03-24T15:02:13.000Z</updated>
+        <summary type="html"><![CDATA[以下の動画に対し修正を行いました。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>エルミナス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ル＝マン]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1350.html</id>
