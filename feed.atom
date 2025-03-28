@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-03-28T16:05:50.129Z</updated>
+    <updated>2025-03-28T17:04:40.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[皆ごめん。刺さっちゃった。]]></title>
+        <id>https://note.com/calpisco/n/n8f4bdefc1370</id>
+        <link href="https://note.com/calpisco/n/n8f4bdefc1370"/>
+        <updated>2025-03-28T16:13:41.000Z</updated>
+        <summary type="html"><![CDATA[うわ～～～～～！！calpiscoですぅ～～～～。
+以前いまだけダブチ食べ美についてnoteを書いたんですけどぉ…。
+https://note.com/calpisco/n/n286e2e524570
+続きをみる]]></summary>
+        <author>
+            <name>calpisco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年3月-4】パキパキ]]></title>
         <id>hatenablog://entry/6802418398339673210</id>
