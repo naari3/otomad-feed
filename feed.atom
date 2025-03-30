@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-03-30T16:05:05.758Z</updated>
+    <updated>2025-03-30T17:04:24.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[複垢の話]]></title>
+        <id>https://note.com/takoo/n/na532735132c0</id>
+        <link href="https://note.com/takoo/n/na532735132c0"/>
+        <updated>2025-03-30T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[すでに勘付かれている方も多いと思いますが、シソボリﾉﾚドﾉﾚフという名義で動画を投稿していました。
+あんまり言うタイミングがなかったのでこの機会に。
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MADの特に台詞合わせで使っているVST]]></title>
+        <id>https://note.com/takoo/n/n9fbd143c7dad</id>
+        <link href="https://note.com/takoo/n/n9fbd143c7dad"/>
+        <updated>2025-03-30T16:13:35.000Z</updated>
+        <summary type="html"><![CDATA[正直なところ、音MAD的なミックスに苦手意識があるので、もっとうまい人に聞くべきかも。
+もし自分の音MADを聞いてミックスが上手い！って思ったら参考にすればよいと思います。
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MAD合作のここ数年のトレンド]]></title>
+        <id>https://note.com/takoo/n/n5dd3f243fe5e</id>
+        <link href="https://note.com/takoo/n/n5dd3f243fe5e"/>
+        <updated>2025-03-30T16:10:19.000Z</updated>
+        <summary type="html"><![CDATA[メモ書き程度。
+音MADを昔からちゃんと見ているわけではないので、前からこういうのあったよ！という指摘があればよろしくお願いします。
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音MADメドレー合作をやるときは、相応の覚悟を持った方が良い]]></title>
+        <id>https://note.com/takoo/n/n734ffcf892bb</id>
+        <link href="https://note.com/takoo/n/n734ffcf892bb"/>
+        <updated>2025-03-30T16:09:47.000Z</updated>
+        <summary type="html"><![CDATA[今後の皆さんに向けて。強い言葉を使ってしまっていますが、今後苦しむ人が減ることを願って。
+ウマ娘4周年合作で流石に骨が折れたので書きます。詳しい内容は次の記事を見てください。反省点がたくさんあるので参考になると思います。
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関わった動画の思い出、影響元（2024秋～）]]></title>
+        <id>https://note.com/takoo/n/n7b2897cc42d6</id>
+        <link href="https://note.com/takoo/n/n7b2897cc42d6"/>
+        <updated>2025-03-30T16:07:26.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事：
+
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウマ娘4周年合作　反省]]></title>
         <id>https://note.com/takoo/n/n6d4003980a58</id>
