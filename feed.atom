@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-03-30T15:04:44.540Z</updated>
+    <updated>2025-03-30T16:05:05.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウマ娘4周年合作　反省]]></title>
+        <id>https://note.com/takoo/n/n6d4003980a58</id>
+        <link href="https://note.com/takoo/n/n6d4003980a58"/>
+        <updated>2025-03-30T15:50:59.000Z</updated>
+        <summary type="html"><![CDATA[今年の2月24日、ウマ娘4周年祭 〜Feisty Party〜が投稿されました。
+  
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[皆ごめん。刺さっちゃった。]]></title>
         <id>https://note.com/calpisco/n/n8f4bdefc1370</id>
@@ -11898,18 +11910,6 @@ MOW　発酵バターキャラメル
 続きをみる]]></summary>
         <author>
             <name>あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24/03/30 疲れると文字が消える]]></title>
-        <id>https://note.com/banfuture9/n/ne5c1e1a4658b</id>
-        <link href="https://note.com/banfuture9/n/ne5c1e1a4658b"/>
-        <updated>2024-03-31T03:13:38.000Z</updated>
-        <summary type="html"><![CDATA[今日は青春18きっぷを使って静岡市美術館まで高畑勲展を見に行った。往復で7時間という文字にするとギョッとする移動時間も意外に苦痛だった印象は無く（そこそこ座れたからだと思うが）、展覧会の内容もすごく面白かったので良い1日だったと言えよう。帰りがけに駅ビルで食べたおらが蕎麦の冷やし鶏天そばが美味しかった。蕎麦って意識してなかったけどかなり好きかもしれない。
-
-続きをみる]]></summary>
-        <author>
-            <name>B</name>
         </author>
     </entry>
     <entry>
