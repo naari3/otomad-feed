@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-04-04T14:05:15.996Z</updated>
+    <updated>2025-04-04T15:05:12.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近9]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n9c187e03349e</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n9c187e03349e"/>
+        <updated>2025-04-04T14:05:56.000Z</updated>
+        <summary type="html"><![CDATA[クリスタEXにアップグレード
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年4月-1】チョキチョキ]]></title>
         <id>hatenablog://entry/6802418398341757498</id>
