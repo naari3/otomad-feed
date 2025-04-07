@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-04-07T12:07:56.928Z</updated>
+    <updated>2025-04-07T13:12:17.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[見た2025冬アニメ]]></title>
+        <id>https://note.com/binetsu0904/n/n8f1d3532e809</id>
+        <link href="https://note.com/binetsu0904/n/n8f1d3532e809"/>
+        <updated>2025-04-07T12:24:45.000Z</updated>
+        <summary type="html"><![CDATA[前シーズンの感想はこちら
+
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タルコフの地下迷宮と魔女の旅団]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1352.html</id>
