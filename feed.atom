@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-04-14T11:04:55.012Z</updated>
+    <updated>2025-04-14T12:08:27.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トリガーについていけば生き残れる]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1353.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1353.html"/>
+        <updated>2025-04-14T11:44:48.000Z</updated>
+        <summary type="html"><![CDATA[春ですよー  荒波です暖かくなってきたなぁと思った途端クソ冷えおってからにでも例年5月末くらいまで上着着込んでるしいつも通りかもしれないそういやトリガー実装されてましたねみんなケツしか見てないけど普通にデザインかっこいいから好きよなめらかでダイナミックな狙撃モーションも美しいそしてなんといっても0号アンビーのベストパートナーだから引かないワケにはいかない実際強くて大満足  別にアンビー以外と組んでも強い]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メジャーから求まれ始める：ストリートファッションと化した音MAD]]></title>
         <id>https://note.com/fourangle/n/n1ffaf29a54d8</id>
