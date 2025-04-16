@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-04-16T02:32:39.408Z</updated>
+    <updated>2025-04-16T03:19:54.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -11835,17 +11835,6 @@ https://youtu.be/45-NOYrinL0
 続きをみる]]></summary>
         <author>
             <name>あかがね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BPMグリッドに合わせるためにFPSを変えるのは間違い]]></title>
-        <id>https://ytpmv.info/?p=1987</id>
-        <link href="https://ytpmv.info/1987/"/>
-        <updated>2024-04-16T14:32:55.000Z</updated>
-        <summary type="html"><![CDATA[みなさんごきげんよう。まいまいです。この記事では「音MADの映像編集で、BPMに応じてプロジェクトのFPS設定を変更する方法」（以下、〝この手法〟）が間違いであることを示す為に、この手法のメリット・デメリットと、代替方法 […]
-The post BPMグリッドに合わせるためにFPSを変えるのは間違い first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
     <entry>
