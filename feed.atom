@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-04-20T22:05:03.972Z</updated>
+    <updated>2025-04-20T23:04:56.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記]]></title>
+        <id>https://note.com/ebideath/n/n894ab82328cf</id>
+        <link href="https://note.com/ebideath/n/n894ab82328cf"/>
+        <updated>2025-04-20T22:27:25.000Z</updated>
+        <summary type="html"><![CDATA[ずっと寝てる
+希望が持てない
+
+
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現実とネットの距離は縮まるどころか広がっている]]></title>
         <id>https://anond.hatelabo.jp/20250420175957</id>
