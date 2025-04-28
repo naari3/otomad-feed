@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-04-28T14:05:47.241Z</updated>
+    <updated>2025-04-28T15:06:01.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[わたしはかえってきた]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1356.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1356.html"/>
+        <updated>2025-04-28T14:07:27.000Z</updated>
+        <summary type="html"><![CDATA[ゼンゼロもやってるけど、今はとにもかくにもオブリ未だに夢を見ているような気分ですが  わちきはシロディールに帰ってきましたといっても半年ぶりぐらいだけどせっかくなのでオブリではほぼやったことない女性キャラ＋ダンマーで冒険していくわよ種族ごとに顔の特徴がハッキリしたおかげでエルフ系のキャラクリがむずいことむずいことプレースタイルは魔法と錬金術メイン  あと片手斧そしてこれまた一度もやったことない精霊座で]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雑書き]]></title>
         <id>https://note.com/sweets_farting/n/n6074c82123a9</id>
