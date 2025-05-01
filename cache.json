@@ -5817,7 +5817,18 @@
       "title": "セイロンティー",
       "feedUrl": "https://note.com/seirontea/rss",
       "siteUrl": "https://note.com/seirontea",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/seirontea/n/n10edf23a02e7",
+          "author": null,
+          "description": "こちらの合作のお気に入りパートを並べてくだけのやつです。\n続きをみる",
+          "link": "https://note.com/seirontea/n/n10edf23a02e7",
+          "publishedOn": "2025-05-01T22:48:05.000Z",
+          "wordCount": 2440,
+          "title": "Ｍ２お気に入りパートの感想",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/7189b6c29b1408b49f45ccb9ba7c4326764e3bae.png"
+        }
+      ]
     },
     {
       "title": "せりら",
