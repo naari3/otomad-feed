@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-05-02T04:06:15.089Z</updated>
+    <updated>2025-05-02T05:05:54.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[擬似音声備忘録永久編Parn1]]></title>
+        <id>https://note.com/euro3/n/n767ef43a24ef</id>
+        <link href="https://note.com/euro3/n/n767ef43a24ef"/>
+        <updated>2025-05-02T04:45:38.000Z</updated>
+        <summary type="html"><![CDATA[ども、キロムでした。
+ユーロとなります。
+なんか河兎さんが「擬似音声の記事消えちゃっててロストテクノロジーなんだよね（泣く）」って言ってたので、noteに残します！
+特定素材の発達を促す記事ではないので、悪しからず
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ｍ２お気に入りパートの感想]]></title>
         <id>https://note.com/seirontea/n/n10edf23a02e7</id>
