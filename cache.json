@@ -2697,6 +2697,21 @@
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/bd24a731c3a61b2196ab076b4b7d3927eca49e96/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fwww.city.uwajima.ehime.jp%2Fuploaded%2Fimage%2F32647.jpg"
         },
         {
+          "id": "hatenablog://entry/6802418398337592764",
+          "author": null,
+          "description": "当サイト23周年。以下、旧ページトップ(http://www.remus.dti.ne.jp/~yomo/index.html)とはてなブログの月別PV。\n 旧ページはてなブログ\n--トップUU旧ページからPV全体PV NEWS以外PVトップ\n2024年03月371501528820617\n2024年04月281861045137515\n2024年05月22193826514519\n2024年06月8130124718918\n2024年07月14138627021811\n2024年08月15151521016115\n2024年09月7129340534614\n2024年10月21162435931712\n2024年11月12161826221425\n2024年12月13113722317621\n2025年01月17871024021213\n2025年02月8101825923617\n * Google Analytics調べ\n御本人さんは7月末～8月頭でロシア訪問していましたがこちらには無風でした。9月～10月は衆院選で自民党北海道連と新党大地が選挙協力を結んだ関係で露出が増えていました。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20250314/p1",
+          "publishedOn": "2025-03-14T14:59:01.000Z",
+          "wordCount": 936,
+          "title": "ページビュー23年目記録",
+          "enclosure": {
+            "url": "https://ogimage.blog.st-hatena.com/12704591929884590995/6802418398337592764/1746860192",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://ogimage.blog.st-hatena.com/12704591929884590995/6802418398337592764/1746860192"
+        },
+        {
           "id": "hatenablog://entry/6802418398334662101",
           "author": null,
           "description": "HURIKAKE - YouTube (投稿者)\nYouTubeにて公開。「i wanna be a muneo」PVの音源を利用したショート動画。",
@@ -5610,6 +5625,16 @@
       "feedUrl": "https://note.com/nototote/rss",
       "siteUrl": "https://note.com/nototote",
       "articles": [
+        {
+          "id": "https://note.com/nototote/n/ncfca8def5fdc",
+          "author": null,
+          "description": "そもそも絵の評価って感情が動いたかどうかなんしゅ\n技術バカはそこをわかっていない　何かにつけて理屈を求めたがる　くだらんクセっしゅ\nいい絵だなと思ったら、左右反転したときに顔がゆがんでいようが、よく見ると指の本数が多かろうが、関係ないんしゅ\n続きをみる",
+          "link": "https://note.com/nototote/n/ncfca8def5fdc",
+          "publishedOn": "2025-05-10T06:22:41.000Z",
+          "wordCount": 2266,
+          "title": "AIアート",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/7b66b2fbb661171519d50dbe3be33e55eff504a5.png"
+        },
         {
           "id": "https://note.com/nototote/n/ned7b0b72c095",
           "author": null,
