@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-05-12T13:14:15.007Z</updated>
+    <updated>2025-05-12T14:06:00.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ごほごほごほ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1359.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1359.html"/>
+        <updated>2025-05-12T13:43:58.000Z</updated>
+        <summary type="html"><![CDATA[なぞに風邪ひいてあまりオブリブリブリできてない今日このごろ  荒波ですと言いつつ遊んでるけどゲームしてると頭痛くなるから代わりのアニメ鑑賞がはかどるはかどる今春はmonoもざつ旅もひびうまも良くてのんびりアニメが豊作なんだよなmonoは原作そんな面白いわけじゃないのに（超失礼）良い感じになっててメチャ良い作画的に見るべき所が多くてボーっと楽しめないのが逆に気になるまであるところでどの作品もキャラの名前全然覚]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【後記】M2]]></title>
         <id>https://note.com/nanana555/n/n21eb70a3b40d</id>
