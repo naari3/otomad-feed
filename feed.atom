@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-05-16T07:05:49.741Z</updated>
+    <updated>2025-05-16T08:06:54.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Macでrarファイルを解凍する方法（2025-05-16）]]></title>
+        <id>https://note.com/dokozonosyake/n/ncad3eddec969</id>
+        <link href="https://note.com/dokozonosyake/n/ncad3eddec969"/>
+        <updated>2025-05-16T07:58:29.000Z</updated>
+        <summary type="html"><![CDATA[1. Homebrewのインストール
+1-1. インストール
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23歳が書くタバコスタートダッシュ]]></title>
         <id>https://note.com/euro3/n/n80d8995fbaa3</id>
