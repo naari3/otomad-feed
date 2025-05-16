@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-05-16T06:07:09.668Z</updated>
+    <updated>2025-05-16T07:05:49.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[23歳が書くタバコスタートダッシュ]]></title>
+        <id>https://note.com/euro3/n/n80d8995fbaa3</id>
+        <link href="https://note.com/euro3/n/n80d8995fbaa3"/>
+        <updated>2025-05-16T06:28:13.000Z</updated>
+        <summary type="html"><![CDATA[どうも、音MAD作者辞める辞める詐欺してる上に人望も無くなったユーロです。
+今日は皆さんにタバコスタートダッシュをしたいと思います。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ごほごほごほ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1359.html</id>
