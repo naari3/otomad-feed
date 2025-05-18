@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-05-18T05:05:11.704Z</updated>
+    <updated>2025-05-18T06:06:36.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[そうなの？]]></title>
+        <id>https://note.com/euro3/n/n2dea523de544</id>
+        <link href="https://note.com/euro3/n/n2dea523de544"/>
+        <updated>2025-05-18T05:16:43.000Z</updated>
+        <summary type="html"><![CDATA[そうなの？
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年5月-4】争う鳥が大好き]]></title>
         <id>hatenablog://entry/6802418398431160570</id>
