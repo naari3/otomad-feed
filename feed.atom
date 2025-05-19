@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-05-19T12:08:43.090Z</updated>
+    <updated>2025-05-19T13:14:18.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -7614,6 +7614,19 @@ opがモノクロ実写背景に動くキャラの絵だったのでびっくり
 続きをみる]]></summary>
         <author>
             <name>ともしげ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ねとらじ 終了]]></title>
+        <id>hatenablog://entry/6802418398436070598</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20240903/p1"/>
+        <updated>2024-09-03T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[FC2ねとらじ閉鎖に伴うお知らせ - FC2総合インフォメーション (2024年8月30日)
+サービス終了のお知らせ : ネットラジオサイト ねとらじ (Internet Archive)
+ねとらじ - Wikipedia
+先月30日に告知され、本日一杯でサービス終了。最初期、まだダイフク氏が個人で運営していた「らじちゃんねる」時代の2002年春、ムネオハウスの流行とらじちゃんねるでの市販曲利用禁止の決定が丁度重なったことから、楽曲が多用された時期がありました。またコテハンネットラジオ等でも大変お世話になりました。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
