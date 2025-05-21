@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-05-21T00:21:23.864Z</updated>
+    <updated>2025-05-21T01:33:17.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自分のnoteのプロフィール柴田さ...]]></title>
+        <id>https://note.com/nendo31/n/n18a74d5d3907</id>
+        <link href="https://note.com/nendo31/n/n18a74d5d3907"/>
+        <updated>2025-05-21T00:53:21.000Z</updated>
+        <summary type="html"><![CDATA[自分のnoteのプロフィール柴田さんの奴隷って書かれててアホすぎ 続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD-DJ＆音MAD-mixの私的メモ]]></title>
         <id>hatenablog://entry/6802418398437914656</id>
