@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-06-10T03:27:16.487Z</updated>
+    <updated>2025-06-10T04:10:45.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニンテンドーミュージアムを数倍楽しむ・うがった見方講座]]></title>
+        <id>https://note.com/nototote/n/nedc2a67cb9fe</id>
+        <link href="https://note.com/nototote/n/nedc2a67cb9fe"/>
+        <updated>2025-06-10T03:47:28.000Z</updated>
+        <summary type="html"><![CDATA[0. はじめに
+続きをみる]]></summary>
+        <author>
+            <name>とッくん@マリ●ペデ●ア管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2.0きましたね]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1363.html</id>
