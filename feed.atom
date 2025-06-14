@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-06-14T00:20:35.682Z</updated>
+    <updated>2025-06-14T01:33:08.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[（ブラウザの）ブックマーク解放note]]></title>
+        <id>https://note.com/euro3/n/n1c1765329bd8</id>
+        <link href="https://note.com/euro3/n/n1c1765329bd8"/>
+        <updated>2025-06-14T00:26:35.000Z</updated>
+        <summary type="html"><![CDATA[https://f-stock.net/
+https://resourceboy.com/textures/
+オーバーレイ素材
+https://icooon-mono.com/
+アイコン素材
+https://kage-design.com/
+系列のサイトで素材が凄く多い
+https://bside.telopict.com/
+https://telopict.com/
+AEみたいなエフェクトがダウンロード出来るサイト　イラストもある
+https://o-dan.net/ja/
+写真素材検索サイト
+https://onmokosub.hatenablog.com/entry/2021/10/08/225010
+素材の4倍拡大ができる
+https://mclover.hateblo.jp/UgoTool
+ウゴウゴルーガみたいな文字がカクカク動く奴
+https://ae-style.net/materials/
+AE解説サイト。
+そうじゃなくても素材がある
+https://texture.ninja/textures/
+テクスチャが死ぬほどあるサイト
+https://moshpro.app/
+MOSH
+お金かけるとなんか色々できるけど、無料でも3秒ぐらいグリッジエフェクトがかかった素材が撮れる
+https://www.vgmusic.com/
+ゲーム系のMIDI投稿サイト
+マイナーな曲はないかも
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解析レポート]]></title>
         <id>https://note.com/1oclock/n/n802b83937cdc</id>
