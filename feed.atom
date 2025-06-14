@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-06-14T10:05:10.724Z</updated>
+    <updated>2025-06-14T11:04:21.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ユーロ（キロム）悪行集]]></title>
+        <id>https://note.com/euro3/n/n5c240b8c4a84</id>
+        <link href="https://note.com/euro3/n/n5c240b8c4a84"/>
+        <updated>2025-06-14T11:03:11.000Z</updated>
+        <summary type="html"><![CDATA[キロム「摩天楼合作？人が多いだけでつまんなさそう」発言事件
+
+のべ10人前後の合作に慣れていたため、人が多いと見所が多くて結果つまらなさそうという評定を下した事件。
+2年後に生クリーム氏に謝罪をし和解。その後ナートロ3にてユーロブロ解宣言。
+音MAD界隈で腫れ物扱いされることになるきっかけである。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（ブラウザの）ブックマーク解放note]]></title>
         <id>https://note.com/euro3/n/n1c1765329bd8</id>
