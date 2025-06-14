@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-06-14T12:07:27.931Z</updated>
+    <updated>2025-06-14T13:10:31.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『あらびき音MAD 夏』開催のお知らせ]]></title>
+        <id>https://note.com/nomuratakeshi/n/n5c33e7e8b4fd</id>
+        <link href="https://note.com/nomuratakeshi/n/n5c33e7e8b4fd"/>
+        <updated>2025-06-14T12:35:38.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>埜村武</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ユーロ（キロム）悪行集]]></title>
         <id>https://note.com/euro3/n/n5c240b8c4a84</id>
