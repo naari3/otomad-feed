@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-06-18T00:21:21.993Z</updated>
+    <updated>2025-06-18T01:33:19.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[事情をよく知った反AI元音MAD作者兼シナリオライター見習いが生成AIに身を落とすまで]]></title>
+        <id>https://note.com/euro3/n/nb180f14bf24b</id>
+        <link href="https://note.com/euro3/n/nb180f14bf24b"/>
+        <updated>2025-06-18T00:39:08.000Z</updated>
+        <summary type="html"><![CDATA[どうも、徒歩8分の所に引越して四畳半を手に入れたユーロです。
+今年に入って私がやってること。
+皆さん知ってますか？知ってますよね。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mp4以外で音MAD界隈を荒らす子を一ヶ所に集めたい]]></title>
         <id>https://note.com/yamada_walk/n/n4f2b064acd39</id>
