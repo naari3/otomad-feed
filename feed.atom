@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-06-19T23:05:12.988Z</updated>
+    <updated>2025-06-20T00:21:08.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あ]]></title>
+        <id>hatenablog://entry/6802418398481157069</id>
+        <link href="https://lixy.hatenablog.com/entry/2025/06/20/%E3%81%82"/>
+        <updated>2025-06-19T23:04:59.000Z</updated>
+        <summary type="html"><![CDATA[アイデンティティがここで一度完全に瓦解しちゃってるのも大きい。
+Twitterに載せるのもみっともないし、ここで書いた。けどすぐ非公開にしちゃうだろうな……]]></summary>
+        <author>
+            <name>空回り</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年6月-3】細く描け！]]></title>
         <id>hatenablog://entry/6802418398480417855</id>
