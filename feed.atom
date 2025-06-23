@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-06-23T14:05:37.063Z</updated>
+    <updated>2025-06-23T15:05:41.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[夏来るな！]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1365.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1365.html"/>
+        <updated>2025-06-23T15:00:35.000Z</updated>
+        <summary type="html"><![CDATA[春アニメが終わっちまうよ～にんころもmonoもざつ旅もひびめしも小市民も終わったし薬屋ももうすぐ最終回ときた　あと前橋こんなにたくさんアニメ見て楽しんだのいつぶり？あまりの豊作にこのあとロスが怖いよねところで明後日にはチンチンフーフーちゃん実装ですけど彼女の餅武器、攻撃%がついててダメージバフも配れるしオマケにちょっとしたブレイク力UPもついてくるらしいこれ、DPSクレタにピッタリじゃん！ 今まで雅の武器を]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漫画ビューアアプリ「Perfect Viewer」のページ履歴の移行に関する備忘録]]></title>
         <id>https://ytpmv.info/?p=2048</id>
