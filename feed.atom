@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-06-24T20:05:38.542Z</updated>
+    <updated>2025-06-24T21:05:13.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[タロットカード占い始めました]]></title>
+        <id>https://note.com/euro3/n/n8fdbba57f8fd</id>
+        <link href="https://note.com/euro3/n/n8fdbba57f8fd"/>
+        <updated>2025-06-24T20:39:07.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ユーロです。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AutoHotKey④]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-132.html</id>
