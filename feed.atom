@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-07-05T18:05:51.808Z</updated>
+    <updated>2025-07-05T19:04:21.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近11]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n53b0cfe09045</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n53b0cfe09045"/>
+        <updated>2025-07-05T18:19:35.000Z</updated>
+        <summary type="html"><![CDATA[つまらない。
+絵を描いても、noteを書いても、ツイートをしても、壁に向かってケーキを投げている気分だ。
+つまらないね。
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記未満　20250705早朝]]></title>
         <id>hatenablog://entry/6802418398500221884</id>
