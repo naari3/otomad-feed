@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-07-20T05:09:31.834Z</updated>
+    <updated>2025-07-20T06:07:14.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[学園アイドルマスターというゲーム]]></title>
+        <id>https://anond.hatelabo.jp/20250720142209</id>
+        <link href="https://anond.hatelabo.jp/20250720142209"/>
+        <updated>2025-07-20T05:22:09.000Z</updated>
+        <summary type="html"><![CDATA[萌えゲーと言えばい...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RealSample 京都　雑記]]></title>
         <id>https://note.com/saltlemon/n/n07f2242ffb2a</id>
