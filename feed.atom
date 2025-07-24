@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-07-24T03:33:24.984Z</updated>
+    <updated>2025-07-24T04:18:50.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[駄菓子屋さんに来たよ^o^]]></title>
+        <id>https://note.com/ebideath/n/n190b0c43f3d7</id>
+        <link href="https://note.com/ebideath/n/n190b0c43f3d7"/>
+        <updated>2025-07-24T03:53:42.000Z</updated>
+        <summary type="html"><![CDATA[買
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[連続投稿バッジのために今月も投稿し...]]></title>
         <id>https://note.com/nendo31/n/n887610ba2cd0</id>
