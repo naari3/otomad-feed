@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-07-25T04:18:54.712Z</updated>
+    <updated>2025-07-25T05:11:03.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[謝罪]]></title>
+        <id>https://note.com/mark_fry/n/n265ffb48e1c5</id>
+        <link href="https://note.com/mark_fry/n/n265ffb48e1c5"/>
+        <updated>2025-07-25T04:25:33.000Z</updated>
+        <summary type="html"><![CDATA[これは自分が以前に投稿した動画なのですが
+続きをみる]]></summary>
+        <author>
+            <name>ixgy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年7月-4】だってやるしかないだろ]]></title>
         <id>hatenablog://entry/6802418398521393359</id>
@@ -4178,7 +4189,7 @@ github.com
 2/26
 続きをみる]]></summary>
         <author>
-            <name>Ixgy</name>
+            <name>ixgy</name>
         </author>
     </entry>
     <entry>
