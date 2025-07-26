@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-07-26T16:05:41.462Z</updated>
+    <updated>2025-07-26T17:04:48.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -11017,17 +11017,6 @@ nerdtronics2(2022)
 読みやすさ重視で作ったので、あんまり冒険してません！]]></summary>
         <author>
             <name>ブログ3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AviutlのffmpegOUTでAPNGを書き出すプリセット配布]]></title>
-        <id>https://ytpmv.info/?p=2030</id>
-        <link href="https://ytpmv.info/ffpmegout-apng-preset/"/>
-        <updated>2024-07-27T04:15:09.000Z</updated>
-        <summary type="html"><![CDATA[皆さんごきげんよう。まいまいです。 この記事ではAivutlのffmpegOUTでAPNGを書き出すためのプリセットを配布します。 APNGなので、透過チャンネルに対応した画像形式のアニメーションが作成できます。 パレッ […]
-The post AviutlのffmpegOUTでAPNGを書き出すプリセット配布 first appeared on YTPMV.info.]]></summary>
-        <author>
-            <name>maimai</name>
         </author>
     </entry>
     <entry>
