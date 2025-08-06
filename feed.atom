@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-06T15:07:05.665Z</updated>
+    <updated>2025-08-06T16:07:23.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/08/06 日記と道具/チリ/DANCE CORPS全部聞く/仕事が重い]]></title>
+        <id>https://note.com/banfuture9/n/n2d4a15be6907</id>
+        <link href="https://note.com/banfuture9/n/n2d4a15be6907"/>
+        <updated>2025-08-06T15:12:11.000Z</updated>
+        <summary type="html"><![CDATA[（いったん手帳に鉛筆で書いた後に、それを書き起こして書いています）
+WEBで日記を書こうとすると、余計な説明から入ろうとしてまとまらない袋小路に入ってしまう。手書きだとそうならないのは、書くしか選択肢が無いからであろう。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[どっとーれ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1371.html</id>
