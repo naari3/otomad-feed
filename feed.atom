@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-09T00:21:17.556Z</updated>
+    <updated>2025-08-09T01:33:30.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -10886,17 +10886,6 @@ splice.com
 BPMは一番好きなBPMであるところの200とし、とりあえず音MADの要領でベースラインのテンポを合わせた。元が120のサンプルなので、若干遅くしたことになる。リズ…]]></summary>
         <author>
             <name>9つのサボテンが喋った</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近2]]></title>
-        <id>https://note.com/ecolidelvsvc11/n/na985b8506d9b</id>
-        <link href="https://note.com/ecolidelvsvc11/n/na985b8506d9b"/>
-        <updated>2024-08-09T13:27:58.000Z</updated>
-        <summary type="html"><![CDATA[招待制の個人鯖が作りたい
-続きをみる]]></summary>
-        <author>
-            <name>大腸菌デリバリーサービス</name>
         </author>
     </entry>
     <entry>
