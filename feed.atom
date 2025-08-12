@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-12T08:07:12.014Z</updated>
+    <updated>2025-08-12T09:06:45.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ツイートするほどでもない呟きの寄せ集め]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n1d056f96d55c</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n1d056f96d55c"/>
+        <updated>2025-08-12T08:45:53.000Z</updated>
+        <summary type="html"><![CDATA[センターパート辞めるって言ったのにセンターパート辞めてない
+
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/08/11 意外とやれてない]]></title>
         <id>https://note.com/banfuture9/n/nbbbd17457a3f</id>
