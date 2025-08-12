@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-12T13:15:13.550Z</updated>
+    <updated>2025-08-12T14:05:50.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/08/12 メモが限界]]></title>
+        <id>https://note.com/banfuture9/n/n95dc311b3dde</id>
+        <link href="https://note.com/banfuture9/n/n95dc311b3dde"/>
+        <updated>2025-08-12T13:58:38.000Z</updated>
+        <summary type="html"><![CDATA[足が痛い、しか、言えることが無い。左足首。
+詳細な説明は可能だが、精神的な体力が尽きており、全く書く気にならない。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ツイートするほどでもない呟きの寄せ集め]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n1d056f96d55c</id>
