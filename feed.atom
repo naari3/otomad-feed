@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-16T11:04:28.661Z</updated>
+    <updated>2025-08-16T12:07:59.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第11回謎晒しイベント「漢字」]]></title>
+        <id>https://note.com/anzato/n/n4818593b7533</id>
+        <link href="https://note.com/anzato/n/n4818593b7533"/>
+        <updated>2025-08-16T11:52:50.000Z</updated>
+        <summary type="html"><![CDATA[謎晒しイベントとは？
+謎晒しイベントとは謎解き交流Discordサーバー「atNAZO」にて行われるイベントです。テーマに沿った謎をみんなで制作します。
+続きをみる]]></summary>
+        <author>
+            <name>餡砂糖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/08/15 3回疲れた]]></title>
         <id>https://note.com/banfuture9/n/ne0835a603af0</id>
