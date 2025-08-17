@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-17T04:14:06.957Z</updated>
+    <updated>2025-08-17T05:06:05.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/08/16 今日見たおすすめ音MAD]]></title>
+        <id>https://note.com/banfuture9/n/n8e7e47dcabce</id>
+        <link href="https://note.com/banfuture9/n/n8e7e47dcabce"/>
+        <updated>2025-08-17T04:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Sounds of KSHMR Vol. 1-3を買った。
+DDJ-FLX4のオーディオ設定が上手くいかなかった。これっぽいのだが、直らなかった。ノートPCでセットアップした方が良さそう。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第11回謎晒しイベント「漢字」]]></title>
         <id>https://note.com/anzato/n/n4818593b7533</id>
