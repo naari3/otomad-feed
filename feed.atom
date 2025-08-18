@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-18T12:09:07.784Z</updated>
+    <updated>2025-08-18T13:16:31.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ありえんくらい寝ナハトムジーク]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1373.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1373.html"/>
+        <updated>2025-08-18T12:25:04.000Z</updated>
+        <summary type="html"><![CDATA[最近別になんもないのに寝て起きたら半日くらい経ってる事あってこわい  荒波です暑すぎてエアコンつけっぱで寝るとこうなる気がしてるんだけど催眠ガスでも出てるんじゃないのたまにだけどスターデューバレーやってるこの頃人を撃つようなゲームばかりやっていると心が荒むため、時にはのんびり野菜を育てて癒される事も必要なのですという割には忙しいゲームだったりするけど朝は畑に水やり、鶏のタマゴ回収、牛の乳搾りをして、]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/08/17 日記を書く時間]]></title>
         <id>https://note.com/banfuture9/n/nb78deae0e560</id>
