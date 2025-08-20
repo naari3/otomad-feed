@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-20T15:05:45.800Z</updated>
+    <updated>2025-08-20T16:06:19.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/08/20 喋ってお茶を濁す]]></title>
+        <id>https://note.com/banfuture9/n/n58772ce7e561</id>
+        <link href="https://note.com/banfuture9/n/n58772ce7e561"/>
+        <updated>2025-08-20T15:50:19.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/08/19 パイナップルチャーハンと聞いて想像するもの]]></title>
         <id>https://note.com/banfuture9/n/n28f3e46564a6</id>
