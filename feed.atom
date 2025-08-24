@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-24T21:04:47.134Z</updated>
+    <updated>2025-08-24T22:04:54.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/08/24 やべえ]]></title>
+        <id>https://note.com/banfuture9/n/n7696ace77b11</id>
+        <link href="https://note.com/banfuture9/n/n7696ace77b11"/>
+        <updated>2025-08-24T21:37:32.000Z</updated>
+        <summary type="html"><![CDATA[朝。起きてすぐCUE打ちしてみるもめんどくさくなってしまい、USBに300曲エクスポートして家を出る。出たのは15時。
+スタジオを借りてCDJを触る会があった。上記の通り準備が何もできていなかったので、自分のターンで掛けた1曲目以降の記憶が無い。非常に落ち込んだというか、これはある程度準備しないとやる意味が無いなと思った。やりたいことは伝わっていたようなので、もっと色々考える余裕が出るくらいに慣れると良いのだけれど……。現状は、
+・いま掛けている曲がどの位置かわからない
+・切れ目を綺麗に接合するタイミングがわからない
+の2点をクリアしたい。慣れと研究かなあ。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[希死念慮により遺書の初稿を制作
 希...]]></title>
