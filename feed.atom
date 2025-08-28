@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-28T21:04:51.100Z</updated>
+    <updated>2025-08-28T22:04:47.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダンロボ合作・M2の制作後記]]></title>
+        <id>https://note.com/wake_otomad/n/n45ebf420a6e6</id>
+        <link href="https://note.com/wake_otomad/n/n45ebf420a6e6"/>
+        <updated>2025-08-28T20:28:41.000Z</updated>
+        <summary type="html"><![CDATA[「ゎけ」及び「狭山」というアカウントにて音MADを投稿している者です。
+本記事は文章書く練習を兼ねた制作後記となります。
+続きをみる]]></summary>
+        <author>
+            <name>ゎけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年8月-4】メ不（メンタル不調）（メンタルチェンソーみたいでいいね）（なにもよくない）]]></title>
         <id>hatenablog://entry/6802418398564554711</id>
