@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-08-29T20:05:37.821Z</updated>
+    <updated>2025-08-29T21:04:42.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/08/29 歩く疲れるそうですか]]></title>
+        <id>https://note.com/banfuture9/n/na2dccd96a302</id>
+        <link href="https://note.com/banfuture9/n/na2dccd96a302"/>
+        <updated>2025-08-29T20:39:30.000Z</updated>
+        <summary type="html"><![CDATA[某氏のブログを全部読む。俺はまだまだやなと当然のことを思う。音MAD周辺は色々なよくわからない人が合流して解散していくサイクルが面白いね。
+とりあえず金がある内に色々始めておこうという感じになった。いや、別に前からそうなのだけど。島村楽器のオンラインアウトレットでMackieのアナログミキサーを買った。MxCxで買ったManga Corpsが届いた。日本の古本屋で「世界の名著21 ガリレオ 『レ・メカニケ』『偽金鑑識官』」が届いた。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダンロボ合作・M2の制作後記]]></title>
         <id>https://note.com/wake_otomad/n/n45ebf420a6e6</id>
