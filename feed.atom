@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-02T13:12:32.029Z</updated>
+    <updated>2025-09-02T14:05:02.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[セキバク制作後記]]></title>
+        <id>https://note.com/dou_akagane_cu/n/nf19233520d8f</id>
+        <link href="https://note.com/dou_akagane_cu/n/nf19233520d8f"/>
+        <updated>2025-09-02T13:55:59.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、あかがねです。
+今回は久々に製作後記です。
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/09/02 疲れて眠いっす]]></title>
         <id>https://note.com/banfuture9/n/n308963d28ce2</id>
