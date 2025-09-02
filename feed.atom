@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-01T23:04:55.626Z</updated>
+    <updated>2025-09-02T00:20:19.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/09/01 隙間を埋めて行動]]></title>
+        <id>https://note.com/banfuture9/n/nf22911b32f7d</id>
+        <link href="https://note.com/banfuture9/n/nf22911b32f7d"/>
+        <updated>2025-09-01T23:45:23.000Z</updated>
+        <summary type="html"><![CDATA[・帰ってきてすぐにPC作業に入る。風呂よりも早く。そのまま0時になった。3時間程度だが、なにかした感じにはなった。
+・rekordboxの配信をやった。むちゃくちゃだが、自分だけが楽しいことというのは良いな。もし人前でやるのであればもっと考えないといけないけど。曲をわかっておく必要がある。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夏もおわるのに]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1375.html</id>
