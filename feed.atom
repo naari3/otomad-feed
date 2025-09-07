@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-07T15:04:38.531Z</updated>
+    <updated>2025-09-07T16:04:56.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/09/07 散文と決別]]></title>
+        <id>https://note.com/banfuture9/n/n33c6436da844</id>
+        <link href="https://note.com/banfuture9/n/n33c6436da844"/>
+        <updated>2025-09-07T15:28:37.000Z</updated>
+        <summary type="html"><![CDATA[毎度のことながら、書きたいことが上手く文字にできない。今日は特に上手くいかない。散文が苦手だ。別にフォーマットがあっても苦手ではあるが。
+現実の記録として急に始めた日記の毎日投稿であるが、いつの間にか開始から一ヶ月が経っていた。読み返すと、この時から現在までほぼ変化していないことがわかった。書くのが苦手という話は最初にしていた。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/09/06 最高のジャケット]]></title>
         <id>https://note.com/banfuture9/n/n02277e4178fb</id>
