@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-08T13:13:05.674Z</updated>
+    <updated>2025-09-08T14:05:15.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[くいろは]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1376.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1376.html"/>
+        <updated>2025-09-08T13:26:43.000Z</updated>
+        <summary type="html"><![CDATA[オボルス小隊アプデきてましたねとりまメインストーリーだけ終わらせた  なんかいろいろあったけど最後がかっこよかった（小学生並の感想）ラストバトルのミアズマ展開めっちゃクールだったな  やはり人型ボスはいいもんだ鬼火隊長、曲者揃いの隊員たちをまとめあげる厳格で知的なキャラかと思ったらまさかのオツム弱い系でワロタ話が難しくてオルペウスに説明させる下りはどっちが上官かわからなかったナチュラルにバカにされてる]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/09/07 散文と決別]]></title>
         <id>https://note.com/banfuture9/n/n33c6436da844</id>
