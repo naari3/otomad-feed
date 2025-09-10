@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-10T11:04:46.512Z</updated>
+    <updated>2025-09-10T12:08:12.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/09/10 真面目に読む]]></title>
+        <id>https://note.com/banfuture9/n/ncc468ddb796a</id>
+        <link href="https://note.com/banfuture9/n/ncc468ddb796a"/>
+        <updated>2025-09-10T11:53:04.000Z</updated>
+        <summary type="html"><![CDATA[・仕事。後輩がコードを書くのを頑張っていた（プログラマではない）。XMLに入門した。知らないことが多い。バカのふりをして、本当にバカが、基本的なことを聞きまくっている。韓愈「師説」だ。
+・仕事2。ネットワーク周りの構築が意味がわからない。思っていたよりも僕はこの分野について無知だったらしい。勉強が足りない。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/09/09 おっちゃん今日誕生日やねん]]></title>
         <id>https://note.com/banfuture9/n/nc0b156d186a6</id>
