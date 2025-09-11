@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-11T19:04:55.068Z</updated>
+    <updated>2025-09-11T20:05:15.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[感想記事「梅本佑利 音MAD～デジタル・マキシマリズムと音楽～」]]></title>
+        <id>https://note.com/chas/n/nf9623d8c9913</id>
+        <link href="https://note.com/chas/n/nf9623d8c9913"/>
+        <updated>2025-09-11T19:16:33.000Z</updated>
+        <summary type="html"><![CDATA[横浜みなとみらいホール梅本佑利 音MAD　～デジタル・マキシマリズムと音楽～ ｜ 過去の公演 ｜ 公演情報 ｜yokohama-minatomiraihall.jp 
+2025/9/13(木) 19:00 「梅本佑利 音MAD～デジタル・マキシマリズムと音楽～」を拝聴してきたので記憶が残っているうちに感想記事を書きます。平日夜ということでプライベートの都合をつけられなかった人も多いと思うのですが、雰囲気だけでも知ってもらえればと思います。
+続きをみる]]></summary>
+        <author>
+            <name>chas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年9月-2】どうにかなっちゃいそう！（万事解決）]]></title>
         <id>hatenablog://entry/6802888565227203261</id>

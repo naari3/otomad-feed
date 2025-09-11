@@ -3621,7 +3621,18 @@
       "title": "chas",
       "feedUrl": "https://note.com/chas/rss",
       "siteUrl": "https://note.com/chas",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/chas/n/nf9623d8c9913",
+          "author": null,
+          "description": "横浜みなとみらいホール梅本佑利 音MAD　～デジタル・マキシマリズムと音楽～ ｜ 過去の公演 ｜ 公演情報 ｜yokohama-minatomiraihall.jp \n2025/9/13(木) 19:00 「梅本佑利 音MAD～デジタル・マキシマリズムと音楽～」を拝聴してきたので記憶が残っているうちに感想記事を書きます。平日夜ということでプライベートの都合をつけられなかった人も多いと思うのですが、雰囲気だけでも知ってもらえればと思います。\n続きをみる",
+          "link": "https://note.com/chas/n/nf9623d8c9913",
+          "publishedOn": "2025-09-11T19:16:33.000Z",
+          "wordCount": 3063,
+          "title": "感想記事「梅本佑利 音MAD～デジタル・マキシマリズムと音楽～」",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/214753935/rectangle_large_type_2_69a30cec7bcc8987ed0993dac9b0efa5.jpeg?width=800"
+        }
+      ]
     },
     {
       "title": "Ckiro",
