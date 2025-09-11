@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-11T07:05:29.004Z</updated>
+    <updated>2025-09-11T08:07:07.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[俺が好きになりがちなキャラクターの共通点]]></title>
+        <id>https://note.com/ebideath/n/nd4b373eac623</id>
+        <link href="https://note.com/ebideath/n/nd4b373eac623"/>
+        <updated>2025-09-11T07:16:39.000Z</updated>
+        <summary type="html"><![CDATA[ヤマノススメ 青葉ここな
+ひぐらしのなく頃に 古手梨花
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/09/10 真面目に読む]]></title>
         <id>https://note.com/banfuture9/n/ncc468ddb796a</id>
