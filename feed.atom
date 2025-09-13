@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-13T13:07:01.738Z</updated>
+    <updated>2025-09-13T14:04:24.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/09/13 かなり歩いた]]></title>
+        <id>https://note.com/banfuture9/n/n86a748059169</id>
+        <link href="https://note.com/banfuture9/n/n86a748059169"/>
+        <updated>2025-09-13T13:34:45.000Z</updated>
+        <summary type="html"><![CDATA[やったこと
+かなり歩いた。ハードオフに行った。CDとBlu-rayとレコードを買った。デニーズに行った。実家に寄った。帰った。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合作振り返り①：『キチガイレコード爆団のメドレー ～お許しくだ祭2017～ 』]]></title>
         <id>hatenablog://entry/6802888565230110882</id>
