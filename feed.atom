@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-15T11:05:02.845Z</updated>
+    <updated>2025-09-15T12:08:36.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[先週なにしたかわかんねぇ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1377.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1377.html"/>
+        <updated>2025-09-15T11:50:33.000Z</updated>
+        <summary type="html"><![CDATA[先週の記憶なさすぎ  荒波です月見バーガー食ったくらいなんかリニューアルしたらしいけど何が変わったのかわかんねぇ  そもそも1年に1回しか食べないから違いがわかるほど月見バーガーの経験を積んでいないのもある普通にうまかったけど何度も食いたいほどじゃないから、結局今年も経験値を積めないまま秋が終わりそうです経験値上昇中☆アニメの録画ためすぎてHDDの容量がやばい今季もいろいろ面白くて楽しませてもらってるんだけ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[しばらく居なかったです]]></title>
         <id>https://note.com/euro3/n/n886556e26b2c</id>
