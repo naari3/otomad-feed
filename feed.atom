@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-16T11:05:01.382Z</updated>
+    <updated>2025-09-16T12:08:35.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/09/16 苦笑い]]></title>
+        <id>https://note.com/banfuture9/n/nf661b57938bc</id>
+        <link href="https://note.com/banfuture9/n/nf661b57938bc"/>
+        <updated>2025-09-16T12:07:06.000Z</updated>
+        <summary type="html"><![CDATA[・「もにょる」という語彙ヤバすぎる。
+・マジでうるさい先輩が休み明け1日目からキレる材料を自ら発見して周りに撒き散らしながらキレてて苦笑い。2回くらい無視してしまった。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/09/15 歩く歩く港区]]></title>
         <id>https://note.com/banfuture9/n/ndd95212adfce</id>
