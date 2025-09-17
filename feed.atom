@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-17T12:08:30.383Z</updated>
+    <updated>2025-09-17T13:11:31.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/09/17]]></title>
+        <id>https://note.com/banfuture9/n/n23a474d0ec66</id>
+        <link href="https://note.com/banfuture9/n/n23a474d0ec66"/>
+        <updated>2025-09-17T12:02:37.000Z</updated>
+        <summary type="html"><![CDATA[・逆に日記以外やりたくなくなった。情報の味が濃い。
+・わわわITの人が書いた説明の本を買ったら巻末に「おつかれさま 読んでくれてありがとね」って書いてあってカッコ良すぎる。WEBで何度も読んだ構文が同じ機能と形を保ったまま別のメディアで成立できるなんて！これはもう音MADといっても過言ではないな。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[口癖一選]]></title>
         <id>https://note.com/kokeshi_short/n/n1915da728489</id>
