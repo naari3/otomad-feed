@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-18T11:04:45.841Z</updated>
+    <updated>2025-09-18T12:08:28.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/09/18 帰宅したら次の日の気分]]></title>
+        <id>https://note.com/banfuture9/n/n9cd357f226cd</id>
+        <link href="https://note.com/banfuture9/n/n9cd357f226cd"/>
+        <updated>2025-09-18T11:54:54.000Z</updated>
+        <summary type="html"><![CDATA[・俺が音MAD-mixでなくDJをやる理由を考えている。おれの時間が流す音MADと同一になるという、きわめて主観的な側面しか見出せない。客に対しての意味は無くていいのか？変に真面目だからやりたいことだけやるのに抵抗がある。
+・まあでもやりたいことだけやるか。暴れてるなーとだけ思ってもらえれば嬉しい。武蔵美芸祭'25で僕と握手。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リタイアしたクリエイター趣味の友達がみんなVTuberにハマっていく]]></title>
         <id>https://anond.hatelabo.jp/20250918163336</id>
