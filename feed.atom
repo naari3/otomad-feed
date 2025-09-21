@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-21T12:07:04.490Z</updated>
+    <updated>2025-09-21T13:07:57.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RealSample編集後記 by まいまい]]></title>
+        <id>https://ytpmv.info/?p=2058</id>
+        <link href="https://ytpmv.info/real-sample-maimai/"/>
+        <updated>2025-09-21T12:48:34.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう、まいまいです。この記事では、2025/07/19に幡ヶ谷ForestLimitで開催された、YTPMVに特化した音MADイベント「RealSample 」に参加したので、イベントの一連の流れと、自分が […]
+The post RealSample編集後記 by まいまい first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【RealSample】reiji no machi　撮影地]]></title>
         <id>https://note.com/tojiru/n/n424b859f71a0</id>
