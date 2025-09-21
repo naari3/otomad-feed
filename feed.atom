@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-21T03:21:06.265Z</updated>
+    <updated>2025-09-21T04:05:43.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/09/20]]></title>
+        <id>https://note.com/banfuture9/n/nade84fa14ecf</id>
+        <link href="https://note.com/banfuture9/n/nade84fa14ecf"/>
+        <updated>2025-09-21T03:23:23.000Z</updated>
+        <summary type="html"><![CDATA[・起きたら昼だった。
+・色々あって0時からご飯に行く。近所の人と一緒に知り合いが働いている飲食店へ行く、なんてことが僕の人生で起こるとは。生きてみるものだな。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/09/19 結婚以前に]]></title>
         <id>https://note.com/banfuture9/n/n1914ea22cc17</id>
