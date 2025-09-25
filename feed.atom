@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-25T15:05:48.744Z</updated>
+    <updated>2025-09-25T16:05:57.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/09/25 眠い]]></title>
+        <id>https://note.com/banfuture9/n/nd66db56b0861</id>
+        <link href="https://note.com/banfuture9/n/nd66db56b0861"/>
+        <updated>2025-09-25T15:23:41.000Z</updated>
+        <summary type="html"><![CDATA[・歓迎会→早朝出勤→寝ないをやって限界が来た。何もする気にならない。
+・夕飯も用意しなかった。ミスったな。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年9月-4】呼吸]]></title>
         <id>hatenablog://entry/6802888565252990582</id>
