@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-09-28T08:05:53.400Z</updated>
+    <updated>2025-09-28T09:05:18.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近12]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n0f7d945db550</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n0f7d945db550"/>
+        <updated>2025-09-28T08:44:11.000Z</updated>
+        <summary type="html"><![CDATA[激動の夏でした。
+
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[anond:20250927222209]]></title>
         <id>https://anond.hatelabo.jp/20250927223431</id>
