@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-02T13:10:41.474Z</updated>
+    <updated>2025-10-02T14:05:24.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岐阜旅行 (25/9/22~25/9/24)]]></title>
+        <id>https://note.com/takoo/n/n3fd8deb7e89c</id>
+        <link href="https://note.com/takoo/n/n3fd8deb7e89c"/>
+        <updated>2025-10-02T13:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Q. なぜ岐阜？
+A. アニメの聖地がたくさんあるから
+続きをみる]]></summary>
+        <author>
+            <name>たこーちき</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[anond:20251002193357]]></title>
         <id>https://anond.hatelabo.jp/20251002193621</id>
