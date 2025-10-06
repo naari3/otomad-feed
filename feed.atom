@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-06T12:08:33.638Z</updated>
+    <updated>2025-10-06T13:12:04.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[まだ5年なんだ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1380.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1380.html"/>
+        <updated>2025-10-06T12:48:10.000Z</updated>
+        <summary type="html"><![CDATA[そいや今年もはらがみ振り返りイベントきてましたねもう殆どログインしてない蛍ちゃん絶対使う縛りのサブ垢で文章が変化する所を探したけど今回はこれだけかな？全体的に今年というかゲーム始まってからのデータを見せてくれる感じで面白かった一番落下死したのは北斗姉さん、一番溺れたのは煙緋だそうです  ごめん始めたての頃から長く使ってた二人だからまぁ愛の証というか･･･ZZZが出たこともありここ1年急速にプレーしなくなっ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジャンプ合作に参加しました]]></title>
         <id>https://note.com/sweets_farting/n/ne25d3526bd2a</id>
