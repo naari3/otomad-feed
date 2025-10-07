@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-07T06:07:09.369Z</updated>
+    <updated>2025-10-07T07:05:51.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自認]]></title>
+        <id>https://note.com/euro3/n/n540c7b55f25f</id>
+        <link href="https://note.com/euro3/n/n540c7b55f25f"/>
+        <updated>2025-10-07T06:21:24.000Z</updated>
+        <summary type="html"><![CDATA[音MADマジでやる気ない。フォニイとPlazmaが合う気がしてるけどマザボ死んだし注文したら廃墟に配達されてキャンセルされたし金は返ってこないしで父上が可哀想すぎ。俺はリリス様のアクリル浴衣がヤフーフリマの住所間違えてて2回住所変更しただけで届いたのに。
+よつはさんの新作良かったから荒らしてきました
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20251007]]></title>
         <id>hatenablog://entry/6802888565274431817</id>
