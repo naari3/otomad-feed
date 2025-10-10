@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-10T02:31:23.527Z</updated>
+    <updated>2025-10-10T03:18:06.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -10572,18 +10572,6 @@ www.nicovideo.jp
 ありがとうございます。]]></summary>
         <author>
             <name>なんて巨大なカニゴット</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Archive DDoS攻撃でダウン]]></title>
-        <id>hatenablog://entry/6802418398295781596</id>
-        <link href="https://underdefinition.hatenadiary.jp/entry/20241010/p1"/>
-        <updated>2024-10-10T14:59:01.000Z</updated>
-        <summary type="html"><![CDATA[The Internet Archive is under attack, with a breach revealing info for 31 million accounts (The Verge, 英語)
-The Internet Archive taken down by DDoS attacks (Engadget, 英語)
-古いファイルのサルベージや消えた掲示板のログの参照先としてお世話になっているInernet Archive。ハッカーグループによるDDoS攻撃を受けてダウン。これによりWayback Machineでの魚拓の取得や閲覧が不能になったほか、Community Audioで公開されている楽曲ファイルの視聴、全編無料公開されている『イアンのナードコア大百科』等、ムネオハウス関連の情報にアクセス出来なくなりました。]]></summary>
-        <author>
-            <name>muneo house information</name>
         </author>
     </entry>
     <entry>

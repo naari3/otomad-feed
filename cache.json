@@ -2694,21 +2694,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/6802418398295781596",
-          "author": null,
-          "description": "The Internet Archive is under attack, with a breach revealing info for 31 million accounts (The Verge, 英語)\nThe Internet Archive taken down by DDoS attacks (Engadget, 英語)\n古いファイルのサルベージや消えた掲示板のログの参照先としてお世話になっているInernet Archive。ハッカーグループによるDDoS攻撃を受けてダウン。これによりWayback Machineでの魚拓の取得や閲覧が不能になったほか、Community Audioで公開されている楽曲ファイルの視聴、全編無料公開されている『イアンのナードコア大百科』等、ムネオハウス関連の情報にアクセス出来なくなりました。",
-          "link": "https://underdefinition.hatenadiary.jp/entry/20241010/p1",
-          "publishedOn": "2024-10-10T14:59:01.000Z",
-          "wordCount": 975,
-          "title": "Internet Archive DDoS攻撃でダウン",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
