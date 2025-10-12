@@ -2291,6 +2291,36 @@
       "siteUrl": "https://underdefinition.hatenadiary.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/6802888565285034656",
+          "author": null,
+          "description": "よーなし - YouTube (投稿者)\n本日YouTubeに投稿されたショート動画。現在話題の生成AIのSoraに楽曲「muneo house」(1st-03)を投げ込んで生成させたもののようです。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20251006/p2",
+          "publishedOn": "2025-10-06T14:59:02.000Z",
+          "wordCount": 937,
+          "title": "\"MUNEO HOUSE\"を強調してみたら、\"Tears\"みたいな曲になったのは偶然かな？",
+          "enclosure": {
+            "url": "https://cdn.image.st-hatena.com/image/scale/63d04e0c9ef88f8056628104b9272d7ee71849d3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funderdefinition%2F20251011%2F20251011034615.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/63d04e0c9ef88f8056628104b9272d7ee71849d3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funderdefinition%2F20251011%2F20251011034615.jpg"
+        },
+        {
+          "id": "hatenablog://entry/6802888565283085165",
+          "author": null,
+          "description": "🐡BalloonFish | Join me on Suno (投稿者)\n[DTM@5ch] ★Suno曲、聴いてよ」スレッド★2\n本日、上掲DTM板のスレに投稿されていた楽曲。楽曲生成AIのSunoに「muneo house」(1st-03)の歌詞を投げ込んで作らせていました。\n\nListen on Suno",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20251006/p1",
+          "publishedOn": "2025-10-06T14:59:01.000Z",
+          "wordCount": 957,
+          "title": "ムネオハウス by 🐡BalloonFish | Suno",
+          "enclosure": {
+            "url": "https://cdn.image.st-hatena.com/image/scale/5c02100bb3b79f0e71d101cf29321f0b61fbed28/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funderdefinition%2F20251012%2F20251012190003.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/5c02100bb3b79f0e71d101cf29321f0b61fbed28/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funderdefinition%2F20251012%2F20251012190003.jpg"
+        },
+        {
           "id": "hatenablog://entry/6802418398524818264",
           "author": null,
           "description": "ogane - YouTube\nogane (@ogane) / Twitter\n本日、YouTubeでogane氏が公開。「2025/7月の参院選結果を受け引退宣言をした鈴木宗男氏にインスパイアされて、平成時代に流行ったムネオハウス的なのを作りました。」とのこと。",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-12T09:04:51.223Z</updated>
+    <updated>2025-10-12T10:05:12.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -99,6 +99,31 @@ open.spotify.com
 広島出身の電子音楽家である原神怜氏のエレクトロニカでは超有名な作品。初めてちゃんとそういうジャンルへ触れたのはこのアルバムだったはず。何回も聴いて枯山水みたいだなと思うようになった。氏の特徴である特定の機材を使った音色だけで、余白の多いサウンドが展開されている。ピアノ独奏とかに比べたらこれでもトラック数は多い方だけ…]]></summary>
         <author>
             <name>遺失物取扱所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["MUNEO HOUSE"を強調してみたら、"Tears"みたいな曲になったのは偶然かな？]]></title>
+        <id>hatenablog://entry/6802888565285034656</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20251006/p2"/>
+        <updated>2025-10-06T14:59:02.000Z</updated>
+        <summary type="html"><![CDATA[よーなし - YouTube (投稿者)
+本日YouTubeに投稿されたショート動画。現在話題の生成AIのSoraに楽曲「muneo house」(1st-03)を投げ込んで生成させたもののようです。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ムネオハウス by 🐡BalloonFish | Suno]]></title>
+        <id>hatenablog://entry/6802888565283085165</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20251006/p1"/>
+        <updated>2025-10-06T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[🐡BalloonFish | Join me on Suno (投稿者)
+[DTM@5ch] ★Suno曲、聴いてよ」スレッド★2
+本日、上掲DTM板のスレに投稿されていた楽曲。楽曲生成AIのSunoに「muneo house」(1st-03)の歌詞を投げ込んで作らせていました。
+
+Listen on Suno]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
