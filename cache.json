@@ -2694,21 +2694,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
-        },
-        {
-          "id": "hatenablog://entry/6802418398299412312",
-          "author": null,
-          "description": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine\nInternet Archive's Wayback Machine is back up after data breach - with a catch (ZDNET, 英語)\n本日、Wayback Machineがとりあえず復旧。",
-          "link": "https://underdefinition.hatenadiary.jp/entry/20241014/p1",
-          "publishedOn": "2024-10-14T14:59:01.000Z",
-          "wordCount": 980,
-          "title": "Internet Archive Wayback Machineが復旧",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
         }
       ]
     },
