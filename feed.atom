@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-14T03:18:23.694Z</updated>
+    <updated>2025-10-14T04:06:17.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コーヒーと僕]]></title>
+        <id>https://note.com/euro3/n/ncd24473cf6aa</id>
+        <link href="https://note.com/euro3/n/ncd24473cf6aa"/>
+        <updated>2025-10-14T03:58:50.000Z</updated>
+        <summary type="html"><![CDATA[今日も2回コーヒーをハンドドリップして淹れました。
+キリマンジャロブレンドをあっさり淹れ、サンドイッチに合わせて飲みました。
+僕とコーヒーの関わりは長く、そして深いです。
+時は2015年、Twitterを始めて間もなく、キロムとしてすら名乗ってなかった頃です。
+艦これまとめサイトと時々家庭板まとめサイトを見ていたある時、《ごちうさ2期が来る》との情報を見ました。
+それまでも全くアニメに興味の無い人間だった自分は、とりあえず事前情報で「コーヒーのある喫茶店が舞台」と知ったので、親に言ってMAXコーヒーを24本買ってもらい、深夜に飲みながら見てました。
+全然中身はコーヒーにこだわりのないアニメだったのでそこまででしたが、自分としてはコーヒーに強く惹かれたわけです。
+微糖の缶コーヒーから始まり、薄めのインスタントコーヒー、そしてサイゼリヤのアメリカンを飲めるようになるまで時間はそこまで経たなかったです。
+そしてインスタントコーヒーをたまに飲み成長して行きます。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[すろっかす]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1381.html</id>
