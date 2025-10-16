@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-16T03:20:24.167Z</updated>
+    <updated>2025-10-16T04:06:19.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[制作後記2]]></title>
+        <id>https://note.com/yabaiwayo/n/n2119ee448e0d</id>
+        <link href="https://note.com/yabaiwayo/n/n2119ee448e0d"/>
+        <updated>2025-10-16T03:59:43.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>プリコネの年末年始はヤバいわよ！</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年10月　原石青眼(遊戯王マスターデュエル)]]></title>
         <id>hatenablog://entry/6802888565288927711</id>
