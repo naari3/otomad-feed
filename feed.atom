@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-19T10:05:15.838Z</updated>
+    <updated>2025-10-19T11:04:31.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【重要】今後の活動について]]></title>
+        <id>https://note.com/euro3/n/n37948a5e93ca</id>
+        <link href="https://note.com/euro3/n/n37948a5e93ca"/>
+        <updated>2025-10-19T10:32:33.000Z</updated>
+        <summary type="html"><![CDATA[どうも、排他され系音MAD作者、ユーロです。私が音MADを衰退させた。
+あと1個ぐらい音MAD作りたいんですけど、誰も正当に評価してくれないでしょうから別垢作ってアップロードします。
+続きをみる]]></summary>
+        <author>
+            <name>ユーロ/犬の鳴き真似bot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[見た2025年夏アニメ]]></title>
         <id>https://note.com/binetsu0904/n/n717fde6a6111</id>
