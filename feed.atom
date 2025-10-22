@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-22T12:08:55.208Z</updated>
+    <updated>2025-10-22T13:15:06.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[連続投稿バッジ貰う用]]></title>
+        <id>https://note.com/nendo31/n/ne99ea86020b6</id>
+        <link href="https://note.com/nendo31/n/ne99ea86020b6"/>
+        <updated>2025-10-22T12:10:40.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>粘土31号</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RealSample制作後記とリアルイベント初体験記]]></title>
         <id>https://note.com/wake_otomad/n/n0b15d77b8f1c</id>
