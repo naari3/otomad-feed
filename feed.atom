@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-22T02:35:05.489Z</updated>
+    <updated>2025-10-22T03:24:12.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RealSample制作後記とリアルイベント初体験記]]></title>
+        <id>https://note.com/wake_otomad/n/n0b15d77b8f1c</id>
+        <link href="https://note.com/wake_otomad/n/n0b15d77b8f1c"/>
+        <updated>2025-10-22T02:35:08.000Z</updated>
+        <summary type="html"><![CDATA[長いです。目次から気になるところだけ見てもらえれば…
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ゎけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[のむラニアット]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1382.html</id>
