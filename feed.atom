@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-24T02:31:21.092Z</updated>
+    <updated>2025-10-24T03:18:18.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -10546,18 +10546,6 @@ youtu.be
 じゃ！]]></summary>
         <author>
             <name>なんて巨大なカニゴット</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Archive 全体復旧]]></title>
-        <id>hatenablog://entry/6802418398299415791</id>
-        <link href="https://underdefinition.hatenadiary.jp/entry/20241024/p1"/>
-        <updated>2024-10-24T14:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine
-Internet Archive is back online, but for how long? (Cybernews, 英語 10/25)
-本日、一時的に設置されていたトップページが元に戻り、各機能の閲覧が可能になったとのこと。]]></summary>
-        <author>
-            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
