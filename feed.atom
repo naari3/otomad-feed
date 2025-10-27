@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-10-27T06:08:25.115Z</updated>
+    <updated>2025-10-27T07:06:09.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パシャシャ！]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1383.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1383.html"/>
+        <updated>2025-10-27T06:59:53.000Z</updated>
+        <summary type="html"><![CDATA[待ちに待ったパシャじいイベ！！！！ヒューゴとかいう写真映えTier1エージェントを撮りたくてねぇひたすらパシャパシャパシャパシャしてましたよお前は本当にかっこいいな･･･やっぱライカンさんとのツーショットが欲しいよな  撮るのマジ難しいけどさて、書くこともないので以下スクショ垂れ流し]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヴィンテージキーボードで親指シフトキーボード収集はオススメしない理由1000那由多選]]></title>
         <id>https://note.com/anochan/n/nf0682ef2c8ce</id>
