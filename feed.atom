@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-03T10:06:04.280Z</updated>
+    <updated>2025-11-03T11:04:55.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[寒・ポーター]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1384.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1384.html"/>
+        <updated>2025-11-03T10:28:08.000Z</updated>
+        <summary type="html"><![CDATA[エアコンのいらない季節になったと喜んでいたらもう冬の足音がそばから聞こえてくる冬眠の準備をせねばなるまいいつまで暖房我慢できるかな･･･冬って寒いの以外好きだけど、寒いってだけで最悪の季節余裕すぎ相変わらず紙魚は出やがるし  あいつら冬眠しないのかよハロウィンということで正式間近のタルコフに戻ってイベントカルト狩りしてましたなぜか揃いも揃ってカオナシのお面つけてるオモシロ集団になっていたが、真の狙いは1]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【リスペクト・小ネタ編】私的黒塗り世界宛て書簡制作後記]]></title>
         <id>https://note.com/dou_akagane_cu/n/nfa589f6d7e0a</id>
