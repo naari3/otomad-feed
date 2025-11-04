@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-04T13:15:48.839Z</updated>
+    <updated>2025-11-04T14:05:41.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[投稿動画の振り返り-2025]]></title>
+        <id>https://note.com/yabaiwayo/n/n0a66982e7a0d</id>
+        <link href="https://note.com/yabaiwayo/n/n0a66982e7a0d"/>
+        <updated>2025-11-04T13:46:29.000Z</updated>
+        <summary type="html"><![CDATA[今年投稿した動画振り返りまーす、いくぜ！
+皆様に大事なお知らせがあります。百地たまての体調不良により、今回の振り返りは中止となりました。
+続きをみる]]></summary>
+        <author>
+            <name>プリコネの年末年始はヤバいわよ！</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寒・ポーター]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1384.html</id>
