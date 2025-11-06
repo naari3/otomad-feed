@@ -16,6 +16,117 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2025-11-06">2025-11-06</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://owatax00.hatenablog.com/" target="_blank" rel="noopener">owatax&#x27;s blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">オフライン会場で音MAD上映会をした時の備忘メモ</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://owatax00.hatenablog.com/entry/2025/11/06/165006" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>もくじ。
+共通事項
+現地でのリク生
+セットリストの上映
+音MAD-mixの上映
+ 
+
+
+共通事項
+いずれもOBS上でシーンを組み、プレビュー画面をプロジェクターに上映する形で実現しています。
+OBS側で録画することでそのままアーカイブも残せるので一石二鳥。
+ 
+現地でのリク生
+具体的なやり方などは以下の記事を参照。
+
+ 
+補足として、ニコニコ生放送の「合い言葉付き限定公開」機能を使うことで、現地に居る人だけがリクエスト・視聴可能な環境で上映することが出来ます。
+※合言葉付き限定公開の場合はニコレポ等でも配信が通知されないため、URLと合言葉を知っている人のみが視聴可能
+※スマホの場合はアプリからでないと合言葉の入力が出来ないため、参加者向けに事前周知が必要
+ 
+セットリストの上映
+有志に30分のセットリストを組んでもらい、順次上映するセクション。
+セットリスト検討には、1時さん作成のスプレッドシート「汎用セットリスト」が非常に便利なのでオススメ。
+ 
+
+▲再生時間を計測してくれるのが特にうれしい
+ 
+提出してもらったセットリストは、ラウドネスを揃えた上で各セット単位で1本の動画として纏めておきます。
+全動画を纏めてReaper上に突っ込み、アクションリストの「Normalize loudness of selected items to -23LUFS」を実行して機械的にラウドネスを揃えています。
+ 
+
+▲ラウドネスの調整方法
+ 
+また、リク生っぽくしたかったので投稿日時や再生数等の情報を放送者コメント風に表示。
+
+▲キャプション表示イメージ
+
+投稿日時等の情報は、動画IDを元にニコニコ公式のgetthumbinfoを叩いて取得しています。
+スプレッドシートからIMPORTXML関数を使って上手いことやってます。この辺りはchatGPTに聞いてもらえればいい感じの関数を組んでもらえるので各自で試してみてください。
+※動画数が多すぎるとIMPORTXML関数がうまく動かなくなりがちなので、必要に応じてGoogle Apps Script経由で取得する方法とかもchatGPTに聞いてみてもらえると良いと思います。
+
+ 
+色々書いたけど、削除動画とか流したい訳じゃなければマイリストの連続再生とかで十分かも。
+ 
+音MAD-mixの上映
+これはいつも通りなので割愛。
+ 
+ 
+大体こんな感じです。良き上映会ライフを！</span>
+                  </div>
+                    <img src="https://ogimage.blog.st-hatena.com/13574176438009882720/17179246901312971770/1762415406" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">2025年にリク生をしたい人向けの記事</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://owatax00.hatenablog.com/entry/2025/11/06/164044" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>結論
+Firefoxのアドオン「New NicoLive Helper」を導入すれば出来ます！
+ 
+おまけ
+正直このアドオンの紹介だけ出来れば十分なんですが、それだけだと流石に味気ないので軽く利用イメージを置いておきます。
+ 
+
+▲表示イメージ
+ 
+
+▲放送画面イメージ
+ 
+利用手順はこんな感じ。
+ニコ生で枠を取得
+Firefoxのアドオンから「New NicoLive Helper」を起動
+枠内でリクエストされた動画リストが表示されるので、「次を再生」を押下し動画の再生を開始
+見たまんまですね。UIも分かりやすいので特に迷わず使えるかと思います。
+ 
+※ニコ生公式の「動画紹介・生放送実況」機能を用いて動画を流す形となるので、以下のような挙動となります。
+動画切替時に数秒間元の配信画面に戻る
+動画再生中は配信側の音声は乗らない
+
+配信者側も動画の音声を普通に聴けるメリットがあるが、動画に対してマイク音声で実況したりとかは出来ない（はず）
+
+（ここやり方わかる方いたら教えて下さい）
+ 
+また、アドオンマネージャーから色々設定出来るみたいです。リクエスト受付時に自動応答したりとか。
+
+▲設定画面
+ 
+こんな感じです。良きリク生ライフを！</span>
+                  </div>
+                    <img src="https://cdn.image.st-hatena.com/image/scale/50355e9ec559e68f7de39faabff886a483655b68/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Fowatax00%2F20251106%2F20251106155431.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2025-11-05">2025-11-05</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -15443,7 +15554,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2025-11-06T07:05:40.464Z">2025-11-06T07:05:40.464Z</time>
+    <time id="build-timestamp" datetime="2025-11-06T08:07:03.741Z">2025-11-06T08:07:03.741Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
