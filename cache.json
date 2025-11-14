@@ -98,21 +98,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/312c6155ca0828fad8cbfaf42b48edb759b4db69/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20241223%2F20241223221036.png"
-        },
-        {
-          "id": "hatenablog://entry/6802418398299738235",
-          "author": null,
-          "description": "github.com\ngithub.com\nちょっとした修正といくつかのスクリプトの追加と更新。\n修正\nエフェクトマスクのパラメータのバグ\nエフェクトマスク周りのパラメータの扱いに難があったのを修正した。エフェクト麾下のパラメータは、0番目のパラメータがそのエフェクトに対する入力を扱うパラメータとして予約されているので、他のパラメータと扱いが少し異なる。そこらへんの処理が少々雑だった。\nUI.showContextMenu()のバグ(Windows下)\n\n上のようなコンテクストメニューを表示させるAPIで、変数のライフタイムの管理が雑な箇所があったので修正。\nFuzzy Searchのバグ\n計算コスト低減のためにキャッシュ機能を実装しているが、そこにバグがあったので修正。\nスクリプト\n@script_panel\n \n使用頻度の小さいScriptUI系のスクリプトをScriptUI Panelsフォルダに入れるのが煩わしい時に、あるフォルダに入れておいて、ドロップダウンリストから呼び出せるようにする。挙動（特にUI周りの）は当然、対象のスクリプト次第。\n@proxy_maker\nwww.youtube.com\n重いコンポをプリレンダしてプロキシに設定するというのはままあるが、それをレイヤー単位でしたかったので作成。\n@effect_launcher\nある文字列を入力すれば、即座にエフェクトが適用されるショートカット機能を追加した。スクリプト、プリセットもショートカットの対象に出来る。\n@effect_search\nスクリプト、プリセットも検索の対象に含められるようにした。検索窓に\\\\を入力すれば設定画面に入れる。\nドキュメント\nAPIばかりの説明で、スクリプトの説明がなかったので、簡易的だが説明を追加した。\nFuzzy Searchとdebounce\n@effect_launcherや@effect_searchなどでは、キー入力ごとにFuzzy Searchを発火させると、処理が追いつかず固まるので、debouneで処理を間引いているが、debounce timeはちょっと安全側に寄せて200msに設定していた。しかしこの設定だと特にショートカット機能を用いた際の遅延が気になったので、100msに変更した。また、使用者が自分で変更出来るように、変数に切り出してスクリプトの上の方に置いた。",
-          "link": "https://atarabi.hateblo.jp/entry/2024/11/14/222136",
-          "publishedOn": "2024-11-14T13:21:36.000Z",
-          "wordCount": 369,
-          "title": "After Effectsのスクリプトの可能性を広げる。 その５",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/a28d25adb7c99a15898018fe0565f621e4a6ff1d/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20241114%2F20241114173012.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/a28d25adb7c99a15898018fe0565f621e4a6ff1d/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20241114%2F20241114173012.png"
         }
       ]
     },

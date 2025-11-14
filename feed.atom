@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-14T00:21:37.118Z</updated>
+    <updated>2025-11-14T01:33:11.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -10307,41 +10307,6 @@ Twitterでも話ましたが、こういうのは性欲の発散というより�
 日記を書こうとしても、こんなことを書く意味があるのか、書いて読みたい人がいるのか、あとから自分で振り返って恥ずかしく思いそうなどの意識が邪魔をしてその気にならない。けっこう自分の書いたものを読み返すことが多かったり、作った作品を鑑賞しなおすことが多いゆえ、いっそう思う。元気があまりないときなど、中毒のように鑑賞したりエゴサ―チすることで自信を得ているけれどこれは危険なのではないかとときどき思う。いつか自分のものが信じられなくなったときが来たらこわいなーということだ。本位は自分の満足のためだと言い聞かせているけれど、続けるモチベーシ…]]></summary>
         <author>
             <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After Effectsのスクリプトの可能性を広げる。 その５]]></title>
-        <id>hatenablog://entry/6802418398299738235</id>
-        <link href="https://atarabi.hateblo.jp/entry/2024/11/14/222136"/>
-        <updated>2024-11-14T13:21:36.000Z</updated>
-        <summary type="html"><![CDATA[github.com
-github.com
-ちょっとした修正といくつかのスクリプトの追加と更新。
-修正
-エフェクトマスクのパラメータのバグ
-エフェクトマスク周りのパラメータの扱いに難があったのを修正した。エフェクト麾下のパラメータは、0番目のパラメータがそのエフェクトに対する入力を扱うパラメータとして予約されているので、他のパラメータと扱いが少し異なる。そこらへんの処理が少々雑だった。
-UI.showContextMenu()のバグ(Windows下)
-
-上のようなコンテクストメニューを表示させるAPIで、変数のライフタイムの管理が雑な箇所があったので修正。
-Fuzzy Searchのバグ
-計算コスト低減のためにキャッシュ機能を実装しているが、そこにバグがあったので修正。
-スクリプト
-@script_panel
- 
-使用頻度の小さいScriptUI系のスクリプトをScriptUI Panelsフォルダに入れるのが煩わしい時に、あるフォルダに入れておいて、ドロップダウンリストから呼び出せるようにする。挙動（特にUI周りの）は当然、対象のスクリプト次第。
-@proxy_maker
-www.youtube.com
-重いコンポをプリレンダしてプロキシに設定するというのはままあるが、それをレイヤー単位でしたかったので作成。
-@effect_launcher
-ある文字列を入力すれば、即座にエフェクトが適用されるショートカット機能を追加した。スクリプト、プリセットもショートカットの対象に出来る。
-@effect_search
-スクリプト、プリセットも検索の対象に含められるようにした。検索窓に\\を入力すれば設定画面に入れる。
-ドキュメント
-APIばかりの説明で、スクリプトの説明がなかったので、簡易的だが説明を追加した。
-Fuzzy Searchとdebounce
-@effect_launcherや@effect_searchなどでは、キー入力ごとにFuzzy Searchを発火させると、処理が追いつかず固まるので、debouneで処理を間引いているが、debounce timeはちょっと安全側に寄せて200msに設定していた。しかしこの設定だと特にショートカット機能を用いた際の遅延が気になったので、100msに変更した。また、使用者が自分で変更出来るように、変数に切り出してスクリプトの上の方に置いた。]]></summary>
-        <author>
-            <name>Atarabi-Blog</name>
         </author>
     </entry>
     <entry>
