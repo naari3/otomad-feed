@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-17T04:09:27.397Z</updated>
+    <updated>2025-11-17T05:06:00.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音Wiki2に記事が増やせないワケ]]></title>
+        <id>https://note.com/nototote/n/n28d71df8f108</id>
+        <link href="https://note.com/nototote/n/n28d71df8f108"/>
+        <updated>2025-11-17T04:57:38.000Z</updated>
+        <summary type="html"><![CDATA[どうも、ととととです。
+インターネット上には「音MAD」という創作物ジャンルがある。
+アニメ、ゲーム、CMなどの映像を分解して、別の曲に合わせて再構成する動画のことだ。『おとわっか』と聞けば「あー、アレね」と思う人も多いだろう。
+この音MADを、1つ1つの動画ごとに文章としてまとめ、他の動画との関連性などを見いだしてニヤつこうという目論見で運用しているのが『音MAD Wiki 2』だ。
+このWikiサイトでは、音MAD動画、音MAD曲、音MAD素材、音MADイベント、公式音MAD…　あらゆるコンテンツを音MADと結びつけて相互にリンクしあうことを目的としている。
+2022年11月に設立して2025年11月現在1060とちょっとの記事がある。そして音MAD動画はといえば、ニコニコ動画だけで10万以上の動画数。YouTubeやBiliBiliなど観測範囲を広げればその数は天文学的だ。
+記事数が少ない。あまりに少なすぎる。
+続きをみる]]></summary>
+        <author>
+            <name>とッくん@マリ●ペデ●ア管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年11月-2】なくそう！]]></title>
         <id>hatenablog://entry/17179246901318675833</id>
@@ -10257,18 +10274,6 @@ nico_nico_info) 2024年11月18日
 続きをみる]]></summary>
         <author>
             <name>ユーロ/犬の鳴き真似bot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雑]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n49ef6c13d465</id>
-        <link href="https://note.com/dou_akagane_cu/n/n49ef6c13d465"/>
-        <updated>2024-11-17T16:34:57.000Z</updated>
-        <summary type="html"><![CDATA[ここ最近TLで取り乱すことが多く、反省しております。
-ここ最近考えることを列挙しました。まとまりのない文章で、途中酷い文言もあると思いますが、それでもよければご覧ください。
-続きをみる]]></summary>
-        <author>
-            <name>あかがね</name>
         </author>
     </entry>
     <entry>
