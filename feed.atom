@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-19T14:05:38.435Z</updated>
+    <updated>2025-11-19T15:05:55.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[■]]></title>
+        <id>https://anond.hatelabo.jp/20251120000336</id>
+        <link href="https://anond.hatelabo.jp/20251120000336"/>
+        <updated>2025-11-19T15:03:36.000Z</updated>
+        <summary type="html"><![CDATA[チャンネル登録高評...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[こせんすセンス]]></title>
         <id>https://note.com/aun6june/n/n9d44bab9faa1</id>
