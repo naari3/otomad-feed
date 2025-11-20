@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-20T04:05:48.576Z</updated>
+    <updated>2025-11-20T05:05:23.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪旅行　万博レガシー]]></title>
+        <id>https://note.com/dou_akagane_cu/n/ncdb91f6eac81</id>
+        <link href="https://note.com/dou_akagane_cu/n/ncdb91f6eac81"/>
+        <updated>2025-11-20T05:03:31.000Z</updated>
+        <summary type="html"><![CDATA[今回はブログ形式
+2回万博に訪れたものの、イタリア館には入れず。
+イタリアに行くか20年後の万博を待つかと思っていたら、大阪市立美術館で展示してくれると聞き、向かう。
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[■]]></title>
         <id>https://anond.hatelabo.jp/20251120000336</id>
