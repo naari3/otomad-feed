@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-23T02:42:45.242Z</updated>
+    <updated>2025-11-23T03:32:58.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【WプレッシャーSTUDY】オフラインクイズ大会に参加しました]]></title>
+        <id>https://note.com/anzato/n/nbfa83930dd77</id>
+        <link href="https://note.com/anzato/n/nbfa83930dd77"/>
+        <updated>2025-11-23T02:43:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+2025年11月22日にごぼうさん主催で行われたオフラインクイズ大会に参加しました。私が出した企画をアーカイブとして公開します。
+ちなみに、音MAD作者が集ったので音MAD関連の企画が多かったですが、自分の企画は音MADに一切関係ありません。ご了承ください。
+続きをみる]]></summary>
+        <author>
+            <name>餡砂糖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年11月-3】冬]]></title>
         <id>hatenablog://entry/17179246901323569164</id>
