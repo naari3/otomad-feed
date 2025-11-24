@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-24T10:06:50.780Z</updated>
+    <updated>2025-11-24T11:05:18.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エスケープフロムベータ（らしい）]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1387.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1387.html"/>
+        <updated>2025-11-24T10:04:38.000Z</updated>
+        <summary type="html"><![CDATA[ついに正式版と化したタルコフなんかギャルゲーみたいになってたSkierなんか顔ちがくね？なんとFenceにも会うことができてビックリ  しかしこの格好は陰キャすぎるｗ今まで個人なのかどうかすら分からなかったFenceだけど一応ひとりのトレーダーではあるのねこいつがメインのストーリーラインもあるのかなぁと気になりつつ、まだストーリー自体ほぼ手つけてないっていうか何すりゃいいんだよ状態で、今まで1年ちょい続けてきたPvE]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スマホとキャリアを変えた]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-137.html</id>
