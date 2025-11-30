@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-30T14:05:05.536Z</updated>
+    <updated>2025-11-30T15:05:06.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ReaEQからはじめるイコライザーの基礎的な扱い方]]></title>
+        <id>https://note.com/tojiru/n/n2dd43fc72c54</id>
+        <link href="https://note.com/tojiru/n/n2dd43fc72c54"/>
+        <updated>2025-11-30T15:00:04.000Z</updated>
+        <summary type="html"><![CDATA[当記事はYTPMVアドベントカレンダー2025に参加しています。
+
+続きをみる]]></summary>
+        <author>
+            <name>とじーら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年11月-4】凍結2では更に多くの俺が凍結]]></title>
         <id>hatenablog://entry/17179246901326154199</id>
