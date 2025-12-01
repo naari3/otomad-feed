@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-11-30T23:05:24.045Z</updated>
+    <updated>2025-12-01T00:26:07.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラウン管・VHSデッキを買った話]]></title>
+        <id>https://note.com/sehatakuro/n/n4d8443fd0376</id>
+        <link href="https://note.com/sehatakuro/n/n4d8443fd0376"/>
+        <updated>2025-12-01T00:21:50.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは
+この記事は映像制作ゆる Advent Calendar 2025に参加しています
+今年で2年目の開催です
+続きをみる]]></summary>
+        <author>
+            <name>瀬畑 黒</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リポグラムについて軽く話したい気象衣類]]></title>
         <id>https://note.com/rainy_raincoat/n/n9024fb6ed14c</id>
