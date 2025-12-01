@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-01T09:08:57.433Z</updated>
+    <updated>2025-12-01T10:06:57.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リンリンリンリン]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1388.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1388.html"/>
+        <updated>2025-12-01T09:10:08.000Z</updated>
+        <summary type="html"><![CDATA[卍最強卍撃破キャラダイアリンが実装されたぜんぜんぞーんぜろカッチンきすぎてログインする気力も失せてきたけどとりあえず引きました激変ノードでテストしてみたところ悠真青衣で3ブレイクかかった相手が2ブレイクでしにましたそして僕はゼンゼロをやめたタルコフがメンテで暇だからメインストーリーも終わらせたこちらはようやくマシな脚本になってきた感じがするとはいえサラにもうん学さん周りにも一切興味ないから楽しめては]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラウン管・VHSデッキを買った話]]></title>
         <id>https://note.com/sehatakuro/n/n4d8443fd0376</id>
