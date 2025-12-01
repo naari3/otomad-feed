@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-01T12:09:02.705Z</updated>
+    <updated>2025-12-01T13:16:21.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -702,6 +702,36 @@ www.nicovideo.jp
         <summary type="html"><![CDATA[素人の独学メモ]]></summary>
         <author>
             <name>picm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユリイカ2025年11月号　特集＝原口沙輔]]></title>
+        <id>hatenablog://entry/17179246901327358425</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20251027/p1"/>
+        <updated>2025-10-27T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[ユリイカ 2025年11月号 特集＝原口沙輔　―「人マニア」「イガク」「贋ト旧称」……そして『イ三』へ―
+
+作者:原口沙輔,キタニタツヤ,いよわ,岩倉文也,市松寿ゞ謡,いとうせいこう,笹川真生,環ROY,Nakajin（SEKAI NO OWARI）
+青土社
+Amazon
+
+青土社 ||ユリイカ：ユリイカ2025年11月号　特集＝原口沙輔
+木澤佐登志氏寄稿のテキスト内にて、今号が特集するアーティスト・原口沙輔氏が影響を受けたと公言している音MADについての説明冒頭で言及されていました。内容は2021年7月にKAIYOU-Premiumで同氏が公開したコラム「ミームという亡霊は、いかにして“壁”を越えるか　日本アニメの脱文脈化を辿る」と同様のものでした。
+ここでもう少し廻り道をして、原口沙輔の音の特異性について別角度から考えてみたい。ヒントとなるのは音MADだ。たとえば原口は、ケンカイヨシとの対談インタビューの中で、音MADからの影響を公言している。
+
+ (インタビュー引用部略)
+
+
+
+管見の限りでは、日本における音MADの始祖は、2002年頃に流行した「ムネオハウス」、あるいは2004年頃に流行した「オンドゥル･シリーズ」まで遡ることができる。サンプリング・ミュージックやナードコアの系譜を受け継ぐ形で、これら「既存の曲に素材の音を重ねてリズムに乗せる」タイプのMAD作品が現れ始めたと考えられる。
+
+(後略)
+木澤佐登志 「さようなら、すべての沙輔氏 原口沙輔の「感覚の論理」と「表現」」 『ユリイカ2025年11月号』 (青土社 2025) pp.100-101
+
+備考
+記事投稿日: 2025年12月1日]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
