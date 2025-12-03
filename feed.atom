@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-03T14:06:28.296Z</updated>
+    <updated>2025-12-03T15:06:55.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MAD/YTPMVを作る時に意識してることとか便利なもの備忘録]]></title>
+        <id>https://note.com/leaf_62289/n/n894f9bbb7a3d</id>
+        <link href="https://note.com/leaf_62289/n/n894f9bbb7a3d"/>
+        <updated>2025-12-03T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[お疲れ様です、阿保草です
+当記事はYTPMVアドベントカレンダー2025に参加しています。
+      adventar.org  
+続きをみる]]></summary>
+        <author>
+            <name>阿保草</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xで、「ショート動画は流石にガチで頭悪くなる」ってのが話題になってるが]]></title>
+        <id>https://anond.hatelabo.jp/20251203232753</id>
+        <link href="https://anond.hatelabo.jp/20251203232753"/>
+        <updated>2025-12-03T14:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Xでショート動画とか...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://anond.hatelabo.jp/20240614163428に対する共感と感想]]></title>
+        <id>https://anond.hatelabo.jp/20251203232113</id>
+        <link href="https://anond.hatelabo.jp/20251203232113"/>
+        <updated>2025-12-03T14:21:13.000Z</updated>
+        <summary type="html"><![CDATA[お前のお気持ち、め...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いまさら【月村手毬】5kgオーバーライド【瘦せるべき】を振り返る]]></title>
         <id>https://note.com/takoo/n/nfcd88e74ce00</id>
