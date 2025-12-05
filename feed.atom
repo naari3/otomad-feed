@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-05T17:05:29.596Z</updated>
+    <updated>2025-12-05T18:07:09.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[変わってきたこと、分かってきたこと]]></title>
+        <id>https://note.com/readybug_/n/nbad57df88530</id>
+        <link href="https://note.com/readybug_/n/nbad57df88530"/>
+        <updated>2025-12-05T17:13:34.000Z</updated>
+        <summary type="html"><![CDATA[この記事は「映像制作ゆる Advent Calendar 2025」に参加しています！
+      adventar.org  
+続きをみる]]></summary>
+        <author>
+            <name>れでぃば</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年12月-1】センシティブになりーニョ]]></title>
         <id>hatenablog://entry/17179246901328835466</id>
