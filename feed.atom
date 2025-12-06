@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-05T23:05:39.206Z</updated>
+    <updated>2025-12-06T00:20:41.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[風邪引いた時に書いた日記]]></title>
+        <id>https://note.com/banfuture9/n/n578321cb06d7</id>
+        <link href="https://note.com/banfuture9/n/n578321cb06d7"/>
+        <updated>2025-12-05T23:53:55.000Z</updated>
+        <summary type="html"><![CDATA[しんどいわ文字を書くのも
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[変わってきたこと、分かってきたこと]]></title>
         <id>https://note.com/readybug_/n/nbad57df88530</id>
