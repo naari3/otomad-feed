@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-08T08:08:21.898Z</updated>
+    <updated>2025-12-08T09:08:54.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[part3だけみてない]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1389.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1389.html"/>
+        <updated>2025-12-08T08:53:24.000Z</updated>
+        <summary type="html"><![CDATA[ドンキ行ったらバックトゥザフューチャーのエナドリ売ってて意味不明すぎて買っちゃった  荒波です200円したのに至って普通の王道系エナドリだった  まぁコラボ商品なんてそんなものか･･･どのへんがバックトゥザフューチャー要素だったのかは全く分からなかったバックトゥザフューチャーってタイプしづらすぎエナドリといえばこの前のブラックフライデーセールでAmazonのPBエナドリ箱買いした安かったし、シンプルな缶デザインにテ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[風邪引いた時に書いた日記]]></title>
         <id>https://note.com/banfuture9/n/n578321cb06d7</id>
