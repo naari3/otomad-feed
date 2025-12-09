@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-09T14:05:59.360Z</updated>
+    <updated>2025-12-09T15:06:32.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reaperユーザーの皆様、ReEQを使ってみませんか。]]></title>
+        <id>https://note.com/tojiru/n/nf8eccd58cf9b</id>
+        <link href="https://note.com/tojiru/n/nf8eccd58cf9b"/>
+        <updated>2025-12-09T15:05:32.000Z</updated>
+        <summary type="html"><![CDATA[いつもお世話になっております。とじーらです。
+今日はウチの愛用プラグイン、ReEQの話をしたいと思います。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>とじーら</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術弱者のための音MAD10選攻略法]]></title>
+        <id>https://note.com/sweets_farting/n/n9a13b29c2535</id>
+        <link href="https://note.com/sweets_farting/n/n9a13b29c2535"/>
+        <updated>2025-12-09T14:54:07.000Z</updated>
+        <summary type="html"><![CDATA[adventar.org  
+音MADアドベントカレンダー2025に参加しています。
+続きをみる]]></summary>
+        <author>
+            <name>角煮サイダ一</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合作遅刻の原因は主催にある]]></title>
         <id>https://note.com/kochi928/n/n049164cdf119</id>
