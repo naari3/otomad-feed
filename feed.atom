@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-09T10:06:26.083Z</updated>
+    <updated>2025-12-09T11:05:35.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[合作遅刻の原因は主催にある]]></title>
+        <id>https://note.com/kochi928/n/n049164cdf119</id>
+        <link href="https://note.com/kochi928/n/n049164cdf119"/>
+        <updated>2025-12-09T11:00:06.000Z</updated>
+        <summary type="html"><![CDATA[断言する。合作における遅刻は、主催者の責任である。
+音MAD合作の投稿日、深夜。Discordの通知が鳴り止まない。刻一刻と迫る投稿時刻、最終締切を過ぎてなお飛び交う完成ファイル、徹夜でエンコードに追われる主催者。
+この悲劇のような日常を、「文化」「熱意」「祭りの一体感」といった耳障りの良い言葉で糊塗し続けていてはなりません。
+続きをみる]]></summary>
+        <author>
+            <name>こち横</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年替え歌拓也の現在地まとめ]]></title>
         <id>https://anond.hatelabo.jp/20251209131704</id>
