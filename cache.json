@@ -1823,21 +1823,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/493c8de2d86d5fa30cd2079e64d22cc3feda8fc1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FL%2FLixy%2F20241228%2F20241228205416.png"
-        },
-        {
-          "id": "hatenablog://entry/6802418398311178572",
-          "author": null,
-          "description": "ガチイク",
-          "link": "https://lixy.hatenablog.com/entry/2024/12/13/2024%E5%B9%B4%E3%82%92%E7%B7%8F%E6%8B%AC%E3%81%99%E3%82%8B",
-          "publishedOn": "2024-12-12T20:45:23.000Z",
-          "wordCount": 303,
-          "title": "2024年を総括する",
-          "enclosure": {
-            "url": "https://ogimage.blog.st-hatena.com/26006613573887723/6802418398311178572/1734036323",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://ogimage.blog.st-hatena.com/26006613573887723/6802418398311178572/1734036323"
         }
       ]
     },
