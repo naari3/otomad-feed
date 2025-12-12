@@ -20,6 +20,53 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://atarabi.hateblo.jp/" target="_blank" rel="noopener">Atarabi-Blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">After Effectsのエクスプレッションの四方山。</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://atarabi.hateblo.jp/entry/2025/12/13/005629" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>映像制作ゆる Advent Calendar 2025 の13日目の記事です。
+い
+
+After EffectsはCC2019から、エクスプレッションのエンジンを従来のExtendScriptのエンジンからモダンなJavaSriptのエンジン(Windows版はV8)へ切り替えられるようになった。そこら辺の話をメインに、エクスプレッションに関して書いていく。
+ExtendScriptの話
+ExtendScriptはES3をベースにしているが、独自拡張も多い*1。代表例としてE4X*2があげられる。
+var xml &#x3D; 12;
+xml.a.@foo; // bar
+
+
+
+こんな感じで、JSX*3のようにXMLを扱える代物である。おそらくFlashのAction Script 3.0でES4の要素を取り入れたので*4、それが回り回ってExtendScriptにも取り入れられたものだと思われる。
+エクスプレッションに関わってくる話だと、演算子のオーバーロード*5がある。
+function V(x, y) {
+    this.x &#x3D; x;
+    this.y &#x3D; y;
+}
+
+V.prototype[&quot;+&quot;] &#x3D; function (v) {
+    return new V(this.x + v.x, this.y + v.y);
+}
+
+var v &#x3D; new V(3, 4);
+var w &#x3D; new V(4, 5);
+v + w; // &#x3D;&gt; new V(7, 9)
+
+
+
+のような感じで、演算子の挙動を変えられることが出来て便利である。この仕組みはAEで多分に利用されており、Objectの演算子があらかじめオーバロードされている。
+そのおかげで、
+2 * [3, 4, 5]; // &#x3D;&gt; [6, 8, …</span>
+                  </div>
+                    <img src="https://ogimage.blog.st-hatena.com/13208692334729894112/6801883189104447863/1765554989" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/rainy_raincoat" target="_blank" rel="noopener">雨天雨衣</a></h3>
           <section class="articles-per-source">
             <article>
@@ -15123,7 +15170,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2025-12-12T15:06:23.890Z">2025-12-12T15:06:23.890Z</time>
+    <time id="build-timestamp" datetime="2025-12-12T16:06:06.246Z">2025-12-12T16:06:06.246Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>

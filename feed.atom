@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-12T15:06:23.923Z</updated>
+    <updated>2025-12-12T16:06:06.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After Effectsのエクスプレッションの四方山。]]></title>
+        <id>hatenablog://entry/6801883189104447863</id>
+        <link href="https://atarabi.hateblo.jp/entry/2025/12/13/005629"/>
+        <updated>2025-12-12T15:56:29.000Z</updated>
+        <summary type="html"><![CDATA[映像制作ゆる Advent Calendar 2025 の13日目の記事です。
+い
+
+After EffectsはCC2019から、エクスプレッションのエンジンを従来のExtendScriptのエンジンからモダンなJavaSriptのエンジン(Windows版はV8)へ切り替えられるようになった。そこら辺の話をメインに、エクスプレッションに関して書いていく。
+ExtendScriptの話
+ExtendScriptはES3をベースにしているが、独自拡張も多い*1。代表例としてE4X*2があげられる。
+var xml = <root><a foo="bar">1</a><b>2</b></root>;
+xml.a.@foo; // bar
+
+
+
+こんな感じで、JSX*3のようにXMLを扱える代物である。おそらくFlashのAction Script 3.0でES4の要素を取り入れたので*4、それが回り回ってExtendScriptにも取り入れられたものだと思われる。
+エクスプレッションに関わってくる話だと、演算子のオーバーロード*5がある。
+function V(x, y) {
+    this.x = x;
+    this.y = y;
+}
+
+V.prototype["+"] = function (v) {
+    return new V(this.x + v.x, this.y + v.y);
+}
+
+var v = new V(3, 4);
+var w = new V(4, 5);
+v + w; // => new V(7, 9)
+
+
+
+のような感じで、演算子の挙動を変えられることが出来て便利である。この仕組みはAEで多分に利用されており、Objectの演算子があらかじめオーバロードされている。
+そのおかげで、
+2 * [3, 4, 5]; // => [6, 8, …]]></summary>
+        <author>
+            <name>Atarabi-Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[餡と部室に生徒【リポグラム】]]></title>
         <id>https://note.com/rainy_raincoat/n/n33c799d484c7</id>
