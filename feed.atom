@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-14T06:07:17.129Z</updated>
+    <updated>2025-12-14T07:05:48.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ｼｲﾓﾂ まとめ]]></title>
+        <id>https://note.com/mega1617/n/n6c1121938ef1</id>
+        <link href="https://note.com/mega1617/n/n6c1121938ef1"/>
+        <updated>2025-12-14T06:36:54.000Z</updated>
+        <summary type="html"><![CDATA[なんとなく、自分のニコ生のアーカイブを見直してた時のことでした。
+  
+続きをみる]]></summary>
+        <author>
+            <name>mega(目が)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After Effectsのエクスプレッションの四方山。]]></title>
         <id>hatenablog://entry/6801883189104447863</id>
