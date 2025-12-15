@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-15T11:05:27.742Z</updated>
+    <updated>2025-12-15T12:09:52.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年もやってくる]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1390.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1390.html"/>
+        <updated>2025-12-15T11:19:31.000Z</updated>
+        <summary type="html"><![CDATA[気付けばもうすぐ年末  荒波ですなんか謎に気温上がるらしいね  あったかい冬なら仲良くなれそうな気がする今はバチバチ喧嘩してるちまちまやってる保険フリマ縛りタルコフもカッパが目の前に見えて参りましたカルトからしか出ないキーカードと、リザーブの医療部屋の鍵2つが（フリマなしだと）結構鬼門なんだけどそちらはアッサリ出てくれた他のタスク鍵もぼちぼち出てくれて助かりますわそんな中完全にノーマークだったガンスミ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ｼｲﾓﾂ まとめ]]></title>
         <id>https://note.com/mega1617/n/n6c1121938ef1</id>
