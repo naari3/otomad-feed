@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-16T00:23:18.820Z</updated>
+    <updated>2025-12-16T01:34:02.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダンロボ合作を今更振り返る]]></title>
+        <id>https://note.com/nototote/n/n90fa2fafa856</id>
+        <link href="https://note.com/nototote/n/n90fa2fafa856"/>
+        <updated>2025-12-16T00:50:42.000Z</updated>
+        <summary type="html"><![CDATA[これの話をします。
+自分のパートの話しかしません！参加者なんだからそりゃそうだろという感じ。
+続きをみる]]></summary>
+        <author>
+            <name>とッくん@マリ●ペデ●ア管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一つの記事に目次たくさんあったらうざい説]]></title>
         <id>https://note.com/tojiru/n/n954ab4eb244e</id>
