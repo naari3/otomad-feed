@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-18T15:06:32.098Z</updated>
+    <updated>2025-12-18T16:07:10.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大内生の特集終了あるいは（大内乙打との腐れ縁的ビジネス不仲がもたらす予期せぬ誤解と関係）]]></title>
+        <id>https://note.com/hacocone/n/n55d57d7c11c8</id>
+        <link href="https://note.com/hacocone/n/n55d57d7c11c8"/>
+        <updated>2025-12-18T16:02:55.000Z</updated>
+        <summary type="html"><![CDATA[はい、どうもこんにちは（インタビューおじさん）
+こんちは……
+緊張してますか？
+はい……
+明かりも煌煌と照らされて
+(タイトル元ネタは『バードマン あるいは（無知がもたらす予期せぬ奇跡）』です。アカデミー賞作品賞の映画です。凄いので見てみて。)
+続きをみる]]></summary>
+        <author>
+            <name>はここれ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダンロボ合作を今更振り返る]]></title>
         <id>https://note.com/nototote/n/n90fa2fafa856</id>
