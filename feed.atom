@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-19T12:08:46.867Z</updated>
+    <updated>2025-12-19T13:15:01.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025年の音MAD活動振り返り]]></title>
+        <id>https://note.com/binetsu0904/n/na6d52c856a48</id>
+        <link href="https://note.com/binetsu0904/n/na6d52c856a48"/>
+        <updated>2025-12-19T12:06:57.000Z</updated>
+        <summary type="html"><![CDATA[この記事は音MAD Advent Calendar 2025に参加しています。
+      adventar.org  
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年12月-3】地の果てまで追い詰めて◯す]]></title>
         <id>hatenablog://entry/17179246901334428745</id>
