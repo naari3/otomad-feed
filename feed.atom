@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-20T01:33:09.093Z</updated>
+    <updated>2025-12-20T02:36:12.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[合作・企画のPRの重要性]]></title>
+        <id>https://note.com/klunakapa/n/n0b9a402df1cd</id>
+        <link href="https://note.com/klunakapa/n/n0b9a402df1cd"/>
+        <updated>2025-12-20T01:42:47.000Z</updated>
+        <summary type="html"><![CDATA[このnoteは音MAD Advent Calendar 2025に参加していますが何か？
+      adventar.org  
+続きをみる]]></summary>
+        <author>
+            <name>かっぱ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年の音MAD活動振り返り]]></title>
         <id>https://note.com/binetsu0904/n/na6d52c856a48</id>

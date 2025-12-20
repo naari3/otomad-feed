@@ -4415,7 +4415,18 @@
       "title": "かっぱ",
       "feedUrl": "https://note.com/klunakapa/rss",
       "siteUrl": "https://note.com/klunakapa",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/klunakapa/n/n0b9a402df1cd",
+          "author": null,
+          "description": "このnoteは音MAD Advent Calendar 2025に参加していますが何か？\n      adventar.org  \n続きをみる",
+          "link": "https://note.com/klunakapa/n/n0b9a402df1cd",
+          "publishedOn": "2025-12-20T01:42:47.000Z",
+          "wordCount": 2657,
+          "title": "合作・企画のPRの重要性",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/237569866/rectangle_large_type_2_3703c20e46bf33f5ac04fb5b24673b00.png?width=800"
+        }
+      ]
     },
     {
       "title": "こち横",
