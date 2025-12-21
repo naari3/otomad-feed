@@ -4911,6 +4911,16 @@
       "siteUrl": "https://note.com/nomuratakeshi",
       "articles": [
         {
+          "id": "https://note.com/nomuratakeshi/n/nde440dbecbd0",
+          "author": null,
+          "description": "adventar.org\n        \n    \n\n音MAD Advent Calendar 2025の22日目の記事です。\n続きをみる",
+          "link": "https://note.com/nomuratakeshi/n/nde440dbecbd0",
+          "publishedOn": "2025-12-21T15:00:38.000Z",
+          "wordCount": 2776,
+          "title": "十進分類法を用いたファイル管理のススメ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/237796984/rectangle_large_type_2_2cd3b8485de7d3bb5e6a81edb77cc58f.jpeg?width=800"
+        },
+        {
           "id": "https://note.com/nomuratakeshi/n/n4eb57c7bfc96",
           "author": null,
           "description": "Q. 応募方法はどんな感じ？\n続きをみる",
@@ -7027,6 +7037,16 @@
       "feedUrl": "https://ytpmv.info/?feed=rss2",
       "siteUrl": "https://ytpmv.info",
       "articles": [
+        {
+          "id": "https://ytpmv.info/?p=2100",
+          "author": "maimai",
+          "description": "皆さんごきげんよう。この記事では各種動画サイトの動画を保存するツール「yt-dlp」を使ったGUIソフト、「Stacher」の　使い方を解説していきます。 yt-dlpは、対応しているサイトも多く高機能ですが、コマンドラ […]\nThe post yt－dlpラッパー「Stacher」の使い方 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/how-to-use-stacher/",
+          "publishedOn": "2025-12-21T14:57:31.000Z",
+          "wordCount": 736,
+          "title": "yt－dlpラッパー「Stacher」の使い方",
+          "imageUrl": null
+        },
         {
           "id": "https://ytpmv.info/?p=2058",
           "author": "maimai",

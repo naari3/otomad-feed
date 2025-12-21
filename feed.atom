@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-21T14:04:58.811Z</updated>
+    <updated>2025-12-21T15:05:12.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[十進分類法を用いたファイル管理のススメ]]></title>
+        <id>https://note.com/nomuratakeshi/n/nde440dbecbd0</id>
+        <link href="https://note.com/nomuratakeshi/n/nde440dbecbd0"/>
+        <updated>2025-12-21T15:00:38.000Z</updated>
+        <summary type="html"><![CDATA[adventar.org
+        
+    
+
+音MAD Advent Calendar 2025の22日目の記事です。
+続きをみる]]></summary>
+        <author>
+            <name>埜村武</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yt－dlpラッパー「Stacher」の使い方]]></title>
+        <id>https://ytpmv.info/?p=2100</id>
+        <link href="https://ytpmv.info/how-to-use-stacher/"/>
+        <updated>2025-12-21T14:57:31.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう。この記事では各種動画サイトの動画を保存するツール「yt-dlp」を使ったGUIソフト、「Stacher」の　使い方を解説していきます。 yt-dlpは、対応しているサイトも多く高機能ですが、コマンドラ […]
+The post yt－dlpラッパー「Stacher」の使い方 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/12/21 4年ぶりにM-1生で見れた]]></title>
         <id>https://note.com/banfuture9/n/n6c62a9df713e</id>
