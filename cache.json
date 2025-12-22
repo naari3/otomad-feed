@@ -7013,6 +7013,16 @@
       "siteUrl": "https://ytpmv.info",
       "articles": [
         {
+          "id": "https://ytpmv.info/?p=2097",
+          "author": "maimai",
+          "description": "当記事はYTPMVアドベントカレンダー2025に参加しています。 YTPMVアドベントカレンダー2025 Advent Calendar 2025 – Adventar YTPMVに関するアドベントカレンダー […]\nThe post yt-dlpの使い方 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/how-to-use-ytdlp/",
+          "publishedOn": "2025-12-22T12:16:58.000Z",
+          "wordCount": 1010,
+          "title": "yt-dlpの使い方",
+          "imageUrl": null
+        },
+        {
           "id": "https://ytpmv.info/?p=2100",
           "author": "maimai",
           "description": "皆さんごきげんよう。この記事では各種動画サイトの動画を保存するツール「yt-dlp」を使ったGUIソフト、「Stacher」の　使い方を解説していきます。 yt-dlpは、対応しているサイトも多く高機能ですが、コマンドラ […]\nThe post yt－dlpラッパー「Stacher」の使い方 first appeared on YTPMV.info.",

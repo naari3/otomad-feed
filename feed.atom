@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-22T12:09:33.457Z</updated>
+    <updated>2025-12-22T13:15:29.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[yt-dlpの使い方]]></title>
+        <id>https://ytpmv.info/?p=2097</id>
+        <link href="https://ytpmv.info/how-to-use-ytdlp/"/>
+        <updated>2025-12-22T12:16:58.000Z</updated>
+        <summary type="html"><![CDATA[当記事はYTPMVアドベントカレンダー2025に参加しています。 YTPMVアドベントカレンダー2025 Advent Calendar 2025 – Adventar YTPMVに関するアドベントカレンダー […]
+The post yt-dlpの使い方 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地元にかっぱ寿司ないわ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1391.html</id>
