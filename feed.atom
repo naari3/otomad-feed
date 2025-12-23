@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-23T14:05:57.390Z</updated>
+    <updated>2025-12-23T15:05:46.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25/12/23 死体が働いている]]></title>
+        <id>https://note.com/banfuture9/n/n745d48e4059e</id>
+        <link href="https://note.com/banfuture9/n/n745d48e4059e"/>
+        <updated>2025-12-23T14:45:30.000Z</updated>
+        <summary type="html"><![CDATA[仕事。外勤で工事作業の立ち会い。1時間程度で終わった。工事の人はあらゆる手際が良くてすごかった。
+ルータの設定を初めて触る。最近ようやく頭が良くなってきたのでゴリ押しで進めず、説明書を読みながら色々やっていたらなんかできそうだった。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スーパードングリが好きすぎる話]]></title>
         <id>https://note.com/nototote/n/n3f89eb3f6c32</id>
