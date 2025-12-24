@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-24T02:38:35.016Z</updated>
+    <updated>2025-12-24T03:32:51.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -9654,23 +9654,6 @@ SapphireのS_TimeWarpRGBは時間軸方向にずらしている。
 組み合わせ次第で色々な方向を目指すことが出来る。ただ、実現可能な領域が増えたとしても、"容易に"実現可能な領域が増えるとは限らないので（むしろ減ることもある）、目指したい方向を明確化し、"容易に"実現可能な領域を単調…]]></summary>
         <author>
             <name>Atarabi-Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音MADから何を得るか]]></title>
-        <id>https://note.com/nanana555/n/ndd56f4102f45</id>
-        <link href="https://note.com/nanana555/n/ndd56f4102f45"/>
-        <updated>2024-12-24T15:00:19.000Z</updated>
-        <summary type="html"><![CDATA[もう、この企画も最終日だし2024年も終わりを迎えようとしていますが、年の瀬には相応しくないかもしれない記事をお届けすることになるかもしれない。
-何かしらの技術共有でもなければ、企画や作った動画の制作後記でもない。ただ、今の気持ちのようなものをこの場に吐露しては、半ば強制的に享受してもらおう。享受させようとしているからだ。
-タイトルにもある通り「音MADから何を得るか」という疑問は今に始まったような事象ではない。勿論、作る側と見る側でもそれは違うだろうし、どんなジャンルなのか、プラットフォームにもよるだろう。
-ただ、私は無駄に長くこの界隈に居座り、活動を続けてきた。そんな自分だからこその考えなどを、自身の戒名を生前に定めるかの如く書き記していく。そして、この文章が音MAD界隈の人間にとって、ここにいる意味のようなものを見出してくれればと思う。
-そんなことを主題にこのアドベントカレンダーに投稿しようと考えた際、ただ文章を考える時間が欲しく最終日を取ってしまった。そのため、少しでもトリに相応しいものになるようには努力をしようと思う。
-この記事は以下のイベントに参加しています。他の記事も呼んでみてください。
-      adventar.org  
-続きをみる]]></summary>
-        <author>
-            <name>ふーふー</name>
         </author>
     </entry>
     <entry>
