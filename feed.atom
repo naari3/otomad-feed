@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-25T02:40:40.807Z</updated>
+    <updated>2025-12-25T03:33:16.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -9616,44 +9616,6 @@ TRPGで生み出した子たちです。死んだのは1人だけ！
         <summary type="html"><![CDATA[自分がnote投稿する理由はnヶ月連続投稿のバッジが欲しいからで、それなかったら多分もう上げてない 続きをみる]]></summary>
         <author>
             <name>粘土31号</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色収差再考]]></title>
-        <id>hatenablog://entry/6802418398308728595</id>
-        <link href="https://atarabi.hateblo.jp/entry/2024/12/25/235559"/>
-        <updated>2024-12-25T14:55:59.000Z</updated>
-        <summary type="html"><![CDATA[キリスト降誕おめでとうございます。
- adventar.org
-https://atarabi.com/kikaku/plugin/old/#ChromaticAberration
-2011年にChromatic AberrationというAEプラグインを公開した。ありがたいことに今もちょくちょくダウンロードされているのだけど、当時の技術的限界もあり、特にパフォーマンス面において難がある。
-なので、しばらく前からコンセプトはそのままに一から作り直している。そこで今一度、色収差（風）エフェクトの有り様について考えてみたい*1。
-
-
-
-
-
-色収差風エフェクトは基本的には、色の分解、サンプリング、合成からなる。まずはこれらの処理について大まかに見ていく。
-分解
-神は「光あれ」と言われた。すると光があった。
-
-
-色を分解しないことには始まらない。最も単純なのは、R, G, Bの３色に分割することである。そのうち２色を連動させれば、容易に青と黄、マゼンタと緑、赤とシアンの反対色を構成出来る。
-
-サンプリング
-神はまた言われた、「水の間におおぞらがあって、水と水とを分けよ」。
-
-
-分解した色ごとにサンプリング位置を異にすることで色ずれの効果が生じる。倍率色収差ライクにしたいならスケールを変えたり、レンズディストーションさせて、動径方向にずらせばよい。
-RowbyteのSeparate RGBはそれから一歩進めて、R, G, Bチャンネルそれぞれに対して、トランスフォーム出来るようにしてある。
-
-
-SapphireのS_TimeWarpRGBは時間軸方向にずらしている。
-
-
-組み合わせ次第で色々な方向を目指すことが出来る。ただ、実現可能な領域が増えたとしても、"容易に"実現可能な領域が増えるとは限らないので（むしろ減ることもある）、目指したい方向を明確化し、"容易に"実現可能な領域を単調…]]></summary>
-        <author>
-            <name>Atarabi-Blog</name>
         </author>
     </entry>
     <entry>

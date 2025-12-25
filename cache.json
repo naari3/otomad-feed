@@ -98,21 +98,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/836b72d55df4743d23b3471073d85940f58aed71/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20250208%2F20250208141152.png"
-        },
-        {
-          "id": "hatenablog://entry/6802418398308728595",
-          "author": null,
-          "description": "キリスト降誕おめでとうございます。\n adventar.org\nhttps://atarabi.com/kikaku/plugin/old/#ChromaticAberration\n2011年にChromatic AberrationというAEプラグインを公開した。ありがたいことに今もちょくちょくダウンロードされているのだけど、当時の技術的限界もあり、特にパフォーマンス面において難がある。\nなので、しばらく前からコンセプトはそのままに一から作り直している。そこで今一度、色収差（風）エフェクトの有り様について考えてみたい*1。\n\n\n\n\n\n色収差風エフェクトは基本的には、色の分解、サンプリング、合成からなる。まずはこれらの処理について大まかに見ていく。\n分解\n神は「光あれ」と言われた。すると光があった。\n\n\n色を分解しないことには始まらない。最も単純なのは、R, G, Bの３色に分割することである。そのうち２色を連動させれば、容易に青と黄、マゼンタと緑、赤とシアンの反対色を構成出来る。\n\nサンプリング\n神はまた言われた、「水の間におおぞらがあって、水と水とを分けよ」。\n\n\n分解した色ごとにサンプリング位置を異にすることで色ずれの効果が生じる。倍率色収差ライクにしたいならスケールを変えたり、レンズディストーションさせて、動径方向にずらせばよい。\nRowbyteのSeparate RGBはそれから一歩進めて、R, G, Bチャンネルそれぞれに対して、トランスフォーム出来るようにしてある。\n\n\nSapphireのS_TimeWarpRGBは時間軸方向にずらしている。\n\n\n組み合わせ次第で色々な方向を目指すことが出来る。ただ、実現可能な領域が増えたとしても、\"容易に\"実現可能な領域が増えるとは限らないので（むしろ減ることもある）、目指したい方向を明確化し、\"容易に\"実現可能な領域を単調…",
-          "link": "https://atarabi.hateblo.jp/entry/2024/12/25/235559",
-          "publishedOn": "2024-12-25T14:55:59.000Z",
-          "wordCount": 423,
-          "title": "色収差再考",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/312c6155ca0828fad8cbfaf42b48edb759b4db69/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20241223%2F20241223221036.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/312c6155ca0828fad8cbfaf42b48edb759b4db69/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20241223%2F20241223221036.png"
         }
       ]
     },
