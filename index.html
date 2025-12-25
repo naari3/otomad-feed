@@ -16,6 +16,73 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2025-12-25">2025-12-25</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://atarabi.hateblo.jp/" target="_blank" rel="noopener">Atarabi-Blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">色収差再び</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://atarabi.hateblo.jp/entry/2025/12/25/234359" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>キリスト降誕おめでとうございます。
+ 
+映像制作ゆる Advent Calendar 2025の25日目の記事です。
+
+
+
+惰眠を貪っていたら、上記記事から１年経ってしまっていた。遅ればせながら、自分なりの回答として以下を提示したい。
+
+
+分解
+
+2色3色のみならず、大量の色を指定出来るようにした。また、色数と何分割するかは独立した話であるので、分割数を別途変えられるようにした。
+
+
+色の指定に自由度に幅が出ると、複雑なグラデーションも構成出来るので表現に幅が出る。
+
+合成
+
+一般的な加算による合成だけでなく、比較明による合成も出来るようにした。
+
+分割数を増やしつつ元の色調を維持しようとする場合*1、加算による合成だと、一つ一つの重みの寄与が小さくなるため、指定した色に比べ暗くなってしまう。
+
+
+一方、比較明だと指定した色を維持しやすい。
+
+
+Additional Colorというパラメータも追加した。一見摩訶不思議なパラメータであるが、
+
+比較明において、このように比較的暗い色を指定してNormalizeさせると、指定した色よりどうしても明るくなってしまう。
+
+そこで、Additional Colorで白色を追加することで、色補正のしわ寄せをその白色だけに押し付けることができ、指定色をそのまま出すことが出来る。
+
+パワー
+色収差の掛かり方を調整するために冪函数を用いている。
+
+指数であるpを増やしていくと、中心部にはあまり掛からず周辺部で急に掛かるようになる。
+
+
+入力値を0から1の範囲に正規化するために、以前は、画面中心から各画素までの距離を、中心から四隅までの距離で割った比率を用いていたが、Centerというパラメータで中心を移動させることが出来るという特性上、扱いが難しい部分があった*2。そこで、正規化の基準となる距離をOuter Radiusというパラメータで指定できるようにした*3。
+
+GPU
+
+WinかつCUDA環境で、GPUを用いた処理が出来るようになっている。CPUとGPUでは得意なアルゴリズムが異なるので、出力結果が異なる場合がある。その点はご了承ください。
+*1:SapphireだとWhite Balance、自分の場合はNormalizeという語を使うことが多い
+*2:xを[0,1]でクランプしていなかったので、変化が急峻になりすぎた
+*3:デフォルト値は、中心から四隅までの距離の 150%</span>
+                  </div>
+                    <img src="https://cdn.image.st-hatena.com/image/scale/8910b1ad85787efa0ec254f7a1a5f17843885c23/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20251225%2F20251225194942.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2025-12-23">2025-12-23</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -14663,7 +14730,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2025-12-25T14:05:37.853Z">2025-12-25T14:05:37.853Z</time>
+    <time id="build-timestamp" datetime="2025-12-25T15:05:28.753Z">2025-12-25T15:05:28.753Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
