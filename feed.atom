@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-26T08:07:25.796Z</updated>
+    <updated>2025-12-26T09:06:34.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SASUKE2025、個人的な感想]]></title>
+        <id>https://note.com/dou_akagane_cu/n/n49bf9dc270df</id>
+        <link href="https://note.com/dou_akagane_cu/n/n49bf9dc270df"/>
+        <updated>2025-12-26T08:18:46.000Z</updated>
+        <summary type="html"><![CDATA[合計122名の選手の皆様、番組関係者の皆様お疲れ様でした。
+特にエリアについての感想を書きたいなぁと思います。
+プリズムシーソー+ローリングヒル上り
+続きをみる]]></summary>
+        <author>
+            <name>あかがね</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【合作】アイドルマスターシンデレラガールズotoM@D ON STARLIGHT!!!!!!!!!!　運営後記]]></title>
         <id>https://note.com/ecolidelvsvc11/n/nba7d55707be8</id>
