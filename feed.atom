@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-28T10:05:33.414Z</updated>
+    <updated>2025-12-28T11:05:07.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter2]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n12035b0fa6d5</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n12035b0fa6d5"/>
+        <updated>2025-12-28T10:21:17.000Z</updated>
+        <summary type="html"><![CDATA[まんちゃんクッションの毛玉が凄くなってきた
+
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SASUKE2025、個人的な感想]]></title>
         <id>https://note.com/dou_akagane_cu/n/n49bf9dc270df</id>
