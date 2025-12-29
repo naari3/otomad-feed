@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-29T13:17:13.339Z</updated>
+    <updated>2025-12-29T14:06:13.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -17,6 +17,16 @@
 続きをみる]]></summary>
         <author>
             <name>餡砂糖</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[さらば2025]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1392.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1392.html"/>
+        <updated>2025-12-29T11:07:18.000Z</updated>
+        <summary type="html"><![CDATA[もういくつ寝るとお正月  今年も残すところあとわずか  荒波ですちょっぱやですが2025最後の記事予定通り、今年も何もすることなく終えることができました何もないのが一番印象深かった出来事としてはやはりオブリビオンリマスター発売がでかいかな人生で最もハマったゲームのリマスターが突如発表&即発売だったもんなぁ特に理由もなくやらなくなって何ヶ月もプレーしてないんだkedonaまたやろう･･･あとはもうひたすらZZZに失望さ]]></summary>
+        <author>
+            <name>柊殿</name>
         </author>
     </entry>
     <entry>
