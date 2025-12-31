@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-31T20:05:58.107Z</updated>
+    <updated>2025-12-31T21:05:11.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あけおめ2026]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1393.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1393.html"/>
+        <updated>2025-12-31T20:03:14.000Z</updated>
+        <summary type="html"><![CDATA[新年あけましておめでとうございます今年もよろしくおねがいしますちょい早いけどマイクラ初日の出みてきた  本物の初日の出を最後にみたのはいつだろうおみくじはまた末吉でした･･･去年絶ったはずの末吉の呪いふたたびいっそ凶が出てくれたほうが反応に困らなくて良いんだけど内容もなんかふわっとしてるしな  果報は寝て待てってこと？大晦日は友人とじゃんたましたりオブリでゲーム納めしたり酒を飲んだりした恒例でやっている]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After Effectsのエクスプレッションのライブラリを考える。]]></title>
         <id>hatenablog://entry/17179246901337768263</id>
@@ -9592,25 +9602,6 @@ MVはレトロなJRPGを彷彿とさせる部分があって若干ダンジョ�
         <summary type="html"><![CDATA[ことよろ]]></summary>
         <author>
             <name>picm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年の音MAD活動振り返り]]></title>
-        <id>https://note.com/binetsu0904/n/nba40cd1c322a</id>
-        <link href="https://note.com/binetsu0904/n/nba40cd1c322a"/>
-        <updated>2025-01-01T08:21:57.000Z</updated>
-        <summary type="html"><![CDATA[実績
-
-
-個人作：3
-
-
-合作、企画：4
-
-
-続きをみる]]></summary>
-        <author>
-            <name>微熱</name>
         </author>
     </entry>
     <entry>
