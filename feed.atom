@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2025-12-31T16:07:00.692Z</updated>
+    <updated>2025-12-31T17:05:20.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After Effectsのエクスプレッションのライブラリを考える。]]></title>
+        <id>hatenablog://entry/17179246901337768263</id>
+        <link href="https://atarabi.hateblo.jp/entry/2026/01/01/011844"/>
+        <updated>2025-12-31T16:18:44.000Z</updated>
+        <summary type="html"><![CDATA[上記記事の最後の方で、エクスプレッションライブラリを作るならこんな感じじゃないかというのを書いた。
+それから色々思索しながら、どういうのがいいのかを探っている。
+以下が経過中。
+
+@scriptをスクリプトを書く人向けに作っているように、これもエクスプレッションを書く人を想定して作っている*1。
+単一のエクスプレッションをコピペするだけで済むだけなら簡単であるが、他のパラメータを参照したり、あるパラメータのエクスプレッション適用前の値を取得するなど、複雑なことをやろうとするとスクリプトを介する必要がある。そういった場合にどうすればスマートになるのか、現状、解は出ていない。
+ただそうは言っても、数学だったりアルゴリズムだったりは下界を無視して構築できるし、テキストのスタイルもテキストレイヤーのソーステキストだけで完結させられるので、都合が良い。
+テキストスタイル
+スクリプトではバージョンの24.3、エクスプレッションでは25.0から、文字ごとにスタイルを変更することが可能となった。スクリプトとエクスプレッション、それぞれに利点があるが、エクスプレッションの場合、非破壊的に色々試せるのが一番の魅力である。重ければベイクすればいい。
+使いやすくないと作る意味がないので、複雑性を如何にライブラリ側に閉じ込め、ユーザー側にはいい感じのAPIを提供する必要があるが、そこがやはり一番頭を使う。
+静的
+混植は、文字種によってスタイルを変える操作である。つまり、ある条件を満たしたものに対し、あるスタイルを適用する、というパターンと見なせる。
+
+const { CharClass, TextStyle } = footage("@text.jsx").sourceData.load();
+
+TextStyle.byCharClass()
+    .rule(CharClass.Hiragana…]]></summary>
+        <author>
+            <name>Atarabi-Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MAD作者四角の、2025年の最後]]></title>
         <id>https://note.com/fourangle/n/n0db331bc46a5</id>

@@ -20,6 +20,39 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://atarabi.hateblo.jp/" target="_blank" rel="noopener">Atarabi-Blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">After Effectsのエクスプレッションのライブラリを考える。</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://atarabi.hateblo.jp/entry/2026/01/01/011844" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>上記記事の最後の方で、エクスプレッションライブラリを作るならこんな感じじゃないかというのを書いた。
+それから色々思索しながら、どういうのがいいのかを探っている。
+以下が経過中。
+
+@scriptをスクリプトを書く人向けに作っているように、これもエクスプレッションを書く人を想定して作っている*1。
+単一のエクスプレッションをコピペするだけで済むだけなら簡単であるが、他のパラメータを参照したり、あるパラメータのエクスプレッション適用前の値を取得するなど、複雑なことをやろうとするとスクリプトを介する必要がある。そういった場合にどうすればスマートになるのか、現状、解は出ていない。
+ただそうは言っても、数学だったりアルゴリズムだったりは下界を無視して構築できるし、テキストのスタイルもテキストレイヤーのソーステキストだけで完結させられるので、都合が良い。
+テキストスタイル
+スクリプトではバージョンの24.3、エクスプレッションでは25.0から、文字ごとにスタイルを変更することが可能となった。スクリプトとエクスプレッション、それぞれに利点があるが、エクスプレッションの場合、非破壊的に色々試せるのが一番の魅力である。重ければベイクすればいい。
+使いやすくないと作る意味がないので、複雑性を如何にライブラリ側に閉じ込め、ユーザー側にはいい感じのAPIを提供する必要があるが、そこがやはり一番頭を使う。
+静的
+混植は、文字種によってスタイルを変える操作である。つまり、ある条件を満たしたものに対し、あるスタイルを適用する、というパターンと見なせる。
+
+const { CharClass, TextStyle } &#x3D; footage(&quot;@text.jsx&quot;).sourceData.load();
+
+TextStyle.byCharClass()
+    .rule(CharClass.Hiragana…</span>
+                  </div>
+                    <img src="https://cdn.image.st-hatena.com/image/scale/baebe3154b76627ab2dfc93e13a66c77c1941b5e/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20251231%2F20251231233123.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://note.com/fourangle" target="_blank" rel="noopener">四角</a></h3>
           <section class="articles-per-source">
             <article>
@@ -14628,7 +14661,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2025-12-31T16:07:00.653Z">2025-12-31T16:07:00.653Z</time>
+    <time id="build-timestamp" datetime="2025-12-31T17:05:20.070Z">2025-12-31T17:05:20.070Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
