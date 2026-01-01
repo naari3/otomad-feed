@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-01T10:06:19.484Z</updated>
+    <updated>2026-01-01T11:05:20.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[26/01/01 徒歩7分は遠い]]></title>
+        <id>https://note.com/banfuture9/n/n1df30c512610</id>
+        <link href="https://note.com/banfuture9/n/n1df30c512610"/>
+        <updated>2026-01-01T10:40:07.000Z</updated>
+        <summary type="html"><![CDATA[・元日は母方の実家に集まる。祖父はかなり前に亡くなり、祖母はパワフルなおばあちゃんだったが、昨年体調を崩し、今日久々に会ったら車椅子だった。しかし会話は普通にすることができ、色々と話すことができたので良かった。
+・親戚の集まりが一番僕のボケが通るなと毎年思う。僕の冗談は僕をよく知っている場合にしか通用しないものが多いため、こういう場だと気兼ねなく適当なことを言えるのだろう。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/12/31 無理をしない]]></title>
         <id>https://note.com/banfuture9/n/ndc57ed7b5e02</id>
