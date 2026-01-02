@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-02T14:05:39.857Z</updated>
+    <updated>2026-01-02T15:05:45.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[26/01/02 象さんのスツール]]></title>
+        <id>https://note.com/banfuture9/n/n813cc33f911f</id>
+        <link href="https://note.com/banfuture9/n/n813cc33f911f"/>
+        <updated>2026-01-02T14:58:36.000Z</updated>
+        <summary type="html"><![CDATA[・『ブラック・クランズマン』を見た。スパイク・リーの映画を見たことがなかったのだが、『NOPE/ノープ』とか『ジャンゴ 繋がれざる者』とか『罪人たち』が好きなのに、「ブラック・ムービーの旗手」とも評されるスパイク・リーの映画を見たことが無いのはおかしいと常々思っており、ようやく見ることができた。
+・U-NEXTで見た。配信で映画を見る時は、デュアルモニターの片方の電源を落とし、一つのモニターにフルスクリーン表示してから見るようにしている。ながら見はしない。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[見た2025年秋アニメ]]></title>
         <id>https://note.com/binetsu0904/n/n103ff599b288</id>
