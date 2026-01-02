@@ -4863,7 +4863,18 @@
       "title": "担当無し",
       "feedUrl": "https://note.com/no_produce/rss",
       "siteUrl": "https://note.com/no_produce",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/no_produce/n/n74b14e7a8630",
+          "author": null,
+          "description": "ニコニコ動画の各視聴ページで実行すると、URLのIDを基にニコニコチャート、ニコログ、公開マイリスト一覧の対応したページを一括で表示してくれるブックマークレートです\n(ブックマークレートの使い方は割愛します、各自で検索ください……)\n個人用ツールとして、geminiに作ってもらったコードです\n自分にはプログラミングの知識がなくて修正、整形がちゃんと出来ていないので粗があると思います\n実際に使用して何か問題が起きても責任が取れません！すみません！自己責任でご使用ください\n続きをみる",
+          "link": "https://note.com/no_produce/n/n74b14e7a8630",
+          "publishedOn": "2026-01-02T16:50:47.000Z",
+          "wordCount": 2459,
+          "title": "ねじれの位置",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/16f63d2a0994c4d7bfef428cfa27e5f915516fa7.png"
+        }
+      ]
     },
     {
       "title": "埜村武",
