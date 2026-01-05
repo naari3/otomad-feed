@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-05T17:07:41.402Z</updated>
+    <updated>2026-01-05T18:08:30.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新年早々なんやねん]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1394.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1394.html"/>
+        <updated>2026-01-05T16:46:48.000Z</updated>
+        <summary type="html"><![CDATA[昨日くらいからインターネットが死んでて俺は何もできなかった  荒波です今しがた復旧したばかりで慌てて崩壊学園のスタミナ消化をしているところですLANケーブルを替えようがルーター再起しようが何してもダメだったのに、なんとルーターのLANポートが死んでたらしくて別の穴に挿したら直ったなぜかその発想がなくて無駄に時間かかってしまったな接続できてますよランプがピカピカ光ってたので問題ないと思い込んでしまったまあ繋]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年音MAD界隈大予想！]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n78da100aea52</id>
