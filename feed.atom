@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-08T06:08:53.113Z</updated>
+    <updated>2026-01-08T07:08:25.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aqua Voice / VRChat用の非破壊変更ツールをつくった / OffersHUDのv1.9.0をリリースした]]></title>
+        <id>hatenablog://entry/17179246901341825570</id>
+        <link href="https://naari.hatenablog.com/entry/2026/01/08/152442"/>
+        <updated>2026-01-08T06:24:42.000Z</updated>
+        <summary type="html"><![CDATA[やったことを書く
+Aqua Voice
+この記事は、Aqua Voiceというツールを使って音声によってテキスト入力をして、それをあとから手直しすることで作成されている。僕がよく見ているr7kamuraさんのブログで紹介されていたツールで、いい感じにSpeechToTextをやってくれる。詳しいところは調べてもらったり、それこそr7kamuraさんの記事のリンクを貼るので、気になったらそっちを見てみてね。
+r7kamura.com
+ただ、僕はあまり口が回らないので、一発でいい感じの文章にはならなかった。話題があちこちに分散する。でも、言いたいこと自体は文字として存在するようになるので、後処理としてちょっと入れ替えたり書き換えたりするだけで記事になる。入れ替えもClaudeに投げたりしてやってもらった。とても楽だった。体験が良い。
+VRChat用の非破壊変更ツールをつくった
+VRChat用のUnity Editor拡張を初めて作ってみた。
+
+昨日、ちょっとした改変のついでに非破壊な変更をするコンポーネントを自作した！ pic.twitter.com/2EI4J6iOEX
+— なあり vrc (@_naari_vrc_) 2026年1月7日
+   
+一応公開してるけど他人の環境で動くのかマジでわからん
+github.com
+アバターのメッシュとアクセサリーのメッシュが重なっているような場合、どちらかをへこませて自然にアクセサリーがついているようにしたいことがある。おそらく正攻法はPhysBoneを使ってコライダーでへこませる方法なのだけど、そこまでするのも手間だった。もっと簡単に処理したい場合もある。
+そのための解決策を探っていた。すでに使われている適切なツールがあればいいな～と思ってたのだけど、うまく見つけられなかった*1。なので、自分で作ってみることにした。作ったツールは …]]></summary>
+        <author>
+            <name>名有りさんの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年]]></title>
         <id>hatenablog://entry/17179246901341640418</id>
