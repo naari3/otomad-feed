@@ -3333,6 +3333,16 @@
       "siteUrl": "https://note.com/dokozonosyake",
       "articles": [
         {
+          "id": "https://note.com/dokozonosyake/n/n516f095fee4e",
+          "author": null,
+          "description": "序論\nIllustratorやPhotoshop、ペイントソフトやその他画像処理ソフトウェアには重なったオブジェクトの色を一定の計算を経過して変化させる機能があり、「描画モード」や「合成モード」「ブレンド」といった名前で呼ばれている。これらは画像の色調、ざっくり言えば雰囲気を変える効果を持っており、グラフィックデザインやイラストにおいて多用される機能である。\n続きをみる",
+          "link": "https://note.com/dokozonosyake/n/n516f095fee4e",
+          "publishedOn": "2026-01-09T11:15:45.000Z",
+          "wordCount": 2755,
+          "title": "描画モードの解析的な解釈①",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/242579438/rectangle_large_type_2_c827a4c2348fc35de46c2c5af91cab42.png?width=800"
+        },
+        {
           "id": "https://note.com/dokozonosyake/n/ncad3eddec969",
           "author": null,
           "description": "1. Homebrewのインストール\n1-1. インストール\n続きをみる",

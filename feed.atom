@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-09T11:05:41.973Z</updated>
+    <updated>2026-01-09T12:09:51.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[描画モードの解析的な解釈①]]></title>
+        <id>https://note.com/dokozonosyake/n/n516f095fee4e</id>
+        <link href="https://note.com/dokozonosyake/n/n516f095fee4e"/>
+        <updated>2026-01-09T11:15:45.000Z</updated>
+        <summary type="html"><![CDATA[序論
+IllustratorやPhotoshop、ペイントソフトやその他画像処理ソフトウェアには重なったオブジェクトの色を一定の計算を経過して変化させる機能があり、「描画モード」や「合成モード」「ブレンド」といった名前で呼ばれている。これらは画像の色調、ざっくり言えば雰囲気を変える効果を持っており、グラフィックデザインやイラストにおいて多用される機能である。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年1月-2】自己愛2]]></title>
         <id>hatenablog://entry/17179246901342053601</id>
