@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-11T11:05:12.135Z</updated>
+    <updated>2026-01-11T12:08:51.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter3]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/nc1e0e8812a96</id>
+        <link href="https://note.com/ecolidelvsvc11/n/nc1e0e8812a96"/>
+        <updated>2026-01-11T11:29:27.000Z</updated>
+        <summary type="html"><![CDATA[退勤してから6時間くらい自由時間がある生活嬉しすぎる
+
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[描画モードの解析的な解釈①]]></title>
         <id>https://note.com/dokozonosyake/n/n516f095fee4e</id>
