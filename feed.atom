@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-12T14:08:12.168Z</updated>
+    <updated>2026-01-12T15:08:03.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026/01/12]]></title>
+        <id>https://note.com/banfuture9/n/n72947d87c455</id>
+        <link href="https://note.com/banfuture9/n/n72947d87c455"/>
+        <updated>2026-01-12T14:14:12.000Z</updated>
+        <summary type="html"><![CDATA[・会社から取ってねと言われている資格の勉強を3連休中にしようと思っていたが、1秒もしなかった。
+・人のCosenseを沢山読んでみた。みんな、色々なことを色々な立場から考えているなあーと思った。自分と比べてやる気なくなる部分と、発破かけられてやる気出てくる部分が、両方あった。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年に当たったもの一覧]]></title>
         <id>hatenablog://entry/17179246901339638189</id>
