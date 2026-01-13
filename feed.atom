@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-13T09:09:02.107Z</updated>
+    <updated>2026-01-13T10:06:05.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🐷ゆゆうたの黒歴史音MAD作るで]]></title>
+        <id>https://anond.hatelabo.jp/20260113183035</id>
+        <link href="https://anond.hatelabo.jp/20260113183035"/>
+        <updated>2026-01-13T09:30:35.000Z</updated>
+        <summary type="html"><![CDATA[🐷曲は…あれやなち...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームはキレながらやるもの]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1395.html</id>
