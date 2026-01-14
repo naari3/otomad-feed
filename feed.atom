@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-14T09:09:13.409Z</updated>
+    <updated>2026-01-14T10:07:05.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -115,6 +115,19 @@ youtu.be
         <summary type="html"><![CDATA[最近もやっておりますゼンゼロといってもいつも通り激変ノード詰めてるだけでイベントすらやってないんだけどああ、ストーリーはマジですごかったね  ずっとみほよゲーとは思えないクオリティですごいもちろん悪い意味で肝心の戦闘もクソみたいな敵ばっかり増えてただでさえ気が狂いそうなのに激変ノードがリニューアルでゴミみたいな仕様に改悪されて遊び場すら奪われるというねもうここの運営に期待するだけ無駄なのはわかってる]]></summary>
         <author>
             <name>柊殿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE MUNEO HOUSE AI Abenomix]]></title>
+        <id>hatenablog://entry/17179246901343980944</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20260112/p1"/>
+        <updated>2026-01-12T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[名誉会長P - YouTube (投稿者)
+ぶっぶる bubble (@hc84290207) / X (投稿者)
+THE MUNEO HOUSE AI Abenomix - ニコニコ動画
+本日YouTube及びニコニコに投稿された動画。安倍晋三元首相の声を使って「muneo house」(1st-03)をカバーしています。AI対応DAW「Ace Studio」を利用されたそうです。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
