@@ -5581,7 +5581,18 @@
       "title": "とげ",
       "feedUrl": "https://note.com/togexys/rss",
       "siteUrl": "https://note.com/togexys",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/togexys/n/ned576e1ec18e",
+          "author": null,
+          "description": "背景\n友人にラップのおすすめされ、実際に聞いてみたがあまりハマらなかった\n実際に聞いたのはNERVE（どれを聞いたのか忘れた）\n音MADの手法の一つ「セリフ合わせ」はラップに似た側面を持つ\nでは、両者の違いは何か？\n続きをみる",
+          "link": "https://note.com/togexys/n/ned576e1ec18e",
+          "publishedOn": "2026-01-16T12:23:46.000Z",
+          "wordCount": 3083,
+          "title": "私がラップにハマらない理由",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/faff3d37d7eaed0364e619fdc3564980b07345fe.png"
+        }
+      ]
     },
     {
       "title": "とじーら",

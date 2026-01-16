@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-16T12:09:51.715Z</updated>
+    <updated>2026-01-16T13:17:06.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[私がラップにハマらない理由]]></title>
+        <id>https://note.com/togexys/n/ned576e1ec18e</id>
+        <link href="https://note.com/togexys/n/ned576e1ec18e"/>
+        <updated>2026-01-16T12:23:46.000Z</updated>
+        <summary type="html"><![CDATA[背景
+友人にラップのおすすめされ、実際に聞いてみたがあまりハマらなかった
+実際に聞いたのはNERVE（どれを聞いたのか忘れた）
+音MADの手法の一つ「セリフ合わせ」はラップに似た側面を持つ
+では、両者の違いは何か？
+続きをみる]]></summary>
+        <author>
+            <name>とげ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年1月-3】口内炎2個ある]]></title>
         <id>hatenablog://entry/17179246901344434229</id>
