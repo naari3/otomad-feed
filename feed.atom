@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-19T10:08:11.200Z</updated>
+    <updated>2026-01-19T11:06:59.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[冬眠]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1396.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1396.html"/>
+        <updated>2026-01-19T10:34:01.000Z</updated>
+        <summary type="html"><![CDATA[最近たっぷり寝てるのにいつまでも眠気がとれない昼間眠すぎて常時船漕いでるもんなまぁ冬だし？ 人間にも冬眠が必要ってことなんじゃない？明後日ぐらいから卍最強寒波卍がくるらしいし布団でぬくぬくしてようそうしよう今週もとくに書くことなしとりま今季アニメはぼちぼちみてます  違国日記かなり良い他もいくつか観れそうなのあるけど正直はやく春にならないかなという気持ちいやアニメ関係なくさっさと春来てほしいけど春よ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[私がラップにハマらない理由]]></title>
         <id>https://note.com/togexys/n/ned576e1ec18e</id>
