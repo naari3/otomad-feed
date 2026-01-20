@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-20T13:20:34.917Z</updated>
+    <updated>2026-01-20T14:11:34.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter4]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n4c1ba79af774</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n4c1ba79af774"/>
+        <updated>2026-01-20T13:59:06.000Z</updated>
+        <summary type="html"><![CDATA[スマホのニコニコのアプリ開いたら90％くらいの確率で「真・なかやまきんに君合作弐」をオススメされるんだけど何
+
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冬眠]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1396.html</id>
