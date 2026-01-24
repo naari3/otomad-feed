@@ -3328,6 +3328,16 @@
       "siteUrl": "https://note.com/dokozonosyake",
       "articles": [
         {
+          "id": "https://note.com/dokozonosyake/n/ne74b56605661",
+          "author": null,
+          "description": "序論\nIllustratorやPhotoshop、ペイントソフトやその他画像処理ソフトウェアには重なったオブジェクトの色を一定の計算を経過して変化させる機能があり、「描画モード」や「合成モード」「ブレンド」といった名前で呼ばれている。これらは画像の色調、ざっくり言えば雰囲気を変える効果を持っており、グラフィックデザインやイラストにおいて多用される機能である。\n続きをみる",
+          "link": "https://note.com/dokozonosyake/n/ne74b56605661",
+          "publishedOn": "2026-01-24T04:41:12.000Z",
+          "wordCount": 2750,
+          "title": "描画モードの解析的な解釈②",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/246218892/rectangle_large_type_2_40f203f6045cb4de1ac8cd38dd408fe3.png?width=800"
+        },
+        {
           "id": "https://note.com/dokozonosyake/n/n516f095fee4e",
           "author": null,
           "description": "序論\nIllustratorやPhotoshop、ペイントソフトやその他画像処理ソフトウェアには重なったオブジェクトの色を一定の計算を経過して変化させる機能があり、「描画モード」や「合成モード」「ブレンド」といった名前で呼ばれている。これらは画像の色調、ざっくり言えば雰囲気を変える効果を持っており、グラフィックデザインやイラストにおいて多用される機能である。\n続きをみる",
@@ -3453,16 +3463,6 @@
           "wordCount": 2497,
           "title": "【考察】みそ様、11時間37分16秒のプレミア公開凶行の真意とは",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/179654854/rectangle_large_type_2_e8c7130a1578b5f04e6a0fb0f1368058.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/dou_akagane_cu/n/n257b092bbf3c",
-          "author": null,
-          "description": "タイトルはなんとなくです。\n去年の12月中旬に作り始めたのかな…途中放棄しましたが…\n続きをみる",
-          "link": "https://note.com/dou_akagane_cu/n/n257b092bbf3c",
-          "publishedOn": "2025-01-24T16:48:48.000Z",
-          "wordCount": 3040,
-          "title": "夢見るシャンソン人形制作後記",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/171484963/rectangle_large_type_2_d1e1052b2701635182269cafb3cd43a4.png?width=800"
         }
       ]
     },

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-24T04:17:14.497Z</updated>
+    <updated>2026-01-24T05:06:40.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[描画モードの解析的な解釈②]]></title>
+        <id>https://note.com/dokozonosyake/n/ne74b56605661</id>
+        <link href="https://note.com/dokozonosyake/n/ne74b56605661"/>
+        <updated>2026-01-24T04:41:12.000Z</updated>
+        <summary type="html"><![CDATA[序論
+IllustratorやPhotoshop、ペイントソフトやその他画像処理ソフトウェアには重なったオブジェクトの色を一定の計算を経過して変化させる機能があり、「描画モード」や「合成モード」「ブレンド」といった名前で呼ばれている。これらは画像の色調、ざっくり言えば雰囲気を変える効果を持っており、グラフィックデザインやイラストにおいて多用される機能である。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20260116]]></title>
         <id>hatenablog://entry/17179246901347154638</id>
@@ -9775,18 +9787,6 @@ https://youtu.be/B4oFhYVSzjc?si=3mI_-HvCWAgOX2sc
 13.    マ…]]></summary>
         <author>
             <name>遺失物取扱所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夢見るシャンソン人形制作後記]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n257b092bbf3c</id>
-        <link href="https://note.com/dou_akagane_cu/n/n257b092bbf3c"/>
-        <updated>2025-01-24T16:48:48.000Z</updated>
-        <summary type="html"><![CDATA[タイトルはなんとなくです。
-去年の12月中旬に作り始めたのかな…途中放棄しましたが…
-続きをみる]]></summary>
-        <author>
-            <name>あかがね</name>
         </author>
     </entry>
     <entry>
