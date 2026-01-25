@@ -3313,6 +3313,16 @@
       "siteUrl": "https://note.com/dokozonosyake",
       "articles": [
         {
+          "id": "https://note.com/dokozonosyake/n/nf7a6825c9b23",
+          "author": null,
+          "description": "一般的な生成AIサービスは文字起こしに対応していない（音声解析のエンジンを積んでいない）場合があるほか、要求が通ったとしても生成された文章の信頼性に欠ける部分がある（処理の過程がブラックボックス化しており、勝手に要約文を混ぜたりすることがある）。また、会議の録音など、機密性の観点からオンラインの生成AIサービスに投げるのが望ましくない場合もある。\n今回は、OpenAIが公開しているAIモデルWhisperを使って、自分のMac上で音声の文字起こしができる環境を構築しよう。\n続きをみる",
+          "link": "https://note.com/dokozonosyake/n/nf7a6825c9b23",
+          "publishedOn": "2026-01-25T14:36:51.000Z",
+          "wordCount": 2914,
+          "title": "MacにOpenAI Whisperを導入して文字起こしツールを作る",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/194301100264e895074a2fda93b50012e38b44ab.png"
+        },
+        {
           "id": "https://note.com/dokozonosyake/n/ne74b56605661",
           "author": null,
           "description": "序論\nIllustratorやPhotoshop、ペイントソフトやその他画像処理ソフトウェアには重なったオブジェクトの色を一定の計算を経過して変化させる機能があり、「描画モード」や「合成モード」「ブレンド」といった名前で呼ばれている。これらは画像の色調、ざっくり言えば雰囲気を変える効果を持っており、グラフィックデザインやイラストにおいて多用される機能である。\n続きをみる",

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-25T14:05:24.448Z</updated>
+    <updated>2026-01-25T15:05:29.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MacにOpenAI Whisperを導入して文字起こしツールを作る]]></title>
+        <id>https://note.com/dokozonosyake/n/nf7a6825c9b23</id>
+        <link href="https://note.com/dokozonosyake/n/nf7a6825c9b23"/>
+        <updated>2026-01-25T14:36:51.000Z</updated>
+        <summary type="html"><![CDATA[一般的な生成AIサービスは文字起こしに対応していない（音声解析のエンジンを積んでいない）場合があるほか、要求が通ったとしても生成された文章の信頼性に欠ける部分がある（処理の過程がブラックボックス化しており、勝手に要約文を混ぜたりすることがある）。また、会議の録音など、機密性の観点からオンラインの生成AIサービスに投げるのが望ましくない場合もある。
+今回は、OpenAIが公開しているAIモデルWhisperを使って、自分のMac上で音声の文字起こしができる環境を構築しよう。
+続きをみる]]></summary>
+        <author>
+            <name>しゃけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[描画モードの解析的な解釈②]]></title>
         <id>https://note.com/dokozonosyake/n/ne74b56605661</id>
