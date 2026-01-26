@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-26T16:09:08.003Z</updated>
+    <updated>2026-01-26T17:10:20.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[26/01/26 そうですか]]></title>
+        <id>https://note.com/banfuture9/n/nbbc98fbbb917</id>
+        <link href="https://note.com/banfuture9/n/nbbc98fbbb917"/>
+        <updated>2026-01-26T16:37:55.000Z</updated>
+        <summary type="html"><![CDATA[・ピックアップを選んでいる身で恐縮だが、ああいうライトな番組を見てるのにそこでそんなに怒れること自体が滑稽だと思った。
+・同時に友人の話でもあるので両手が冷たくなる程に怒りはあり、何件かの自RTと坂本慎太郎の引用で自分の溜飲を下げた。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オーバータイム問題ない]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1397.html</id>
