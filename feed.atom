@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-26T08:08:37.529Z</updated>
+    <updated>2026-01-26T09:12:05.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オーバータイム問題ない]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1397.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1397.html"/>
+        <updated>2026-01-26T07:34:12.000Z</updated>
+        <summary type="html"><![CDATA[オーバータイム問題ない　オーバータイム問題ないこの前MAHOUTEQ!（マホテク！）というノベルゲーをすすめられてやった普段ノベルゲーなんてやらないんだけど1時間で終わるって話だったので、興が乗ってプレーおかげでとても充実した1時間になりました魔法少女大好きな無職がなんやかんやあってヤバイ職場で働くことになるコメディ作品でブラックなユーモアたっぷり、そしてなんかアツかったりする内容に魅了されたのはもちろん絵]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MacにOpenAI Whisperを導入して文字起こしツールを作る]]></title>
         <id>https://note.com/dokozonosyake/n/nf7a6825c9b23</id>
