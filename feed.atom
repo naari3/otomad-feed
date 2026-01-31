@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-01-31T21:06:00.876Z</updated>
+    <updated>2026-01-31T22:05:42.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[26/02/01 もう2月]]></title>
+        <id>https://note.com/banfuture9/n/n754a65a47034</id>
+        <link href="https://note.com/banfuture9/n/n754a65a47034"/>
+        <updated>2026-01-31T21:52:06.000Z</updated>
+        <summary type="html"><![CDATA[・まだ、加齢を嘆くにはとてもとても早すぎる年齢ではあるが、それでもこの頃の時間の経つことの早いことには驚きがある。もう2月ですか。
+・選挙で忙しくなる職場なので、第51回衆議院議員総選挙の影響により、1週間ほど前から真っ只中で業務が詰め込まれている。7連勤というものは初めて経験した。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter5]]></title>
         <id>https://note.com/ecolidelvsvc11/n/na1816ec751ef</id>
