@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-01T10:07:09.952Z</updated>
+    <updated>2026-02-01T11:06:34.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シイコさんが好きだから、もうジークアクスに期待したくない。]]></title>
+        <id>https://note.com/mega1617/n/n618a5befa59c</id>
+        <link href="https://note.com/mega1617/n/n618a5befa59c"/>
+        <updated>2026-02-01T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>mega(目が)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[26/02/01 もう2月]]></title>
         <id>https://note.com/banfuture9/n/n754a65a47034</id>
