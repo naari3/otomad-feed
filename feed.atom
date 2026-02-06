@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-06T14:18:33.560Z</updated>
+    <updated>2026-02-06T15:16:52.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[26/02/06 考えないのを活かす]]></title>
+        <id>https://note.com/banfuture9/n/ne87b029bfe1a</id>
+        <link href="https://note.com/banfuture9/n/ne87b029bfe1a"/>
+        <updated>2026-02-06T14:33:18.000Z</updated>
+        <summary type="html"><![CDATA[・ネットサーフィン（死語）している時に気になった事柄をCosenseにまとめている時、ふと「いま、何も考えてないな」と気付く瞬間がある。ただ情報を巨大なインターネットの箱から scrapbox.io/banfuture の箱へコピペして移しているだけで、私によって思考された何かが情報に介在している感覚が無い。
+・そもそも私は考えることが苦手だ。母にもよく「もっと考えなさい」ということを言われた。もっともこれは、一人で山に探検に行って草むらに足を取られて左手を骨折したり、安いからという理由でブラックコーヒーを1リットル飲んでカフェイン中毒の症状を出して一晩中うなされたり、真冬にコートすら着ずに2時間かけて学校から家まで歩いて帰った結果大風邪を引いたり（しかも受験生）、なぜそんなことをするのかわからない行動を時折発揮していたからであった。この行為をしたら次の次くらいにどうなるか、ということを想像しない。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数式で見るRGB]]></title>
+        <id>https://note.com/togexys/n/nfad64f991d6c</id>
+        <link href="https://note.com/togexys/n/nfad64f991d6c"/>
+        <updated>2026-02-06T14:22:38.000Z</updated>
+        <summary type="html"><![CDATA[準備
+続きをみる]]></summary>
+        <author>
+            <name>とげ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年2月-1】おい　あんた…]]></title>
         <id>hatenablog://entry/17179246901351586627</id>
