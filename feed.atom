@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-07T17:08:40.934Z</updated>
+    <updated>2026-02-07T18:09:09.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -9740,25 +9740,6 @@ COMPLEXどころか明らかにキャベツさんのエッセンス取り入れ�
         <summary type="html"><![CDATA[初音ミクが出てから2...]]></summary>
         <author>
             <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After Effectsのスクリプトの可能性を広げる。 その６]]></title>
-        <id>hatenablog://entry/6802418398324130673</id>
-        <link href="https://atarabi.hateblo.jp/entry/2025/02/08/150448"/>
-        <updated>2025-02-08T06:04:48.000Z</updated>
-        <summary type="html"><![CDATA[github.com
-github.com
-画像ファイルを介することなく気軽に画像データを扱いたいと開発当初より思っていて、やっと煮詰まった。
-カスタムパラメータ
-　プロジェクト内に画像データを埋め込みたいので、エフェクトのカスタムパラメータを用いる。カスタムパラメータは、通常のパラメータと違い、UI、データ構造を自由に出来るが面倒が増える。また、スクリプトから値の取得、設定が出来ない。よって、様々なエフェクトに流用出来るような汎用性の高いものを目指す、かつ、スクリプトから加工できる機能を提供するというのを、個人的な指針としている*1。ピクセルデータをそのまま保存するのは容量が嵩むので、以前個人的にプリレンダリング用としてZPngを参考にして作ったフォーマットを流用した。そして、スクリプトから画像ファイルやクリップボードに含まれる画像データを読み込めるようにした。
-@image
-
-　画像を取り扱うエフェクト群として、@image, @image_file, @images_in_folderの３種を用途に応じて用意した。@imageは上記のカスタムパラメータを用いて、エフェクト内にピクセルデータを保持するエフェクト。@image_fileは画像ファイルのパスを保持して、その画像を表示するエフェクト。@images_in_folderはフォルダのパスを保持し、そのフォルダ内に含まれる画像を表示するエフェクトである。この３つさえあれば大抵の用途に対応できると現時点では思っている。画像ファイルの読み込み自体はstb_imageに委譲しているので、stb_imageで読み込めるフォーマットは読み込める。
-クリップボード
-　CLCL 、Pasteboard Viewerを用いてクリップボードの中を眺めると、いろいろな形式が登録されているのが分かる。そこで、登録されている形式、ファイル…]]></summary>
-        <author>
-            <name>Atarabi-Blog</name>
         </author>
     </entry>
     <entry>
