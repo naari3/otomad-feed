@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-07T10:07:07.183Z</updated>
+    <updated>2026-02-07T11:06:17.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After Effectsのスクリプトの可能性を広げる。 その８]]></title>
+        <id>hatenablog://entry/17179246901352144838</id>
+        <link href="https://atarabi.hateblo.jp/entry/2026/02/07/200011"/>
+        <updated>2026-02-07T11:00:11.000Z</updated>
+        <summary type="html"><![CDATA[github.com
+Fuzzy Search
+シンプルでかつES3に簡単に移植できそうだったのでFuzzy searchを軽く書き直して使っていたのだが、改めて中身を見直したところ、あまりよろしくないなと感じたので、自作のものに切り替えた。
+新しいもの好きは、 !@script_UI.jsx を上書きしてください*1。
+@note
+
+画像を扱うプラグインは以前追加したが、テキストを扱う方もある程度自分の中で煮詰まったので追加した。
+
+例によってスクリプトからも触れるようにしてあるので、それを用いたスクリプトも追加してある。
+@expression_baker
+
+Startup用のスクリプト。エクスプレッションを時間に依存させず静的に使用したい場合に、ベイクが非常に面倒なので作った。
+*1:@effect_launcher, @effect_searchなどに使用している]]></summary>
+        <author>
+            <name>Atarabi-Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合作振り返り②：『十年充電祭 -KICHI RECO MEGAMIX-』]]></title>
         <id>hatenablog://entry/6802888565232286342</id>
