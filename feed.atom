@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-07T16:07:39.788Z</updated>
+    <updated>2026-02-07T17:08:40.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音MADのモチベがねぇよ]]></title>
+        <id>https://note.com/seirontea/n/nfe8ebc6d71d0</id>
+        <link href="https://note.com/seirontea/n/nfe8ebc6d71d0"/>
+        <updated>2026-02-07T17:03:15.000Z</updated>
+        <summary type="html"><![CDATA[いや、音声作るのは好きなんだよ。
+ニコニコで流行りの曲見つけて原曲落としてセリフ合わせまではしてみたりする。
+ただ動画作んのがだり！
+高クオリティの音MAD見すぎて感覚がおかしくなってるのかナ🤪？
+続きをみる]]></summary>
+        <author>
+            <name>セイロンティー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After Effectsのスクリプトの可能性を広げる。 その８]]></title>
         <id>hatenablog://entry/17179246901352144838</id>
@@ -9745,16 +9759,6 @@ github.com
 　CLCL 、Pasteboard Viewerを用いてクリップボードの中を眺めると、いろいろな形式が登録されているのが分かる。そこで、登録されている形式、ファイル…]]></summary>
         <author>
             <name>Atarabi-Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[確認用]]></title>
-        <id>https://note.com/kokeshi_short/n/n9aa7d6333d51</id>
-        <link href="https://note.com/kokeshi_short/n/n9aa7d6333d51"/>
-        <updated>2025-02-08T05:03:40.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>こけし</name>
         </author>
     </entry>
     <entry>
