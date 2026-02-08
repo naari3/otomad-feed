@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-08T14:10:51.832Z</updated>
+    <updated>2026-02-08T15:08:06.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[mikoがねそさんからパクった画像一覧]]></title>
+        <id>https://note.com/miko_ovo/n/n5804d065c4f9</id>
+        <link href="https://note.com/miko_ovo/n/n5804d065c4f9"/>
+        <updated>2026-02-08T14:23:37.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは、初めまして。音MADを作っていますmikoと申します。
+今回はこちらのAdvent Calendarに参加させていただきました。
+      adventar.org  
+続きをみる]]></summary>
+        <author>
+            <name>miko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音MADのモチベがねぇよ]]></title>
         <id>https://note.com/seirontea/n/nfe8ebc6d71d0</id>
