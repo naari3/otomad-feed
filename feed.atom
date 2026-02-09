@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-09T13:33:25.687Z</updated>
+    <updated>2026-02-09T14:25:37.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[こいつが弦を打つ音聞いたことある？]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1399.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1399.html"/>
+        <updated>2026-02-09T13:10:02.000Z</updated>
+        <summary type="html"><![CDATA[アプデがきてついに強化された悠真新しくコンボ作り直しになるかと思いきや、新しいキャンセル技が増えたくらいで特に使い方が変わることもなく良くも悪くもではあるけど新しい強化特殊スキルのおかげで多少とっつきやすくはなったかな？気になってるけど難しそうで手を出してないって人がこれを機に触ってくれるとうれしいですねなかなか強くなったしさアイドルたちとチェキ撮りまくれる神ゲーになっていたお天気リポートかわいく]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mikoがねそさんからパクった画像一覧]]></title>
         <id>https://note.com/miko_ovo/n/n5804d065c4f9</id>
