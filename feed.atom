@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-11T00:33:07.556Z</updated>
+    <updated>2026-02-11T01:37:10.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter7]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n20b02eb782ab</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n20b02eb782ab"/>
+        <updated>2026-02-11T00:35:09.000Z</updated>
+        <summary type="html"><![CDATA[なんか最近ニンダイ見ても全然テンション上がらなくなっちゃったな
+
+続きをみる]]></summary>
+        <author>
+            <name>大腸菌デリバリーサービス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[こいつが弦を打つ音聞いたことある？]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1399.html</id>
