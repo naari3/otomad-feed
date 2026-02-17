@@ -6840,18 +6840,7 @@
       "title": "音MADとその周辺",
       "feedUrl": "https://otomad.jp/feed",
       "siteUrl": "https://otomad.jp",
-      "articles": [
-        {
-          "id": "http://otomad.jp/?p=211",
-          "author": "ubu_chinchilla",
-          "description": "※サムネ画像は適当に生成AIでつくったらできました。 音MADの歴史の備忘録として、音MAD作者のコミュニティ形成の歴史を書き残しておきます。相違点や他の視点からの見方などについてご意見をいただけると幸いです。 また、私 […]",
-          "link": "https://otomad.jp/archives/211",
-          "publishedOn": "2025-02-18T10:59:01.000Z",
-          "wordCount": 4030,
-          "title": "音MAD作者のコミュニティの形成の歴史（～2010年くらいまで）",
-          "imageUrl": "https://otomad.jp/wp-content/uploads/adcdd995-4856-4d31-b3c2-8f4619e55a74.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "パペロンのメモ帳",
