@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-19T12:16:51.098Z</updated>
+    <updated>2026-02-19T13:32:29.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「しずかなインターネット」に日記を書いています]]></title>
+        <id>hatenablog://entry/17179246901356375844</id>
+        <link href="https://taket-a.hateblo.jp/entry/2026/02/19/215601"/>
+        <updated>2026-02-19T12:56:01.000Z</updated>
+        <summary type="html"><![CDATA[2026/1/22～
+sizu.me
+ 
+元々個人サーバーに書いていた内容を転記しています
+ 
+2ヶ月毎にこちらへまとめていた時期もあったんですが、
+まぁなんか詳しく書かないけど体調崩しちゃって、
+仕事も色々あっていま別の会社にいたりするので、
+その間の時期に色々あったんだな～と思ってください
+ 
+半年ぐらい前から落ち着いてきたんで日記も再開して、
+ちょうどいいサイト（しずかなインターネット）を見つけたので、
+飽きないうちはそちらに転記しようかなという感じです。
+ 
+↓こちらにも目を通してもらえると嬉しいなと思います。
+sizu.me
+ 
+ 
+この前「3人が見る音MAD」である方がこちらのブログに言及してくださって、
+それも嬉しかったので、ちょっとだけ公開しようというのもありますね。
+ 
+あと、自分で日記見返してても面白いしね。
+この日こんなこと考えてたんだ、みたいな。
+2023年からライブでカナメストーン見てるじゃん、みたいな。
+色々残しておくもんだなって。
+ 
+でも直近の日記はVTuber見てる社会人なだけじゃねえかって思うけどね、
+これもまた面白いなと思うときがくるんでしょう　多分
+ 
+っていうか動画上げたいんだけど時間も元気もねえから時間と元気を手に入れたら俺は動画をちゃんと作って上げたいとずっと思っていますよそれでは！げんきでね・・・]]></summary>
+        <author>
+            <name>竹達アーカイブ通信</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近したことや思ったこと、日記]]></title>
         <id>https://note.com/nanana555/n/nc658fd1d629b</id>
