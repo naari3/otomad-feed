@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-20T14:17:47.127Z</updated>
+    <updated>2026-02-20T15:16:38.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ポケモンPt】ポケトレ色違い日記：スリープ編]]></title>
+        <id>hatenablog://entry/17179246901356724241</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2026/02/20/231709"/>
+        <updated>2026-02-20T14:17:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Audibleを聴きながらできる作業といえばポケトレ。
+特に捕まえたいポケモンはいなくて、たまたま大量発生だったのでスリープで連鎖。
+ 
+
+場所：215番道路
+捕まえた数：5匹
+ 
+雑感：
+スリープの色違いは初めて。2回ぐらいのトライでサラッと40連鎖してしまった。
+FRLGの移植がSwitchに来るという話を見て、そろそろポケムーバーも使えなくなるのかもなぁと感じてしまった。
+早めに最新作に送った方が良いかもしれない。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年2月-3】謎のケーブル]]></title>
         <id>hatenablog://entry/17179246901356315035</id>
