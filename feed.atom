@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-21T17:07:48.365Z</updated>
+    <updated>2026-02-21T18:09:03.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After Effectsのスクリプトの可能性を広げる。 その９]]></title>
+        <id>hatenablog://entry/17179246901357112302</id>
+        <link href="https://atarabi.hateblo.jp/entry/2026/02/22/022337"/>
+        <updated>2026-02-21T17:23:37.000Z</updated>
+        <summary type="html"><![CDATA[github.com
+Fuzzy Search
+パフォーマンスを向上させたのと、スコアリングを見直して、もうちょっといい感じに候補が並ぶようにした。
+@effect_launcher
+いい感じに候補が並ぶように、@effect_launcherの側も少し弄った。新しいFuzzy Searchである必要があるので、@scriptの更新と後述しますがStartupにある!@script_UI.jsxの削除をお願いします。
+プロファイラー
+Perf — @script 0.8.0 documentation
+パフォーマンス計測のために、プロファイラーを作成した。
+!@script_UIの埋め込み
+@script.aexと!@script_UI.jsxとで、2つの更新箇所もあると面倒だなと思ったので、!@script_UI.jsxの内容を@script.aexに埋め込むようにした。それにともなって、Startupにある!@script_UI.jsxは不要、否、むしろ、@script.aexのとでコンフリクトしてしまうので、削除していただけると幸いです。]]></summary>
+        <author>
+            <name>Atarabi-Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ポケモンPt】ポケトレ色違い日記：スリープ編]]></title>
         <id>hatenablog://entry/17179246901356724241</id>

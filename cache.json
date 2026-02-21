@@ -55,6 +55,21 @@
       "siteUrl": "https://atarabi.hateblo.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/17179246901357112302",
+          "author": null,
+          "description": "github.com\nFuzzy Search\nパフォーマンスを向上させたのと、スコアリングを見直して、もうちょっといい感じに候補が並ぶようにした。\n@effect_launcher\nいい感じに候補が並ぶように、@effect_launcherの側も少し弄った。新しいFuzzy Searchである必要があるので、@scriptの更新と後述しますがStartupにある!@script_UI.jsxの削除をお願いします。\nプロファイラー\nPerf — @script 0.8.0 documentation\nパフォーマンス計測のために、プロファイラーを作成した。\n!@script_UIの埋め込み\n@script.aexと!@script_UI.jsxとで、2つの更新箇所もあると面倒だなと思ったので、!@script_UI.jsxの内容を@script.aexに埋め込むようにした。それにともなって、Startupにある!@script_UI.jsxは不要、否、むしろ、@script.aexのとでコンフリクトしてしまうので、削除していただけると幸いです。",
+          "link": "https://atarabi.hateblo.jp/entry/2026/02/22/022337",
+          "publishedOn": "2026-02-21T17:23:37.000Z",
+          "wordCount": 403,
+          "title": "After Effectsのスクリプトの可能性を広げる。 その９",
+          "enclosure": {
+            "url": "https://ogimage.blog.st-hatena.com/13208692334729894112/17179246901357112302/1771694617",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://ogimage.blog.st-hatena.com/13208692334729894112/17179246901357112302/1771694617"
+        },
+        {
           "id": "hatenablog://entry/17179246901352144838",
           "author": null,
           "description": "github.com\nFuzzy Search\nシンプルでかつES3に簡単に移植できそうだったのでFuzzy searchを軽く書き直して使っていたのだが、改めて中身を見直したところ、あまりよろしくないなと感じたので、自作のものに切り替えた。\n新しいもの好きは、 !@script_UI.jsx を上書きしてください*1。\n@note\n\n画像を扱うプラグインは以前追加したが、テキストを扱う方もある程度自分の中で煮詰まったので追加した。\n\n例によってスクリプトからも触れるようにしてあるので、それを用いたスクリプトも追加してある。\n@expression_baker\n\nStartup用のスクリプト。エクスプレッションを時間に依存させず静的に使用したい場合に、ベイクが非常に面倒なので作った。\n*1:@effect_launcher, @effect_searchなどに使用している",
