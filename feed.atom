@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-23T11:18:09.118Z</updated>
+    <updated>2026-02-23T12:16:16.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なんもしてない925]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1401.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1401.html"/>
+        <updated>2026-02-23T11:27:22.000Z</updated>
+        <summary type="html"><![CDATA[起きてソシャゲのデイリーやって飯食って風呂入って寝るだけの生活  荒波ですたまにうんちたまってるアニメも積んでるゲームも色々あるんだけど何もやるきにならん気が向いた時にタルコフやって暇つぶししてるくらいまったりやれていいんですが特に目標もなくダラダラ遊んでるだけなんでなんともゼンゼロは一旦アリアちゃん待ち  激変TAだけはやってるけど激変がいつまで経ってもクソゲーなので面白くもなんともない記録出ても達成]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[色収差再び v1.0.1]]></title>
         <id>hatenablog://entry/17179246901357691042</id>
