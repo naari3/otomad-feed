@@ -55,6 +55,21 @@
       "siteUrl": "https://atarabi.hateblo.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/17179246901357691042",
+          "author": null,
+          "description": "at.atarabi.com\nv1.0.1に更新した。\nBackground\n適用しているレイヤーのサイズと背Backgrondに指定したレイヤーのサイズが異なる時に、背景が中央に来ない問題を修正した。ここらへんは今後Transform周りを整備したい。\nパフォーマンス\nステップ数が大きい時やRepeat Edge Pixelsを適用した際のパフォーマンスが向上した(CPU処理時)。",
+          "link": "https://atarabi.hateblo.jp/entry/2026/02/23/182817",
+          "publishedOn": "2026-02-23T09:28:17.000Z",
+          "wordCount": 394,
+          "title": "色収差再び v1.0.1",
+          "enclosure": {
+            "url": "https://ogimage.blog.st-hatena.com/13208692334729894112/17179246901357691042/1771838897",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://ogimage.blog.st-hatena.com/13208692334729894112/17179246901357691042/1771838897"
+        },
+        {
           "id": "hatenablog://entry/17179246901357112302",
           "author": null,
           "description": "github.com\nFuzzy Search\nパフォーマンスを向上させたのと、スコアリングを見直して、もうちょっといい感じに候補が並ぶようにした。\n@effect_launcher\nいい感じに候補が並ぶように、@effect_launcherの側も少し弄った。新しいFuzzy Searchである必要があるので、@scriptの更新と後述しますがStartupにある!@script_UI.jsxの削除をお願いします。\nプロファイラー\nPerf — @script 0.8.0 documentation\nパフォーマンス計測のために、プロファイラーを作成した。\n!@script_UIの埋め込み\n@script.aexと!@script_UI.jsxとで、2つの更新箇所もあると面倒だなと思ったので、!@script_UI.jsxの内容を@script.aexに埋め込むようにした。それにともなって、Startupにある!@script_UI.jsxは不要、否、むしろ、@script.aexのとでコンフリクトしてしまうので、削除していただけると幸いです。",
