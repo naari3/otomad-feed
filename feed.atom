@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-27T16:13:00.697Z</updated>
+    <updated>2026-02-27T17:12:55.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近況など]]></title>
+        <id>https://note.com/wake_otomad/n/nb1554aef3f62</id>
+        <link href="https://note.com/wake_otomad/n/nb1554aef3f62"/>
+        <updated>2026-02-27T16:58:03.000Z</updated>
+        <summary type="html"><![CDATA[今月はXの表垢が久々に活発に動いていると思います。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>ゎけ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年2月-4】今年もどまんなか！]]></title>
         <id>hatenablog://entry/17179246901358895790</id>
