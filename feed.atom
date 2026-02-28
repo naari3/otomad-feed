@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-02-28T14:06:18.064Z</updated>
+    <updated>2026-02-28T15:05:38.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[花粉おいコラ💢]]></title>
+        <id>https://note.com/seirontea/n/nc0b15102b90a</id>
+        <link href="https://note.com/seirontea/n/nc0b15102b90a"/>
+        <updated>2026-02-28T14:19:39.000Z</updated>
+        <summary type="html"><![CDATA[外出て帰ってきたら時間差で来るのやめろコラ
+風がすごい日だと夜まで目ぇ痒くてくしゃみも続いてなんかだるくさせてくるのやめろコラ
+なんか花粉症になってない奴らから「花粉症笑」みたいな扱いされるのムカつくわコラ
+ところでお隣の国には花粉のスイーツがあるらしい。(松花糕)
+続きをみる]]></summary>
+        <author>
+            <name>セイロンティー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ポケモンPt】ポケトレ色違い日記：サニーゴ編]]></title>
         <id>hatenablog://entry/17179246901359309648</id>
