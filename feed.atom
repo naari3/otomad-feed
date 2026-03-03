@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-03T00:29:15.516Z</updated>
+    <updated>2026-03-03T01:36:53.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[昨日書くのわすれてた]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1402.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1402.html"/>
+        <updated>2026-03-03T00:30:55.000Z</updated>
+        <summary type="html"><![CDATA[なんか曜日感覚ない  荒波ですてか気づけば3月になってるし･･･どういうことなの昨日あげパン食べたんですよあげパンあげパンJAPAN給食のメニューといえば、みたいなイメージあるけど僕の記憶が言うには一度も出たことなくて、というかあげパン自体ほぼ食べたことなくて、こんなうまいモンが給食に出るわけなくね？ って食べながら思った毎日白米と牛乳とかいう食べ合わせ最悪セットだったのがトラウマみたく記憶に焼き付いてるこの]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なんか絶妙にシャバいものをRTしがちな友人]]></title>
         <id>https://anond.hatelabo.jp/20260301224659</id>
