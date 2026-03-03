@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-03T12:14:00.752Z</updated>
+    <updated>2026-03-03T13:27:37.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ポケモンPt】ポケトレ色違い日記：ナマケロ編]]></title>
+        <id>hatenablog://entry/17179246901360628191</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2026/03/03/221824"/>
+        <updated>2026-03-03T13:18:24.000Z</updated>
+        <summary type="html"><![CDATA[なんか若い頃にやってたことは認知症になっても習慣になって出来ちゃうみたいなやつあるよね。
+それと同じだと思います、僕のポケトレって。
+ 
+
+場所：ハクタイのもり
+捕まえた数：2匹
+ 
+
+今回は久々に動画も撮ったので、掲載。
+ 
+雑感：
+実はナマケロは15年前にも捕まえたことがあったので、かなり気軽に。あとポケGOにも大量に居るし…
+ハクタイのもりは草むらが非常に広いおかげで、捕獲ボーナスが活きやすいですね。
+おかげで40蓮様で一発で行けました。今度また何か連鎖してみたい。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[昨日書くのわすれてた]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1402.html</id>
