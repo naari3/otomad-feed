@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-06T23:08:37.873Z</updated>
+    <updated>2026-03-07T00:27:22.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ポケモンPt】ポケトレ色違い日記：マクノシタ編]]></title>
+        <id>hatenablog://entry/17179246901361373516</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2026/03/07/085415"/>
+        <updated>2026-03-06T23:54:15.000Z</updated>
+        <summary type="html"><![CDATA[最近は毎日その日の大量発生が何なのか確認する人になっています。
+ 
+
+場所：225番道路
+捕まえた数：5匹
+ 
+
+ 
+雑感：
+ここ、木の形の関係で一番下の草むらが全く見えないこととか、木挟んでもう一つ草むらがあることとかがだいぶ難易度を上げている気がする。
+大量発生だったから何とかうまくいったけど、他のポケモンの連鎖やれって言われたら結構困るかも。
+でもマクノシタの色違いは良いですね。色の変化が自然な色違いは凄く好きです。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年3月-1】こんなんじゃ作業にならないんですけど？]]></title>
         <id>hatenablog://entry/17179246901360708063</id>
