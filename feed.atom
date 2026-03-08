@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-08T01:35:59.206Z</updated>
+    <updated>2026-03-08T03:02:59.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[色収差再び v1.1.0]]></title>
+        <id>hatenablog://entry/17179246901362223036</id>
+        <link href="https://atarabi.hateblo.jp/entry/2026/03/08/115051"/>
+        <updated>2026-03-08T02:50:51.000Z</updated>
+        <summary type="html"><![CDATA[at.atarabi.com
+v1.1.0に更新した。
+Blur Contrast
+www.youtube.com
+いくら加算だけでなく、比較明合成も扱えるようになったと言っても、それが発揮されるのはサンプリング時の合成時だけで、Steps数を上げないと効果が感じづらかった。
+特にブラーを掛けると必然的に鈍ってしまうので、コテコテ感を出すのがむずかった。そこで、ブラーのコントラストを強調出来るようにした。
+Blur Quality
+ブラーの処理コストが比較的高かったので、CPU処理時はバレない程度に品質を下げていた。しかし、ブラーのコントラストを上げられるようになったことで粗が見えやすくなったので、品質をあげるパラメータを用意した。
+パフォーマンス
+いくつか無駄な処理を発見したので省いた。]]></summary>
+        <author>
+            <name>Atarabi-Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ポケモンPt】ポケトレ色違い日記：マクノシタ編]]></title>
         <id>hatenablog://entry/17179246901361373516</id>
@@ -9982,16 +10001,6 @@ www.nicovideo.jp
 違うと思います]]></summary>
         <author>
             <name>kaikityouの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音EXPO韓国館、生配信の後書き]]></title>
-        <id>https://note.com/fourangle/n/nf250b561f3ed</id>
-        <link href="https://note.com/fourangle/n/nf250b561f3ed"/>
-        <updated>2025-03-08T14:58:31.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>四角</name>
         </author>
     </entry>
     <entry>

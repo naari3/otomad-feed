@@ -55,6 +55,21 @@
       "siteUrl": "https://atarabi.hateblo.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/17179246901362223036",
+          "author": null,
+          "description": "at.atarabi.com\nv1.1.0に更新した。\nBlur Contrast\nwww.youtube.com\nいくら加算だけでなく、比較明合成も扱えるようになったと言っても、それが発揮されるのはサンプリング時の合成時だけで、Steps数を上げないと効果が感じづらかった。\n特にブラーを掛けると必然的に鈍ってしまうので、コテコテ感を出すのがむずかった。そこで、ブラーのコントラストを強調出来るようにした。\nBlur Quality\nブラーの処理コストが比較的高かったので、CPU処理時はバレない程度に品質を下げていた。しかし、ブラーのコントラストを上げられるようになったことで粗が見えやすくなったので、品質をあげるパラメータを用意した。\nパフォーマンス\nいくつか無駄な処理を発見したので省いた。",
+          "link": "https://atarabi.hateblo.jp/entry/2026/03/08/115051",
+          "publishedOn": "2026-03-08T02:50:51.000Z",
+          "wordCount": 376,
+          "title": "色収差再び v1.1.0",
+          "enclosure": {
+            "url": "https://ogimage.blog.st-hatena.com/13208692334729894112/17179246901362223036/1772938251",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://ogimage.blog.st-hatena.com/13208692334729894112/17179246901362223036/1772938251"
+        },
+        {
           "id": "hatenablog://entry/17179246901357691042",
           "author": null,
           "description": "at.atarabi.com\nv1.0.1に更新した。\nBackground\n適用しているレイヤーのサイズと背Backgrondに指定したレイヤーのサイズが異なる時に、背景が中央に来ない問題を修正した。ここらへんは今後Transform周りを整備したい。\nパフォーマンス\nステップ数が大きい時やRepeat Edge Pixelsを適用した際のパフォーマンスが向上した(CPU処理時)。",
@@ -4277,16 +4292,6 @@
           "wordCount": 2207,
           "title": "某企画の思想がやばい本当の理由について。",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/5824bd32d10a652800ab7bcb1bb9b76ea7043751.png"
-        },
-        {
-          "id": "https://note.com/fourangle/n/nf250b561f3ed",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/fourangle/n/nf250b561f3ed",
-          "publishedOn": "2025-03-08T14:58:31.000Z",
-          "wordCount": 2353,
-          "title": "音EXPO韓国館、生配信の後書き",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/336130df4f50df5759f796aee1edcacd8a8cd3af.png"
         }
       ]
     },
