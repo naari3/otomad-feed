@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-14T02:58:57.066Z</updated>
+    <updated>2026-03-14T03:51:44.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -9878,32 +9878,6 @@ FPSが高い
         <updated>2025-03-16T14:59:01.000Z</updated>
         <summary type="html"><![CDATA[[ニュース速報(VIP)@5ch] ムネオハウスに行かないか？
 建物のムネオハウスに行こうじゃないか、という趣旨のスレッド。書き込み3件で終了。]]></summary>
-        <author>
-            <name>muneo house information</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ページビュー23年目記録]]></title>
-        <id>hatenablog://entry/6802418398337592764</id>
-        <link href="https://underdefinition.hatenadiary.jp/entry/20250314/p1"/>
-        <updated>2025-03-14T14:59:01.000Z</updated>
-        <summary type="html"><![CDATA[当サイト23周年。以下、旧ページトップ(http://www.remus.dti.ne.jp/~yomo/index.html)とはてなブログの月別PV。
- 旧ページはてなブログ
---トップUU旧ページからPV全体PV NEWS以外PVトップ
-2024年03月371501528820617
-2024年04月281861045137515
-2024年05月22193826514519
-2024年06月8130124718918
-2024年07月14138627021811
-2024年08月15151521016115
-2024年09月7129340534614
-2024年10月21162435931712
-2024年11月12161826221425
-2024年12月13113722317621
-2025年01月17871024021213
-2025年02月8101825923617
- * Google Analytics調べ
-御本人さんは7月末～8月頭でロシア訪問していましたがこちらには無風でした。9月～10月は衆院選で自民党北海道連と新党大地が選挙協力を結んだ関係で露出が増えていました。]]></summary>
         <author>
             <name>muneo house information</name>
         </author>
