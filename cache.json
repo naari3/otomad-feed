@@ -2302,21 +2302,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/bd24a731c3a61b2196ab076b4b7d3927eca49e96/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fwww.city.uwajima.ehime.jp%2Fuploaded%2Fimage%2F32647.jpg"
-        },
-        {
-          "id": "hatenablog://entry/6802418398337593318",
-          "author": null,
-          "description": "[ニュース速報(VIP)@5ch] ムネオハウスに行かないか？\n建物のムネオハウスに行こうじゃないか、という趣旨のスレッド。書き込み3件で終了。",
-          "link": "https://underdefinition.hatenadiary.jp/entry/20250316/p1",
-          "publishedOn": "2025-03-16T14:59:01.000Z",
-          "wordCount": 925,
-          "title": "ムネオハウスに行かないか？@ニュース速報(VIP)",
-          "enclosure": {
-            "url": "https://ogimage.blog.st-hatena.com/12704591929884590995/6802418398337593318/1749036870",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://ogimage.blog.st-hatena.com/12704591929884590995/6802418398337593318/1749036870"
         }
       ]
     },
