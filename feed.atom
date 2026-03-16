@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-16T11:20:56.935Z</updated>
+    <updated>2026-03-16T12:20:31.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[温かみ信仰]]></title>
+        <id>https://note.com/calpisco/n/n745c5d5dacc6</id>
+        <link href="https://note.com/calpisco/n/n745c5d5dacc6"/>
+        <updated>2026-03-16T12:05:48.000Z</updated>
+        <summary type="html"><![CDATA[よくネタにされるけど
+もっと効率化出来るような物をあえて人が手を加える事で
+温かみが発生するという理屈。
+それをしていない場合
+『温かみが足りない』
+と返すネタの奴。
+これ、僕も温かみアンチなんでネタにしてたんですけど
+ここ数年、AIが凄い一般的になったじゃないですか。
+結構デジタルな物であればAIに頼んじゃえば良くなったじゃないですか。
+（3Dプリンタとかちゃんと知識あってロボットみたいなの作れるのであればアナログも行けそう）
+で、その結果プログラミングにおいても
+AIに頼んじゃえば簡単にコード出来るようになったじゃないですか。
+続きをみる]]></summary>
+        <author>
+            <name>calpisco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モンドセレクション受賞]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1404.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1404.html"/>
+        <updated>2026-03-16T11:35:50.000Z</updated>
+        <summary type="html"><![CDATA[気づいたらイベント終了直前だったので駆け込みでやってきましたゲーム最序盤の再現だったり過去イベのネタが盛り沢山だったりでとても懐かしくエモいイベントだったトワリン戦とかやったのいつぶりよ？やはりモンドは実家のような安心感がある  というか原神自体故郷みたいな良さがあり酔っ払ったエウルアも見られてホクホクですよバーテンダーになるやつガチ好き  こういうキャラと交流するのんびりイベントZZZにもいっぱい欲し]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年3月-2】ぽこあ Spire 2]]></title>
         <id>hatenablog://entry/17179246901364235227</id>
