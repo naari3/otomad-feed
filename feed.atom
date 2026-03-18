@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-18T11:19:37.947Z</updated>
+    <updated>2026-03-18T12:20:07.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026/03/18]]></title>
+        <id>https://note.com/tojiru/n/nb59bbdb2a7ad</id>
+        <link href="https://note.com/tojiru/n/nb59bbdb2a7ad"/>
+        <updated>2026-03-18T11:21:58.000Z</updated>
+        <summary type="html"><![CDATA[朝ごはん作るのめんどくてコーンフレーク食べようとしたら牛乳が切れていた
+ので買いに行くことにした
+続きをみる]]></summary>
+        <author>
+            <name>とじーら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基本的に、著作権で理論武装しないでAIの議論したほうがいいよね]]></title>
         <id>https://anond.hatelabo.jp/20260317222453</id>
