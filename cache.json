@@ -2079,6 +2079,21 @@
       "siteUrl": "https://underdefinition.hatenadiary.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/17179246901367052561",
+          "author": null,
+          "description": "宇和島で桜開花　昨年より４日早く｜愛媛新聞ONLINE\n本日、宇和島市から開花宣言が出ました。今年の最速は独自観測では宿毛(3/15)、気象庁観測では高知、岐阜、甲府(3/16)でした。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20260319/Someiyoshino",
+          "publishedOn": "2026-03-19T14:59:00.000Z",
+          "wordCount": 922,
+          "title": "宇和島でソメイヨシノが開花",
+          "enclosure": {
+            "url": "https://cdn.image.st-hatena.com/image/scale/5878246cd62533c6784ad1f984d0b4f73baa2a43/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fwww.city.uwajima.ehime.jp%2Fuploaded%2Fimage%2F35624.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/5878246cd62533c6784ad1f984d0b4f73baa2a43/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fwww.city.uwajima.ehime.jp%2Fuploaded%2Fimage%2F35624.jpg"
+        },
+        {
           "id": "hatenablog://entry/17179246901364199973",
           "author": null,
           "description": "誰の発案なんだ…　鈴木宗男氏、YouTubeチャンネル「ムネオハウス」開設 (週刊アスキー)\n78歳・鈴木宗男氏、YouTube「ムネオハウス」開設　ネーミングに反響相次ぐ「センス最高」「最初のゲストは辻元さんで…」  (ORICON NEWS)\n鈴木宗男議員78歳でYouTubeデビュー＿チャンネル名は『ムネオハウス』第1回配信では\"逮捕・拘留・胃がん\"乗り越えた半生と、高市政権への姿勢を語る (北海道ニュースUHB)\nちなみにチャンネル名の「ムネオハウス」は北方領土の国後島に建設された「友好の家」の俗称で、様々な疑惑が報道された当時、国会で取り上げられたり、ネット民の間で、テクノ音楽をミックスしたパロディ動画が流行ったりした経緯があり、その名称を逆手にとった形です。\n鈴木宗男氏がYouTube「ムネオハウス」始動　まさかのチャンネル名にSNS衝撃、本人は「わかりやすい」 (J-CAST ニュース)\nチャンネル名に本人言及「分かりやすいです」\nSNSでは、チャンネル名の「ムネオハウス」に注目する声も。ムネオハウスとは、北方領土・国後島に建設された宿泊施設「友好の家」の通称だ。利権疑惑がかけられ世間的に注目を集めた一方、インターネット上では、鈴木氏の発言をテクノミュージックなどに合わせた動画が数多く制作され、当時の一大ミームとなった。\nこのように、ネットの話題の方にも触れる報道が一部ありました。",
@@ -4483,6 +4498,16 @@
       "feedUrl": "https://note.com/kokeshi_short/rss",
       "siteUrl": "https://note.com/kokeshi_short",
       "articles": [
+        {
+          "id": "https://note.com/kokeshi_short/n/nf3b8cc6c043c",
+          "author": null,
+          "description": "待ってちょ\n続きをみる",
+          "link": "https://note.com/kokeshi_short/n/nf3b8cc6c043c",
+          "publishedOn": "2026-03-19T23:12:25.000Z",
+          "wordCount": 2265,
+          "title": "むずかった―",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/0f9bb906add0c84e640695cfa4d10e8e551273bc.png"
+        },
         {
           "id": "https://note.com/kokeshi_short/n/n02c5834ac5ed",
           "author": null,

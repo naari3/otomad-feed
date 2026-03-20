@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-19T23:09:41.163Z</updated>
+    <updated>2026-03-20T00:29:04.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[むずかった―]]></title>
+        <id>https://note.com/kokeshi_short/n/nf3b8cc6c043c</id>
+        <link href="https://note.com/kokeshi_short/n/nf3b8cc6c043c"/>
+        <updated>2026-03-19T23:12:25.000Z</updated>
+        <summary type="html"><![CDATA[待ってちょ
+続きをみる]]></summary>
+        <author>
+            <name>こけし</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年3月-3】狼]]></title>
         <id>hatenablog://entry/17179246901367034099</id>
@@ -48,6 +59,17 @@ www.nicovideo.jp
 じゃ！]]></summary>
         <author>
             <name>なんて巨大なカニゴット</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇和島でソメイヨシノが開花]]></title>
+        <id>hatenablog://entry/17179246901367052561</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20260319/Someiyoshino"/>
+        <updated>2026-03-19T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[宇和島で桜開花　昨年より４日早く｜愛媛新聞ONLINE
+本日、宇和島市から開花宣言が出ました。今年の最速は独自観測では宿毛(3/15)、気象庁観測では高知、岐阜、甲府(3/16)でした。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
