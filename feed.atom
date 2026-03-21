@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-21T03:47:48.173Z</updated>
+    <updated>2026-03-21T04:34:18.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[雑念]]></title>
+        <id>https://note.com/fourangle/n/nf8054e42d579</id>
+        <link href="https://note.com/fourangle/n/nf8054e42d579"/>
+        <updated>2026-03-21T04:26:19.000Z</updated>
+        <summary type="html"><![CDATA[①
+ひとまず落ち着いたそうで書くけど例の記事は最悪だった。流行ってるものも内輪回りも嫌い、一部の動画だけを引っ張ってこんなのイジメであってFAって言ってはいけない、映像や音声の技術も実用性がない、主張の一貫性も一切なく、界隈文化が「化物みたい」とか個人の感想を並べてるだけ。そいでワイは大人として言っていてるので大人しく反論しない奴がなんたらかんたら。大人の定義を知り直した方がいいんじゃないかな。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好きを追求した結果嫌いが浮き彫りになっちゃった]]></title>
         <id>https://note.com/26435/n/n7b93f78a6c3e</id>
