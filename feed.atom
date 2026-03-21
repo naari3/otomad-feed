@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-21T07:15:53.153Z</updated>
+    <updated>2026-03-21T08:09:28.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026/3/20　事件簿]]></title>
+        <id>https://note.com/tojiru/n/nd19957b59fbb</id>
+        <link href="https://note.com/tojiru/n/nd19957b59fbb"/>
+        <updated>2026-03-21T07:22:20.000Z</updated>
+        <summary type="html"><![CDATA[概要
+とじーら・ますとも・なんこ・更地がスパワールドに遊びに行く会
+続きをみる]]></summary>
+        <author>
+            <name>とじーら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雑念]]></title>
         <id>https://note.com/fourangle/n/nf8054e42d579</id>
