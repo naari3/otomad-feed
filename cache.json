@@ -4264,7 +4264,18 @@
       "title": "フラヂル",
       "feedUrl": "https://note.com/furadiru_99/rss",
       "siteUrl": "https://note.com/furadiru_99",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/furadiru_99/n/nc9b0d8c81412",
+          "author": null,
+          "description": "Gmailのエイリアス機能 | 作り方と設定のコツ（スマホ・PC） | それ、やっときました。　←参考にしてね\n\nGmailの左側サイドメニュー　ラベルの管理＞アカウントとインポート＞他のメールアドレスを追加　をクリック\n小窓が表示されるので、メールアドレスの欄にGmailのエイリアスを入力\n※『エイリアスとして扱います』にはチェックを入れない　\n→次のステップ　を押す\n\nGmailのエイリアス機能 | 作り方と設定のコツ（スマホ・PC） | それ、やっときました。\n続きをみる",
+          "link": "https://note.com/furadiru_99/n/nc9b0d8c81412",
+          "publishedOn": "2026-03-23T21:45:34.000Z",
+          "wordCount": 2374,
+          "title": "Gmailのエイリアスでニコニコのサブ垢を作る方法",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/261618336/rectangle_large_type_2_54ad13e60d56e5dc1848a23492040d21.png?width=800"
+        }
+      ]
     },
     {
       "title": "なー",
