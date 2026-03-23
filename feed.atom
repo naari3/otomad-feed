@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-23T09:25:23.362Z</updated>
+    <updated>2026-03-23T10:24:04.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いざぁ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1405.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1405.html"/>
+        <updated>2026-03-23T09:53:17.000Z</updated>
+        <summary type="html"><![CDATA[もう結構前の話になるけど学園11周年イベントで念願のイザーリンちゃんをGETしてました誕生日にガチャ来なかったからもう1年復刻待ちを覚悟してたけど、キャラ交換チケットもらえて本当に助かったかわA～～～博士ほんとかわいい  かわいいから最近ずっと周回で使ってます  声もいい得意武器が設置だからおもくそラニアットと被ってるんだけど、そこは人形持たせて差別化人形とかいう武器雑に強い  何もしなくても勝手に飛んでいく]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter10]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n7c21bc7defb1</id>
