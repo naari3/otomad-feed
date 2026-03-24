@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-24T03:02:58.350Z</updated>
+    <updated>2026-03-24T04:39:41.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -9936,19 +9936,6 @@ youtu.be
 どこかのタイミングで友人に買ってもらった Raspberry pi 4 model b が残ってたので、そいつに PX-Q1UD を繋げて録画鯖を立てた。むかーーーーーしこういった構成を立てていた時期と比べると、インターネット上の情報が整備されておりとても簡単に録画鯖が立てられるようだった。なんと docker-compose.yaml として転がっているので、USBで色々繋げておけばコマンド一発で全環境が整備される。チューニングの余地とかはめちゃくちゃあるのだけど、もはや2chの過去ログから謎の用語の正体を探す必要はなくなっ…]]></summary>
         <author>
             <name>名有りさんの日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エルミナス　大型アップデートのお知らせ]]></title>
-        <id>https://note.com/elminus/n/na6b146f86713</id>
-        <link href="https://note.com/elminus/n/na6b146f86713"/>
-        <updated>2025-03-24T15:02:13.000Z</updated>
-        <summary type="html"><![CDATA[以下の動画に対し修正を行いました。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>エルミナス</name>
         </author>
     </entry>
     <entry>
