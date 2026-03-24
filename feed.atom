@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-24T15:27:49.717Z</updated>
+    <updated>2026-03-24T16:25:54.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -9920,22 +9920,6 @@ youtu.be
 続きをみる]]></summary>
         <author>
             <name>えびです</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20250325]]></title>
-        <id>hatenablog://entry/6802418398339249863</id>
-        <link href="https://naari.hatenablog.com/entry/2025/03/25/124329"/>
-        <updated>2025-03-25T03:43:29.000Z</updated>
-        <summary type="html"><![CDATA[20250325
-唐突に書きたくなる！雑多に色々！
-書きたい話題とかたくさんあって、実際に下書きは増えてきているのだけど書き切ることが少なくなってきた！なんでだろう？根本としては単に自分の熱の移ろいだとは思うのだけど、その後ろ盾はたくさんありそう。まあ純粋に仕事も趣味も忙しい。ナートロ３があるのに、仕事が過去最高に忙しくて正直デスマーチというところ。やばい。助けてくれ！！！！
-エレウィザも、そもそも誘われていたというのも含めてとても行きたいイベントだったんだよな。チケットまで買ってあったのに結局行けず、家で作業しているだけだった。その作業も結局ウニャウニャ言ってるだけで何も進まなかったし…
-忙しさにかまけて部屋の掃除がまったくできておらず、机の上も床もすごくゴミだらけになってきた！！！誰かが家にくるような、なんらかのきっかけで掃除をしはじめたりはできるのだけど、そういうのもなく普段から部屋を綺麗にしている人はどういった理由でそれを維持できているのか教えてほしい。それが今年、ないしは来年のなありの目標となるだろう。
-昨年末あたりにわんだふるぷりきゅあ！*1を見ていたのだけど、その時にリアタイするために数年ぶりに家でテレビを見る環境を整える必要があった。
-どこかのタイミングで友人に買ってもらった Raspberry pi 4 model b が残ってたので、そいつに PX-Q1UD を繋げて録画鯖を立てた。むかーーーーーしこういった構成を立てていた時期と比べると、インターネット上の情報が整備されておりとても簡単に録画鯖が立てられるようだった。なんと docker-compose.yaml として転がっているので、USBで色々繋げておけばコマンド一発で全環境が整備される。チューニングの余地とかはめちゃくちゃあるのだけど、もはや2chの過去ログから謎の用語の正体を探す必要はなくなっ…]]></summary>
-        <author>
-            <name>名有りさんの日記</name>
         </author>
     </entry>
     <entry>
