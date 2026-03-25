@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-24T23:10:27.658Z</updated>
+    <updated>2026-03-25T00:30:17.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[この世界の不完全性について]]></title>
+        <id>https://note.com/togexys/n/n624becff021c</id>
+        <link href="https://note.com/togexys/n/n624becff021c"/>
+        <updated>2026-03-24T23:38:50.000Z</updated>
+        <summary type="html"><![CDATA[僕は大学院博士課程中退までの24年間、理想的な世界に生きてきた。
+生誕時から本当にありえない問題児だったが、紆余曲折ありつつ大学院前期課程まで修了した（させてもらえた）。
+普通の企業に入り、給料をもらって生活している。
+シュレディンガー方程式は、量子力学で最初に学ぶ微分方程式として有名だ。解析力学から発展し、原子の周りを回る電子の考察における謎を一部解決した。さらに、これが特殊相対論を満たすように拡張した、ディラック方程式もマクスウェル方程式とものもある。しかし、あくまで実験結果と『よく』一致するだけであり、それらは100%この世界を表現しているわけではない。
+逆に言えば、世界を完璧に表現する物理法則を見つけることは物理学者、ひいては人類の悲願でもあるわけだ。
+この1年間、僕の世界は理論（理想）から実験（理想）へ拡張された。例えるなら、僕の2025年度は、約100年前（1925年）の量子力学黎明期だった。
+さまざまなことを学び・この世界を肌で感じた。
+言動にはまだ現れていないかもしれないが、大きく成長した年だったと思う。
+続きをみる]]></summary>
+        <author>
+            <name>とげ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gmailのエイリアスでニコニコのサブ垢を作る方法]]></title>
         <id>https://note.com/furadiru_99/n/nc9b0d8c81412</id>
