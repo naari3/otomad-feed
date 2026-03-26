@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-26T22:08:09.338Z</updated>
+    <updated>2026-03-26T23:09:16.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ポケモンPt】ポケトレ色違い日記：クラブ編]]></title>
+        <id>hatenablog://entry/17179246901365642356</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2026/03/27/071635"/>
+        <updated>2026-03-26T22:16:35.000Z</updated>
+        <summary type="html"><![CDATA[結構前のことだけど、更新忘れてたので。
+ 
+
+場所：225番道路
+捕まえた数：7匹
+ 
+
+雑感：
+草むらがとにかく大きくて、捕獲ボーナスが活きやすくてとても良かった。
+いい加減ツチニンを記録から消したくてたくさん捕まえた。
+クラブだから欲しがる人も居るかな… と思って。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[逃げ癖]]></title>
         <id>https://note.com/ecolidelvsvc11/n/ndee6d3704d48</id>
