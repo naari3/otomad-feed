@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-28T14:13:04.608Z</updated>
+    <updated>2026-03-28T15:10:27.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter11]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n8eaa03bf39e7</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n8eaa03bf39e7"/>
+        <updated>2026-03-28T14:13:06.000Z</updated>
+        <summary type="html"><![CDATA[音MAD界隈ってすげーところだよな。
+普通に生きてたら絶対関わらない様なヤバいクリエイター達とほんの一瞬だけでも関わる事が出来るんだから。
+
+続きをみる]]></summary>
+        <author>
+            <name>ティラノサウルスのぼんじり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年3月-4】怒りの花粉症編]]></title>
         <id>hatenablog://entry/17179246901369578298</id>
