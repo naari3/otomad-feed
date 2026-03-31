@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-03-31T16:25:08.248Z</updated>
+    <updated>2026-03-31T17:23:22.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260331 親父コア]]></title>
+        <id>https://note.com/banfuture9/n/n21fd3553a678</id>
+        <link href="https://note.com/banfuture9/n/n21fd3553a678"/>
+        <updated>2026-03-31T16:24:35.000Z</updated>
+        <summary type="html"><![CDATA[・親父コアから10年。1時さんとまた合作で追加バージョンを作成。重めのリメイクではなく、わりとカラッとした、節目で追加きたらアツいなというくらいのトーンでやったので、気負いすぎることもなく楽しめて良かった。
+・親父コアは高1の冬休み〜春休みで作った。投稿2年目であの音声が作れたのは他人事のようにすごいと思う。あの動画だけ、たまたま、全部が噛み合ったのだと思う。自分の編集力というより、運が良かったみたいなイメージ。ただその運を掴むだけのラーメン屋の親父シリーズに対する気持ちはあったということでしょう。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近14]]></title>
         <id>https://note.com/ecolidelvsvc11/n/nfcf2a012c5f9</id>
