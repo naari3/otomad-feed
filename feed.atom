@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-04-01T05:00:32.680Z</updated>
+    <updated>2026-04-01T05:46:52.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -9870,18 +9870,6 @@ Switchはどちらかというと、
         <summary type="html"><![CDATA[つまるところ声のパ...]]></summary>
         <author>
             <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發兄弟は不仲なのか]]></title>
-        <id>https://note.com/dou_akagane_cu/n/n71197fd5170c</id>
-        <link href="https://note.com/dou_akagane_cu/n/n71197fd5170c"/>
-        <updated>2025-04-01T17:35:05.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、あかがねです。
-皆さんはヒカキンとセイキンをご存知でしょうか？
-続きをみる]]></summary>
-        <author>
-            <name>あかがね</name>
         </author>
     </entry>
     <entry>
