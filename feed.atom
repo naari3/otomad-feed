@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-04-05T13:26:26.476Z</updated>
+    <updated>2026-04-05T14:14:03.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260405]]></title>
+        <id>https://note.com/banfuture9/n/n0dff0e80eb5b</id>
+        <link href="https://note.com/banfuture9/n/n0dff0e80eb5b"/>
+        <updated>2026-04-05T13:43:22.000Z</updated>
+        <summary type="html"><![CDATA[・部屋が片付いた。ケーブルの整理が大変。
+・今までは棚と机が足りなかった。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nikki_20260404]]></title>
         <id>hatenablog://entry/17179246901372925930</id>
