@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-04-22T13:35:30.880Z</updated>
+    <updated>2026-04-22T14:36:35.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260422]]></title>
+        <id>https://note.com/banfuture9/n/n1a25d210fab3</id>
+        <link href="https://note.com/banfuture9/n/n1a25d210fab3"/>
+        <updated>2026-04-22T14:27:47.000Z</updated>
+        <summary type="html"><![CDATA[・日記って書きたくなさすぎてウケる。人のを読むのは楽しいけどね。
+・YouTubeのおすすめ欄に古畑任三郎の津川雅彦回が出てきて、画質が悪かったのでニコニコに上がってる画質良い方を見た。いまは無断アップロードで見てるけどおれは古畑任三郎のことが好きだな。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ななどおわっちゃうよ～]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1409.html</id>
