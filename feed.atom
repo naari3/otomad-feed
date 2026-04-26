@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-04-26T08:30:10.633Z</updated>
+    <updated>2026-04-26T09:23:15.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter14]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n310fc56ce8ca</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n310fc56ce8ca"/>
+        <updated>2026-04-26T09:13:08.000Z</updated>
+        <summary type="html"><![CDATA[皆勤手当とかいう実質「欠勤したら罰金」のシステム、ガチでキショい。
+
+続きをみる]]></summary>
+        <author>
+            <name>ティラノサウルスのぼんじり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[青森一人旅の余談]]></title>
         <id>hatenablog://entry/17179246901380405987</id>
