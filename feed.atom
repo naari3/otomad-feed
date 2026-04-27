@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-04-27T11:35:29.060Z</updated>
+    <updated>2026-04-27T12:36:46.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブルブルブルブルアイアイブルベリアイ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1410.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1410.html"/>
+        <updated>2026-04-27T12:28:43.000Z</updated>
+        <summary type="html"><![CDATA[天神山オトギさんに一目惚れしてブルアカをはじめた絆ストーリーしか読んでないからどういう立場で何をしている人なのかはあんまり分からないんだけど、とにかく可愛いキャラデザも人柄も好きすぎるこんなSSR級に素敵なJKが配布というのでついインスコしてしまったんだけどまあよくあるソシャゲだからゲームって感じでもないし、ストーリーが気になるワケでもないし･･･柴関ラーメンが唐突に爆破されるシーンより面白いトコがあるな]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【制作後記】”キルミーに駆ける”の振り返りとかいろいろ]]></title>
         <id>https://note.com/inaho_inadumi/n/n6a361e864a49</id>
