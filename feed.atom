@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-03T13:32:52.953Z</updated>
+    <updated>2026-05-03T14:21:45.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コサンジさんのよく使うカスタム君のdiscordスタンプの使い分けが発覚]]></title>
+        <id>https://note.com/1oclock/n/n9ba930baf224</id>
+        <link href="https://note.com/1oclock/n/n9ba930baf224"/>
+        <updated>2026-05-03T14:08:02.000Z</updated>
+        <summary type="html"><![CDATA[2026年に入って初の衝撃です
+喜び
+続きをみる]]></summary>
+        <author>
+            <name>1時</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter15]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n1cf13f4df496</id>
