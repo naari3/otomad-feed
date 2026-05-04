@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-04T11:36:39.763Z</updated>
+    <updated>2026-05-04T12:38:48.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自分の良く無い所と良く無い所が混ざって何もしない人になっている]]></title>
+        <id>https://note.com/calpisco/n/nefded4ca7283</id>
+        <link href="https://note.com/calpisco/n/nefded4ca7283"/>
+        <updated>2026-05-04T12:24:33.000Z</updated>
+        <summary type="html"><![CDATA[calpiscoです。
+最近配信を全くしなくなりました。
+理由は「面倒くさいから」。
+続きをみる]]></summary>
+        <author>
+            <name>calpisco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オグリとグラ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1411.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1411.html"/>
+        <updated>2026-05-04T11:32:51.000Z</updated>
+        <summary type="html"><![CDATA[さいきん身内でWarframeやる流れがきてるのでちょこちょこ遊んでおります知らんうちにOGRISにかっこいいスキンが実装されていた  どうやらアンリアルトーナメントのスキンらしいけどキーボードクラッシャーがやってた事とﾓﾓﾓﾓﾝｽﾀｰｷﾙしか知らないてなわけでKUVA OGRISをゲトって遊んでるんですがこの武器やばいわよKelaババアが持ってるナパームMOD挿してばら撒くぞこの野郎！すると敵さんが燃える燃えるというか当てた時点でだいた]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コサンジさんのよく使うカスタム君のdiscordスタンプの使い分けが発覚]]></title>
         <id>https://note.com/1oclock/n/n9ba930baf224</id>
