@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-04T14:47:50.697Z</updated>
+    <updated>2026-05-04T15:42:50.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1年分]]></title>
+        <id>https://note.com/qreg/n/nf51dca66c090</id>
+        <link href="https://note.com/qreg/n/nf51dca66c090"/>
+        <updated>2026-05-04T15:00:25.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは
+ここ1年で投稿した動画を見ていろいろを言います
+続きをみる]]></summary>
+        <author>
+            <name>くれがしら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自分の良く無い所と良く無い所が混ざって何もしない人になっている]]></title>
         <id>https://note.com/calpisco/n/nefded4ca7283</id>
