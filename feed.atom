@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-05T11:30:39.790Z</updated>
+    <updated>2026-05-05T12:29:42.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter16]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n31ff7d2a6c48</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n31ff7d2a6c48"/>
+        <updated>2026-05-05T11:48:54.000Z</updated>
+        <summary type="html"><![CDATA[氷の城壁5話、ええね。
+
+続きをみる]]></summary>
+        <author>
+            <name>ティラノサウルスのぼんじり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1年分]]></title>
         <id>https://note.com/qreg/n/nf51dca66c090</id>
