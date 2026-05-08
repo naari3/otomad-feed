@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-08T17:33:42.966Z</updated>
+    <updated>2026-05-08T18:33:28.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260509]]></title>
+        <id>https://note.com/banfuture9/n/nc8e396f4dbe2</id>
+        <link href="https://note.com/banfuture9/n/nc8e396f4dbe2"/>
+        <updated>2026-05-08T17:33:08.000Z</updated>
+        <summary type="html"><![CDATA[・もうやめた方がいいこと3選。
+・食べたら絶対に下痢になるチーズナンを味モクで頼まない。
+・安いという理由だけで3世代くらい前の裏技を使わないと使用できないハードウェアを使わない。
+・日中に家に帰ったらやろうと思うことは疲れてできないことが大半なので、そもそもやろうと思わない。
+・逆にやっていった方がいいこと1選。
+・いま意味がありそうかどうかは度外視してやったことが無ければ手を出してみる。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年5月-1】映画とかも観ます]]></title>
         <id>hatenablog://entry/17179246901384614032</id>
