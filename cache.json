@@ -1353,6 +1353,21 @@
       "siteUrl": "https://kaikityou.hatenablog.com/",
       "articles": [
         {
+          "id": "hatenablog://entry/17179246901386123546",
+          "author": null,
+          "description": "kaikityouは時々ソシャゲで音MADを作るんですが、その時にやってることの記事です。\n下書き記事のリサイクル。\n \n\n\n \n\n基本的にiPhone標準の画面録画機能を使って音声付きで動画を収録します。\n遊びながら「ここ面白いな」って思ったシーンを素材にすることが多いので、動画サイトから取ってきたりせず、自前で確保できる範囲内で完結することが多いです。\n素材把握の手間もかからないしね。\n \nで、録画してきた動画をPCに移して、音声ファイルと動画ファイルに変換します。\n自分はcraving explorerでwavにしてるんですが、もっといい方法がある気がします。\n\n音声の方はSoune Engine Freeで空白部分のカット等を行って使いやすくします。\nリンクラの場合は複数回使う可能性が高いので【キャラクター名】>【カード名】ごとにフォルダを作って、その中に上のように音声ファイルを入れています。\n \n\n映像の方も元ファイルから必要部分だけクリッピングし、x264でエンコードして専用のフォルダに入れます。\niPhoneの画面録画で収録した動画はそのまま使うと規格の関係で少し白飛びするので、エンコード時にはそれを防ぐためのオプションも入れてあげます。\n(白飛びした例 → では明日はウエライド：草です！ - ニコニコ動画)\n \n\nYUVについて超簡単に説明すると、動画を構成する色の情報をどうやって持っているかっていう話なんですけど、Apple製品の録画機能を使うと他とあんまり互換性が無い持ち方をしちゃうってことらしいですね。\nyuvj420pについての情報が全然出てこなかったんですけど、Apple製品同士だったら見え方に問題ないからいいでしょ？みたいな話なのかな。\n \nそんな訳なので、yuvj420p → yuv420p(一般的なYUVの規格)に変換してあげるオプションをエンコード時に指定してあげます。\n \n@echo off\n\nset rotation=\n\nif \"%2\"==\"L\" ( \n\techo 左回転\n\tset rotation=2\n) else if \"%2\"==\"R\" ( \n\techo 右回転\n\tset rotation=1\n) else if \"%2\"==\"N\" ( \n\techo 回転なし\n)\n\nif not \"%3\"==\"\" if not \"%4\"==\"\" (\n\tREM 時間指定がある場合\n\tif not \"%rotation%\"==\"\" (\n\t\tffmpeg -ss %3 -to %4 -i %1 -vf \"transpose=%rotation%\" -pix_fmt yuv420p \"【エンコ済み】%1\"\n\t) else (\n\t\tffmpeg -ss %3 -to %4 -i %1 -pix_fmt yuv420p \"【エンコ済み】%1\"\n\t)\n) else (\n\tREM 時間指定がない場合\n\tif not \"%rotation%\"==\"\" (\n\t\tffmpeg -i %1 -vf \"transpose=%rotation%\" -pix_fmt yuv420p \"【エンコ済み】%1\"\n\t) else (\n\t\tffmpeg -i %1 -pix_fmt yuv420p \"【エンコ済み】%1\"\n\t)\n)\n\n自分の場合は上のようなバッチファイルを作って、ちょっとだけ楽出来るようにしてます。\nYUV規格はyuv420pになるようにして、必要に応じて動画を回転させたり、必要な部分だけ切り取れるように時間指定できるようにしてます。\n多分もっといいコードにできると思うので、chatGPTとかgeminiに聞いてみてください。\n \nあとは普段通りに音MADを作るだけです。\n \n自分自身は特定のカードだけを素材にするようなミニマムな音MADばっかり作ってることもあると思うんですが、多分アイマス系とかブルアカみたいな素材共有が充実してそうなコンテンツでもこんな感じで自分で素材収録する方が性に合ってると思います。\nスターターみたいなもので配布された素材ってどんな台詞あるかとか把握できないので。このやり方だと収録時とエンコード結果の確認で最低二回は台詞を聴くので、だいたい覚えられます。\n \nちなみに「ぷよぷよ」の動画みたいに一回しか使わなさそうな場合は適当な雑多フォルダに放り投げてます。\nなんなら映像ファイルそのままREAPERにぶち込んで作った記憶ある。\n \nそんな感じです。何かの参考になれば。",
+          "link": "https://kaikityou.hatenablog.com/entry/2026/05/09/230257",
+          "publishedOn": "2026-05-09T14:02:57.000Z",
+          "wordCount": 610,
+          "title": "ソシャゲで音MADを作るときにやってること",
+          "enclosure": {
+            "url": "https://cdn.image.st-hatena.com/image/scale/63daa191fe32434a8cf170a5a83bbee886a47eb3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaikityou%2F20260509%2F20260509211209.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/63daa191fe32434a8cf170a5a83bbee886a47eb3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaikityou%2F20260509%2F20260509211209.png"
+        },
+        {
           "id": "hatenablog://entry/17179246901384843190",
           "author": null,
           "description": "メンタルが終わってる。\nぶっちゃけ一年ぐらいそうなんだけど、ここ最近は特にひどい。\n今日は帰宅後ベッドから起き上がれないまま、いのちの電話に電話をかけたりした。\nが、繋がらなかった。\n今は涙を流しながらとりあえず文字を打っている。\n \n最近はゼノブレイドをたくさんやってた。\nあと、ぷよが可愛い。\n \nここ数日は誰とも話してない。\n\n\n\n \n最近の色んな写真。\n戦争起きないかな。",

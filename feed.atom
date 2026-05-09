@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-09T13:33:03.206Z</updated>
+    <updated>2026-05-09T14:26:17.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソシャゲで音MADを作るときにやってること]]></title>
+        <id>hatenablog://entry/17179246901386123546</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2026/05/09/230257"/>
+        <updated>2026-05-09T14:02:57.000Z</updated>
+        <summary type="html"><![CDATA[kaikityouは時々ソシャゲで音MADを作るんですが、その時にやってることの記事です。
+下書き記事のリサイクル。
+ 
+
+
+ 
+
+基本的にiPhone標準の画面録画機能を使って音声付きで動画を収録します。
+遊びながら「ここ面白いな」って思ったシーンを素材にすることが多いので、動画サイトから取ってきたりせず、自前で確保できる範囲内で完結することが多いです。
+素材把握の手間もかからないしね。
+ 
+で、録画してきた動画をPCに移して、音声ファイルと動画ファイルに変換します。
+自分はcraving explorerでwavにしてるんですが、もっといい方法がある気がします。
+
+音声の方はSoune Engine Freeで空白部分のカット等を行って使いやすくします。
+リンクラの場合は複数回使う可能性が高いので【キャラクター名】>【カード名】ごとにフォルダを作って、その中に上のように音声ファイルを入れています。
+ 
+
+映像の方も元ファイルから必要部分だけクリッピングし、x264でエンコードして専用のフォルダに入れます。
+iPhoneの画面録画で収録した動画はそのまま使うと規格の関係で少し白飛びするので、エンコード時にはそれを防ぐためのオプションも入れてあげます。
+(白飛びした例 → では明日はウエライド：草です！ - ニコニコ動画)
+ 
+
+YUVについて超簡単に説明すると、動画を構成する色の情報をどうやって持っているかっていう話なんですけど、Apple製品の録画機能を使うと他とあんまり互換性が無い持ち方をしちゃうってことらしいですね。
+yuvj420pについての情報が全然出てこなかったんですけど、Apple製品同士だったら見え方に問題ないからいいでしょ？みたいな話なのかな。
+ 
+そんな訳なので、yuvj420p → yuv420p(一般的なYUVの規格)に変換してあげるオプションをエンコード時に指定してあげます。
+ 
+@echo off
+
+set rotation=
+
+if "%2"=="L" ( 
+	echo 左回転
+	set rotation=2
+) else if "%2"=="R" ( 
+	echo 右回転
+	set rotation=1
+) else if "%2"=="N" ( 
+	echo 回転なし
+)
+
+if not "%3"=="" if not "%4"=="" (
+	REM 時間指定がある場合
+	if not "%rotation%"=="" (
+		ffmpeg -ss %3 -to %4 -i %1 -vf "transpose=%rotation%" -pix_fmt yuv420p "【エンコ済み】%1"
+	) else (
+		ffmpeg -ss %3 -to %4 -i %1 -pix_fmt yuv420p "【エンコ済み】%1"
+	)
+) else (
+	REM 時間指定がない場合
+	if not "%rotation%"=="" (
+		ffmpeg -i %1 -vf "transpose=%rotation%" -pix_fmt yuv420p "【エンコ済み】%1"
+	) else (
+		ffmpeg -i %1 -pix_fmt yuv420p "【エンコ済み】%1"
+	)
+)
+
+自分の場合は上のようなバッチファイルを作って、ちょっとだけ楽出来るようにしてます。
+YUV規格はyuv420pになるようにして、必要に応じて動画を回転させたり、必要な部分だけ切り取れるように時間指定できるようにしてます。
+多分もっといいコードにできると思うので、chatGPTとかgeminiに聞いてみてください。
+ 
+あとは普段通りに音MADを作るだけです。
+ 
+自分自身は特定のカードだけを素材にするようなミニマムな音MADばっかり作ってることもあると思うんですが、多分アイマス系とかブルアカみたいな素材共有が充実してそうなコンテンツでもこんな感じで自分で素材収録する方が性に合ってると思います。
+スターターみたいなもので配布された素材ってどんな台詞あるかとか把握できないので。このやり方だと収録時とエンコード結果の確認で最低二回は台詞を聴くので、だいたい覚えられます。
+ 
+ちなみに「ぷよぷよ」の動画みたいに一回しか使わなさそうな場合は適当な雑多フォルダに放り投げてます。
+なんなら映像ファイルそのままREAPERにぶち込んで作った記憶ある。
+ 
+そんな感じです。何かの参考になれば。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20260509]]></title>
         <id>https://note.com/banfuture9/n/nc8e396f4dbe2</id>

@@ -16,6 +16,98 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2026-05-09">2026-05-09</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://kaikityou.hatenablog.com/" target="_blank" rel="noopener">kaikityouの日記</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander" open>
+                <summary class="article-expander__title">ソシャゲで音MADを作るときにやってること</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://kaikityou.hatenablog.com/entry/2026/05/09/230257" target="_blank" rel="noopener">
+                  <div class="article-summary-box-inner">
+                    <span>kaikityouは時々ソシャゲで音MADを作るんですが、その時にやってることの記事です。
+下書き記事のリサイクル。
+ 
+
+
+ 
+
+基本的にiPhone標準の画面録画機能を使って音声付きで動画を収録します。
+遊びながら「ここ面白いな」って思ったシーンを素材にすることが多いので、動画サイトから取ってきたりせず、自前で確保できる範囲内で完結することが多いです。
+素材把握の手間もかからないしね。
+ 
+で、録画してきた動画をPCに移して、音声ファイルと動画ファイルに変換します。
+自分はcraving explorerでwavにしてるんですが、もっといい方法がある気がします。
+
+音声の方はSoune Engine Freeで空白部分のカット等を行って使いやすくします。
+リンクラの場合は複数回使う可能性が高いので【キャラクター名】&gt;【カード名】ごとにフォルダを作って、その中に上のように音声ファイルを入れています。
+ 
+
+映像の方も元ファイルから必要部分だけクリッピングし、x264でエンコードして専用のフォルダに入れます。
+iPhoneの画面録画で収録した動画はそのまま使うと規格の関係で少し白飛びするので、エンコード時にはそれを防ぐためのオプションも入れてあげます。
+(白飛びした例 → では明日はウエライド：草です！ - ニコニコ動画)
+ 
+
+YUVについて超簡単に説明すると、動画を構成する色の情報をどうやって持っているかっていう話なんですけど、Apple製品の録画機能を使うと他とあんまり互換性が無い持ち方をしちゃうってことらしいですね。
+yuvj420pについての情報が全然出てこなかったんですけど、Apple製品同士だったら見え方に問題ないからいいでしょ？みたいな話なのかな。
+ 
+そんな訳なので、yuvj420p → yuv420p(一般的なYUVの規格)に変換してあげるオプションをエンコード時に指定してあげます。
+ 
+@echo off
+
+set rotation&#x3D;
+
+if &quot;%2&quot;&#x3D;&#x3D;&quot;L&quot; ( 
+	echo 左回転
+	set rotation&#x3D;2
+) else if &quot;%2&quot;&#x3D;&#x3D;&quot;R&quot; ( 
+	echo 右回転
+	set rotation&#x3D;1
+) else if &quot;%2&quot;&#x3D;&#x3D;&quot;N&quot; ( 
+	echo 回転なし
+)
+
+if not &quot;%3&quot;&#x3D;&#x3D;&quot;&quot; if not &quot;%4&quot;&#x3D;&#x3D;&quot;&quot; (
+	REM 時間指定がある場合
+	if not &quot;%rotation%&quot;&#x3D;&#x3D;&quot;&quot; (
+		ffmpeg -ss %3 -to %4 -i %1 -vf &quot;transpose&#x3D;%rotation%&quot; -pix_fmt yuv420p &quot;【エンコ済み】%1&quot;
+	) else (
+		ffmpeg -ss %3 -to %4 -i %1 -pix_fmt yuv420p &quot;【エンコ済み】%1&quot;
+	)
+) else (
+	REM 時間指定がない場合
+	if not &quot;%rotation%&quot;&#x3D;&#x3D;&quot;&quot; (
+		ffmpeg -i %1 -vf &quot;transpose&#x3D;%rotation%&quot; -pix_fmt yuv420p &quot;【エンコ済み】%1&quot;
+	) else (
+		ffmpeg -i %1 -pix_fmt yuv420p &quot;【エンコ済み】%1&quot;
+	)
+)
+
+自分の場合は上のようなバッチファイルを作って、ちょっとだけ楽出来るようにしてます。
+YUV規格はyuv420pになるようにして、必要に応じて動画を回転させたり、必要な部分だけ切り取れるように時間指定できるようにしてます。
+多分もっといいコードにできると思うので、chatGPTとかgeminiに聞いてみてください。
+ 
+あとは普段通りに音MADを作るだけです。
+ 
+自分自身は特定のカードだけを素材にするようなミニマムな音MADばっかり作ってることもあると思うんですが、多分アイマス系とかブルアカみたいな素材共有が充実してそうなコンテンツでもこんな感じで自分で素材収録する方が性に合ってると思います。
+スターターみたいなもので配布された素材ってどんな台詞あるかとか把握できないので。このやり方だと収録時とエンコード結果の確認で最低二回は台詞を聴くので、だいたい覚えられます。
+ 
+ちなみに「ぷよぷよ」の動画みたいに一回しか使わなさそうな場合は適当な雑多フォルダに放り投げてます。
+なんなら映像ファイルそのままREAPERにぶち込んで作った記憶ある。
+ 
+そんな感じです。何かの参考になれば。</span>
+                  </div>
+                    <img src="https://cdn.image.st-hatena.com/image/scale/63daa191fe32434a8cf170a5a83bbee886a47eb3/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaikityou%2F20260509%2F20260509211209.png" class="card article-thumbnail" data-image />
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2026-05-08">2026-05-08</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -14838,7 +14930,7 @@ dblue Crasher
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2026-05-09T13:33:03.166Z">2026-05-09T13:33:03.166Z</time>
+    <time id="build-timestamp" datetime="2026-05-09T14:26:17.057Z">2026-05-09T14:26:17.057Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a></span>
   </footer>
   <script src="./index.js"></script>
