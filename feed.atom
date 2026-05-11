@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-11T13:03:59.592Z</updated>
+    <updated>2026-05-11T15:06:04.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Escaped]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1412.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1412.html"/>
+        <updated>2026-05-11T13:57:32.000Z</updated>
+        <summary type="html"><![CDATA[長らく放置していたタルコフのメインストーリーを終わらせてきましたベストエンディングのために全てのストーリータスクを終わらせ、テラグループの不正を暴く証拠を集めてMr.Kermanに協力あとはターミナルから脱出して全部終わりなんですがもちろんすんなり脱出してクリアといくハズもなくターミナルに着くなりScavの大群が攻め寄せ、テラグループの私兵部隊Black Divisionが証拠を回収するため迫ってくるという公式ドラマ同様の]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インターネットでの活動を縮小します]]></title>
         <id>https://note.com/zattosoundmad/n/n6b04690209f9</id>
