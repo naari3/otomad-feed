@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-12T14:59:38.111Z</updated>
+    <updated>2026-05-12T15:55:56.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter17]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n15f3f44f7351</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n15f3f44f7351"/>
+        <updated>2026-05-12T15:14:12.000Z</updated>
+        <summary type="html"><![CDATA[ここ数年の自分、自己顕示欲の強さに対して承認欲求が極めて弱い。
+自己顕示が完了した時点で、それに対する評価への興味がほぼ無くなるから、より多くの人に対して顕示する努力をしようと思えない。
+
+続きをみる]]></summary>
+        <author>
+            <name>ティラノサウルスのぼんじり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Escaped]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1412.html</id>
