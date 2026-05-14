@@ -4296,7 +4296,18 @@
       "title": "葉月味",
       "feedUrl": "https://note.com/hadkimi/rss",
       "siteUrl": "https://note.com/hadkimi",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/hadkimi/n/nb3df067adde1",
+          "author": null,
+          "description": "自分用メモ\n音声ファイルとかは多分貼らないです\nCramitって何\n続きをみる",
+          "link": "https://note.com/hadkimi/n/nb3df067adde1",
+          "publishedOn": "2026-05-14T19:00:21.000Z",
+          "wordCount": 2628,
+          "title": "[VST]Cramitの使い方備忘録",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/276151912/rectangle_large_type_2_b7cb97eb2d4bc6ade65336f8d4edecd0.jpeg?width=800"
+        }
+      ]
     },
     {
       "title": "ｱﾌﾞﾗゼ民",
