@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-14T14:55:06.460Z</updated>
+    <updated>2026-05-14T15:50:06.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【備忘録】VSTサンプラー「Vital」で使用したWavファイルの参照元を確認する方法]]></title>
+        <id>https://ytpmv.info/?p=2128</id>
+        <link href="https://ytpmv.info/vital-trouble-shooting-1/"/>
+        <updated>2026-05-14T14:08:11.000Z</updated>
+        <summary type="html"><![CDATA[作業中にハマったのでメモ 前提：VitalというVSTiがあります。サンプラーとしてWavファイルを読み込んでMIDIで鳴らすことができ、便利なものです。 このVitalで作業中に、「何の音源のWAVファイルを読み込ませ […]
+The post 【備忘録】VSTサンプラー「Vital」で使用したWavファイルの参照元を確認する方法 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter17]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n15f3f44f7351</id>

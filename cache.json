@@ -6837,6 +6837,16 @@
       "siteUrl": "https://ytpmv.info",
       "articles": [
         {
+          "id": "https://ytpmv.info/?p=2128",
+          "author": "maimai",
+          "description": "作業中にハマったのでメモ 前提：VitalというVSTiがあります。サンプラーとしてWavファイルを読み込んでMIDIで鳴らすことができ、便利なものです。 このVitalで作業中に、「何の音源のWAVファイルを読み込ませ […]\nThe post 【備忘録】VSTサンプラー「Vital」で使用したWavファイルの参照元を確認する方法 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/vital-trouble-shooting-1/",
+          "publishedOn": "2026-05-14T14:08:11.000Z",
+          "wordCount": 1214,
+          "title": "【備忘録】VSTサンプラー「Vital」で使用したWavファイルの参照元を確認する方法",
+          "imageUrl": null
+        },
+        {
           "id": "https://ytpmv.info/?p=2097",
           "author": "maimai",
           "description": "当記事はYTPMVアドベントカレンダー2025に参加しています。 YTPMVアドベントカレンダー2025 Advent Calendar 2025 – Adventar YTPMVに関するアドベントカレンダー […]\nThe post yt-dlpの使い方 first appeared on YTPMV.info.",
