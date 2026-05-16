@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-16T15:24:39.789Z</updated>
+    <updated>2026-05-16T16:22:00.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【備忘録】REAPERでコーデックに問題がある動画ファイルを読み込むと、アイテムの削除時フリーズする問題と、その解決法]]></title>
+        <id>https://ytpmv.info/?p=2134</id>
+        <link href="https://ytpmv.info/reaper-trouble-shooting-20260517/"/>
+        <updated>2026-05-16T16:17:49.000Z</updated>
+        <summary type="html"><![CDATA[作業中に詰まったので解決法を残しておきます。 起きた現象 REAPERにとあるファイルを読み込むと、アイテムの再結合や削除、テイクの削除等のアイテムの削除関連の操作が一切受け付けなくなる。実行しようとしてもREAPERが […]
+The post 【備忘録】REAPERでコーデックに問題がある動画ファイルを読み込むと、アイテムの削除時フリーズする問題と、その解決法 first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年5月-2】腰ヘコくん…]]></title>
         <id>hatenablog://entry/17179246901387941333</id>

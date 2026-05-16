@@ -6838,6 +6838,16 @@
       "siteUrl": "https://ytpmv.info",
       "articles": [
         {
+          "id": "https://ytpmv.info/?p=2134",
+          "author": "maimai",
+          "description": "作業中に詰まったので解決法を残しておきます。 起きた現象 REAPERにとあるファイルを読み込むと、アイテムの再結合や削除、テイクの削除等のアイテムの削除関連の操作が一切受け付けなくなる。実行しようとしてもREAPERが […]\nThe post 【備忘録】REAPERでコーデックに問題がある動画ファイルを読み込むと、アイテムの削除時フリーズする問題と、その解決法 first appeared on YTPMV.info.",
+          "link": "https://ytpmv.info/reaper-trouble-shooting-20260517/",
+          "publishedOn": "2026-05-16T16:17:49.000Z",
+          "wordCount": 1215,
+          "title": "【備忘録】REAPERでコーデックに問題がある動画ファイルを読み込むと、アイテムの削除時フリーズする問題と、その解決法",
+          "imageUrl": null
+        },
+        {
           "id": "https://ytpmv.info/?p=2128",
           "author": "maimai",
           "description": "作業中にハマったのでメモ 前提：VitalというVSTiがあります。サンプラーとしてWavファイルを読み込んでMIDIで鳴らすことができ、便利なものです。 このVitalで作業中に、「何の音源のWAVファイルを読み込ませ […]\nThe post 【備忘録】VSTサンプラー「Vital」で使用したWavファイルの参照元を確認する方法 first appeared on YTPMV.info.",
