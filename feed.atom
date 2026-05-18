@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-18T17:00:45.587Z</updated>
+    <updated>2026-05-18T17:47:37.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[がすとちゃんですの]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1413.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1413.html"/>
+        <updated>2026-05-18T15:37:11.000Z</updated>
+        <summary type="html"><![CDATA[なんか久しぶりにちゃんとマイクラしてる知らん内にがすとちゃんを育成して空を飛ぶゲームになってた飛びながら弓チクしたりクロスボウでロケット撃ち下ろしたり、マイクラとは思えん戦い方ができて楽しい空を支配した人類は無敵だネザー探索もこいつで飛べばいいしボートを吊り下げれば村人拉致も簡単にできちゃうまだやってないけどエンドシティ探しもがすとちゃん乗ってやればいいんじゃないだろうか鳴き声がきもいのが玉に瑕マ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【備忘録】REAPERでコーデックに問題がある動画ファイルを読み込むと、アイテムの削除時フリーズする問題と、その解決法]]></title>
         <id>https://ytpmv.info/?p=2134</id>
