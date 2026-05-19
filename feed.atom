@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-19T13:10:15.478Z</updated>
+    <updated>2026-05-19T15:08:04.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter18]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n621dae6eb001</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n621dae6eb001"/>
+        <updated>2026-05-19T14:30:42.000Z</updated>
+        <summary type="html"><![CDATA[NTEの主人公、鑑定士って呼ばれてるから一々脳裏にチュウしてくるジジイがチラつく。
+
+続きをみる]]></summary>
+        <author>
+            <name>ティラノサウルスのぼんじり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[がすとちゃんですの]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1413.html</id>
