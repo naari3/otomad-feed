@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-21T05:28:20.329Z</updated>
+    <updated>2026-05-21T07:22:08.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SMQ 解説]]></title>
+        <id>https://note.com/anzato/n/n47a6d10b9938</id>
+        <link href="https://note.com/anzato/n/n47a6d10b9938"/>
+        <updated>2026-05-21T06:16:50.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+https://x.com/Anzato10/status/2049141594234777946?s=20
+続きをみる]]></summary>
+        <author>
+            <name>餡砂糖</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter18]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n621dae6eb001</id>
@@ -9543,18 +9555,6 @@ youtu.be
 じゃ！]]></summary>
         <author>
             <name>なんて巨大なカニゴット</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日記]]></title>
-        <id>https://note.com/ebideath/n/nb2bfacdecd1d</id>
-        <link href="https://note.com/ebideath/n/nb2bfacdecd1d"/>
-        <updated>2025-05-21T18:47:34.000Z</updated>
-        <summary type="html"><![CDATA[おい！希望が持てたぞ！
-がんばるぞ！
-続きをみる]]></summary>
-        <author>
-            <name>えびです</name>
         </author>
     </entry>
     <entry>

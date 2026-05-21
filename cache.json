@@ -2373,6 +2373,16 @@
       "siteUrl": "https://note.com/anzato",
       "articles": [
         {
+          "id": "https://note.com/anzato/n/n47a6d10b9938",
+          "author": null,
+          "description": "はじめに\nhttps://x.com/Anzato10/status/2049141594234777946?s=20\n続きをみる",
+          "link": "https://note.com/anzato/n/n47a6d10b9938",
+          "publishedOn": "2026-05-21T06:16:50.000Z",
+          "wordCount": 2867,
+          "title": "SMQ 解説",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/270710569/rectangle_large_type_2_4d033daaee961a0597e8f96cf51d64cc.png?width=800"
+        },
+        {
           "id": "https://note.com/anzato/n/na20804dea6b7",
           "author": null,
           "description": "はじめに\n2025年に参加した謎解き公演の中で特に印象に残ったもの感想を書いていきます。\nあくまで参加したのが2025年のものを挙げているので、初演がそれ以前のものも含まれます。\n続きをみる",
@@ -3499,16 +3509,6 @@
           "wordCount": 2628,
           "title": "最近のマイベストを紹介する / 日記 2025-06-04",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/c483526fe3b9e67394a9bde3074a5926137f1731.png"
-        },
-        {
-          "id": "https://note.com/ebideath/n/nb2bfacdecd1d",
-          "author": null,
-          "description": "おい！希望が持てたぞ！\nがんばるぞ！\n続きをみる",
-          "link": "https://note.com/ebideath/n/nb2bfacdecd1d",
-          "publishedOn": "2025-05-21T18:47:34.000Z",
-          "wordCount": 2154,
-          "title": "日記",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/20c30dc176ba050cbf847ed09068806d100e996e.png"
         }
       ]
     },
