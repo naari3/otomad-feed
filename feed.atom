@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-23T12:24:36.466Z</updated>
+    <updated>2026-05-23T13:33:33.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いつかの日記]]></title>
+        <id>https://note.com/ebideath/n/n87458d950866</id>
+        <link href="https://note.com/ebideath/n/n87458d950866"/>
+        <updated>2026-05-23T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[みんな何を目的に生きてるんだろう、たぶんやりたいことがあって生きる理由とか考えなくても平気なんだと思う。熱中できること、それは仕事であったり、恋人と一緒にいたり、趣味だったり、なにか生きてる時間をささげてても不安にならないものがあるんだろう。今自分はこの生きてる時間をこんなふうに使っていていいのか不安でたまらない。でも、じゃあ仕事すれば不安はなくなるのか？違う。日々に達成感がないから焦る。それだけだと思う。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>えびです</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5月23日の日記]]></title>
         <id>https://note.com/nano_87g/n/n33874ade66b8</id>
