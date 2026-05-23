@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-23T11:28:38.189Z</updated>
+    <updated>2026-05-23T12:24:36.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5月23日の日記]]></title>
+        <id>https://note.com/nano_87g/n/n33874ade66b8</id>
+        <link href="https://note.com/nano_87g/n/n33874ade66b8"/>
+        <updated>2026-05-23T11:38:19.000Z</updated>
+        <summary type="html"><![CDATA[こんにちぃ！なのはなぐらむです！今日は午前中ずっと歩く機会があったので日記書きます！よろしくお願いします！
+画像をたくさーん貼ったので、家とかのWiFiがある場所で、ゆっっくり見てください！
+続きをみる]]></summary>
+        <author>
+            <name>なのはなぐらむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年5月-3】カニ星雲 すぐそこに！]]></title>
         <id>hatenablog://entry/17179246901388863351</id>
