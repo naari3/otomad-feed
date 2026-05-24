@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-24T13:34:07.169Z</updated>
+    <updated>2026-05-24T14:33:44.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5月24日の日記]]></title>
+        <id>https://note.com/nano_87g/n/ndd58b177fe8f</id>
+        <link href="https://note.com/nano_87g/n/ndd58b177fe8f"/>
+        <updated>2026-05-24T14:22:09.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは〜 なのはなぐらむと申します
+今日色んなことありました！そんな色んなことあった日の午前に取った写真群です！↓
+焦げの色に近付きすぎて遊戯王カードの裏っ側みたい
+続きをみる]]></summary>
+        <author>
+            <name>なのはなぐらむ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いつかの日記]]></title>
         <id>https://note.com/ebideath/n/n87458d950866</id>
