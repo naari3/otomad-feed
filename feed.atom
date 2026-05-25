@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-25T11:25:22.676Z</updated>
+    <updated>2026-05-25T13:13:57.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[G]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1414.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1414.html"/>
+        <updated>2026-05-25T12:38:01.000Z</updated>
+        <summary type="html"><![CDATA[セブンで売ってるG系ラーメンとかいうのを食いました二郎系がどういうもんか知らんので一回食ってみたいなと思ってなんかクソ多くて一食1500kcalあるとか聞いてたからまぁ食いきれないだろうなと思ってたけど、作ってみると量はそれほどでもない（多いけど）ただ脂と塩分がやばいんだろうね  ほとんど脂と塩分の味だったもんそりゃ美味いよ体に悪いモン大好きだからあっという間に食べちゃいました  大満足でも当分はいいかな……こ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5月24日の日記]]></title>
         <id>https://note.com/nano_87g/n/ndd58b177fe8f</id>
