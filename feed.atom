@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-30T14:34:45.214Z</updated>
+    <updated>2026-05-30T15:29:33.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter19]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n4207e8453c52</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n4207e8453c52"/>
+        <updated>2026-05-30T15:27:27.000Z</updated>
+        <summary type="html"><![CDATA[温泉とサウナに行きたい
+
+続きをみる]]></summary>
+        <author>
+            <name>ティラノサウルスのぼんじり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年5月-4】飲み干してみせろ、この熱気を]]></title>
         <id>hatenablog://entry/14945776032036068682</id>
