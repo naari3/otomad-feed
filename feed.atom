@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-05-31T11:34:48.167Z</updated>
+    <updated>2026-05-31T12:33:06.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音喜利の回答を100個考える]]></title>
+        <id>https://note.com/sweets_farting/n/nb2b21a490dad</id>
+        <link href="https://note.com/sweets_farting/n/nb2b21a490dad"/>
+        <updated>2026-05-31T11:47:28.000Z</updated>
+        <summary type="html"><![CDATA[参加し損ない損なったのでいっぱい考える
+お題
+続きをみる]]></summary>
+        <author>
+            <name>角煮サイダ一</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter19]]></title>
         <id>https://note.com/ecolidelvsvc11/n/n4207e8453c52</id>
