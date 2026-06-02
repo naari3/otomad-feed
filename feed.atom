@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-02T15:27:02.906Z</updated>
+    <updated>2026-06-02T17:36:18.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[作者個人の記念日を祝う合作が好きじゃない。]]></title>
+        <id>https://note.com/fourangle/n/na7035818d168</id>
+        <link href="https://note.com/fourangle/n/na7035818d168"/>
+        <updated>2026-06-02T16:34:10.000Z</updated>
+        <summary type="html"><![CDATA[文化の初めである英論合作まではそう否定的な目線だったわけではないが、どんどん作者の名前を合作に飾っていく文化が広まっているのが気に食わない。
+自分自身で祝うための個人作とか一人合作とかなら全然良いと思うけど、作者個人の誕生日やデビュー周年を祝う大型合作。内容はいわゆる内輪合作一色。
+続きをみる]]></summary>
+        <author>
+            <name>四角</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[砕氷船]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1415.html</id>
