@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-07T05:35:20.588Z</updated>
+    <updated>2026-06-07T07:28:12.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「わかりかねます......」：『少女☆歌劇 レヴュースタァライト』などの作品を十分楽しむための感性が不足している]]></title>
+        <id>https://note.com/binetsu0904/n/n6b39996e8cc1</id>
+        <link href="https://note.com/binetsu0904/n/n6b39996e8cc1"/>
+        <updated>2026-06-07T06:11:39.000Z</updated>
+        <summary type="html"><![CDATA[2021年に公開された『劇場版 少女☆歌劇 レヴュースタァライト』が当時、Twitterのタイムラインで「劇ス！」「劇スが～」と話題になっていたのを覚えています。
+それが5周年を記念してリバイバル上映されているので、初めて見てきました。
+2018年当時、TVシリーズ『少女☆歌劇 レヴュースタァライト』は見ていなかったので、3週間ほど前から少しずつTVシリーズと、総集編『ロンド・ロンド・ロンド』を見て準備をした上で見に行きました。
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[おまえらが高市早苗の音声素材でムネオハウス作らないのはなんでなの？@ニュース速報(嫌儲)]]></title>
         <id>hatenablog://entry/14945776032039400530</id>
