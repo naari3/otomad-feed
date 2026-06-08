@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-08T11:39:05.793Z</updated>
+    <updated>2026-06-08T13:31:51.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おつゆ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1416.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1416.html"/>
+        <updated>2026-06-08T13:20:24.000Z</updated>
+        <summary type="html"><![CDATA[梅雨になっちまったね  荒波です低気圧が露骨に体調へ来るタイプだからテンション下がりまくり片っ端からやりまくり頭痛くなったりはしないんだけど日がな一日眠くてこの前なんか18時間くらい寝てたよ冬眠ならぬ梅雨眠しよっかな砕氷船タスク、無事ぜんぶおわりました私は恋の難破船ニキータが制限時間10分延ばしてくれたおかげで僕でも結構安定してクリアできるようになり、高額アイテムやら高貫通弾やらをうまうまできる神マップ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「わかりかねます......」：『少女☆歌劇 レヴュースタァライト』などの作品を十分楽しむための感性が不足している]]></title>
         <id>https://note.com/binetsu0904/n/n6b39996e8cc1</id>
