@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-09T15:18:41.037Z</updated>
+    <updated>2026-06-09T16:57:16.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260609]]></title>
+        <id>https://note.com/banfuture9/n/n3881e2f36ff6</id>
+        <link href="https://note.com/banfuture9/n/n3881e2f36ff6"/>
+        <updated>2026-06-09T15:50:52.000Z</updated>
+        <summary type="html"><![CDATA[・仕事でミス増えてきた。まあこれが本来の僕であるな。
+・意識的に適当に仕事してるけど、まあいいだろもう。おれの人生だし。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[おつゆ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1416.html</id>
@@ -9561,17 +9573,6 @@ Steller Bladeがどういうゲームかと一言で言えば、
 続きをみる]]></summary>
         <author>
             <name>餡砂糖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ニンテンドーミュージアムを数倍楽しむ・うがった見方講座]]></title>
-        <id>https://note.com/nototote/n/nedc2a67cb9fe</id>
-        <link href="https://note.com/nototote/n/nedc2a67cb9fe"/>
-        <updated>2025-06-10T03:47:28.000Z</updated>
-        <summary type="html"><![CDATA[0. はじめに
-続きをみる]]></summary>
-        <author>
-            <name>とッくん@マリ●ペデ●ア管理人</name>
         </author>
     </entry>
     <entry>
