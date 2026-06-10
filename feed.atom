@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-10T15:08:24.878Z</updated>
+    <updated>2026-06-10T17:08:23.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260610]]></title>
+        <id>https://note.com/banfuture9/n/n88d1dbe90d99</id>
+        <link href="https://note.com/banfuture9/n/n88d1dbe90d99"/>
+        <updated>2026-06-10T15:54:29.000Z</updated>
+        <summary type="html"><![CDATA[・音MAD界隈っていつの時代でも謎のゴシップで盛り上がってる瞬間があってなんか常に若いよな。
+・音MADの歴史には数々の金字塔が打ち立てられ、それを作った人たちがほぼ全員消えても、同じかそれ以上に新しい人が入ってきて普通に作られ続けているのはすごい。簡単なのが良いのかな？それともこの先に衰退があるのだろうか。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20260609]]></title>
         <id>https://note.com/banfuture9/n/n3881e2f36ff6</id>
