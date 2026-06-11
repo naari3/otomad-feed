@@ -1139,21 +1139,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/5441c4ab49c7ab5d6a35a4cfe55d76c66f09e842/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FF%2FFEAR443243%2F20241224%2F20241224003743.jpg"
-        },
-        {
-          "id": "hatenablog://entry/6802418398465969500",
-          "author": null,
-          "description": "「エルデンリング ナイトレイン」をトロコンしました。\n所要時間は約35時間。\n最初はグラディウスに何連敗もしましたが、慣れてくると次第に攻略法などもわかってきて夜の王にも割と楽に勝てるようになってきました。\nまさしく「乗り越えてください」というフロムからのお言葉通りのゲームだったと言えます。\n大変面白かったです。\n \nただしこのゲームは、トロコンを目指し始めると「運ゲー」「しかもバグあり」でなかなか苦労させられます。\n \n本記事では、ゲーム開始からトロコンするまでに意識することをまとめておきます。\n \n\n    \n・トロコンチャート\n・各地変のトロフィーを取得しても油断するな\n・襲撃イベントは夜の王ごとに何が出るか決まっている\n・「夜の王を狩る者」\n・「英雄の道」\n・「古き封牢」\n \n \n・トロコンチャート\nまずはトロコンチャートにです。\n最効率は以下のような流れになるかと思います。\n \n※随時「満たされた聖杯」（聖杯瓶を最大まで集める）「練達者」（レベル最大）などの達成は目指す。\n \n1.グラディウスを倒す。\n※セーブデータをアップロードすると保険になる\n \n2.「火口」の地変を踏破しつつ、グノスター（虫）を倒す。\n \n3.「火口」の地変を踏破しつつ、エデレ（顎）を倒す。\n※このタイミングで「夜の王を狩る者」を取得するのが理想\n※ここで再び火口を踏破するのは、後述する保険のため\n※ここまでの間にレディ、復習者は開放しておきたい\n \n4.「山嶺」を踏破しつつカリゴ（霧の裂け目）を倒す。\nこれを、山嶺が出現している間まだ夜の王を倒したことのないキャラで行う。\n \n5.「山嶺」の地変が収まったら、まだ倒していない夜の王を倒す。\nおすすめはマリス（兆し）\n※4体倒した時点でラスボスが出現するが、まだ手を出さない\n \n6.5体目の夜の王を倒したタイミングで「腐れ森」の地変が発生する…",
-          "link": "https://fear443243.hatenablog.com/entry/2025/06/11/234721",
-          "publishedOn": "2025-06-11T14:47:21.000Z",
-          "wordCount": 390,
-          "title": "エルデンリング ナイトレイン トロコンチャート及び取得に関する諸注意",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/0063b2c09da69c25745dba47dabd7a97ca73a9d9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FF%2FFEAR443243%2F20250608%2F20250608122752.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/0063b2c09da69c25745dba47dabd7a97ca73a9d9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FF%2FFEAR443243%2F20250608%2F20250608122752.jpg"
         }
       ]
     },
@@ -2421,16 +2406,6 @@
           "wordCount": 2325,
           "title": "第11回謎晒しイベント「漢字」",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/208760138/rectangle_large_type_2_99a0dffafc344cf02e803eb9e27229c9.png?width=800"
-        },
-        {
-          "id": "https://note.com/anzato/n/n2340f04fef1c",
-          "author": null,
-          "description": "謎晒しイベントとは？\n謎晒しイベントとは謎解き交流Discordサーバー「atNAZO」にて行われるイベントです。テーマに沿った謎をみんなで制作し、その後面白かった謎にサーバーのメンバーが投票をします。\n続きをみる",
-          "link": "https://note.com/anzato/n/n2340f04fef1c",
-          "publishedOn": "2025-06-11T14:01:19.000Z",
-          "wordCount": 2406,
-          "title": "第10回謎晒しイベント「ネットミーム」結果発表",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/195569685/rectangle_large_type_2_85941b4f26c283ca0b20ae141977e946.png?width=800"
         }
       ]
     },
