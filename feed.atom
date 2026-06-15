@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-15T11:07:19.653Z</updated>
+    <updated>2026-06-15T14:10:54.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[すしくいてえ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1417.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1417.html"/>
+        <updated>2026-06-15T13:04:48.000Z</updated>
+        <summary type="html"><![CDATA[ほんまに低気圧勘弁してほしい今日もベッドで仰向けになってたら終わったよこの時期体だるおもすぎて肉より魚が食いたい今日このごろ夏になったらシイラが旬なのでお刺身でたべたいめうねえとか言ってたらゼンゼロスシローコラボくるんだってこりゃ行くしかないと思ったんだけどコラボ寿司が全部嫌いなネタで超ゲンナリしました肉はまあ食えるんだけど玉ねぎがやだ！！サーモンに玉ねぎ乗ってるやつとか定番だけど意味わかんないも]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年6月-2】]]></title>
         <id>hatenablog://entry/14945776032041079426</id>
