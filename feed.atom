@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-17T07:55:54.910Z</updated>
+    <updated>2026-06-17T09:42:51.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「コサンジさんのよく使うカスタム君のdiscordスタンプの使い分けが発覚」に関する補足]]></title>
+        <id>https://note.com/1oclock/n/nae2c359c7df4</id>
+        <link href="https://note.com/1oclock/n/nae2c359c7df4"/>
+        <updated>2026-06-17T09:41:34.000Z</updated>
+        <summary type="html"><![CDATA[https://note.com/1oclock/n/n9ba930baf224
+
+続きをみる]]></summary>
+        <author>
+            <name>1時</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パソコンでアニメが流れているときに思っていること一覧]]></title>
+        <id>https://note.com/1oclock/n/n2229b4d91051</id>
+        <link href="https://note.com/1oclock/n/n2229b4d91051"/>
+        <updated>2026-06-17T09:36:07.000Z</updated>
+        <summary type="html"><![CDATA[・オープニングの映像良すぎだろ
+・表情良すぎだろ
+・風景良すぎだろ
+続きをみる]]></summary>
+        <author>
+            <name>1時</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20260616]]></title>
         <id>https://note.com/banfuture9/n/ne25c52a2c2dc</id>
