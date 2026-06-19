@@ -1640,21 +1640,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/9562a908639d80645975ee2c16a08cccfda31e3d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FG3V7yjKa8AA9-er%3Fformat%3Djpg%26name%3Dlarge"
-        },
-        {
-          "id": "hatenablog://entry/6802418398481157069",
-          "author": null,
-          "description": "アイデンティティがここで一度完全に瓦解しちゃってるのも大きい。\nTwitterに載せるのもみっともないし、ここで書いた。けどすぐ非公開にしちゃうだろうな……",
-          "link": "https://lixy.hatenablog.com/entry/2025/06/20/%E3%81%82",
-          "publishedOn": "2025-06-19T23:04:59.000Z",
-          "wordCount": 299,
-          "title": "あ",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/3df0dc61fef9aebeff7d0a417ece3c4cb8c1f583/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FL%2FLixy%2F20250620%2F20250620080050.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/3df0dc61fef9aebeff7d0a417ece3c4cb8c1f583/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FL%2FLixy%2F20250620%2F20250620080050.jpg"
         }
       ]
     },
