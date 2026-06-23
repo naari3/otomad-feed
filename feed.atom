@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-23T13:02:21.075Z</updated>
+    <updated>2026-06-23T15:04:02.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20220623]]></title>
+        <id>https://note.com/banfuture9/n/nd5a026bde7ae</id>
+        <link href="https://note.com/banfuture9/n/nd5a026bde7ae"/>
+        <updated>2026-06-23T13:59:10.000Z</updated>
+        <summary type="html"><![CDATA[・朝、例えば15分くらい空いていたとして、その時間に部屋を片付けたりゴミをまとめたりすれば、15分分は部屋が片付くことに驚いた。これまでの考えでは、15分空いていてもそれは無いのと同じであった。その理屈を積み重ねていくと、1時間とかでも何もしないことが可能になる。可能になるというか実際そうだった。
+・昔、恐山さんのウロマガで、綾辻行人が朝5分でも原稿を進めるという話が書かれていて（東野圭吾だったかもしれない）、すごい人がいるなー俺には無理だなーと思ったことをよく反芻しているのだが、おれもそうなりつつある？まあ、一過性のものかもしれません。1本ペットボトルを捨てたら1本減るということを積み上げていった先に部屋の片付きがあることをようやく理解したよ。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロスカリ]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1418.html</id>
