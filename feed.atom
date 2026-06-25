@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-25T20:42:38.856Z</updated>
+    <updated>2026-06-25T21:35:03.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260625]]></title>
+        <id>https://note.com/banfuture9/n/n540da22105e5</id>
+        <link href="https://note.com/banfuture9/n/n540da22105e5"/>
+        <updated>2026-06-25T20:42:15.000Z</updated>
+        <summary type="html"><![CDATA[・めちゃくちゃ眠かった。謎に4時起きしたから。普段から喉が渇き続けてるので就寝前にもガブガブとお茶を飲むので、基本的に尿意で目が覚める。寝過ごすことがないので便利だが、中途覚醒なので十分な睡眠が取れている訳ではないのが辛い。
+・ワールドカップに興味が全然無かったが、間接的に仕事で関わっているので流石に見たくなってきた。スポーツ全般に興味がない。自分がやるのは苦手だが、それは身体運動そのものが苦手なのであって、アレン（せいや）や岡田斗司夫のように変に嫌ってもいない。単に知らないだけだ。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter22]]></title>
         <id>https://note.com/ecolidelvsvc11/n/nd4d993fd3327</id>
