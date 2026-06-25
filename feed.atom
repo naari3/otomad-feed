@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-25T09:10:16.350Z</updated>
+    <updated>2026-06-25T11:00:01.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter22]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/nd4d993fd3327</id>
+        <link href="https://note.com/ecolidelvsvc11/n/nd4d993fd3327"/>
+        <updated>2026-06-25T09:41:54.000Z</updated>
+        <summary type="html"><![CDATA[『このクラスにギャルはいない』終わったの悲し過ぎる……
+
+続きをみる]]></summary>
+        <author>
+            <name>ティラノサウルスのぼんじり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記 260624]]></title>
         <id>https://note.com/nanana555/n/n8f7ca83ef1b3</id>
