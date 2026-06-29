@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-29T19:35:51.340Z</updated>
+    <updated>2026-06-29T20:39:51.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[さんどろ～2]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1419.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1419.html"/>
+        <updated>2026-06-29T19:19:27.000Z</updated>
+        <summary type="html"><![CDATA[もうすぐサンドローネchangが実装されると聞いて大慌てで魔神任務ぜんぶ終わらせましたナドクライ1章やってそっから放置してたんで大変なボリュームに･･･いやマジで長くてびっくり  でも長いだけあって面白かった魔神任務で一番おもしろいのはスメールだと思ってるんですが、ナドクライ編の脚本はその大規模版みたいな印象しかも終わったあとまたスメールに帰ってきて似たような話するっていう旅人の主人公パワーで解決！って話よ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026.06.30投稿の新作動画内で使用したスクリプト・エクスプレッション]]></title>
         <id>https://ytpmv.info/?p=2145</id>
