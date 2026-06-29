@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-06-29T13:33:02.865Z</updated>
+    <updated>2026-06-29T15:12:20.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026.06.30投稿の新作動画内で使用したスクリプト・エクスプレッション]]></title>
+        <id>https://ytpmv.info/?p=2145</id>
+        <link href="https://ytpmv.info/2026-my-ae-scripts/"/>
+        <updated>2026-06-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[皆さんごきげんよう、まいまいです。本日投稿した新作の動画は視聴いただけましたでしょうか？ (ここに後でYoutubeのリンクを貼り付けます） この動画の作成には、Aftereffectsを使用しているのですが、作業効率化 […]
+The post 2026.06.30投稿の新作動画内で使用したスクリプト・エクスプレッション first appeared on YTPMV.info.]]></summary>
+        <author>
+            <name>maimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[備忘録：音MADタグの再投稿荒らしについて]]></title>
         <id>https://note.com/elminus/n/n7fac7deb68ef</id>
