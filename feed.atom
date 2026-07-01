@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-01T01:49:36.521Z</updated>
+    <updated>2026-07-01T03:12:31.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -9383,17 +9383,6 @@ music.apple.com
         <summary type="html"><![CDATA[時の話]]></summary>
         <author>
             <name>picm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ムネオハウスでインターネッツが盛り上がったのももう23年前 そりゃお前らもハゲるわな@ニュース速報(嫌儲)]]></title>
-        <id>hatenablog://entry/6802418398508178715</id>
-        <link href="https://underdefinition.hatenadiary.jp/entry/20250701/p1"/>
-        <updated>2025-07-01T14:59:01.000Z</updated>
-        <summary type="html"><![CDATA[[嫌儲@5ch] ムネオハウスでインターネッツが盛り上がったのももう23年前 そりゃお前らもハゲるわな [377482965]
-参院選を前に毎日新聞の記事を元に建てられた嫌儲のスレッド。書き込み11件で終了。]]></summary>
-        <author>
-            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
