@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-02T19:31:48.956Z</updated>
+    <updated>2026-07-02T20:31:10.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260702]]></title>
+        <id>https://note.com/banfuture9/n/n27285aafc98d</id>
+        <link href="https://note.com/banfuture9/n/n27285aafc98d"/>
+        <updated>2026-07-02T19:53:36.000Z</updated>
+        <summary type="html"><![CDATA[・Xのおすすめ欄は渋谷センター街に似てる
+・やっていくしかない。何度目かの。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20260701]]></title>
         <id>https://note.com/banfuture9/n/nfeb2f7145329</id>
