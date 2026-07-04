@@ -3879,7 +3879,18 @@
       "title": "仮",
       "feedUrl": "https://note.com/em011_/rss",
       "siteUrl": "https://note.com/em011_",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/em011_/n/n5415cc51fcd8",
+          "author": null,
+          "description": "長年の悩みをAI(Claude Fable 5)にぶつけてみたら、想像以上に構造的な整理が返ってきたので、自分用の備忘録として記事化しておく。結論から言うと、「文章が苦手」だと思っていたものの正体は複数の別々の部品に分解され、最後には全然別の場所に本丸があることが分かった。\nあまりにも個人的な相談内容が多すぎるため、同じケースに該当する人がいるのかどうかは分からない…が、EQの化物―Fable 5先生の吐き出した言葉に一部でも刺さる人がいるかも知れないので、共有しようと思う。\n続きをみる",
+          "link": "https://note.com/em011_/n/n5415cc51fcd8",
+          "publishedOn": "2026-07-04T05:18:10.000Z",
+          "wordCount": 2728,
+          "title": "Fable5に「文章が組み立てられない」悩みを相談してみた",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/291319630/rectangle_large_type_2_3070070a1730fe7e0964b0cb5bc54434.png?width=800"
+        }
+      ]
     },
     {
       "title": "エンプラーJ",

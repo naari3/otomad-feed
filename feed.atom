@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-04T05:18:19.114Z</updated>
+    <updated>2026-07-04T07:03:42.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fable5に「文章が組み立てられない」悩みを相談してみた]]></title>
+        <id>https://note.com/em011_/n/n5415cc51fcd8</id>
+        <link href="https://note.com/em011_/n/n5415cc51fcd8"/>
+        <updated>2026-07-04T05:18:10.000Z</updated>
+        <summary type="html"><![CDATA[長年の悩みをAI(Claude Fable 5)にぶつけてみたら、想像以上に構造的な整理が返ってきたので、自分用の備忘録として記事化しておく。結論から言うと、「文章が苦手」だと思っていたものの正体は複数の別々の部品に分解され、最後には全然別の場所に本丸があることが分かった。
+あまりにも個人的な相談内容が多すぎるため、同じケースに該当する人がいるのかどうかは分からない…が、EQの化物―Fable 5先生の吐き出した言葉に一部でも刺さる人がいるかも知れないので、共有しようと思う。
+続きをみる]]></summary>
+        <author>
+            <name>仮</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年7月-1】それがそうとも限らなくて……]]></title>
         <id>hatenablog://entry/14945776032047210069</id>
