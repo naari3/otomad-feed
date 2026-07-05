@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-05T11:32:44.160Z</updated>
+    <updated>2026-07-05T12:31:58.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[0705]]></title>
+        <id>https://note.com/seirontea/n/nc62dfb5aa3c2</id>
+        <link href="https://note.com/seirontea/n/nc62dfb5aa3c2"/>
+        <updated>2026-07-05T11:44:38.000Z</updated>
+        <summary type="html"><![CDATA[xが絵師のイラストイイねぽちぽちアカウントになってない人になりたい
+続きをみる]]></summary>
+        <author>
+            <name>セイロンティー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20260704]]></title>
         <id>https://note.com/banfuture9/n/nd480c54cde3b</id>
