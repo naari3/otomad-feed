@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-06T09:25:09.108Z</updated>
+    <updated>2026-07-06T11:33:52.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近15]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n90bffd06f262</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n90bffd06f262"/>
+        <updated>2026-07-06T11:29:38.000Z</updated>
+        <summary type="html"><![CDATA[最近もこんな感じです。
+
+続きをみる]]></summary>
+        <author>
+            <name>ティラノサウルスのぼんじり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「シイコの心情」を膨らませたい。]]></title>
         <id>https://note.com/mega1617/n/ne2b134d7c5f1</id>
