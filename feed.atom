@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-12T12:21:17.643Z</updated>
+    <updated>2026-07-12T13:32:39.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[tama house]]></title>
+        <id>hatenablog://entry/14945776032052844259</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20260712/p1"/>
+        <updated>2026-07-12T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[hana - ニコニコ (投稿者)
+本日ニコニコに投稿された、いわゆる音MAD作品。TVアニメ『スロウスタート』のキャラクター・百地たまてに、「Intro (Take2)」(1st-01)を合わせていました。
+
+
+記事のサムネイル画像は投稿ページ掲載のzipファイル(sm46538947_tama_house_gift.zip)より拝借しました。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日記 260712]]></title>
+        <id>https://note.com/nanana555/n/n9b66debe2612</id>
+        <link href="https://note.com/nanana555/n/n9b66debe2612"/>
+        <updated>2026-07-12T13:14:31.000Z</updated>
+        <summary type="html"><![CDATA[新たな職場で働き始めて1週間と少し経った。
+今までいた会社と1番大きく違うところは勤務時間に対する厳しさだ。
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年7月-2】バリアントナイフ、源氏の小手、皆伝の書]]></title>
         <id>hatenablog://entry/14945776032050675608</id>
