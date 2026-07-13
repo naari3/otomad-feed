@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-13T11:03:49.063Z</updated>
+    <updated>2026-07-13T12:51:55.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ねむりすぎ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1421.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1421.html"/>
+        <updated>2026-07-13T12:39:55.000Z</updated>
+        <summary type="html"><![CDATA[昼間眠すぎワロタ夜中寝たいのに眠れなすぎワロタで最近なんもできてない  荒波ですソシャゲのデイリーやってたら1日終わる今日もちょっと絶望ですアオバchangがもらえるイベントが復刻しているので今全力でガン回しておりますこの子かわいすぎんだよねそれ一番言われてるからまぁとりあえず脱げとか言ってたらメモロビで本当に脱ぐからすごいせっかくなんでいける所まで星上げがんばりたいこのペースだと5にできるかも怪しいんだk]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tama house]]></title>
         <id>hatenablog://entry/14945776032052844259</id>
