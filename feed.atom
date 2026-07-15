@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-15T15:32:46.767Z</updated>
+    <updated>2026-07-15T16:32:57.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260715]]></title>
+        <id>https://note.com/banfuture9/n/na6fdcd775b9f</id>
+        <link href="https://note.com/banfuture9/n/na6fdcd775b9f"/>
+        <updated>2026-07-15T16:07:57.000Z</updated>
+        <summary type="html"><![CDATA[・日報も週報もやらなくなるとは。俺らしいな。
+                          
+他者Aが言ったことを他者Bが理解していない時に、Bにわかるように言い換えた時の簡潔なわかりやすさを人から褒められることが時々あり、その点で特技といえるだろうが、その簡潔さの発動条件が自分でもあまりわかっておらず、その点で特技といえない。
+— B (@banfuture) July 15, 2026
+              
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sparkle Shower中伝に受かった]]></title>
         <id>hatenablog://entry/14945776032053572157</id>
