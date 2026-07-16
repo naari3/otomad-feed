@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-16T13:34:25.200Z</updated>
+    <updated>2026-07-16T14:42:07.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[見た2026年春アニメ]]></title>
+        <id>https://note.com/binetsu0904/n/nbe172e2279d1</id>
+        <link href="https://note.com/binetsu0904/n/nbe172e2279d1"/>
+        <updated>2026-07-16T14:26:09.000Z</updated>
+        <summary type="html"><![CDATA[過去の感想はこちらにまとめています。
+ 投稿記事：アニメ感想｜微熱｜note自分が投稿したアニメ感想の記事ですnote.com 
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20260715]]></title>
         <id>https://note.com/banfuture9/n/na6fdcd775b9f</id>
