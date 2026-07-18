@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-18T07:34:04.981Z</updated>
+    <updated>2026-07-18T08:36:29.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[0718]]></title>
+        <id>https://note.com/seirontea/n/n476c92cd3bed</id>
+        <link href="https://note.com/seirontea/n/n476c92cd3bed"/>
+        <updated>2026-07-18T08:03:44.000Z</updated>
+        <summary type="html"><![CDATA[お昼ご飯をお尻ご飯に空目して二度見した
+続きをみる]]></summary>
+        <author>
+            <name>セイロンティー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年7月-3】gems are truly outrageuous]]></title>
         <id>hatenablog://entry/14945776032054360412</id>
