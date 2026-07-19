@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-19T09:36:19.247Z</updated>
+    <updated>2026-07-19T10:32:19.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260718]]></title>
+        <id>https://note.com/banfuture9/n/n7f61088b9167</id>
+        <link href="https://note.com/banfuture9/n/n7f61088b9167"/>
+        <updated>2026-07-19T09:57:12.000Z</updated>
+        <summary type="html"><![CDATA[・仕事中に日記を書いてもいいだろう。なにもない凪の泊り勤務だ。
+・肉のハナマサで買ってきた粉末タイプのハヤシライスを作製した。この、料理を「作製」と言う言い回しを気に入っている。自炊という概念にまとわりつく"暮らし"性に対して、よい塩梅の距離感を与えてくれるイメージ。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[0718]]></title>
         <id>https://note.com/seirontea/n/n476c92cd3bed</id>
