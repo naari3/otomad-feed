@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-22T22:23:25.756Z</updated>
+    <updated>2026-07-22T23:22:40.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260722]]></title>
+        <id>https://note.com/banfuture9/n/na2a03e9463c1</id>
+        <link href="https://note.com/banfuture9/n/na2a03e9463c1"/>
+        <updated>2026-07-22T23:01:48.000Z</updated>
+        <summary type="html"><![CDATA[・料理。しかし料理と呼ぶにはまだ慣れが足りないな。作り終わった後の台所がぐちゃあ……と形容できる状態になってしまうのはめんどくさい。単に作るだけならレシピ通りにいけばいいのだが、家庭料理のゴールは片付けにあって、片付けの発散ラインを超えないように調理を進める意識が必要だ。
+・いつか大規模な料理を作ってみたいな。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2026/7/22]]></title>
         <id>https://note.com/youtt6/n/nab897f3dc282</id>
