@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-22T12:35:59.701Z</updated>
+    <updated>2026-07-22T13:34:22.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記　2026/7/22]]></title>
+        <id>https://note.com/youtt6/n/nab897f3dc282</id>
+        <link href="https://note.com/youtt6/n/nab897f3dc282"/>
+        <updated>2026-07-22T12:38:22.000Z</updated>
+        <summary type="html"><![CDATA[出来事
+7/13日放送の月曜から夜ふかしでマツコがカビキラーの事について言及していた情報を得た
+TVerで見られるかと思ったが一週間限定だったので無かった
+ネトフリとU-NEXTで見られるらしいがそのために契約するのもなぁ
+そういやかりそめ天国でマツコがカビキラーに言及したシーン持ってるのに誰にも共有してなかった　後でカビキラー鯖に上げておこう
+冷やしカップヌードルを食べた　冷水５分で本当に食べられる固さまで解れるのか心配だったが杞憂だった　普通のカップヌードルより若干固めだが全然美味しかった。キムチの方を食べたが割と辛めだったので辛いの苦手な人はレモンの方食べるといいよ
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2026/07/21]]></title>
         <id>https://note.com/youtt6/n/n487829f78ab3</id>
