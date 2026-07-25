@@ -3410,6 +3410,16 @@
       "siteUrl": "https://note.com/dokozonosyake",
       "articles": [
         {
+          "id": "https://note.com/dokozonosyake/n/n09f18b53a86d",
+          "author": null,
+          "description": "文献管理のアプリのデファクトスタンダードである「Zotero」は優秀ですが、デフォルトの無料ストレージ枠が300MBしかありません。論文のPDFを数十本入れただけで、あっという間にストレージがいっぱいである旨の警告が出てしまいます。\n今回は、最新のZotero 9において、PDFの実体をクラウドストレージに逃がすことで、Zoteroの無料枠を気にせず無制限に論文をストックする環境の構築手順を備忘録としてまとめます。\n全体像：どうやって容量を節約するのか\n続きをみる",
+          "link": "https://note.com/dokozonosyake/n/n09f18b53a86d",
+          "publishedOn": "2026-07-25T11:04:00.000Z",
+          "wordCount": 2478,
+          "title": "PDFの保存先をクラウドストレージにしてZoteroを容量無制限で運用する",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/3f372adf636a36a09893c200f6c20e859bc40f02.png"
+        },
+        {
           "id": "https://note.com/dokozonosyake/n/nf7a6825c9b23",
           "author": null,
           "description": "一般的な生成AIサービスは文字起こしに対応していない（音声解析のエンジンを積んでいない）場合があるほか、要求が通ったとしても生成された文章の信頼性に欠ける部分がある（処理の過程がブラックボックス化しており、勝手に要約文を混ぜたりすることがある）。また、会議の録音など、機密性の観点からオンラインの生成AIサービスに投げるのが望ましくない場合もある。\n今回は、OpenAIが公開しているAIモデルWhisperを使って、自分のMac上で音声の文字起こしができる環境を構築しよう。\n続きをみる",
