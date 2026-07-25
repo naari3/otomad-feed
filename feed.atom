@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-25T14:33:27.526Z</updated>
+    <updated>2026-07-25T15:24:59.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記　2026/07/25]]></title>
+        <id>https://note.com/youtt6/n/n7ee481f84fc9</id>
+        <link href="https://note.com/youtt6/n/n7ee481f84fc9"/>
+        <updated>2026-07-25T15:13:15.000Z</updated>
+        <summary type="html"><![CDATA[出来事
+この日記に書けるような出来事って流石に毎日起こらないんですよね
+来週の勤務が変更になって2連休が無くなったくらいか　悲しい
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PDFの保存先をクラウドストレージにしてZoteroを容量無制限で運用する]]></title>
         <id>https://note.com/dokozonosyake/n/n09f18b53a86d</id>
