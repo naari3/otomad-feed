@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-26T13:31:56.945Z</updated>
+    <updated>2026-07-26T14:32:53.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記　2026/07/26]]></title>
+        <id>https://note.com/youtt6/n/n8c6ee154192b</id>
+        <link href="https://note.com/youtt6/n/n8c6ee154192b"/>
+        <updated>2026-07-26T13:53:39.000Z</updated>
+        <summary type="html"><![CDATA[出来事
+ウナギを食べました　美味しかった　うん
+ブルアカ生放送見ました　万魔殿水着きたわよ！ガチャ仕様が変わるみたいだけど引くのは変わらないから関係ないね　あとコラボ企画色々やるらしいけど来月東京に行く期間と被ってて助かる　
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2026/07/25]]></title>
         <id>https://note.com/youtt6/n/n7ee481f84fc9</id>
