@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-27T13:06:25.203Z</updated>
+    <updated>2026-07-27T15:02:08.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記　2026/07/27]]></title>
+        <id>https://note.com/youtt6/n/nc0064f1528a3</id>
+        <link href="https://note.com/youtt6/n/nc0064f1528a3"/>
+        <updated>2026-07-27T14:53:44.000Z</updated>
+        <summary type="html"><![CDATA[出来事
+特に無し　注文したブルアカグッズの支払いしたくらい
+あ　あと来週再来週も勤務時間変更になった
+東京行く日程は変わらず
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[横向くんだよ40℃]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1423.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1423.html"/>
+        <updated>2026-07-27T14:28:37.000Z</updated>
+        <summary type="html"><![CDATA[暑すぎィ！！！！！今日県内で40℃いったかいってない所があるってニュースでやってた外出たら死にますね半袖嫌いだから夏でも長袖着てるんだけど手首から先だけ焼け散らかしててうけるもうすぐ例のゲームにぶっ壊れキャラが実装されてまたクソゲーっぷりが加速するらしいていうかもうしてる虚狩りを引いたら前よりもスコアが○○pt伸びます！タイムが○秒早くなります！ってなるなら虚狩りスゲェと思うが虚狩りを引いたら前と同じタイ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2026/07/26]]></title>
         <id>https://note.com/youtt6/n/n8c6ee154192b</id>
