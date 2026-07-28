@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-28T13:35:09.786Z</updated>
+    <updated>2026-07-28T14:51:16.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260728]]></title>
+        <id>https://note.com/banfuture9/n/nfe2e5302ba3b</id>
+        <link href="https://note.com/banfuture9/n/nfe2e5302ba3b"/>
+        <updated>2026-07-28T14:17:22.000Z</updated>
+        <summary type="html"><![CDATA[・長い時間会社にいた。
+・地震の被害が心配。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2026/07/27]]></title>
         <id>https://note.com/youtt6/n/nc0064f1528a3</id>
