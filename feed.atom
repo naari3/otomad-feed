@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-07-29T13:36:32.435Z</updated>
+    <updated>2026-07-29T14:47:58.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記　2026/07/29]]></title>
+        <id>https://note.com/youtt6/n/n36d1b52e694e</id>
+        <link href="https://note.com/youtt6/n/n36d1b52e694e"/>
+        <updated>2026-07-29T14:40:06.000Z</updated>
+        <summary type="html"><![CDATA[出来事
+便利屋68のちびぐるみを獲得した　いつもなら一万円以上かかるところがなんか運良く落ちたり引っかかったりして六千円くらいで全員獲れた　ありがてぇ
+ブルアカハフバイベスト読んだ　思った事は下に書く
+多少ネタバレ注意
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2026/07/28]]></title>
         <id>https://note.com/youtt6/n/n7a51fe2eb5aa</id>
