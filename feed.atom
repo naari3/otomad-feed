@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-08-04T11:46:52.674Z</updated>
+    <updated>2026-08-04T12:41:05.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記　2026/08/04]]></title>
+        <id>https://note.com/youtt6/n/nf7366eea3df7</id>
+        <link href="https://note.com/youtt6/n/nf7366eea3df7"/>
+        <updated>2026-08-04T12:38:43.000Z</updated>
+        <summary type="html"><![CDATA[出来事
+んー　昨日も日記書き忘れた　ずっと寝てたからなぁ
+日記出なかった日は本当に何にも無かった日だと思ってもらえればいいかな　今日も特になんもない　仕事の愚痴とか書こうか迷ったけど仕事内容とか職業バレしそうなので書きません　愚痴や悪口書くと気分良くないし
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あにば]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1424.html</id>
