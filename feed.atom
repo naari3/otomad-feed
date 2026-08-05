@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-08-05T11:42:32.392Z</updated>
+    <updated>2026-08-05T12:38:50.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記　2026/08/05]]></title>
+        <id>https://note.com/youtt6/n/n4bca95b95a0f</id>
+        <link href="https://note.com/youtt6/n/n4bca95b95a0f"/>
+        <updated>2026-08-05T12:33:29.000Z</updated>
+        <summary type="html"><![CDATA[出来事
+ブルアカハフバガチャ引いたた
+
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記　2026/08/04]]></title>
         <id>https://note.com/youtt6/n/nf7366eea3df7</id>
