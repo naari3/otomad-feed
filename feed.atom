@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-08-07T11:17:54.962Z</updated>
+    <updated>2026-08-07T12:18:15.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記　2026/08/07]]></title>
+        <id>https://note.com/youtt6/n/n920319045010</id>
+        <link href="https://note.com/youtt6/n/n920319045010"/>
+        <updated>2026-08-07T11:46:44.000Z</updated>
+        <summary type="html"><![CDATA[出来事
+アサヒのグリーンコーラを飲んだ　コカ・コーラのゼロカロリーより甘さがスッキリして飲みやすい　コカ・コーラゼロ信者だけどこっちに鞍替えしちゃいそう
+髪を切った　暑いから短めに　
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年8月-1】咒]]></title>
         <id>hatenablog://entry/14945776032061932869</id>
