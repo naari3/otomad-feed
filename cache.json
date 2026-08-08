@@ -1774,6 +1774,21 @@
       "siteUrl": "https://ruiji.hatenablog.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/14945776032062350161",
+          "author": null,
+          "description": "こちらの動画のメイキングです。\n\nさっくりと……。\n音声\n映像\n \n音声\n効果音を選んでいたらカービィのアクション関連に寄ってきたのでカービィのアクションに統一することにしました。\n\nあとは耳コピで作ったmidiにつっこんでます。\n原型残るようにはしたかったんですが、想像以上に変な感じになっちゃったので、ごく短い部分をリピートして鳴らしてます。\n\n▲しゃがみ音はこんな感じに……。\n \n音声おわり！\n \n映像\nパーティクルをいろいろいじって作れないかなと思っていたんですが、音が鳴るタイミングで出力することができなかったのでスクリプトを自作することになりました。\n\n▲仕組み\n上の図作ったらこの記事書くことなくなった\n \n \n \n \n \n \n \n \n \n \n \n……おわり！",
+          "link": "https://ruiji.hatenablog.jp/entry/20260808/1786187213",
+          "publishedOn": "2026-08-08T11:06:53.000Z",
+          "wordCount": 382,
+          "title": "FGM94(YTPMV)のメイキング",
+          "enclosure": {
+            "url": "https://cdn.image.st-hatena.com/image/scale/086f503647f3b04642263629ebfb899b0335ec4a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fruijiiii%2F20260808%2F20260808200549.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/086f503647f3b04642263629ebfb899b0335ec4a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fruijiiii%2F20260808%2F20260808200549.png"
+        },
+        {
           "id": "hatenablog://entry/17179246901381285819",
           "author": null,
           "description": "『超』音MAD晒しイベント2026 おつかれさまでした！\n初回の2020年から久々に参加しました。頑張りました。\n\nアコガレルノヲ ヤメチマエヨ… ヒッヒッヒ\n \n\n\n \nこの動画に関する記事です。まだみてないひとはチェック！\n\nYouTubeはこちら\n \n\n    \nなんで作ろうと思ったの\n使おうと思ったゲームリスト\n音声解剖\n最初の部分\nピアノパート\nベースパート\n鉄琴パート\n木琴パート\nシンセパート\nアルペジオパート\nドラムパート\n歌パート\nピー音\nその他の音\nシンセパートのとこ\nピー音のとこ\nその他合いの手とか\n映像解剖\n制作メモの管理\n動画づくり\n \nなんで作ろうと思ったの\nビブリの人力ボカロがやりたかったからだとおもいます。\nなんとなあーーーあくです！！覚えてねえ～～～～。\nで、ビブリを軸にすると決めて、黒背景の素材統一にしようかなーって考えてたら最終的にゲーム素材で固まりました。よっしゃやるか。\n \n使おうと思ったゲームリスト\n触れたことがあるゲームからのチョイスです。わからんゲームで作ってもなあって感じするし。\n今回使ったやつは全部持ってるorサブスクで遊べる状態です！なので撮影とかも自前で済ませています。\n(五十音順、使ったやつは色付き)\nArt Style 各種\nアトランチスの謎(42th Zoneのみ)\nUndertale\nX\nX-RETURNS\nEvery Extend Extra Extreme(以下E4と表記)\nギャラクシアン / ギャラガ\nQ\nQIX(AC)\nゲーム&ウオッチ\nシェリフ\nスペースインベーダー\nスペースインベーダー Infinity Gene\nスペランカー\nテトリス(Electronika 60)\nドラゴンクエストIII\nドンキーコング\nネオジオ\nバーチャルボーイ\nBaba Is You\nbit Generations 各種\nビブ…",
