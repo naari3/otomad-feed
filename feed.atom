@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-08-13T04:38:01.482Z</updated>
+    <updated>2026-08-13T05:33:30.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記　2026/08/13]]></title>
+        <id>https://note.com/youtt6/n/nc36571b7fd60</id>
+        <link href="https://note.com/youtt6/n/nc36571b7fd60"/>
+        <updated>2026-08-13T05:10:08.000Z</updated>
+        <summary type="html"><![CDATA[出来事
+東京に行く準備をした　今回はホテル予約したので着替えと衛生用品くらいで楽　最近は携帯用の泡で出るヤツ専用の容器とか100均に売ってるんだね　後でコミケ用のコインケース買おう　今書いてて気づいたけど両替してないや　銀行間に合うかな
+続きをみる]]></summary>
+        <author>
+            <name>youtt6</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[昔の日記を読んでみる　2021年編]]></title>
         <id>hatenablog://entry/14945776032063774098</id>
