@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-08-15T07:12:52.168Z</updated>
+    <updated>2026-08-15T08:07:14.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記 260815]]></title>
+        <id>https://note.com/nanana555/n/n72ff3c87f055</id>
+        <link href="https://note.com/nanana555/n/n72ff3c87f055"/>
+        <updated>2026-08-15T08:00:50.000Z</updated>
+        <summary type="html"><![CDATA[今日は終戦記念日でコミケ初日でもある。
+コミケなんてもう10年くらい真面目に参加してない。
+ちなみにここ1週間くらい風邪をひいている。それで精神的にも落ち込みがちになり、作業ができなかった。
+夏の買い物
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年8月-2】腹痛エグすぎウィーク]]></title>
         <id>hatenablog://entry/14945776032064649493</id>
