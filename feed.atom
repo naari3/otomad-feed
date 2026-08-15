@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-08-15T12:06:46.911Z</updated>
+    <updated>2026-08-15T13:13:25.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VroidStadioでMMDモデルを作るメモ]]></title>
+        <id>https://note.com/furadiru_99/n/nef677c8f27ba</id>
+        <link href="https://note.com/furadiru_99/n/nef677c8f27ba"/>
+        <updated>2026-08-15T12:44:41.000Z</updated>
+        <summary type="html"><![CDATA[服の作り方はBTOOTHの無料アセットを参考にしてつくるといいかも（カスタムアイテムのインポートから入れれる）
+テクスチャはGPTとかで作ってGIMPで手直しすると早い
+続きをみる]]></summary>
+        <author>
+            <name>フラヂル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記 260815]]></title>
         <id>https://note.com/nanana555/n/n72ff3c87f055</id>
