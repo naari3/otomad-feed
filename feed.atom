@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-08-17T13:18:09.186Z</updated>
+    <updated>2026-08-17T14:08:54.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[疱疹演義]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1426.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1426.html"/>
+        <updated>2026-08-17T13:36:18.000Z</updated>
+        <summary type="html"><![CDATA[帯状疱疹になりました  荒波です年寄りがなる病気だと思ってたのに結構すぐかかるんだね仕方ないねマジクソ痛い！！四六時中痛い  処方してもらった痛み止め飲んでも尚痛い鎮痛なかったら痛みで眠れないしまともに動くことも難しいレベル寝てても楽にならないので仕方なくゲームして気を紛らわせてますまだ1週間は痛むらしくて気が狂うさあやってきましたスネージナヤスケールのでかさと美しさに圧倒されておりますSkyrimてきなマ]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ムネオハウスはなぜ「リアル電波ソング」に入らなかったのか（※多分歌モノじゃなかったから） - 今私は小さな魚だけれど]]></title>
         <id>hatenablog://entry/14945776032065350954</id>
