@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-08-30T14:09:50.151Z</updated>
+    <updated>2026-08-30T15:09:58.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20260830]]></title>
+        <id>https://note.com/banfuture9/n/n98536f7ec25d</id>
+        <link href="https://note.com/banfuture9/n/n98536f7ec25d"/>
+        <updated>2026-08-30T14:36:02.000Z</updated>
+        <summary type="html"><![CDATA[・今日の日記というか、最近の状況について。
+・仕事が一段落した。この8月は入社以来最も忙しかったと思う。体力的にも精神的にも高負荷であった。同じ部署には自分より忙しそうな人が大勢いたので恐ろしい。毎日終電で帰らなければならないような真に限界的な多忙ではないが、ふと気付くと疲れ切っていることを実感するという状態だった。
+続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今日のクレーンゲーム]]></title>
         <id>hatenablog://entry/14945776032070313152</id>
