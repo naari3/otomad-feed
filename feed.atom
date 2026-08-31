@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-08-31T00:34:37.810Z</updated>
+    <updated>2026-08-31T01:26:49.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ちいかわ好きと野獣先輩好きの共通点]]></title>
+        <id>https://anond.hatelabo.jp/20260831101713</id>
+        <link href="https://anond.hatelabo.jp/20260831101713"/>
+        <updated>2026-08-31T01:17:13.000Z</updated>
+        <summary type="html"><![CDATA[1. 独特な「構文」や語...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20260830]]></title>
         <id>https://note.com/banfuture9/n/n98536f7ec25d</id>
