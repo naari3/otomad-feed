@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-02T20:11:09.652Z</updated>
+    <updated>2026-09-02T21:09:59.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今日のクレーンゲーム]]></title>
+        <id>hatenablog://entry/14945776032073062345</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2026/09/03/055305"/>
+        <updated>2026-09-02T20:53:05.000Z</updated>
+        <summary type="html"><![CDATA[明らかに頭の方が重そうだったので、それを意識してみたら割と簡単に取れた。
+このブランドのフィギュアは本当に質が高くて良い。
+ 
+府中の駅前にある、クレーンゲームがたくさん置いてあるタイステに行ってみた。
+殆どがつまらないタイプの筐体でかなり萎えてしまった。]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怒りのターン制バトル]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1428.html</id>
