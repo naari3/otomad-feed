@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-04T16:12:33.538Z</updated>
+    <updated>2026-09-04T17:10:25.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今日のクレーンゲーム]]></title>
+        <id>hatenablog://entry/14945776032073824337</id>
+        <link href="https://kaikityou.hatenablog.com/entry/2026/09/05/012215"/>
+        <updated>2026-09-04T16:22:15.000Z</updated>
+        <summary type="html"><![CDATA[今日は弐寺の収穫がたくさんあった]]></summary>
+        <author>
+            <name>kaikityouの日記</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年9月-1】アシャワ！]]></title>
         <id>hatenablog://entry/14945776032073222932</id>
