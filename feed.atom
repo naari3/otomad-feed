@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-05T07:10:59.280Z</updated>
+    <updated>2026-09-05T08:13:34.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[タイトル：『波形の上で待つ男たち』]]></title>
+        <id>https://otomad.jp/?p=771</id>
+        <link href="https://otomad.jp/archives/771"/>
+        <updated>2026-09-05T07:15:41.000Z</updated>
+        <summary type="html"><![CDATA[※生成AIが不条理演劇をつくれるか試すために、音MAD作者をテーマにGeminiに不条理演劇を書かせてみました。その内容を記録。アイキャッチもGemini産 【登場人物】 【舞台】 薄暗い六畳間。中央の机の上に巨大なモニ […]]]></summary>
+        <author>
+            <name>ubu_chinchilla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今日のクレーンゲーム]]></title>
         <id>hatenablog://entry/14945776032073824337</id>

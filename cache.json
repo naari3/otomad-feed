@@ -6492,7 +6492,18 @@
       "title": "音MADとその周辺",
       "feedUrl": "https://otomad.jp/feed",
       "siteUrl": "https://otomad.jp",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://otomad.jp/?p=771",
+          "author": "ubu_chinchilla",
+          "description": "※生成AIが不条理演劇をつくれるか試すために、音MAD作者をテーマにGeminiに不条理演劇を書かせてみました。その内容を記録。アイキャッチもGemini産 【登場人物】 【舞台】 薄暗い六畳間。中央の机の上に巨大なモニ […]",
+          "link": "https://otomad.jp/archives/771",
+          "publishedOn": "2026-09-05T07:15:41.000Z",
+          "wordCount": 4070,
+          "title": "タイトル：『波形の上で待つ男たち』",
+          "imageUrl": "https://otomad.jp/wp-content/uploads/naminouede.jpg"
+        }
+      ]
     },
     {
       "title": "パペロンのメモ帳",
