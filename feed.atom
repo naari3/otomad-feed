@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-06T18:12:29.425Z</updated>
+    <updated>2026-09-06T19:08:11.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[映画の好みについて酒飲みながらAIと色々喋っていたら、自分が作品に何を求めているのかが少し見えてきたのでメモ。]]></title>
+        <id>https://note.com/aun6june/n/n891132265579</id>
+        <link href="https://note.com/aun6june/n/n891132265579"/>
+        <updated>2026-09-06T18:48:08.000Z</updated>
+        <summary type="html"><![CDATA[本文もchatgptにまとめさせています。
+
+続きをみる]]></summary>
+        <author>
+            <name>aun6june</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タイトル：『波形の上で待つ男たち』]]></title>
         <id>https://otomad.jp/?p=771</id>
