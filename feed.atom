@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-11T12:17:46.788Z</updated>
+    <updated>2026-09-11T13:11:09.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記 260911]]></title>
+        <id>https://note.com/nanana555/n/nd27c8ddf4092</id>
+        <link href="https://note.com/nanana555/n/nd27c8ddf4092"/>
+        <updated>2026-09-11T12:14:32.000Z</updated>
+        <summary type="html"><![CDATA[なんだかんだ今の会社に入り2ヶ月以上経った。
+自分で言うのもなんだが、割と無理してしまうタイプではあるので事業部外の人にまで喫煙所や社内チャットで心配されてしまった。ただ、仕事内容はかなり満足感がある。
+そして、中途採用されて気づいたことがあるのだ。
+これは会社の人にお土産に貰ったムカデ人間クッキー
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年9月-2】好評、絶賛！]]></title>
         <id>hatenablog://entry/14945776032076015511</id>
