@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-18T07:13:12.709Z</updated>
+    <updated>2026-09-18T08:15:35.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Razer Synapseで半角全角キーが設定できない]]></title>
+        <id>https://dumpmc.blog.fc2.com/blog-entry-140.html</id>
+        <link href="https://dumpmc.blog.fc2.com/blog-entry-140.html"/>
+        <updated>2026-09-18T08:04:56.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>picm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年9月-3】毒と破滅なら毒のほうが好き]]></title>
         <id>hatenablog://entry/14945776032078941261</id>
