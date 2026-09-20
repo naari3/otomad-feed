@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-20T09:11:26.513Z</updated>
+    <updated>2026-09-20T10:10:26.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2015年にINMU KINGがあったら2014年にやらかした人が踊らされると思われるが、誰がセンターなの？]]></title>
+        <id>https://anond.hatelabo.jp/20260920182243</id>
+        <link href="https://anond.hatelabo.jp/20260920182243"/>
+        <updated>2026-09-20T09:22:44.000Z</updated>
+        <summary type="html"><![CDATA[AI による概要        
+	...]]></summary>
+        <author>
+            <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Razer Synapseで半角全角キーが設定できない]]></title>
         <id>https://dumpmc.blog.fc2.com/blog-entry-140.html</id>
