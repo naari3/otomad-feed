@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-21T08:18:11.491Z</updated>
+    <updated>2026-09-21T09:16:36.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -15,6 +15,17 @@
 	...]]></summary>
         <author>
             <name>「音MAD」を含む日記 - はてな匿名ダイアリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[𝗧𝗛𝗘 𝗠𝗨𝗡𝗘𝗢 𝗛𝗢𝗨𝗦𝗘@ニュース速報(嫌儲)]]></title>
+        <id>hatenablog://entry/14945776032080664891</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20260919/p1"/>
+        <updated>2026-09-19T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[[ニュース速報(嫌儲)@5ch]𝗧𝗛𝗘 𝗠𝗨𝗡𝗘𝗢 𝗛𝗢𝗨𝗦𝗘  [957955821]
+3年前のムルアカ氏死去の報をソースに建てられたスレッド。書き込み21件で終了。特に見どころ無し。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
