@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-21T10:12:23.534Z</updated>
+    <updated>2026-09-21T11:10:55.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[秋じゃん]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1431.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1431.html"/>
+        <updated>2026-09-21T11:08:07.000Z</updated>
+        <summary type="html"><![CDATA[なんか気付いたら秋だって言うけどまだまだ暑くない？アツゥイ！動いてないのに暑いよ～水着セイア引けなかった･･････（連想ゲーム）最近ZONEに行ってばかりで何もしていないSTALKER2ってふと足を止めて景色を眺めたくなる瞬間いっぱいあるよねAnomalyの景色は割と夏の終わりみたいな感じだったけど、2は秋の始まりみたいなアトモスフィア感じるこの時期遊ぶのにピッタリですねなんか月末までセールしてるっぽい？ まぁこんなゲー]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2015年にINMU KINGがあったら2014年にやらかした人が踊らされると思われるが、誰がセンターなの？]]></title>
         <id>https://anond.hatelabo.jp/20260920182243</id>
