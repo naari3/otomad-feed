@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-22T12:17:21.235Z</updated>
+    <updated>2026-09-22T13:12:19.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[元]]></title>
+        <id>https://note.com/banfuture9/n/nbfc037ca6a1f</id>
+        <link href="https://note.com/banfuture9/n/nbfc037ca6a1f"/>
+        <updated>2026-09-22T12:27:44.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秋じゃん]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1431.html</id>
