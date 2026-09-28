@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-09-28T13:14:22.239Z</updated>
+    <updated>2026-09-28T14:14:20.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音喜利の回答を100個考える2]]></title>
+        <id>https://note.com/sweets_farting/n/n4b57aa49c5e3</id>
+        <link href="https://note.com/sweets_farting/n/n4b57aa49c5e3"/>
+        <updated>2026-09-28T13:33:31.000Z</updated>
+        <summary type="html"><![CDATA[音MADそのものがお題になってた前回お題と違って、音MADと積極的に絡めないといけない今回のお題の方が意外と難産だった
+
+続きをみる]]></summary>
+        <author>
+            <name>角煮サイダ一</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ふわふわタイム]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1432.html</id>
