@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-10-05T13:18:43.694Z</updated>
+    <updated>2026-10-05T14:15:55.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ねこねこ]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1433.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1433.html"/>
+        <updated>2026-10-05T13:33:44.000Z</updated>
+        <summary type="html"><![CDATA[薬屋3期うれし～今期あにめ始まって3日くらい経つけど薬屋以外まるで見れるやつがなくて絶望してますバーテックスフォースは義務視聴するけどコレがいっちゃんキツイてつりょーがいい感じだと嬉しいアニメを観る時間が少なくなるとその分他のことができる、という事もなくボーッとしてるだけなので見れるやつがいっぱいあると嬉しい今週ぜんぶボーッとしてて何もしてない崩壊学園とブルアカとゼンゼロのデイリーやってそれで一日終]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年10月-1】爆裂豪雨vs最強設営軍団]]></title>
         <id>hatenablog://entry/14945776032084823929</id>
