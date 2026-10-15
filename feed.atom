@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-10-15T13:12:03.073Z</updated>
+    <updated>2026-10-15T14:11:56.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[見た2026年夏アニメ]]></title>
+        <id>https://note.com/binetsu0904/n/nd45f713b73c3</id>
+        <link href="https://note.com/binetsu0904/n/nd45f713b73c3"/>
+        <updated>2026-10-15T13:29:15.000Z</updated>
+        <summary type="html"><![CDATA[過去の感想はこちらにまとめています。
+ 投稿記事：アニメ感想｜微熱｜note自分が投稿したアニメ感想の記事ですnote.com 
+続きをみる]]></summary>
+        <author>
+            <name>微熱</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ちいかわ音MAD制作後記2：ハチワレ？のメズマライザー]]></title>
         <id>hatenablog://entry/14945776032089321618</id>
