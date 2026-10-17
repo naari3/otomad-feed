@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-10-16T23:09:42.493Z</updated>
+    <updated>2026-10-17T00:28:09.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
@@ -60,6 +60,27 @@ www.nicovideo.jp
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[推し活クロニクル 2002年 (英語版)@推し活未来研究所]]></title>
+        <id>hatenablog://entry/14945776032091247300</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20261015/p1"/>
+        <updated>2026-10-15T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[推し活未来研究所｜推し活の研究メディア by KAZAORI
+推し活クロニクル 2002年｜日韓W杯の街頭応援、「着うた」で推しの歌声を携帯へ、平井堅「大きな古時計」もヒット｜推し活未来研究所
+株式会社KAZAORIが運営するウェブサイト「推し活未来研究所」の2002年の出来事を紹介する記事。日本語版は至って普通なのですが、英語翻訳版が少々おかしな事になっていました。
+問題の箇所は新語・流行語大賞の説明。日本語版では単に「ムネオハウス」とだけ書かれた部分に、英語版では随分と意味を絞り込む注釈が添えられていました。
+
+
+Top 10
+
+Muneo House (a dance remix parodying scandal-hit lawmaker Muneo Suzuki)
+Oshi-Katsu Chronicle 2002: World Cup Street Cheering, Chaku-Uta Ringtones, and Ken Hirai's "Big Old Clock" | The Oshi Lab
+佐々木憲昭氏はこちらの文脈で受賞されたのでは無いと思いますが。
+想像ですが、執筆者がAIに英語版を生成させるために用意した日本語注釈が元からこうだった、あるいは英語版を生成させる際に日本人以外にも理解できるように簡単な注釈をつける指示を出したところ、何故かこういった偏った情報を出力した、辺りが原因ではないでしょうか。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[見た2026年夏アニメ]]></title>
         <id>https://note.com/binetsu0904/n/nd45f713b73c3</id>
         <link href="https://note.com/binetsu0904/n/nd45f713b73c3"/>
@@ -69,6 +90,52 @@ www.nicovideo.jp
 続きをみる]]></summary>
         <author>
             <name>微熱</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【知られざる起源】日本の音MADはどう生まれた？50年の歴史を徹底解説]]></title>
+        <id>hatenablog://entry/14945776032091240486</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20261014/p1"/>
+        <updated>2026-10-14T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[クズモノLABOch - YouTube (投稿者)
+「日本の音MADの歴史」を幾つかの時期に区切って解説する動画。1分58秒頃からムネオハウスが取り上げられていました。
+
+
+
+    
+国会答弁がハウスミュージックになった日
+
+時代が一気に飛びます。2002年2月14日、2ちゃんねるのテクノ板に「アシッドハウス=ムネオハウス」というスレッドが立ちました。政治家の鈴木宗男氏の疑惑の舞台になった国後島の施設が通称ムネオハウスと呼ばれていたことからの、ただのダジャレです。
+
+ところがそこへ証人喚問での答弁音声をサンプリングしたハウスミュージックを投下する住人が現れます。曲が曲を呼び、4月5日深夜にはクラブイベントが開かれました。翌週にインターネットウォッチが載せた記事では、曲はすでに数十曲、アルバム8枚分に達し、Yahooには専用カテゴリーまでできています。映像ではなく音声の作品ですが、音MADの原流に数えることができます。有名人の声を素材として共有し、別々の人間がそれぞれ別の作品に仕立てる。この構造はこの時代にほぼ出来上がっていたわけです。
+
+ちなみに素材にされた鈴木氏本人は、後にMCムネオとしてイベントに登場しています。2004年の札幌と2006年の東京で、事実上の公認状態でした。
+
+素材にされた側が一緒になって遊ぶ。この関係は後でもう1度出てきます。
+上掲動画 (1:58~3:12頃)
+御本人をクラブに担ぎ出した人達は面白がって遊んでいたのかもしれませんが、御本人さん自体はどうだったんでしょうね。]]></summary>
+        <author>
+            <name>muneo house information</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神長タクミ史に物申したい]]></title>
+        <id>hatenablog://entry/14945776032091239526</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20261013/p1"/>
+        <updated>2026-10-13T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[はる@ヒカマー｜note
+2022年の音MAD DREAM MATCHの際に公開された音MAD史動画の編纂、また昨年4月以降は「音MAD博士」と称しての歴史解説を行っている神長タクミ氏。氏の語る音MAD史にムネオハウスが登場することも何度かありました。
+その神長氏が8/30にロフトプラスワンで開催した「真夏の夜の淫夢」をテーマにしたイベントで、ゲストの平野源五郎氏がサーフ系ボディービルダーの拓也氏に関する不正確な発言をしたことが、当の拓也氏の知るところとなりました。拓也さんが不快感を表明したことに端を発して、神長タクミ氏へのいわゆる「淫夢営業」批判や過去の音MAD博士活動への批判が一部で起こっている、というのが2026年10月上旬時点の状況です。
+そういった中で投稿されたのがこちらのnote。バキ童チャンネル出演時の発言を検証する流れで、ムネオハウスについても言及していました。以下、引用。
+"既存曲を使った音MAD"を最初に解説する
+
+(前略)
+
+例に挙げるとすれば、ムネオハウスというものがある。その文化から我々が知ることができるのは、「(露悪的に)人の声を加工して音楽に合わせる」「その音声に映像をつける」という流れが既に2002年頃から2ちゃんねるを土台に形成されていた、ということである。テレビにも面白がって取り上げられたりイベントが行われたり、歴史として見ればこちらの方が重要に感じてしまうのは私だけだろうか。「カット指示した部分もある」と本人が言っていたので、動画にないだけで二人には解説していたということを期待したい。
+神長タクミ史に物申したい｜はる@ヒカマー
+あの時のバキ童さんの動画は、ニコニコ動画登場以降の音MADを語りたい年代の皆さんが揃ったものだったので、直接体験していないムネオハウスについて、あれ以上詳細に語る意味も時間もなかったのではないかと思います。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
@@ -179,6 +246,31 @@ YouTube版はこちら
         <summary type="html"><![CDATA[エスコン8一周クリアしました  荒波です7の反省からかもう一度やりたい！ってなる楽しいミッションが多くてよかったフランカーとベルクト開放してそれで最後までやったぜやはりロシア機に限る3大好きっ子としては数々の3要素にキャッキャできて最高でしたあの機体も乗れるしなディジョンの登場にもちょっと期待したんだけど流石にねというかこの戦時下でGRDFは何をしているんだかところでターシャ萌えキャラすぎないか？まじでかわ]]></summary>
         <author>
             <name>柊殿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京国際インターネットミュージアム 第2回企画展]]></title>
+        <id>hatenablog://entry/14945776032091238871</id>
+        <link href="https://underdefinition.hatenadiary.jp/entry/20261011/p1"/>
+        <updated>2026-10-11T14:59:01.000Z</updated>
+        <summary type="html"><![CDATA[東京国際インターネットミュージアム｜TIIM｜note
+凄味のある名前のページですが、実際は個人が運営するnote。そこで「yabaiyo PV」が紹介されていました。以下、引用。
+ROOM 02｜これも美術品です。
+
+
+TIIM-2026-007
+
+作家：TR-774
+
+TIIMによる選定理由：
+
+2000年代初頭のMUNEO HOUSEムーブメントにおいて、楽曲としての完成度が高く、専門的な制作環境の介在を想像させる作品である。
+
+政治的なイデオロギーを抜きにして、音楽そのものとして楽しめる点を評価した。
+第2回企画展 これは美術品です｜東京国際インターネットミュージアム｜TIIM
+「yabaiyo PV」はFlashではなく動画形式の作品です。]]></summary>
+        <author>
+            <name>muneo house information</name>
         </author>
     </entry>
     <entry>
