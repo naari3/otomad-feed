@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-10-19T13:14:05.767Z</updated>
+    <updated>2026-10-19T14:11:48.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[丘の向こう]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1435.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1435.html"/>
+        <updated>2026-10-19T13:35:53.000Z</updated>
+        <summary type="html"><![CDATA[ぬるめたアニメ化するってよ！！！！！！オタクの妄想みたいな制作陣で！！！！ホンマか？ぜんぜんまだ嘘の可能性ある世界って平気で嘘つくからな2027年が存在しない可能性もある今が2026年なのも嘘だし  コミティアにぬるめたの同人本買いに行ったのこの前だろ？えわちきもうアラサーなん？･･････実際にこの目で動いてるところを見るまでは夢だし死ねません本当におめでとうたぶん放送は1年後くらいだと思うけど、ちょうど忘れた]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年10月-3】他責でGO！（本編クリア後に開放）]]></title>
         <id>hatenablog://entry/14945776032090341784</id>
