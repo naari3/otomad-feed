@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-10-21T11:10:43.644Z</updated>
+    <updated>2026-10-21T12:16:54.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近16]]></title>
+        <id>https://note.com/ecolidelvsvc11/n/n46310bb12592</id>
+        <link href="https://note.com/ecolidelvsvc11/n/n46310bb12592"/>
+        <updated>2026-10-21T11:58:38.000Z</updated>
+        <summary type="html"><![CDATA[ご無沙汰しております。最近もこんな感じです。
+30MS鷹富士茄子　制作
+続きをみる]]></summary>
+        <author>
+            <name>ティラノサウルスのぼんじり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丘の向こう]]></title>
         <id>https://hiiragidono.blog.fc2.com/blog-entry-1435.html</id>
