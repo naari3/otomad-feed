@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-10-26T11:11:45.383Z</updated>
+    <updated>2026-10-26T13:39:28.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日記 261026]]></title>
+        <id>https://note.com/nanana555/n/n15314bb0e108</id>
+        <link href="https://note.com/nanana555/n/n15314bb0e108"/>
+        <updated>2026-10-26T11:12:40.000Z</updated>
+        <summary type="html"><![CDATA[ここ最近の話をしていく。まず、18日の出来事だ。
+変わらない中央通り
+続きをみる]]></summary>
+        <author>
+            <name>ふーふー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年10月-4】毎晩俺は会ってるんだ　毎日夢で会うんだ]]></title>
         <id>hatenablog://entry/14945776032094252425</id>
