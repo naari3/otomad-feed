@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-11-03T02:00:40.762Z</updated>
+    <updated>2026-11-03T09:25:38.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[とめふん]]></title>
+        <id>https://hiiragidono.blog.fc2.com/blog-entry-1437.html</id>
+        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1437.html"/>
+        <updated>2026-11-02T22:25:54.000Z</updated>
+        <summary type="html"><![CDATA[なんかもう冬らしい  荒波ですゆうべ眠すぎてブログ書く前に寝落ちしただって冬だもん  体が冬眠したがってんだよねこの前冬眠中のクマはうんこどうしてんだろうねって話で止め糞という存在を知ったケツの穴をうんこで塞いで出ないようにするらしい僕いつもやってますけど･･･冬眠の準備はバッチリってワケよついに先生LvがMAXになりましたオトギに釣られてこのゲーム始めてからもう半年くらい経つんだなとしみじみ習慣もうすぐ運営]]></summary>
+        <author>
+            <name>柊殿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026年10月-5】ここで、休眠～！！]]></title>
         <id>hatenablog://entry/14729835035331576185</id>
@@ -8431,16 +8441,6 @@ Firefoxのアドオンから「New NicoLive Helper」を起動
 続きをみる]]></summary>
         <author>
             <name>プリコネの年末年始はヤバいわよ！</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寒・ポーター]]></title>
-        <id>https://hiiragidono.blog.fc2.com/blog-entry-1384.html</id>
-        <link href="https://hiiragidono.blog.fc2.com/blog-entry-1384.html"/>
-        <updated>2025-11-03T10:28:08.000Z</updated>
-        <summary type="html"><![CDATA[エアコンのいらない季節になったと喜んでいたらもう冬の足音がそばから聞こえてくる冬眠の準備をせねばなるまいいつまで暖房我慢できるかな･･･冬って寒いの以外好きだけど、寒いってだけで最悪の季節余裕すぎ相変わらず紙魚は出やがるし  あいつら冬眠しないのかよハロウィンということで正式間近のタルコフに戻ってイベントカルト狩りしてましたなぜか揃いも揃ってカオナシのお面つけてるオモシロ集団になっていたが、真の狙いは1]]></summary>
-        <author>
-            <name>柊殿</name>
         </author>
     </entry>
     <entry>
