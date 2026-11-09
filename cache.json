@@ -1910,6 +1910,21 @@
       "siteUrl": "https://underdefinition.hatenadiary.jp/",
       "articles": [
         {
+          "id": "hatenablog://entry/14729835035331845350",
+          "author": null,
+          "description": "複眼インデックス - 世界の文脈を、多角的に束ねる。 (Internet Archive)\nAIに生成させたと思われるスパムブログの記事。10月中頃から検索に引っかかるようになっていました。SPINTAXを利用してアクセスする度に記事内容が変化する仕組みで、そのどれも大変適当な内容でした。以下はその中で一番酷かったもの。\n\n\nムネオハウス事件は、日本のインターネット史を語る上でも外せない出来事です。当時急速に普及していたブロードバンド環境と匿名掲示板「2ちゃんねる」を舞台に、鈴木氏の国会答弁や記者会見の肉声をサンプリングしたダンスミュージックが有志によって制作されました。\n\nクラブミュージック（テクノやハウス）と「ハウス（建物）」を掛け合わせたダジャレから始まったこのムーブメントは、Flashアニメーションクリエイターの手によって爆発的に拡散。「Muneo House」と名付けられた一連の動画群は数百万回再生を記録し、政治風刺とデジタルアートが融合した一大ネットミームへと昇華しました。\n\n重苦しい政治汚職報道をシニカルなユーモアへと変換して楽しむ当時のネット空間の熱量は、現代のショート動画カルチャーやMAD動画の原点とも言える現象でした。\nムネオハウスとは何だったのか？疑惑の真相と現在の姿を徹底解明 - 複眼インデックス (Internet Archive *違うバージョン)\nWayback Machineにはこの板は保存できていませんでした。\nなお、この日本語スパムブログ(https://wp.allylogistics.com)は、アメリカの物流会社Ally Logisticsが所有するドメイン(https://allylogistics.com)に置かれていました。サーバのハッキング、又は過去にWordPressの運用に使っていたサブドメインがいわゆる\"サブドメインテイクオーバー\"の被害に遭っていたのだと推測します。\n備考\n記事投稿日: 2026年11月9日\n該当ブログへのアクセスが不可能になったのを確認した後に公開しました。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20261109/p1",
+          "publishedOn": "2026-11-09T14:59:01.000Z",
+          "wordCount": 953,
+          "title": "ムネオハウスとは何だったのか？疑惑の真相と現在の姿を徹底解明",
+          "enclosure": {
+            "url": "https://cdn.image.st-hatena.com/image/scale/0851a89d5c5a39a8fa5827a64fdba498cb17b087/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funderdefinition%2F20261109%2F20261109212636.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/0851a89d5c5a39a8fa5827a64fdba498cb17b087/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funderdefinition%2F20261109%2F20261109212636.png"
+        },
+        {
           "id": "hatenablog://entry/14729835035334379112",
           "author": null,
           "description": "政治史の図解室 - YouTube (投稿者)\n「ムネオハウスではありません」国会で真顔で否定した鈴木宗男の答弁 #shorts - YouTube (ショート版)\nチャンネル最初の投稿動画が鈴木宗男氏の波乱万丈の人生を紹介する内容。その途中、ネットの話題の方のムネオハウスについても触れた箇所がありました。\n\n\n\n\n    \n当時 (2002年) ネットで流行\n\nこの年、鈴木の答弁の音声を切り貼りしたテクノの曲が、ネットで流行します。曲の名前は、そのまま「ムネオハウス」。なんと、CDにもなりました。ハウスは、建物のハウスと音楽のハウスの、掛け詞です。\n\nうまいこと言いすぎです。\n上掲動画 18:00~18:21頃\n途中の「なんと、CD化」がどういう意図で強調されていたのは分かりません。実際に起きていたことは、有志がアルバムジャケットやレーベル面、帯まで印刷品質で作成していたので、個人でCD化(パッケージ化)することもできた、という程度の話です。",
@@ -5414,6 +5429,16 @@
       "feedUrl": "https://hiiragidono.blog.fc2.com/?xml",
       "siteUrl": "https://hiiragidono.blog.fc2.com/",
       "articles": [
+        {
+          "id": "https://hiiragidono.blog.fc2.com/blog-entry-1438.html",
+          "author": "柊殿",
+          "description": "まだ夏、まだ夏と自分に言い聞かせていましたが流石に秋通り越して冬です  荒波ですグリーン松井ですすっかり衣替えした冬といえばスネージナヤの魔神任務が原神最終章第1部って感じですごかったシトラリおばあちゃんの萌え萌えシーンが強烈でほかの記憶あんまりないみほよはばあちゃんを可愛くしなきゃ気がすまないらしいスメールへ救援に行ったら僕が考えたとしか思えない絡み見れてワロタこの前の雪山イベントでアンバーと煙緋",
+          "link": "https://hiiragidono.blog.fc2.com/blog-entry-1438.html",
+          "publishedOn": "2026-11-09T13:16:06.000Z",
+          "wordCount": 601,
+          "title": "冬ですね",
+          "imageUrl": null
+        },
         {
           "id": "https://hiiragidono.blog.fc2.com/blog-entry-1437.html",
           "author": "柊殿",
