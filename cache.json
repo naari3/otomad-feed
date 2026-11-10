@@ -1955,6 +1955,21 @@
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/3978e284e724407786c659481e462a5e5930c76a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funderdefinition%2F20261028%2F20261028001019.jpg"
         },
         {
+          "id": "hatenablog://entry/14729835035336246641",
+          "author": null,
+          "description": "福田康夫元首相が死去、９０歳　洞爺湖サミットで議長、「ねじれ国会」問責可決―引退後も日中強化訴え (時事ドットコム)\n自民党の福田康夫（ふくだ・やすお）元首相が２２日、東京都内の病院で死去した。９０歳だった。東京都出身。２００８年の北海道洞爺湖サミット（主要国首脳会議）で議長を務め、地球温暖化対策などに取り組んだが、参院で野党が多数を握る「ねじれ国会」に苦しみ、在任１年で退陣した。\n\n通夜・葬儀は近親者のみで密葬として執り行い、後日、本葬を開く。喪主は長男で自民元総務会長の達夫（たつお）氏。衆院が２６日に発表した。\n\n(後略)\n2002年小泉政権時に官房長官を務めいていた縁から、MUNEXでは\"HUKUDA Healing 820\"の名義でゲストキャラとして紹介されていました。一部の楽曲で肉声がサンプリングされていた可能性もありますが、メインキャラとしてフィーチャーされることは無かったこともあり、当時のスレッドで言及された記録は残っていません。",
+          "link": "https://underdefinition.hatenadiary.jp/entry/20261026/News",
+          "publishedOn": "2026-10-26T14:59:00.000Z",
+          "wordCount": 945,
+          "title": "福田康夫氏 死去 90歳",
+          "enclosure": {
+            "url": "https://ogimage.blog.st-hatena.com/12704591929884590995/14729835035336246641/1794263799",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://ogimage.blog.st-hatena.com/12704591929884590995/14729835035336246641/1794263799"
+        },
+        {
           "id": "hatenablog://entry/14945776032091247300",
           "author": null,
           "description": "推し活未来研究所｜推し活の研究メディア by KAZAORI\n推し活クロニクル 2002年｜日韓W杯の街頭応援、「着うた」で推しの歌声を携帯へ、平井堅「大きな古時計」もヒット｜推し活未来研究所\n株式会社KAZAORIが運営するウェブサイト「推し活未来研究所」の2002年の出来事を紹介する記事。日本語版は至って普通なのですが、英語翻訳版が少々おかしな事になっていました。\n問題の箇所は新語・流行語大賞の説明。日本語版では単に「ムネオハウス」とだけ書かれた部分に、英語版では随分と意味を絞り込む注釈が添えられていました。\n\n\nTop 10\n\nMuneo House (a dance remix parodying scandal-hit lawmaker Muneo Suzuki)\nOshi-Katsu Chronicle 2002: World Cup Street Cheering, Chaku-Uta Ringtones, and Ken Hirai's \"Big Old Clock\" | The Oshi Lab\n佐々木憲昭氏はこちらの文脈で受賞されたのでは無いと思いますが。\n想像ですが、執筆者がAIに英語版を生成させるために用意した日本語注釈が元からこうだった、あるいは英語版を生成させる際に日本人以外にも理解できるように簡単な注釈をつける指示を出したところ、何故かこういった偏った情報を出力した、辺りが原因ではないでしょうか。",
@@ -5429,16 +5444,6 @@
       "feedUrl": "https://hiiragidono.blog.fc2.com/?xml",
       "siteUrl": "https://hiiragidono.blog.fc2.com/",
       "articles": [
-        {
-          "id": "https://hiiragidono.blog.fc2.com/blog-entry-1438.html",
-          "author": "柊殿",
-          "description": "まだ夏、まだ夏と自分に言い聞かせていましたが流石に秋通り越して冬です  荒波ですグリーン松井ですすっかり衣替えした冬といえばスネージナヤの魔神任務が原神最終章第1部って感じですごかったシトラリおばあちゃんの萌え萌えシーンが強烈でほかの記憶あんまりないみほよはばあちゃんを可愛くしなきゃ気がすまないらしいスメールへ救援に行ったら僕が考えたとしか思えない絡み見れてワロタこの前の雪山イベントでアンバーと煙緋",
-          "link": "https://hiiragidono.blog.fc2.com/blog-entry-1438.html",
-          "publishedOn": "2026-11-09T13:16:06.000Z",
-          "wordCount": 601,
-          "title": "冬ですね",
-          "imageUrl": null
-        },
         {
           "id": "https://hiiragidono.blog.fc2.com/blog-entry-1437.html",
           "author": "柊殿",
