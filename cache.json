@@ -188,21 +188,6 @@
             "length": "0"
           },
           "imageUrl": "https://ogimage.blog.st-hatena.com/13208692334729894112/6801883189104447863/1765554989"
-        },
-        {
-          "id": "hatenablog://entry/17179246901323303621",
-          "author": null,
-          "description": "github.com\n型定義をTypes-for-Adobeのものに\nAEスクリプト周りの型定義は個人的なものを使用していたが（Types-for-AdobeのAEの箇所の元になったもの）、ユーザーも散見されるようになり、そこらへんの指摘が入ったので切り替えた。\nMouseのhookをmouseupにも対応した\n実際に使用される方が出てきて、その方の要望で追加した。\n@cropped_mesh_warp\n\n番外\nSVGが公式で対応されるようになった\nSVG ファイルを読み込み\nhttps://community.adobe.com/t5/after-effects-beta-discussions/new-vector-workflow-enhancements-in-after-effects-beta/td-p/15559138\n公式がやるのならシェイプレイヤーに変換するのではなくて、まずsvgをaiのように一つのvector画像として扱えるようにすべきではある。複雑なものを扱うと重くなるし、そもそも静的な画像として扱いたい場合が大半だろうから。",
-          "link": "https://atarabi.hateblo.jp/entry/2025/11/20/205551",
-          "publishedOn": "2025-11-20T11:55:51.000Z",
-          "wordCount": 356,
-          "title": "After Effectsのスクリプトの可能性を広げる。 その７",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/a9e7384c6fc042411c3b5926f4dadb9b32a79906/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20251120%2F20251120205527.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/a9e7384c6fc042411c3b5926f4dadb9b32a79906/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkareobana%2F20251120%2F20251120205527.png"
         }
       ]
     },
