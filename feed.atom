@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://naari3.github.io/otomad-feed/index.html</id>
     <title>otomad-feed</title>
-    <updated>2026-11-25T09:33:19.479Z</updated>
+    <updated>2026-11-25T19:46:17.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://naari3.github.io/otomad-feed/index.html"/>
     <link rel="self" href="https://naari3.github.io/otomad-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10周年が過ぎたので、AIに自分の歴史をインタビューしてもらった]]></title>
+        <id>https://note.com/tomoshige_note/n/n5f51f664b202</id>
+        <link href="https://note.com/tomoshige_note/n/n5f51f664b202"/>
+        <updated>2026-11-25T15:51:23.000Z</updated>
+        <summary type="html"><![CDATA[皆様いかがお過ごしでしょうか、お久しぶりです。
+いつの間にやら音MAD作者として10年もの月日が経ってしまいました、まだまだ気分は若手なんですけど…
+１０周年に向けて何か動画作るかとかも考えたんですが、僕は動画作るのが嫌いなのでなしになりました。
+続きをみる]]></summary>
+        <author>
+            <name>ともしげ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今のボカロはポスト原口沙輔期]]></title>
         <id>https://anond.hatelabo.jp/20261124224714</id>

@@ -5041,7 +5041,18 @@
       "title": "ともしげ",
       "feedUrl": "https://note.com/tomoshige_note/rss",
       "siteUrl": "https://note.com/tomoshige_note",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/tomoshige_note/n/n5f51f664b202",
+          "author": null,
+          "description": "皆様いかがお過ごしでしょうか、お久しぶりです。\nいつの間にやら音MAD作者として10年もの月日が経ってしまいました、まだまだ気分は若手なんですけど…\n１０周年に向けて何か動画作るかとかも考えたんですが、僕は動画作るのが嫌いなのでなしになりました。\n続きをみる",
+          "link": "https://note.com/tomoshige_note/n/n5f51f664b202",
+          "publishedOn": "2026-11-25T15:51:23.000Z",
+          "wordCount": 694,
+          "title": "10周年が過ぎたので、AIに自分の歴史をインタビューしてもらった",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/8d05342fe07d4c4909e9d6f9e308423e3624637f.png"
+        }
+      ]
     },
     {
       "title": "鳥茶",
